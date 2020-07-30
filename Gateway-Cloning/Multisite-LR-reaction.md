@@ -20,7 +20,7 @@ Protocol:
 1. Mix desired combinations of pENTR and pDEST vectors, adding LR clonase last:
 
 | Component | Quantity | 
-| :----------- | :------------ |
+| ---------: | :---------- |
 | Promoter | 1 µL |
 | Tag | 1 µL |
 | ORF | 1 µL |
