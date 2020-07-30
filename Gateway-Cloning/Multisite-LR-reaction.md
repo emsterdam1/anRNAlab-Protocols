@@ -18,6 +18,12 @@ Materials:
 Protocol:
 --------------------------------------------------------------------------------
 1. Mix desired combinations of pENTR and pDEST vectors, adding LR clonase last:
+
+| Column 1       | Column 2     | Column 3     |
+| :------------- | :----------: | -----------: |
+|  Cell Contents | More Stuff   | And Again    |
+| You Can Also   | Put Pipes In | Like this \| |
+
 Component | Quantity 
 ------------ | -------------
 Promoter | 1 µL
