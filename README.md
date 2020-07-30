@@ -19,17 +19,7 @@ Table of Contents
 
 Gateway Cloning
 --------------------------------------------------------------------------------
-* [T7 RNA polymerase](enzyme-reactions/t7-rna-polymerase.md)
-* T7 RNA polymerase (protein purification)
-* [Superscript II - manufacture's protocol](enzyme-reactions/superscript-ii.md)
-* [Marathon RT MaP](enzyme-reactions/map-rt-marathon.md)
-* [MaP conditions (Smola 2015)](enzyme-reactions/map-rt.md)
-* [MaP conditions (DMS-optimized)](enzyme-reactions/map-rt-dms.md)
-* [2nd strand cDNA synthesis (NEB)](enzyme-reactions/second-strand-synthesis.md)
-* [Step 1 PCR with Q5 polymerase](enzyme-reactions/step-1-pcr.md)
-* [Step 2 PCR with Q5 polymerase](enzyme-reactions/step-2-pcr.md)
-* [Nextera XT](enzyme-reactions/nextera-xt.md)
-* [Turbo DNase](enzyme-reactions/turbo-dnase.md)
+* [Multisite Assembly](Gateway-Cloning/Multisite-LR-Reaction)
 
 Purification
 --------------------------------------------------------------------------------
