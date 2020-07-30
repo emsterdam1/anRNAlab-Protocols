@@ -14,7 +14,7 @@ This method does not work in Firefox.
 
 Table of Contents
 --------------------------------------------------------------------------------
-* [Procedure template](procedure-template.md)
+* [Procedure Template](Procedure-Template.md)
 * [MiSeq sequencing](miseq.md)
 * [Sequence Guide](sequence-guide.md)
 * [Enzyme reactions](#enzyme-reactions)
