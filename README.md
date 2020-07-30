@@ -1,4 +1,4 @@
-Weeks Lab common procedures
+Common Procedures
 ================================================================================
 Use the [table of contents](#table-of-contents) to navigate this repo of common lab procedures.
 
