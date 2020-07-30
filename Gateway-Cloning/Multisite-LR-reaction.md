@@ -1,12 +1,10 @@
-In-vitro SHAPE modification for SHAPE-MaP
+Multisite gateway cloning reaction
 ================================================================================
-Description: RNA is refolded in HEPES pH 8.0, and treated with optimal SHAPE
-reagent concentration at 37°C for 5 half-lives or quenched with DTT.
+Description: LR Clonase is used to stitch together multiple gene fragments into a single destination vector.
 
 Before starting:
 --------------------------------------------------------------------------------
-* [In-vitro transcription](../enzyme-reactions/t7-rna-polymerase.md)
-* [RNA purification](../purification/)
+* [pENTR creation from fragment](./pDONR-BP-reaction.md)
 
 Materials:
 --------------------------------------------------------------------------------
