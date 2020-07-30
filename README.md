@@ -15,14 +15,7 @@ This method does not work in Firefox.
 Table of Contents
 --------------------------------------------------------------------------------
 * [Procedure Template](Procedure-Template.md)
-* [MiSeq sequencing](miseq.md)
-* [Sequence Guide](sequence-guide.md)
-* [Enzyme reactions](#enzyme-reactions)
-* [Purification](#purification)
-* [Assays](#assays)
-* [Chemical reactions](#chemical-reactions)
-* [Cell culture](#cell-culture)
-* [Computational tasks](#computational-tasks)
+* [Gateway Cloning](#enzyme-reactions)
 
 Enzyme Reactions
 --------------------------------------------------------------------------------
