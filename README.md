@@ -19,7 +19,7 @@ Table of Contents
 
 Gateway Cloning
 --------------------------------------------------------------------------------
-* [Multisite Assembly](Gateway-Cloning/Multisite-LR-Reaction.md)
+* [Multisite Assembly](./Gateway-Cloning/Multisite-LR-reaction.md)
 
 Purification
 --------------------------------------------------------------------------------
