@@ -19,6 +19,7 @@ Materials:
   * Proteinase K (2µg/mL)
   * Ice
   * DH10B cells
+  * SOC Media
   * LB + antibiotic plates
 
 Equipment Required:
@@ -30,7 +31,6 @@ Equipment Required:
 Protocol:
 --------------------------------------------------------------------------------
 * Day 1
-
 1. Mix desired combinations of pENTR and pDEST vectors, adding LR clonase last:
 
   | Component | Quantity | 
@@ -43,20 +43,27 @@ Protocol:
   | LR Clonase | **2**  µL |
   | **Total** | **10** µL |
               
-  2. Incubate samples at Room Temperature overnight.
+ 2. Incubate samples at Room Temperature overnight.
 
 * Day 2
 
 3. Add 1 µL of Proteinase K and incubate 15 min at 37 °C.
+
 4. For each reaction, thaw 20 µL of DH10B cells on ice (less than 5 min).
+
 5. Add 1 µL of each reaction to 20 µL of thawed cells. Incubate on ice for 20 min.
+
 6. Heat shock cells in 42 °C water bath for 45 sec. Immediately return to ice for 2 min.
-7. Purify RNA (EtOH precipitation, G25 columns, or RNeasy)
+
+7. Add 80 µL of SOC media to each batch of cells. Incubate for 1 hr shaking at 37 °C.
+
+8. Plate cells onto LB plates with respective antibiotics and incubate overnight.
+ * _Note: grow at 37 °C for bacterial and mammalian expression vectors, 30 °C for lentiviral vectors._
 
 Next Steps:
 --------------------------------------------------------------------------------
-* [purification](../purification/)
-* [Mutational profiling RT](../enzyme-reactions/map-rt-dms.md)
+* [Restriction Digest](../purification/)
+* [Plasmid miniprep](../purification/)
 
 More Information:
 --------------------------------------------------------------------------------
