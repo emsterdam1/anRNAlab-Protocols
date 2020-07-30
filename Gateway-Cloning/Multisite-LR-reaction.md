@@ -30,7 +30,8 @@ Equipment Required:
 Protocol:
 --------------------------------------------------------------------------------
 * Day 1
-  1. Mix desired combinations of pENTR and pDEST vectors, adding LR clonase last:
+
+1. Mix desired combinations of pENTR and pDEST vectors, adding LR clonase last:
 
   | Component | Quantity | 
   | ---------: | :---------- |
@@ -45,11 +46,12 @@ Protocol:
   2. Incubate samples at Room Temperature overnight.
 
 * Day 2
-  3. Add 1 µL of Proteinase K and incubate 15 min at 37 °C.
-  4. For each reaction, thaw 20 µL of DH10B cells on ice (less than 5 min).
-  5. Add 1 µL of each reaction to 20 µL of thawed cells. Incubate on ice for 20 min.
-  6. Heat shock cells in 42 °C water bath for 45 sec. Immediately return to ice for 2 min.
-  7. Purify RNA (EtOH precipitation, G25 columns, or RNeasy)
+
+3. Add 1 µL of Proteinase K and incubate 15 min at 37 °C.
+4. For each reaction, thaw 20 µL of DH10B cells on ice (less than 5 min).
+5. Add 1 µL of each reaction to 20 µL of thawed cells. Incubate on ice for 20 min.
+6. Heat shock cells in 42 °C water bath for 45 sec. Immediately return to ice for 2 min.
+7. Purify RNA (EtOH precipitation, G25 columns, or RNeasy)
 
 Next Steps:
 --------------------------------------------------------------------------------
