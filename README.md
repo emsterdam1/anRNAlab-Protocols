@@ -15,9 +15,9 @@ This method does not work in Firefox.
 Table of Contents
 --------------------------------------------------------------------------------
 * [Procedure Template](Procedure-Template.md)
-* [Gateway Cloning](#enzyme-reactions)
+* [Gateway Cloning](#gateway-cloning)
 
-Enzyme Reactions
+Gateway Cloning
 --------------------------------------------------------------------------------
 * [T7 RNA polymerase](enzyme-reactions/t7-rna-polymerase.md)
 * T7 RNA polymerase (protein purification)
