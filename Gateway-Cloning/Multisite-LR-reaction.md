@@ -18,15 +18,15 @@ Materials:
 Protocol:
 --------------------------------------------------------------------------------
 1. Mix desired combinations of pENTR and pDEST vectors, adding LR clonase last:
-|
+Component | Quantity 
 ------------ | -------------
-Promoter|1 µL
-Tag|1 µL
-ORF|1 µL
-pDEST|2 µL
-ddH2O|3 µL
-LR Clonase|2 µL
-|10 µL
+Promoter | 1 µL
+Tag | 1 µL
+ORF | 1 µL
+pDEST | 2 µL
+ddH2O | 3 µL
+LR Clonase | 2 µL
+_ | 10 µL
               
 2. Incubate samples at Room Temperature overnight.
 4. Add 9 µL sample to either 1 µL SHAPE reagent solution or 1 µL DMSO.
