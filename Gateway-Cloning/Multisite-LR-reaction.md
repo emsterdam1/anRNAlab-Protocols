@@ -8,14 +8,14 @@ Before starting:
 
 Materials:
 --------------------------------------------------------------------------------
-* Day 1
+### Day 1
   * Promoter pENTR (50 ng/µL)
   * Tag pENTR (50 ng/µL)
   * ORF pENTR (50 ng/µL)
   * pDEST destination vector (50 ng/µL)
   * L-R Clonase II Mix
 
-* Day 2
+### Day 2
   * Proteinase K (2µg/mL)
   * Ice
   * DH10B cells
@@ -24,7 +24,8 @@ Materials:
 
 Equipment Required:
 --------------------------------------------------------------------------------
-* Day 2
+### Day 2
+
   * 37 °C shaker
   * 42 °C water bath
 
