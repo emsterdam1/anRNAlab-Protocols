@@ -34,15 +34,15 @@ Protocol:
 ### Day 1
 1. Mix desired combinations of pENTR and pDEST vectors, adding LR clonase last:
 
-  | Component | Quantity | 
-  | ---------: | :---------- |
-  | Promoter | **1**  µL |
-  | Tag | **1**  µL |
-  | ORF | **1**  µL |
-  | pDEST | **2**  µL |
-  | ddH2O | **3**  µL |
-  | LR Clonase | **2**  µL |
-  | **Total** | **10** µL |
+  | Component | Concentration | Quantity | 
+  | ---------: | ---------: | :---------- |
+  | Promoter | 50 ng/µL | **1**  µL |
+  | Tag | 50 ng/µL | **1**  µL |
+  | ORF | 50 ng/µL | **1**  µL |
+  | pDEST | 50 ng/µL | **2**  µL |
+  | ddH2O | 50 ng/µL | **3**  µL |
+  | LR Clonase | 50 ng/µL | **2**  µL |
+  | **Total** | 50 ng/µL | **10** µL |
               
  2. Incubate samples at Room Temperature overnight.
 
