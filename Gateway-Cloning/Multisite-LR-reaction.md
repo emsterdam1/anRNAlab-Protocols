@@ -41,7 +41,7 @@ Protocol:
   | ORF | 50 ng/µL | **1**  µL |
   | pDEST | 50 ng/µL | **2**  µL |
   | ddH2O || **3**  µL |
-  | LR Clonase | 50 ng/µL | **2**  µL |
+  | LR Clonase II|| **2**  µL |
   || **Total** | **10** µL |
               
  2. Incubate samples at Room Temperature overnight.
