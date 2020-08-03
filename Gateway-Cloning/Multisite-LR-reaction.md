@@ -31,7 +31,7 @@ Equipment Required:
 
 Protocol:
 --------------------------------------------------------------------------------
-* Day 1
+### Day 1
 1. Mix desired combinations of pENTR and pDEST vectors, adding LR clonase last:
 
   | Component | Quantity | 
@@ -46,7 +46,7 @@ Protocol:
               
  2. Incubate samples at Room Temperature overnight.
 
-* Day 2
+### Day 2
 
 3. Add 1 µL of Proteinase K and incubate 15 min at 37 °C.
 
