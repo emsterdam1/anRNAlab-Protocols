@@ -13,7 +13,7 @@ Materials:
   * Tag pENTR (50 ng/µL)
   * ORF pENTR (50 ng/µL)
   * pDEST destination vector (50 ng/µL)
-  * L-R Clonase II Mix
+  * L-R Clonase II Mix (Thermo)
 
 ### Day 2
   * Proteinase K (2µg/mL)
