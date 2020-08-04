@@ -36,8 +36,6 @@ Equipment Required:
 
 <br/>
 
-<br/>
-
 <!-- Use <br/> to go to next page -->
 ___
 Protocol:
