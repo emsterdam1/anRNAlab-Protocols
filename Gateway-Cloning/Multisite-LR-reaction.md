@@ -29,7 +29,10 @@ Equipment Required:
   * 37 °C shaker
   * 42 °C water bath
 
-<div class="pagebreak"></div>
+.pagebreak
+{
+	page-break-after: always;
+}
 
 Protocol:
 --------------------------------------------------------------------------------
