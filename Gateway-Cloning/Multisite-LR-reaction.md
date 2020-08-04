@@ -29,8 +29,6 @@ Equipment Required:
   * 37 °C shaker
   * 42 °C water bath
 
-<div style="page-break-after: always"></div>
-
 Protocol:
 --------------------------------------------------------------------------------
 ### Day 1
