@@ -29,6 +29,8 @@ Equipment Required:
   * 37 °C shaker
   * 42 °C water bath
 
+<div class="pagebreak"></div>
+
 Protocol:
 --------------------------------------------------------------------------------
 ### Day 1
@@ -61,11 +63,20 @@ Protocol:
 8. Plate cells onto LB plates with respective antibiotics and incubate overnight.
  * _Note: grow at 37 °C for bacterial and mammalian expression vectors, 30 °C for lentiviral vectors._
 
-Next Steps:
---------------------------------------------------------------------------------
-* [Restriction Digest](../purification/)
-* [Plasmid miniprep](../purification/)
+<details>
+  <summary>Next Steps</summary>
+  
+  <a href="./pDONR-BP-reaction.md">
+Restriction Digest</a>
+  <a href="./pDONR-BP-reaction.md">
+Plasmid Miniprep</a>
 
-More Information:
---------------------------------------------------------------------------------
-[Link to Thermo website](https://www.thermofisher.com/us/en/home/life-science/cloning/gateway-cloning/multisite-gateway-technology.html)
+</details>
+
+<details>
+  <summary>More Info</summary>
+  
+  <a href="https://www.thermofisher.com/us/en/home/life-science/cloning/gateway-cloning/multisite-gateway-technology.html">
+Thermo Website</a>  
+
+</details>
