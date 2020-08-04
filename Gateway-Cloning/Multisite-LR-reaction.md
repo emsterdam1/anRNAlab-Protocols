@@ -66,9 +66,10 @@ Protocol:
 <details>
   <summary>Next Steps</summary>
   
-  <a href="./pDONR-BP-reaction.md">
+</p> <a href="./pDONR-BP-reaction.md">
 Restriction Digest</a>
-  <a href="./pDONR-BP-reaction.md">
+
+</p> <a href="./pDONR-BP-reaction.md">
 Plasmid Miniprep</a>
 
 </details>
