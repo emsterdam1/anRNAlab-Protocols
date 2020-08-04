@@ -20,7 +20,7 @@ Materials:
 ### Day 2
   * Proteinase K (2µg/mL)
   * Ice
-  * DH10B cells
+  * DH10B competent cells
   * SOC Media
   * LB + antibiotic plates
 
