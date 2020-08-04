@@ -74,10 +74,10 @@ Protocol:
 <details>
   <summary>Next Steps</summary>
   
-</p> <a href="./pDONR-BP-reaction.md">
+</p> <a href="../General/Restriction-Digest.md">
 Restriction Digest</a>
 
-</p> <a href="./pDONR-BP-reaction.md">
+</p> <a href="../General/Plasmid-Miniprep.md">
 Plasmid Miniprep</a>
 
 </details>
