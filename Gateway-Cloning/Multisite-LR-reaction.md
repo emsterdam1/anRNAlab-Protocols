@@ -1,6 +1,8 @@
-Multisite gateway cloning reaction
+Multisite gateway cloning reaction 
 ================================================================================
 Description: LR Clonase stitches together multiple gene fragments into a single destination vector.
+
+[Go To Protocol](#protocol)
 
 Before starting:
 --------------------------------------------------------------------------------
