@@ -1,24 +1,27 @@
 Creation of pENTR plasmid for Gateway cloning
 ================================================================================
-Description: BP Clonase is used to insert a gene fragment into a pDONR vector, creating a new pENTR vector.
+Description: BP Clonase inserts a gene fragment into a pDONR vector, creating a new pENTR vector.
+
+[Go To Protocol](#protocol)
 
 Before starting:
 --------------------------------------------------------------------------------
-* [Fragment amplification with Phusion](./Phusion-PCR.md)
+* [Fragment amplification with Phusion](../General/Phusion-PCR.md)
 
 Materials:
 --------------------------------------------------------------------------------
 ### Day 1
-  * Promoter pENTR (50 ng/µL)
-  * Tag pENTR (50 ng/µL)
-  * ORF pENTR (50 ng/µL)
-  * pDEST destination vector (50 ng/µL)
-  * L-R Clonase II Mix (Thermo)
+  * PCR fragment (15-150 ng/µL)
+  * pDONR vector (50 ng/µL)
+  * 10X TE ph 8 
+    * 100 mM Tris-HCl pH 8.0
+    * 10 mM EDTA
+  * B-P Clonase II Mix (Thermo)
 
 ### Day 2
   * Proteinase K (2µg/mL)
   * Ice
-  * DH10B cells
+  * DH10B competent cells
   * SOC Media
   * LB + antibiotic plates
 
@@ -29,22 +32,29 @@ Equipment Required:
   * 37 °C shaker
   * 42 °C water bath
 
+<br/>
+
+<br/>
+
+<br/>
+
+<!-- Use <br/> to go to next page -->
+___
 Protocol:
 --------------------------------------------------------------------------------
 ### Day 1
-1. Mix desired combinations of pENTR and pDEST vectors, adding LR clonase last:
+1. Mix desired combinations of PCR fragments and pDONR vectors, adding BP clonase last:
 
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
-  | Promoter | 50 ng/µL | **1**  µL |
-  | Tag | 50 ng/µL | **1**  µL |
-  | ORF | 50 ng/µL | **1**  µL |
-  | pDEST | 50 ng/µL | **2**  µL |
-  | ddH2O || **3**  µL |
-  | LR Clonase II|| **2**  µL |
+  | PCR fragment | 15-150 ng/µL | **3**  µL |
+  | pDONR | 50 ng/µL | **3**  µL |
+  | TE 8 | 10X | **1**  µL |
+  | ddH2O || **1**  µL |
+  | BP Clonase II|| **1**  µL |
   || **Total** | **10** µL |
               
- 2. Incubate samples at Room Temperature overnight.
+ 2. Incubate samples at Room Temperature overnight (Can be shortened: read documentation).
 
 ### Day 2
 
@@ -61,10 +71,21 @@ Protocol:
 8. Plate cells onto LB plates with respective antibiotics and incubate overnight.
  * _Note: grow at 37 °C for bacterial and mammalian expression vectors, 30 °C for lentiviral vectors._
 
-Next Steps:
---------------------------------------------------------------------------------
-* [Restriction Digest](../purification/)
-* [Plasmid miniprep](../purification/)
+<details>
+  <summary>Next Steps</summary>
+  
+</p> <a href="../General/Restriction-Digest.md">
+Restriction Digest</a>
 
-More Information:
---------------------------------------------------------------------------------
+</p> <a href="../General/Plasmid-Miniprep.md">
+Plasmid Miniprep</a>
+
+</details>
+
+<details>
+  <summary>More Info</summary>
+  
+  <a href="https://www.thermofisher.com/order/catalog/product/11789020#/11789020">
+Thermo Website</a>  
+
+</details>
