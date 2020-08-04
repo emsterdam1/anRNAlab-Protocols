@@ -1,6 +1,6 @@
 Multisite gateway cloning reaction
 ================================================================================
-Description: LR Clonase is used to stitch together multiple gene fragments into a single destination vector.
+Description: LR Clonase stitches together multiple gene fragments into a single destination vector.
 
 Before starting:
 --------------------------------------------------------------------------------
@@ -29,10 +29,7 @@ Equipment Required:
   * 37 °C shaker
   * 42 °C water bath
 
-.pagebreak
-{
-	page-break-after: always;
-}
+--------------------------------------------------------------------------------
 
 Protocol:
 --------------------------------------------------------------------------------
