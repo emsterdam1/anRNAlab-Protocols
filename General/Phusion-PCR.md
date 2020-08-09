@@ -3,6 +3,8 @@ PCR amplification with Phusion
 Description: The high-fidelity DNA polymerase Phusion is used to create DNA amplicons.
 This is a generalized protocol that can be augmented depending on many variables
 
+[Go To Protocol](#protocol)
+
 Materials:
 --------------------------------------------------------------------------------
   * 10 mM dNTP mix (each at 10 mM)
@@ -18,6 +20,26 @@ Equipment Required:
 --------------------------------------------------------------------------------
 
   * Thermocycler
+  
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<!-- Use <br/> to go to next page -->
   
 Protocol:
 --------------------------------------------------------------------------------
