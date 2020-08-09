@@ -82,7 +82,7 @@ Protocol:
   
   || 98 °C | 0:10 | denaturation |
   | ---------: | :--------: | :---------: |:---------: |
-  | **8X** | **72-64 °C*** | **0:30** | **annealing** |
+  | **8X** | **72->64 °C*** | **0:30** | **annealing** |
   || **72 °C** | **2:00** | **extension** |
   
   | | 98 °C | 0:10 | denaturation |
@@ -92,8 +92,6 @@ Protocol:
  
   | 1 | 72 °C | 5:00 | final extension |
   | ---------: | :--------: | :---------: |:---------: |
-
-  _*This is a touchdown PCR, where the annealing temp drops 1 °C per cycle_
   
   _Note: the extension times and annealing temps can be optimized for amplicon length and primer Tm's_
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
