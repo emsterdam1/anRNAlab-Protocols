@@ -65,12 +65,15 @@ Protocol:
 
 <details>
   <summary>Next Steps</summary>
-  
-</p> <a href="../Gateway-Cloning/pDONR-BP-reaction.md">
-pENTR Creation</a>
 
 </p> <a href="https://www.neb.com/protocols/2015/12/08/quick-protocol-for-monarch-pcr-dna-cleanup-kit-5-g-t1030">
 Monarch PCR Cleanup (NEB) </a>
+
+</p> <a href="./DNA-Gel.md">
+Gel Verification </a>
+
+</p> <a href="../Gateway-Cloning/pDONR-BP-reaction.md">
+pENTR Creation</a>
 
 </details>
 
