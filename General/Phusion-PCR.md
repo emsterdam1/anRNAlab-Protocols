@@ -66,18 +66,18 @@ Protocol:
 <details>
   <summary>Next Steps</summary>
   
-</p> <a href="./path-to-file/file1.ext">
-LINK1 NAME</a>
+</p> <a href="../Gateway-Cloning/pDONR-BP-reaction.md">
+pENTR Creation</a>
 
-</p> <a href="./path-to-other-file/file2.ext">
-LINK2 NAME</a>
+</p> <a href="https://www.neb.com/protocols/2015/12/08/quick-protocol-for-monarch-pcr-dna-cleanup-kit-5-g-t1030">
+Monarch PCR Cleanup (NEB) </a>
 
 </details>
 
 <details>
   <summary>More Info</summary>
   
-  <a href="https://www.website.com/just-copy-paste-your-target-website-here.html">
-WEBSITE LINK NAME</a>  
+  <a href="https://www.neb.com/protocols/0001/01/01/pcr-protocol-m0530">
+NEB Phusion Website</a>  
 
 </details>
