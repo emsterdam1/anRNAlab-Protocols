@@ -69,10 +69,7 @@ Protocol:
   | ddH2O || **12-X**  µL |
   || **Total** | **15** µL |
   
-  <!-- : in the pipes specify justification -->
-  <!-- **X** bolds the inside -->
- 
-     *Digesting 1-2 µg is sufficient if planning on gel purification, but 100-200 ng is all that is required for an analytical gel*
+   *Digesting 1-2 µg is sufficient if planning on gel purification, but 100-200 ng is all that is required for an analytical gel*
  
  **3.** Digest at 37 °C for necessary amount of time.
    * *Note: be aware that some enzymes have nonspecific STAR activity and are unsuitable for longer (overnight) digestions*
