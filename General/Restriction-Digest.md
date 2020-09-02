@@ -2,6 +2,8 @@ Restriction Digest
 ================================================================================
 Description: Common approach for analytical or preparatory digests of plasmids and inserts
 
+[Go To Protocol](#protocol)
+
 Materials:
 --------------------------------------------------------------------------------
   * DNA
@@ -19,6 +21,12 @@ Equipment Required:
   * 37 °C Heat Block
   * Agarose Gel Equipment
   
+<br/>
+
+<br/>
+
+<br/>
+
 <br/>
 
 <br/>
