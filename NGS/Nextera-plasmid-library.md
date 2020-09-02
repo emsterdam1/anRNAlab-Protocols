@@ -2,9 +2,7 @@ Nextera library preparation for whole-plasmid sequencing
 ================================================================================
 Description: Using "tagmentation" workflow to fragment and index plasmids for next-gen sequencing.
 
-Importantly, reagent volumes have been dramatically reduced from manufacturer's guidelines for cost-savings.
-
-[Go To Protocol](#protocol)
+Reagent volumes have been dramatically reduced from manufacturer's guidelines for cost-savings.
 
 Materials:
 --------------------------------------------------------------------------------
@@ -23,14 +21,6 @@ Equipment Required:
   * Thermocycler
   * Magnetic Stand
   
-
-<br/>
-
-<br/>
-
-<br/>
-
-<!-- Use <br/> to fill in first page -->
 ___
 Protocol:
 --------------------------------------------------------------------------------
