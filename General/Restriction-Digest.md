@@ -69,7 +69,11 @@ Protocol:
   | ddH2O || **12-X**  µL |
   || **Total** | **15** µL |
   
-   *Digesting 1-2 µg is sufficient if planning on gel purification, but 100-200 ng is all that is required for an analytical gel*
+   *Restriction enzymes are not active in all buffers, be sure to check whether all enzymes used are active in chosen buffer.*
+   
+   *If no buffer is compatible with all desired enzymes, a sequential digestion (with buffer exchange in between) is required.*
+   
+   *Digesting 1-2 µg is sufficient if planning on gel purification, but 100-200 ng is all that is required for an analytical gel.*
  
  **3.** Digest at 37 °C for necessary amount of time.
    * *Note: be aware that some enzymes have nonspecific STAR activity and are unsuitable for longer (overnight) digestions*
