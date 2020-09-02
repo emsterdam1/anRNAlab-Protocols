@@ -72,14 +72,15 @@ Protocol:
 <details>
   <summary>Next Steps</summary>
   
-</p> <a href="../General/Restriction-Digest.md">
-Restriction Digest</a>
 
 </p> <a href="https://www.thermofisher.com/document-connect/document-connect.html?url=https%3A%2F%2Fassets.thermofisher.com%2FTFS-Assets%2FLSG%2Fmanuals%2FMAN0013117_GeneJET_Plasmid_Miniprep_UG.pdf&title=VXNlciBHdWlkZTogR2VuZUpFVCBQbGFzbWlkIE1pbmlwcmVwIEtpdA==">
 GeneJet Plasmid Miniprep</a>
 
 </p> <a href="./Multisite-LR-reaction.md">
 Multisite Gateway Reaction</a>
+
+</p> <a href="../General/Restriction-Digest.md">
+Restriction Digest</a>
 
 </details>
 
