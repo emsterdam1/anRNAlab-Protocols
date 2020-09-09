@@ -2,6 +2,8 @@ Gibson Assembly
 ================================================================================
 Description: Uses a mixture of DNA enzymes to ligate pieces of DNA together based on overlap homology alone.
 
+[Go To Protocol](#protocol)
+
 Materials:
 --------------------------------------------------------------------------------
   * Linearized Vector (30 nM)
@@ -17,6 +19,28 @@ Equipment Required:
   * Thermocycler
   * 42 °C water bath
   * 37 °C shaker
+  
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<!-- Use <br/> to fill in first page -->
+  
+  
 ___
 Protocol:
 --------------------------------------------------------------------------------
