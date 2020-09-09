@@ -9,14 +9,18 @@ Materials:
     * *concentrations of fragments less than 200 bp should be doubled*
     * *maximum amount of unpurified PCR products should not exceed 20%*
   * Gibson Assembly Master Mix (NEB)
+  * SOC media
+  * LB + antibiotic agar plates
 
 Equipment Required:
 --------------------------------------------------------------------------------
   * Thermocycler
+  * 42 °C water bath
+  * 37 °C shaker
 ___
 Protocol:
 --------------------------------------------------------------------------------
-1. Mix desired components on ice:
+**1.** Mix desired components on ice:
 
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
@@ -28,8 +32,15 @@ Protocol:
   <!-- : in the pipes specify justification -->
   <!-- **X** bolds the inside -->
   
- 2. Incubate samples in a thermocycler at 50°C for 60 minutes.
+**2.** Incubate samples in a thermocycler at 50 °C for 60 minutes.
    * can be 15 minutes if only assembling 2-3 fragments
+   * samples must be chilled before transformation
+ 
+**3.** (If assembling a plasmid) Use 2 µL  of product to transform 20 µL of competent cells.
+   * *Mix 30 min on ice*
+   * *Heat shock 45 sec at 42 °C, return to ice for 2 min*
+   * *Recover 1 hr at 37 °C with 80 µL of SOC*
+   * *plate on LB + antibiotic*
 
 
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
