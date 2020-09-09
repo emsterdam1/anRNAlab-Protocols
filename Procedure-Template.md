@@ -43,12 +43,24 @@ Equipment Required:
 
 <br/>
 
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
 <!-- Use <br/> to fill in first page -->
 ___
 Protocol:
 --------------------------------------------------------------------------------
 ### Day 1
-1. Mix desired components like this:
+**1.** Mix desired components like this:
 
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
@@ -60,7 +72,7 @@ Protocol:
   <!-- : in the pipes specify justification -->
   <!-- **X** bolds the inside -->
   
- 2. Do other things
+ **2.** Do other things
 
 
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
