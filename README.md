@@ -15,18 +15,20 @@ This method does not work in Firefox.
 Table of Contents
 --------------------------------------------------------------------------------
 * [Procedure Template](Procedure-Template.md)
+* [General](#gateway-cloning)
 * [Gateway Cloning](#gateway-cloning)
+* [NGS](#gateway-cloning)
+
+General
+--------------------------------------------------------------------------------
+* [Phusion PCR](./General/Phusion-PCR.md)
+* [Restriction Digest](./General/Restriction-Digest.md)
 
 Gateway Cloning
 --------------------------------------------------------------------------------
 * [Multisite Assembly](./Gateway-Cloning/Multisite-LR-reaction.md)
+* [pENTR Creation](./Gateway-Cloning/pDONR-BP-reaction.md)
 
-Placeholder
+NGS
 --------------------------------------------------------------------------------
-### Placeholder
-* Placeholder
-* Placeholder
-* Placeholder
-### Placeholder
-* Placeholder
-* Placeholder
+* [Nextera Plasmid Library Prep](./NGS/Nextera-plasmid-library.md)
