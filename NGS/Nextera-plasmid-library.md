@@ -29,7 +29,7 @@ Protocol:
 
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
-  | Tagment DNA Duffer | 2X | **2.5**  µL | 
+  | Tagment DNA Buffer | 2X | **2.5**  µL | 
   | plasmid DNA | 0.2 ng/µL | **1.25**  µL |
   | Amplicon Tagment Mix || **1.25**  µL |
   || **Total** | **5** µL |
