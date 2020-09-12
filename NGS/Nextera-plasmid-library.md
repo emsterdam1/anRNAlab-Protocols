@@ -6,7 +6,7 @@ Reagent volumes have been dramatically reduced from manufacturer's guidelines fo
 
 Materials:
 --------------------------------------------------------------------------------
-  * Diluted plasmid (0.2 ng/µL)
+  * Diluted plasmid (0.1 ng/µL)
   * Illumina Nextera XT reagents
     * Tagment DNA Buffer
     * Amplicon tagment mix
@@ -30,7 +30,7 @@ Protocol:
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
   | Tagment DNA Buffer | 2X | **2.5**  µL | 
-  | plasmid DNA | 0.2 ng/µL | **1.25**  µL |
+  | plasmid DNA | 0.1 ng/µL | **1.25**  µL |
   | Amplicon Tagment Mix || **1.25**  µL |
   || **Total** | **5** µL |
   
