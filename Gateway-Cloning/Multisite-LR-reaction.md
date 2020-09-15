@@ -80,6 +80,9 @@ GeneJet Plasmid Miniprep</a>
 </p> <a href="../General/Restriction-Digest.md">
 Restriction Digest</a>
 
+</p> <a href="file:///C:/Users/MajorLabFloat/Downloads/GenElutePlasmidMidiprepKit.pdf">
+GenElute HP MidiPrep</a>
+
 </details>
 
 <details>
