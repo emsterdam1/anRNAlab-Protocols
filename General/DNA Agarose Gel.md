@@ -1,6 +1,6 @@
 DNA agarose gel
 ================================================================================
-**Description:** DNA separates by charge across a current (surrogate for size as each base pair has same charge).<br/>
+**Description:** DNA separates by charge across a current (surrogate for size as each bp has same charge).<br/>
 Intercalating agents label nucleic acids and are visualized in-gel via fluorescence.
 
 [Go To Protocol](#protocol)
@@ -34,7 +34,7 @@ Materials:
   
   * DNA molecular weight ladder
   
-<br/>
+<br/><br/>
 
 Equipment Required:
 --------------------------------------------------------------------------------
