@@ -34,7 +34,7 @@ Materials:
   
   * DNA molecular weight ladder
   
-<br/><br/><br/><br/>
+<br/>
 
 Equipment Required:
 --------------------------------------------------------------------------------
