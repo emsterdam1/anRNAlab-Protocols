@@ -33,7 +33,9 @@ Materials:
     <br/>*Plenty of substitutes, or standard: 30% glycerol, 0.25% bromophenol blue, 0.25% (w/v) xylene cyanol.*
   
   * DNA molecular weight ladder
-<br/><br/><br/>
+  
+<br/><br/><br/><br/>
+
 Equipment Required:
 --------------------------------------------------------------------------------
   
