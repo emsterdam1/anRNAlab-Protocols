@@ -52,8 +52,8 @@ Protocol:
 --------------------------------------------------------------------------------
 
 **1. Mix Gel:** Make up 0.8 % Agarose gel mix in 1X TAE (0.8 g in 100 mL).
-  *  *Can be more or less depending on your eletrophoresis setup.*<br/>
-  *  *Make sure the vessel holds about 2.5x your chosen volume (mixture will boil).*
+<br/>*Notes: Can be more or less depending on your eletrophoresis setup.*
+<br/>*Make sure the vessel holds about 2.5x your chosen volume (mixture will boil).*
   
 **2. Melt agarose:** Heat mixture for 1 minute in standard microwave.<br/>Then pulse heat for 15 seconds at a time, mixing in between, until agarose is fully melted.
 <br/>*Wear appropriate PPE. Mixture will be hot.*
