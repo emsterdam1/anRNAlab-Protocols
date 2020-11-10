@@ -1,7 +1,6 @@
 DNA agarose gel
 ================================================================================
-**Description:** Agarose gels are an established method for evaluating solutions of DNA.<br/>
-DNA separates by charge across a current (surrogate for size as each base pair has same charge).<br/>
+**Description:** DNA separates by charge across a current (surrogate for size as each base pair has same charge).<br/>
 Intercalating agents label nucleic acids and are visualized in-gel via fluorescence.
 
 [Go To Protocol](#protocol)
@@ -9,7 +8,8 @@ Intercalating agents label nucleic acids and are visualized in-gel via fluoresce
 Materials:
 --------------------------------------------------------------------------------
 
-  * 50X TAE
+  * **50X TAE:** Mix Tris and EDTA in 700 mL of water until dissolved. Add acetic acid and bring to 1 L.
+  <br/>Final 50X solution is 2M Tris, 1M Acetate, 50 mM EDTA, and pH ~8.6.
   
     | Component | Concentration | Quantity | 
     | ---------: | ---------: | :---------- |
@@ -20,11 +20,8 @@ Materials:
     || **Total** | **1** L |
   
      *Note:Can also add 18.61 g of disodioum EDTA instead of solution*
-
-  Mix Tris and EDTA in 700 mL of water until dissolved. Add acetic acid and bring to 1 L.<br/>Final 50X solution is 2M Tris, 1M Acetate, 50 mM EDTA, and pH ~8.6".
-  
+     
   * Agarose
-  
   * Nucleic acid dye or label, for example:
     * 5 mg/mL Ethidium Bromide (a 0.5% solution). This is 1000X
     * [GelRed Nucleic Acid Stain 10,000X](https://www.sigmaaldrich.com/catalog/product/mm/sct123?lang=en&region=US&cm_sp=Insite-_-caContent_prodMerch_gruCrossEntropy-_-prodMerch10-1). Can be used as 20,000X
@@ -32,7 +29,7 @@ Materials:
   
   * DNA samples (want at least 50 ng per band per sample)
   
-  * [6X DNA Loading Dye (NEB)](https://www.neb.com/products/b7024-gel-loading-dye-purple-6x#Product%20Information)<br/>*Notes: Use the "with SDS" version if sample is not pure.*
+  * [6X DNA Loading Dye (NEB)](https://www.neb.com/products/b7024-gel-loading-dye-purple-6x#Product%20Information)
     <br/>*Plenty of substitutes, or standard: 30% glycerol, 0.25% bromophenol blue, 0.25% (w/v) xylene cyanol.*
   
   * DNA molecular weight ladder
