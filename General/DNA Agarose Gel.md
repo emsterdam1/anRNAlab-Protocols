@@ -19,7 +19,7 @@ Materials:
     | ddH2O || **to total** |
     || **Total** | **1** L |
   
-    *  *Can also add 18.61 g of disodioum EDTA instead of solution*
+     *Note:Can also add 18.61 g of disodioum EDTA instead of solution*
 
   Mix Tris and EDTA in 700 mL of water until dissolved. Add acetic acid and bring to 1 L.<br/>Final 50X solution is 2M Tris, 1M Acetate, 50 mM EDTA, and pH ~8.6".
   
@@ -56,17 +56,16 @@ Protocol:
   *  *Make sure the vessel holds about 2.5x your chosen volume (mixture will boil).*
   
 **2. Melt agarose:** Heat mixture for 1 minute in standard microwave.<br/>Then pulse heat for 15 seconds at a time, mixing in between, until agarose is fully melted.
+<br/>*Wear appropriate PPE. Mixture will be hot.*
 
-  * *Wear appropriate PPE. Mixture will be hot.*
-
-**3. Add label and pour gel:** Once gel is cool enough to handle with gloved hands, add desired amount of intercalator and pour into gel cast.<br/>Add a gel comb with desired number of lanes and disrupt any visible bubbles with a pipette tip.<br/>Let gel set for 30-60 minutes (will set faster at 4 °C).
+**3. Add label and pour gel:** Once gel is cool enough to handle with gloved hands, add desired amount of stain and pour gel into cast.<br/>Add a gel comb with desired number of lanes and disrupt any visible bubbles with a pipette tip.<br/>Let gel set for 30-60 minutes (will set faster at 4 °C).
 
 **4. Load gel:** Dilute DNA samples and ladder into similar volumes and add Loading dye to 1X final concentration. Load each sample into a well.
-<br/>*Try to match buffer conditions in the ladder and samples, as differences can exaggerate how off the size estimations are.*
+<br/>*Notes: Try to match buffer conditions in the ladder and samples, as differences can exaggerate how off the size estimations are.*
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
 **4. Image gel:** DNA gels are easily imaged on systems using UV transilluminators.
-<br/>Stains absorb highly at ~300 nm (medium wavelength, UVB) and emit at 600 nm (which is detected on the camera).
+<br/>*Stains absorb highly at ~300 nm (medium wavelength, UVB) and emit at 600 nm (which is detected on the camera).*
 
 <details>
   <summary>More Info</summary>
