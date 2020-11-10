@@ -34,15 +34,14 @@ Materials:
   
   * DNA molecular weight ladder
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
 Equipment Required:
 --------------------------------------------------------------------------------
   
   * Microwave
   * Gel electrophoresis system
   * Gel imaging system (usually a transilluminator)
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
 <!-- Use <br/> to fill in first page -->
 ___
 Protocol:
