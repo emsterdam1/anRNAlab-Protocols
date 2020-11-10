@@ -21,35 +21,7 @@ Equipment Required:
   * 37 °C Heat Block
   * Agarose Gel Equipment
   
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <!-- Use <br/> to fill in first page -->
 ___
@@ -78,7 +50,7 @@ Protocol:
  **3.** Digest at 37 °C for necessary amount of time.
    * *Note: be aware that some enzymes have nonspecific STAR activity and are unsuitable for longer (overnight) digestions*
  
- **4.** Cast an 0.8 % agarose gel in 1X TAE Buffer and 1X GelRed Dye (or ethidium bromide, etc.), for gel purification or size confirmation. 
+ **4.** Cast an [0.8 % agarose gel](DNA-Agarose-Gel.md) in 1X TAE Buffer and 1X GelRed Dye (or ethidium bromide, etc.), for gel purification or size confirmation. 
  
  **5.** Dilute samples into 1X loading dye and run on gel (usually 1 hour at 120 V). Image with 302 nm light.
    * *Be sure to include appropriate molecular weight ladder. 2 µg diluted in same enzyme and loading buffer concentrations and volumes.*  
