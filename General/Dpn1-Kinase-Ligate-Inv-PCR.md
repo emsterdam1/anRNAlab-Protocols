@@ -2,7 +2,7 @@ Resealing Mutated Inverse PCR Plasmids
 ================================================================================
 **Description:** Mutations, insertions and deletions can be introduced into plasmids by inverse PCR.<br/>
 An enzyme mix can be used to reseal the products and eliminate the template vector. <br/>
-DpnI destroys methylated vector plasmid, Kinase phosphorylates 5' ends, and Ligase circularizes the product.
+DpnI destroys vector plasmid, Kinase phosphorylates 5' ends, and Ligase circularizes the product.
 
 [Go To Protocol](#protocol)
 
