@@ -18,7 +18,7 @@ Materials:
   * DH10-beta competent cells (NEB)
   * SOC recovery media
   
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 Protocol:
 --------------------------------------------------------------------------------
