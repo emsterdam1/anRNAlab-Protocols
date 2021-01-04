@@ -25,15 +25,15 @@ Protocol:
 
 **1.** Mix reactions as follows:
 
-    | Component | Concentration | Quantity | 
-    | ---------: | ---------: | :---------- |
-    | PCR product | varies | **1**  µl | 
-    | T4 Ligase Buffer | 10X | **1**  µL |
-    | T4 DNA Ligase | 400U/µl | **0.75**  µL |  
-    | DpnI | 20U/µl | **0.75**  µL | 
-    | T4 PNK | 10U/µl | **0.75**  µL | 
-    | ddH2O || **5.75**  µL |
-    || **Total** | **10** µL |
+  | Component | Concentration | Quantity | 
+  | ---------: | ---------: | :---------- |
+  | PCR product | varies | **1**  µl | 
+  | T4 Ligase Buffer | 10X | **1**  µL |
+  | T4 DNA Ligase | 400U/µl | **0.75**  µL |  
+  | DpnI | 20U/µl | **0.75**  µL | 
+  | T4 PNK | 10U/µl | **0.75**  µL | 
+  | ddH2O || **5.75**  µL |
+  || **Total** | **10** µL |
   
 **2.** Incubate reaction at room temperature for 45 minutes.
 
