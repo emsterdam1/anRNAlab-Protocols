@@ -37,23 +37,7 @@ Equipment Required:
   * Thing 1
   * Thing 2
 
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <!-- Use <br/> to fill in first page -->
 ___
