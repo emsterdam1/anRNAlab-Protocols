@@ -16,12 +16,14 @@ Materials:
     
 ### Day 3 or 4
   * 50 mM biotin in DMSO
+  * Liquid nitrogen for freezing large cell pellets
 
 Equipment Required:
 --------------------------------------------------------------------------------
 ### Day 1-4
 
   * Cell culture incubator (37 °C with 5% CO<sub>2</sub> usually)
+  * Microcentrifuge (for tubes) or larger centrifuge (for conicals) 
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
