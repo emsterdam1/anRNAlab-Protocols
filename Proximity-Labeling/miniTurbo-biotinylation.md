@@ -57,7 +57,8 @@ Protocol:
   
   * For Western validation, pipetting a 0.5X growth volume of PBS onto the sample is usually enough to dislodge and collect cells. <br/>Move to eppendorf tubes on ice.
   
-  * For multi-plate MS samples, scrape with ~3-5 mL of cold PBS per 15 cm dish and combine into a 15 mL or 50 mL conical tube. <br/>Collect any remaining cells with a single 10 mL wash of cold PBS for all plates of single sample.
+  * For multi-plate MS samples, scrape with ~3-5 mL of cold PBS per 15 cm dish and combine into a 15 mL or 50 mL conical tube on ice. Collect any remaining cells with a single up to 10 mL wash of cold PBS for all plates of single sample and add to that sample's conical tube. 
+    * Example: 3 15 cm dishes of one sample could be processed as 3 x 3 mL PBS scrapes + a final 6 mL wash shared between them. This would result in a single full 15 mL conical for the sample.
   
 **6.** Pellet cells at 500xg for 10 minutes. Discard the supernatant and freeze cell pellets (or proceed directly to cell lysis).
   
