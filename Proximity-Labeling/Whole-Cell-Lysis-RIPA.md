@@ -80,11 +80,3 @@ MS Sample Prep</a>
 Peptide Quantification</a>
 
 </details>
-
-<details>
-  <summary>More Info</summary>
-  
-  <a href="https://www.website.com/just-copy-paste-your-target-website-here.html">
-WEBSITE LINK NAME</a>  
-
-</details>
