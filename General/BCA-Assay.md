@@ -45,7 +45,7 @@ Protocol:
 
 **6.** Average measurements for each standard and subtract background absorbance (the 0 standard). Plot normalized averages against concentration.
 
-  *A quadratic can be fitted to the curve to calculate sample concentrations, or concentration can be interpolated linearly between two standard points. 
+  *A quadratic can be fitted to the curve to calculate sample concentrations, or concentration can be interpolated linearly between two standard points.* 
 
 **Tube method:** The BCA assay can be performed in cuvettes on a spectrophotometer with 10X volumes (100 µl Sample and 2 mL BCA reagent).<br/>This does not require replicates.
 
@@ -57,6 +57,6 @@ Protocol:
   <summary>More Info</summary>
   
   <a href="https://www.thermofisher.com/order/catalog/product/23225#/23225">
-WEBSITE LINK NAME</a>  
+Pierce BCA Assay</a>  
 
 </details>
