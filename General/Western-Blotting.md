@@ -16,9 +16,9 @@ Materials:
   
   * Polyacrylamide gels
   
-  * DTT
+  * 1M DTT (20X)
   
-  * SDS Loading buffer
+  * SDS Loading buffer ([4X LDS](https://www.thermofisher.com/order/catalog/product/NP0007#/NP0007))
   
   * SDS Running Buffer
     *
