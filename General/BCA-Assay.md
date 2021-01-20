@@ -1,42 +1,27 @@
 BCA Assay
 ================================================================================
-Description: RIPA buffer contains detergents suited to, with the help of sonication, disrupt all cellular membranes and break up chromatin.
+Description: The assay measures absorbance by a BCA-Cu<sup>1+</sup> complex, which forms after peptides in alkaline solution chelate and reduce Cu<sup>2+</sup> ions. Because the amount of Cu<sup>1+</sup> produced is linearly related to protein amount, this assay serves as a generalized way to quantify proteins in a variety of solutions.
 
 [Go To Protocol](#protocol)
 
 Before starting:
 --------------------------------------------------------------------------------
-* [Stable cell line generation by lentiviral infection](../Proximity-Labeling/Making-Stables.md)
-* [MiniTurbo biotinylation](../Proximity-Labeling/miniTurbo-biotinylation.md)
 * [Whole Cell lysis](../Proximity-Labeling/Whole-Cell-Lysis-RIPA.md)
 
 Materials:
 --------------------------------------------------------------------------------
-  * Cell pellet
+  * Cell lysate
   
-  * 1X Mass Spec RIPA lysis buffer pH 7.5
+  * BCA protein assay [(Pierce 23225)](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0011430_Pierce_BCA_Protein_Asy_UG.pdf)
+    * BSA standard stocks (0-2000 µg/ml) in sample buffer (e.g. 1X RIPA)
+    * Reagent A
+    * Reagent B
   
-    * 50 mM HEPES pH 8 (HEPES is substituted instead of Tris for MS compatibility)
-    * 150 mM NaCl
-    * 2 mM EDTA (Metal chelator)
-    * 0.1% SDS
-    * 1% Nonidet-P40 (or IGEPAL CA-630)
-    * 0.2% Sodium Deoxycholate (some formulations have up to 0.5%)
-    * 10% Glycerol (for protein solubility and stability)
-    
-    *Note: Add detergents and glycerol last and leave room to pH to 7.5 w/HCl.*<br/>*Store buffer at 4 °C.*
   
-  * "Day of" lysis additives
-    
-    * [100X protease inhibitor](https://www.thermofisher.com/order/catalog/product/78429#/78429)
-    * [100X phosphatase inhibitor](https://www.thermofisher.com/order/catalog/product/78420#/78420)
-    * [250 Units/µl Benzonase Nuclease](https://www.sigmaaldrich.com/catalog/product/sigma/e1014?lang=en&region=US&cm_sp=Insite-_-caSrpResults_srpRecs_srpModel_e1014-25ku-_-srpRecs3-1) (degrades all nucleic acids)
-    * [100X = 1M N-ethylmaleimide](https://www.thermofisher.com/order/catalog/product/23030?us&en#/23030?us&en) (labels cysteines, optional, prepare fresh in ethanol)
-     
 Equipment Required:
 --------------------------------------------------------------------------------
   
-  * [Sonicator](https://www.fishersci.com/shop/products/fisher-scientific-model-120-sonic-dismembrator-4/p-3974654) (other models need optimization)
+  * Spectrophotometer or plate reader that measures absorbance at or near 562 nm
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
@@ -46,43 +31,32 @@ ___
 Protocol:
 --------------------------------------------------------------------------------
 
-**1.** Add protease inhibibitor (1/100), phosphatase inhibitor (1/100), and Benzonase (1/5000) to 1X in RIPA buffer to create lysis buffer. <br/>*Note: NEM (1/100) can also be optionally added to disrupt reduced cysteines.*
+**1.** Combine 50 parts of Reagent A to 1 part Reagent B to create enough BCA reagent for 400 µl per standard and 200 µl per sample.
 
-**2.** Lyse cell pellets on ice in prepared lysis buffer.
-  * For multi-well plate formats, use 25 µl/cm<sup>2</sup> of lysis buffer
-  * For 10cm and 15 cm dishes, use 5 µl/cm<sup>2</sup> of lysis buffer
-    
-    * Examples: 250 µl for a 6-well, 750 µl for each 15 cm dish
-    
-**3.** Sonicate each sample on ice with 10X short (5 seconds on, 1 sec off) pulses at 30% amplitude. <br/>*Note: This value should be optimized for each sonicator*
+**2.** Set up 2 replicates of 10 µl each BSA standard and 2-10 µl of each sample (diluted in 10 µl total buffer) in wells of a 96-well microplate.
   
-**4.** In 1.7 mL eppendorf tubes, briefly vortex samples and clear lysates at 21,000 xg for 30-60 minutes at 4 °C. Retain supernatants and pool larger samples back into conical tubes if necessary.
+  *Note: doing replicates of the samples could improve accuracy, but is not always necessary.*<br/>*More important that dilution falls within dynamic range of assay.*
+    
+**3.** Add 200 µl of mixed BCA reagent to each well. Ensure wells are thoroughly mixed (by 30 sec on plate shaker or multi-channel pipette mixing).
+  
+**4.** Incubate with lid on at 37 °C for 30 minutes.
 
-  * Cleared lysates can be stored at -80 °C. BCA assay will be required to quantitate protein for next steps.
+**5.** Let plate cool to room temperature. Measure absorbance in a plate reader at 562 nm for all standards and samples.
+
+**6.** Average measurements for each standard and subtract background absorbance (the 0 standard). Plot normalized averages against concentration.
+
+  *A quadratic can be fitted to the curve to calculate sample concentrations, or concentration can be interpolated linearly between two standard points. 
+
+**Tube method:** The BCA assay can be performed in cuvettes on a spectrophotometer with 10X volumes (100 µl Sample and 2 mL BCA reagent).<br/>This does not require replicates.
+
+**Enhanced Sensitivity:** Incubating at 60 °C for 30 minutes instead can increase the sensitivity, but shrink the dynamic range of the assay. Not usually necessary.
 
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
 <details>
-  <summary>Next Steps</summary>
-
-</p> <a href="../Proximity-Labeling/miniTurbo-Western-Validation.md">
-Western Validation</a>
-
-</p> <a href="../Proximity-Labeling/miniTurbo-Strep-IP.md">
-Strep IP</a>
-
-</p> <a href="../Proximity-Labeling/Affinity-MS-Sample-Prep.md">
-MS Sample Prep</a>
-
-</p> <a href="../Proximity-Labeling/Peptide-Quant.md">
-Peptide Quantification</a>
-
-</details>
-
-<details>
   <summary>More Info</summary>
   
-  <a href="https://www.website.com/just-copy-paste-your-target-website-here.html">
+  <a href="https://www.thermofisher.com/order/catalog/product/23225#/23225">
 WEBSITE LINK NAME</a>  
 
 </details>
