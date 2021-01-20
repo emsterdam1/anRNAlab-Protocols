@@ -1,6 +1,7 @@
 RIPA-based Whole Cell Lysis
 ================================================================================
 Description: RIPA buffer contains detergents suited to, with the help of sonication, disrupt all cellular membranes and break up chromatin.
+
 [Go To Protocol](#protocol)
 
 Before starting:
@@ -24,7 +25,7 @@ Materials:
     
     *Note: Add detergents and glycerol last and leave room to pH to 7.5 w/HCl.*<br/>*Store buffer at 4 °C.*
   
-  * Day of lysis additives
+  * "Day of" lysis additives
     
     * [100X protease inhibitor](https://www.thermofisher.com/order/catalog/product/78429#/78429)
     * [100X phosphatase inhibitor](https://www.thermofisher.com/order/catalog/product/78420#/78420)
@@ -33,11 +34,13 @@ Materials:
      
 Equipment Required:
 --------------------------------------------------------------------------------
+  
   * [Sonicator](https://www.fishersci.com/shop/products/fisher-scientific-model-120-sonic-dismembrator-4/p-3974654) (other models need optimization)
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <!-- Use <br/> to fill in first page -->
+
 ___
 Protocol:
 --------------------------------------------------------------------------------
