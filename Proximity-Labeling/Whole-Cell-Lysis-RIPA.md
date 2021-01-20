@@ -64,7 +64,7 @@ Protocol:
 <details>
   <summary>Next Steps</summary>
 
-</p> <a href="./BCA-Assay.md">
+</p> <a href="../General/BCA-Assay.md">
 BCA protein quantification</a>
 
 </p> <a href="./miniTurbo-Western-Validation.md">
