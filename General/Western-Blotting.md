@@ -14,23 +14,31 @@ Materials:
   
   * Cell lysate
   
-  * Polyacrylamide gels
+  * 4-12% gradient polyacrylamide gel (variety of sizes)
+    * [10-well](https://www.thermofisher.com/order/catalog/product/NP0335BOX?SID=srch-srp-NP0335BOX#/NP0335BOX?SID=srch-srp-NP0335BOX), 1.5 mm, load volume 37 µl
+    * [15-well](https://www.thermofisher.com/order/catalog/product/NP0336BOX?SID=srch-srp-NP0336BOX#/NP0336BOX?SID=srch-srp-NP0336BOX), 1.5 mm, load volume 25 µl
+    * [18-well](https://www.bio-rad.com/en-us/sku/3450124-4-12-criterion-xt-bis-tris-protein-gel-18-well-30-ul?ID=3450124), load volume 30 µl
+    * [26-well](https://www.bio-rad.com/en-us/sku/3450125-4-12-criterion-xt-bis-tris-protein-gel-26-well-15-ul?ID=3450125), load volume 15 µl
   
   * 1M DTT (20X)
   
   * SDS Loading buffer ([4X LDS](https://www.thermofisher.com/order/catalog/product/NP0007#/NP0007))
   
-  * SDS Running Buffer
-    *
-    *
+  * Molecular weight ladder ([Pageruler Plus](https://www.thermofisher.com/order/catalog/product/26619#/26619), [Precision Plus](https://www.bio-rad.com/en-us/sku/1610374-precision-plus-protein-dual-color-standards-500-ul?ID=1610374))
   
+  * 20X MOPS-SDS Running Buffer [(Boston Bioproducts, pH 7.7)](https://bostonbioproducts.com/products/mops-sds-running-buffer-20x-bp-178)
+    * 1M MOPS
+    * 1M Tris-Base
+    * 20 mM EDTA
+    * 2% SDS
+    
   * Whatman paper
   
   * transfer membrane (nitrocellulose or PVDF)
   
   * Transfer buffer
-    *
-    *
+
+    
   
   * primary antibody
   
