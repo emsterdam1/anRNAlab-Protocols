@@ -1,6 +1,6 @@
-Western Blotting
+SDS-PAGE for protein
 ================================================================================
-Description: Protein mixtures transferred onto a membrane are probed with antibodies specific to targets of interest.
+Description: A polyacrylamide matrix and electric current is used to separate proteins within a mixture.
 
 [Go To Protocol](#protocol)
 
@@ -10,9 +10,6 @@ Before starting:
 
 Materials:
 --------------------------------------------------------------------------------
-### Day 1
-
-  **Part 1 - PAGE**
   
   * Cell lysate
   
