@@ -11,6 +11,8 @@ Before starting:
 Materials:
 --------------------------------------------------------------------------------
 ### Day 1
+
+  **Part 1 - PAGE**
   
   * Cell lysate
   
@@ -32,13 +34,19 @@ Materials:
     * 20 mM EDTA
     * 2% SDS
     
+  **Part 2 - Transfer**  
+  
+  * Part 1 gel
+  
   * Whatman paper
   
   * transfer membrane (nitrocellulose or PVDF)
   
   * Transfer buffer
 
-    
+  **Part 3 - Blotting** 
+  
+  * Blocking Buffer
   
   * primary antibody
   
@@ -46,7 +54,7 @@ Materials:
 
   * secondary antibody
   
-  * Blocking Buffer
+
   
   * TBST
     *
