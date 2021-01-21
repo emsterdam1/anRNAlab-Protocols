@@ -30,51 +30,15 @@ Materials:
     * 1M Tris-Base
     * 20 mM EDTA
     * 2% SDS
-    
-  **Part 2 - Transfer**  
-  
-  * Part 1 gel
-  
-  * Whatman paper
-  
-  * transfer membrane (nitrocellulose or PVDF)
-  
-  * Transfer buffer
-
-  **Part 3 - Blotting** 
-  
-  * Blocking Buffer
-  
-  * primary antibody
-  
-### Day 2
-
-  * secondary antibody
-  
-
-  
-  * TBST
-    *
-    *
-    *
-  
   
 Equipment Required:
 --------------------------------------------------------------------------------
-### Day 1
 
-  * Gel and transfer electrophoresis vessels (varying manufacturer's and setups)
-  
   * Heat block (70 °C)
   
-  * Rig-appropriate power supplies (transfer cassettes and gel rigs have varying power needs).
+  * Gel electrophoresis apparatus (varying manufacturer's and setups)
   
-  * Plate rocker
-  
-### Day 2
-
-  * Li-Cor gel imager
-  
+  * power supply
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
@@ -84,13 +48,11 @@ ___
 Protocol:
 --------------------------------------------------------------------------------
 
-**1.** Combine 50 parts of Reagent A to 1 part Reagent B to create enough BCA reagent for 400 µl per standard and 200 µl per sample.
+**1.** Prepare 1X MOPS SDS Running buffer (dilute in ddH<sub>2</sub>O).
 
-**2.** Set up 2 replicates of 10 µl each BSA standard and 2-10 µl of each sample (diluted in 10 µl total buffer) in wells of a 96-well microplate.
-  
-  *Note: doing replicates of the samples could improve accuracy, but is not always necessary.*<br/>*More important that dilution falls within dynamic range of assay.*
+**2.** Prepare gels: Remove wrapping, rinse in ddH<sub>2</sub>O, and remove comb and seal covering the gel bottom.<br/>Place gels into the electrophoresis apparatus, ensuring the wells are facing the chamber where current is applied.<br/>The electrophoresis chamber must be closed (use of a buffer dam is required when running 1 gel).
     
-**3.** Add 200 µl of mixed BCA reagent to each well. Ensure wells are thoroughly mixed (by 30 sec on plate shaker or multi-channel pipette mixing).
+**3.** Fill the inner (for current) and outer (for heat transfer) chambers of the electrophoresis apparatus with 1X MOPS running buffer. The inner chamber should not leak. 
   
 **4.** Incubate with lid on at 37 °C for 30 minutes.
 
