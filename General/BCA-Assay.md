@@ -37,7 +37,7 @@ Protocol:
   
   *Note: doing replicates of the samples could improve accuracy, but is not always necessary.*<br/>*More important that dilution falls within dynamic range of assay.*
     
-**3.** Add 200 µl of mixed BCA reagent to each well. Ensure wells are thoroughly mixed (by 30 sec on plate shaker or multi-channel pipette mixing).
+**3.** Add 200 µl of mixed BCA reagent to each well. (Adding large volume to small volume ensures thorough mixing)
   
 **4.** Incubate with lid on at 37 °C for 30 minutes.
 
