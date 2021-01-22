@@ -47,13 +47,13 @@ Protocol:
 
 **1.** Add protease inhibibitor (1/100), phosphatase inhibitor (1/100), and Benzonase (1/5000) to 1X in RIPA buffer to create lysis buffer. <br/>*Note: NEM (1/100) can also be optionally added to disrupt reduced cysteines.*
 
-**2.** Lyse cell pellets on ice in prepared lysis buffer for 15 minutes.
+**2.** Lyse cell pellets on ice in prepared lysis buffer.
   * For multi-well plate formats, use 25 µl/cm<sup>2</sup> of lysis buffer
   * For 10cm and 15 cm dishes, use 5 µl/cm<sup>2</sup> of lysis buffer
     
     * Examples: 250 µl for a 6-well, 750 µl for each 15 cm dish
     
-**3.** Sonicate each sample on ice with 10X short (5 seconds on, 1 sec off) pulses at 30% amplitude. <br/>*Note: This value should be optimized for each sonicator*
+**3.** Sonicate each sample on ice with 10X short (5 seconds on, 1 sec off) pulses at 30% amplitude. <br/>*Note: This value should be optimized for each sonicator.*<br/>*The time it takes to sonicate multiple samples is usually enough for complete lysis (10-15 minutes).*
   
 **4.** In 1.7 mL eppendorf tubes, briefly vortex samples and clear lysates at 21,000 xg for 30-60 minutes at 4 °C. Retain supernatants and pool larger samples back into conical tubes if necessary.
 
