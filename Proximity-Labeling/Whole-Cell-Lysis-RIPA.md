@@ -47,7 +47,7 @@ Protocol:
 
 **1.** Add protease inhibibitor (1/100), phosphatase inhibitor (1/100), and Benzonase (1/5000) to 1X in RIPA buffer to create lysis buffer. <br/>*Note: NEM (1/100) can also be optionally added to disrupt reduced cysteines.*
 
-**2.** Lyse cell pellets on ice in prepared lysis buffer.
+**2.** Lyse cell pellets on ice in prepared lysis buffer for 15 minutes.
   * For multi-well plate formats, use 25 µl/cm<sup>2</sup> of lysis buffer
   * For 10cm and 15 cm dishes, use 5 µl/cm<sup>2</sup> of lysis buffer
     
