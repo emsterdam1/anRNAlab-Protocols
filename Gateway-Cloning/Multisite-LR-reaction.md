@@ -69,7 +69,7 @@ Protocol:
 7. Add 80 µL of SOC media to each batch of cells. Incubate for 1 hr shaking at 37 °C.
 
 8. Plate cells onto LB plates with respective antibiotics and incubate overnight.
- * _Note: grow at 37 °C for bacterial and mammalian expression vectors, 30 °C for lentiviral vectors._
+ * _Note: grow at 37 °C for bacterial and mammalian expression vectors, 30 °C for lentiviral vectors._<br/>_Multi-site cloning is inefficient, few colonies grow up. Be sure to test multiple clones._</br>_Linearizing the destination vector can improve efficiency of the LR reaction._
 
 <details>
   <summary>Next Steps</summary>
