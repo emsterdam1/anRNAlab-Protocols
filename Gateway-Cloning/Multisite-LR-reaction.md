@@ -70,6 +70,8 @@ Protocol:
 
 8. Plate cells onto LB plates with respective antibiotics and incubate overnight.
  * _Note: grow at 37 °C for bacterial and mammalian expression vectors, 30 °C for lentiviral vectors._<br/>_Multi-site cloning is inefficient, few colonies grow up. Be sure to test multiple clones._</br>_Linearizing the destination vector can improve efficiency of the LR reaction._
+ 
+ * _Note: For restriction digest validation of product of pDEST663 and pENTR(259,235,221), cut with EcoRV, BstZ17I, and BsrGI._
 
 <details>
   <summary>Next Steps</summary>
@@ -78,7 +80,7 @@ Protocol:
 GeneJet Plasmid Miniprep</a>
 
 </p> <a href="../General/Restriction-Digest.md">
-Restriction Digest</a>
+Restriction Digest </a>
 
 </p> <a href="https://www.sigmaaldrich.com/content/dam/sigma-aldrich/docs/Sigma/Bulletin/2/na0200bul.pdf">
 GenElute HP MidiPrep</a>
