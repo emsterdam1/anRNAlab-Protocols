@@ -14,7 +14,7 @@ Materials:
     * Nextera PCR Master Mix
   * In-house index primer F (i7, 5 µM)
   * In-house index primer R (i5, 5 µM)
-  * Magnetic SPRI beads
+  * Magnetic SPRI beads [(Omega BioTek)](https://www.omegabiotek.com/product/mag-bind-totalpure-ngs/?gclid=CjwKCAiA1eKBBhBZEiwAX3gqlw2-fi_geWTPQcJVkZdR--dL3zrHwdkoLxc-VhABYCzBcpVGy-4v7BoCtjgQAvD_BwE&cn-reloaded=1)
 
 Equipment Required:
 --------------------------------------------------------------------------------
@@ -71,7 +71,7 @@ Protocol:
 *Note: Cycle number has been increased by 2 to offset the use of less reagent*
 
 **6.** Clean up PCRs with columns or SPRI beads. Elute libraries in 15 µL of water.
-  * For plasmids, use Mag-Bind TotalPure NGS beads (Omega BioTek) at a 0.65X ratio and wash 2X with 80% ethanol.
+  * Dilute with 17.5 µL of water and use SPRI beads to purify (0.65X ratio and 2X washes with 80% ethanol).
   * Alternatively, add 17.5 µL of TE buffer to PCR products and purify with column-based kit (like Monarch PCR and DNA Cleanup Kit)
   
 **7.** Check samples on a Bioanalyzer/TapeStation and assess length distributions before sequencing.
