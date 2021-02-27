@@ -61,8 +61,9 @@ Protocol:
 3. Add 1 µL of Proteinase K and incubate 15 min at 37 °C.
 
 4. For each reaction, thaw 20 µL of DH10B cells on ice (less than 5 min).
+ * _Note: If one construct in a group yields almost no colonies, using 2x cells (and reagents) can double the yield._
 
-5. Add 1 µL of each reaction to 20 µL of thawed cells. Incubate on ice for 20 min.
+5. Add 2 µL of each reaction to 20 µL of thawed cells. Incubate on ice for 20 min.
 
 6. Heat shock cells in 42 °C water bath for 45 sec. Immediately return to ice for 2 min.
 
