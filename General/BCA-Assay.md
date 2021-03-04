@@ -23,7 +23,7 @@ Equipment Required:
   
   * Spectrophotometer or plate reader that measures absorbance at or near 562 nm
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <!-- Use <br/> to fill in first page -->
 
