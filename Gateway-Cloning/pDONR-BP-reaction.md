@@ -13,9 +13,9 @@ Materials:
 ### Day 1
   * PCR fragment (15-150 ng/µL)
   * pDONR vector (50 ng/µL)
-  * 10X TE ph 8 
-    * 100 mM Tris-HCl pH 8.0
-    * 10 mM EDTA
+  * 10X TE ph 8  
+    ◦ 100 mM Tris-HCl pH 8.0  
+    ◦ 10 mM EDTA  
   * B-P Clonase II Mix (Thermo)
 
 ### Day 2
