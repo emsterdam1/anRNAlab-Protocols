@@ -21,6 +21,7 @@ Materials:
     
   * 2.5 M CaCl<sub>2</sub>
   * Carrier plasmid containing insert (400 ng/µl)
+  * **GFP carrier plasmid control (optional)** (400 ng/µl)
   * psPAX2 packaging plasmid (300 ng/µl)
   * pMD2.G envelope plasmid (100 ng/µl)
 
@@ -61,6 +62,9 @@ Protocol:
   | Envelope plasmid | 100 ng/µl | **20**  µL |  
   | ddH<sub>2</sub>O |  | **390**  µL | 
   || **Total** | **450** µL |
+  
+  _Note: It is extremely helpful to include a GFP (or other fluorescent reporter) control plate.<br/>
+   This will allow you to check success of the transfection, as GFP will be expressed transiently from the carrier plasmid._
   
 **4.** Perform each transfection 1 at a time, for each DNA mixture:
   *  Add 50 µL of 2.5 M CaCl<sub>2</sub>. Vortex for 5 seconds.
