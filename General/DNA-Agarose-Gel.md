@@ -22,10 +22,10 @@ Materials:
      *Note:Can also add 18.61 g of disodioum EDTA instead of solution*
      
   * Agarose
-  * Nucleic acid dye or label, for example:
-    * 5 mg/mL Ethidium Bromide (a 0.5% solution). This is 1000X
-    * [GelRed Nucleic Acid Stain 10,000X](https://www.sigmaaldrich.com/catalog/product/mm/sct123?lang=en&region=US&cm_sp=Insite-_-caContent_prodMerch_gruCrossEntropy-_-prodMerch10-1). Can be used as 20,000X
-    * [GelStar Nucleic Acid Stain 10,000X](https://bioscience.lonza.com/lonza_bs/US/en/Electrophoresis/p/000000000000182314/GelStar-Nucleic-Acid-Gel-Stain%2C-10%2C000X-%282-x-250-uL%29).
+  * Nucleic acid dye or label, for example:  
+    ◦ 5 mg/mL Ethidium Bromide (a 0.5% solution). This is 1000X  
+    ◦ [GelRed Nucleic Acid Stain 10,000X](https://www.sigmaaldrich.com/catalog/product/mm/sct123?lang=en&region=US&cm_sp=Insite-_-caContent_prodMerch_gruCrossEntropy-_-prodMerch10-1). Can be used as 20,000X  
+    ◦ [GelStar Nucleic Acid Stain 10,000X](https://bioscience.lonza.com/lonza_bs/US/en/Electrophoresis/p/000000000000182314/GelStar-Nucleic-Acid-Gel-Stain%2C-10%2C000X-%282-x-250-uL%29).
   
   * DNA samples (want at least 50 ng per band per sample)
   
@@ -34,7 +34,7 @@ Materials:
   
   * DNA molecular weight ladder
   
-<br/><br/>
+<br/><br/><br/>
 
 Equipment Required:
 --------------------------------------------------------------------------------
