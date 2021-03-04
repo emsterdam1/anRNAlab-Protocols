@@ -7,21 +7,16 @@ Generated virus allows for insertion of genes into "stable" cell lines by infect
 
 Materials:
 --------------------------------------------------------------------------------
-  * HEK293T cells
-  * Culture Media (DMEM + 10% FBS)
-    _Note: Need antibiotic-free media during transfection_
-
 ### Day 1-2
-  * Sterile water
-  * 2X HEPES buffered saline (HBS) pH 7.1
+  * Antibiotic-Free Culture Media (DMEM + 10% FBS)
+  * 2X HEPES buffered saline (HBS) pH 7.1* -_pH with NaOH and filter with 0.22 µm_
     * 280 mM NaCl
     * 50 mM HEPES pH 7.0
     * 1.5 mM Na<sub>2</sub>HPO<sub>4</sub>( • 2H<sub>2</sub>O)
-    _Note: pH with NaOH and filter with 0.22 µm_
     
   * 2.5 M CaCl<sub>2</sub>
   * Carrier plasmid containing insert (400 ng/µl)
-  * **GFP carrier plasmid control (optional)** (400 ng/µl)
+  * **GFP carrier plasmid control*** (400 ng/µl)
   * psPAX2 packaging plasmid (300 ng/µl)
   * pMD2.G envelope plasmid (100 ng/µl)
 
@@ -47,11 +42,11 @@ Protocol:
 
 ### Day 1
 
-**1.** Split cells into 10 cm dishes, 5M cells per plate/transfection. Incubate at 37 °C for 24 hours.
+**1.** Split HEK293T cells into 10 cm dishes, 5M cells per plate/transfection. Incubate at 37 °C for 24 hours.
 
 ### Day 2
 
-**2.** Change media on each plate (10 mL DMEM + 10% FBS, no antibiotics).
+**2.** Change media on each plate (10 mL DMEM + 10% FBS, **no antibiotics**).
 
 **3.** Assemble DNA transfection mixtures as follows:
 
