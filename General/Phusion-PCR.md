@@ -10,10 +10,10 @@ Materials:
   * 10 mM dNTP mix (each at 10 mM)
   * 10 µM Forward Primer
   * 10 µM Reverse Primer
-  * DNA template
-    * 0.01 ng gBlock,
-    * 1 ng plasmid, or
-    * cDNA
+  * DNA template  
+    ◦ 0.01 ng gBlock,  
+    ◦ 1 ng plasmid, or  
+    ◦ cDNA  
   * Phusion components (5X buffer, DMSO, Enzyme)
   
 Equipment Required:
@@ -21,7 +21,7 @@ Equipment Required:
 
   * Thermocycler
   
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <!-- Use <br/> to go to next page -->
   
 Protocol:
