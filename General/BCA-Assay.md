@@ -12,10 +12,10 @@ Materials:
 --------------------------------------------------------------------------------
   * Cell lysate
   
-  * BCA protein assay [(Pierce 23225)](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0011430_Pierce_BCA_Protein_Asy_UG.pdf)
-    * BSA standard stocks (0-2000 µg/ml) in sample buffer (e.g. 1X RIPA)
-    * Reagent A
-    * Reagent B
+  * BCA protein assay [(Pierce 23225)](https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0011430_Pierce_BCA_Protein_Asy_UG.pdf)  
+    ◦ BSA standard stocks (0-2000 µg/ml) in sample buffer (e.g. 1X RIPA)  
+    ◦ Reagent A  
+    ◦ Reagent B  
   
   
 Equipment Required:
