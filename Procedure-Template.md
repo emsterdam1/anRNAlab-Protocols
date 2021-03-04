@@ -22,9 +22,10 @@ Materials:
 --------------------------------------------------------------------------------
 ### Day 1
   * Stuff
-  * A Buffer
-    * ingredient
-    * ingredient
+  * A Buffer  
+    ◦ ingredient  
+    ◦ ingredient  
+<!-- Using distinct bullet symbols with 2 spaces at end of each line makes a better formatted list -->
     
 ### Day ...
   * Other stuff
