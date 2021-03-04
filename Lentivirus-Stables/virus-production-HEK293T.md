@@ -9,7 +9,7 @@ Materials:
 --------------------------------------------------------------------------------
 ### Day 1-2
   * Antibiotic-Free Culture Media (DMEM + 10% FBS)
-  * 2X HEPES buffered saline (HBS) pH 7.1 - _pH with NaOH and filter with 0.22 µm_  
+  * **2X HEPES buffered saline (HBS) pH 7.1** - _pH with NaOH and filter with 0.22 µm_  
     ◦ 280 mM NaCl    
     ◦ 50 mM HEPES pH 7.0  
     ◦ 1.5 mM Na<sub>2</sub>HPO<sub>4</sub>( • 2H<sub>2</sub>O)
