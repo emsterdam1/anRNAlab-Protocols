@@ -43,12 +43,13 @@ Protocol:
   **Optional Touchdown phase for lowly represented targets in cDNA**<br/>Annealing temp is reduced by 1 degree each cycle. Total cycles (this phase and next) should not exceed 40.
   || 98 °C | 0:10 | denaturation |
   | ---------: | :--------: | :---------: |:---------: |
-  | **variable** | **72->target °C*** | **0:30** | **annealing** |
+  | **variable** | **72->target °C** | **0:30** | **annealing** |
   || **72 °C** | **30 s per kb** | **extension** |
   
+  **Standard amplification phase**
   | | 98 °C | 0:10 | denaturation |
   | ---------: | :--------: | :---------: |:---------: |
-  | **30-35X** | **64 °C** | **0:30** | **annealing** |
+  | **30-35X** | **target °C** | **0:30** | **annealing** |
   | | **72 °C** | **30 s per kb** | **extension** |
  
   | 1 | 72 °C | 2-5 minutes | final extension |
