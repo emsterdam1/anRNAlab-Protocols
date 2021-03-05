@@ -6,7 +6,7 @@ Description: BP Clonase inserts a gene fragment into a pDONR vector, creating a 
 
 Before starting:
 --------------------------------------------------------------------------------
-* [Fragment amplification with Phusion](../General/Phusion-PCR.md)
+* [Fragment amplification](../General/Standard-PCR.md)
 
 Materials:
 --------------------------------------------------------------------------------
