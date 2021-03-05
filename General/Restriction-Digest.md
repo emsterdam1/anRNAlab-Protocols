@@ -10,10 +10,10 @@ Materials:
   * Appropriate Restriction Enzyme Buffer
   * Restriction Enzyme (in U/µL)
   * Agarose
-  * 50X TAE Buffer
-    * 40 mM Tris Base
-    * 20 mM Acetic Acid
-    * 1 mM EDTA
+  * **50X TAE Buffer**  
+    ◦ 40 mM Tris Base  
+    ◦ 20 mM Acetic Acid  
+    ◦ 1 mM EDTA  
   * 6X loading dye (with SDS)
 
 Equipment Required:
@@ -21,7 +21,7 @@ Equipment Required:
   * 37 °C Heat Block
   * Agarose Gel Equipment
   
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <!-- Use <br/> to fill in first page -->
 ___
