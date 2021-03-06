@@ -87,7 +87,7 @@ Protocol:
   <summary>Next Steps</summary>
   
 
-</p> <a href="./Infection-Selection.md">
+</p> <a href="./Infection-and-Selection.md">
 Stable Cell Line Generation</a>
 
 </details>
