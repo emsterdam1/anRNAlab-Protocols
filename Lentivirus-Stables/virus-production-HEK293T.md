@@ -23,7 +23,7 @@ Materials:
 ### Day 5
   * 10/20 mL syringes
   * 0.45 µm syringe filter
-  * [concentrator columns](https://www.emdmillipore.com/US/en/product/Amicon-Ultra-15-Centrifugal-Filter-Unit,MM_NF-UFC910024)
+  * [concentrator columns 100 KDa NMWL](https://www.emdmillipore.com/US/en/product/Amicon-Ultra-15-Centrifugal-Filter-Unit,MM_NF-UFC910024)
 
 Equipment Required:
 --------------------------------------------------------------------------------
@@ -76,7 +76,7 @@ Protocol:
 
 **6.** Aspirate culture media with a 10/20 mL syringe and pass media through a 0.45 µm filter into a concentrator column.
 
-**7.** Concentrate the virus (spin at 3-4K xg for 15 minutes) and move resulting volume to cryotubes.
+**7.** Concentrate the virus (spin in concentrator column at 3,000 xg for 9 minutes) and move resulting volume to cryotubes.
 
 **8.** Store the virus at -80 °C for long-term storage or 4 °C for immediate infections.
 
