@@ -77,6 +77,7 @@ Protocol:
 **6.** Aspirate culture media with a 10/20 mL syringe and pass media through a 0.45 µm filter into a concentrator column.
 
 **7.** Concentrate the virus (spin in concentrator column at 3,000 xg for 9 minutes) and move resulting volume to cryotubes.
+  * _Note: Time spent concentrating can be varied to yield 1 mL of concentrated virus (20X) or 200 µL of hyper-concentrated virus (100X)_
 
 **8.** Store the virus at -80 °C for long-term storage or 4 °C for immediate infections.
 
