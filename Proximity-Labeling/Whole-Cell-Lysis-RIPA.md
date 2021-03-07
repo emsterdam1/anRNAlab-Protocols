@@ -6,7 +6,7 @@ Description: RIPA buffer contains detergents suited to, with the help of sonicat
 
 Before starting:
 --------------------------------------------------------------------------------
-* [Stable cell line generation by lentiviral infection](./Making-Stables.md)
+* [Stable cell line generation by lentiviral infection](../Lentivirus-Stables/virus-production-HEK293T.md)
 * [MiniTurbo biotinylation](./miniTurbo-biotinylation.md)
 
 Materials:
