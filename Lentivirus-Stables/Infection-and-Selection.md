@@ -18,7 +18,7 @@ Materials:
 
 ### Day 2
   * Polybrene (10 mg/mL)
-  * Lentivirus
+  * Lentivirus  
   _Note: Virus might be unconcentrated (2X), concentrated (20X), or hyper-concentrated (100X)_
   
 ### Day 4+  
@@ -71,7 +71,7 @@ Incubate cells for 24 hours at 37 °C.
 **7.** Change media on all cells (maintaining puromycin selection for infected and no-infection control).
 
 ### Day 7+
-**8.** Monitor cells and split/expand/change media as necessary, maintaining selection. The goal is to generate enough material to make frozen stocks (in 90% FBS 10% DMSO).
+**8.** Monitor cells and split/expand/change media as necessary, maintaining selection.</br>The goal is to generate enough material to make frozen stocks and prepare a validation experiment.
 
 <details>
   <summary>Next Steps</summary>
