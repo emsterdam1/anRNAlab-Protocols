@@ -41,7 +41,7 @@ Protocol:
 ### Day 1
 
 **1.** For each infection, plate 400,000 cells in a 6-well with 2mL of antibiotic-free complete media.<br/>
-**Plate a no-infection control (to ensure cell death) and a well with 40,000 cells (for a parallel parental line).**  
+**Plate a no-infection control (to ensure cell death) and a well with 40,000 cells (for parallel parental line).**  
 Incubate cells for 24 hours at 37 °C.
 
 ### Day 2
@@ -60,7 +60,7 @@ Incubate cells for 24 hours at 37 °C.
 **5.** Change virus-infected and no-infection controls to selection media (**+ 1 µg/mL puromycin**). Do not change media on the parental cells.
 
 ### Day 5
-**6.** Trypsinize cells (200 µL) and transfer to 60 mm dishes in 4 mL selection media (**+ 1 µg/mL puromycin**). </br> Split parental line as normal (100 mm dish and antibiotic-free media).  
+**6.** Trypsinize cells (200 µL) and transfer to 60 mm dishes in 4 mL selection media (**+ 1 µg/mL puromycin**). </br>**Split parental line as normal (100 mm dish and antibiotic-free media).**  
 Incubate cells for 24 hours at 37 °C.
 
 ### Day 6
