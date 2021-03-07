@@ -34,7 +34,6 @@ Equipment Required:
 
   * Mammalian cell culture incubator (37 °C and 5% CO<sub>2</sub>)
 
-<br/>
 
 ___
 Protocol:
@@ -50,19 +49,19 @@ Incubate cells for 24 hours at 37 °C.
 
 **2.** Change to transduction media (**+ 10 µg/mL polybrene**). Incubate cells for at least 1 hour at 37 °C.
 
-**3.** Add 100 µl of concentrated virus to each well (adjust volume based on level of virus concentration). Transduce for 24 hours.
-  * _Note: The no-infection control and parental line do not recieve any virus._
+**3.** Add 100 µl of concentrated virus to each well (adjust volume based on level of virus concentration). Transduce for 24 hours at 37 °C.  
+  ◦_Note: The no-infection control and parental line do not recieve any virus._
 
 ### Day 3
-**4.** Change back to normal antibiotic-free complete media.
-  * _Note: At this point, treat each well as a different cell line: switch pipettes between wells.</br> Do not vaccuum-aspirate media: bleach everything virus touches before disposal._
+**4.** Change back to normal antibiotic-free complete media.  
+  ◦_Note: At this point, treat each well as a different cell line: switch pipettes between wells.</br> Do not vaccuum-aspirate media: bleach everything virus touches before disposal._
 
 ### Day 4
 
 **5.** Change virus-infected and no-infection controls to selection media (**+ 1 µg/mL puromycin**). Do not change media on the parental cells.
 
 ### Day 5
-**6.** Trypsinize cells and transfer all to new 60 mm dishes in 4 mL selection media (DMEM + 10% FBS + **1 µg/mL puromycin**). </br> Split parental line as normal (100 mm dish and antibiotic-free media).
+**6.** Trypsinize cells (200 µL) and transfer to new 60 mm dishes in 4 mL selection media (**+ 1 µg/mL puromycin**). </br> Split parental line as normal (100 mm dish and antibiotic-free media).
 
 Incubate cells for 24 hours at 37 °C.
 
