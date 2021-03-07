@@ -6,7 +6,7 @@ Description: Cell lines expressing miniTurbo protein fusions are fed excess biot
 
 Before starting:
 --------------------------------------------------------------------------------
-* [Stable cell line generation by lentiviral infection](./Making-Stables.md)
+* [Stable cell line generation by lentiviral infection](../Lentivirus-Stables/virus-production-HEK293T.md)
 
 Materials:
 --------------------------------------------------------------------------------
