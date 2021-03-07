@@ -33,16 +33,15 @@ Equipment Required:
 
   * Mammalian cell culture incubator (37 °C and 5% CO<sub>2</sub>)
 
-<br/><br/><br/>
+<br/>
 
-<!-- Use <br/> to go to next page -->
 ___
 Protocol:
 --------------------------------------------------------------------------------
 ### Day 1
 
-**1.** In wells of a 6-well, plate 400,000 cells in 2mL of antibiotic-free complete media (e.g. DMEM + 10% FBS) for each infection.<br/>
-Plate one no-infection control well (to ensure cell death) and well with only 40,000 cells to act as a parallel parental cell line.
+**1.** For each infection, plate 400,000 cells in a 6-well with 2mL of antibiotic-free complete media (e.g. DMEM + 10% FBS).<br/>
+Plate a no-infection control (to ensure cell death) and a well with 40,000 cells (for a parallel parental line).
 
 Incubate cells for 24 hours at 37 °C.
 
@@ -55,7 +54,7 @@ Incubate cells for 24 hours at 37 °C.
 
 ### Day 3
 **4.** Change to normal complete media (DMEM + 10% FBS)
-  * _Note: At this point, treat each well as a different cell line: switch pipettes between wells.</br>Media from these cells chould be treated as virus-contaminated: Do not vaccuum-aspirate and bleach everything it touches before disposal._
+  * _Note: At this point, treat each well as a different cell line: switch pipettes between wells.</br> Do not vaccuum-aspirate media: bleach everything virus touches before disposal._
 
 ### Day 4
 
@@ -71,7 +70,7 @@ Incubate cells for 24 hours at 37 °C.
 **7.** Change media on all cells (maintaining puromycin selection for infected and no-infection control).
 
 ### Day 7+
-**8.** Monitor cells and split/expand/change media as necessary, maintaining selection.</br>The goal is to generate enough material to make frozen stocks and prepare a validation experiment.
+**8.** Monitor cells and split/expand/change media as necessary, maintaining selection.<br/>The goal is to generate enough material to make frozen stocks and prepare a validation experiment.
 
 <details>
   <summary>Next Steps</summary>
