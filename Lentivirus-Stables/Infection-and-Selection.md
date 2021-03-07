@@ -41,8 +41,7 @@ Protocol:
 ### Day 1
 
 **1.** For each infection, plate 400,000 cells in a 6-well with 2mL of antibiotic-free complete media.<br/>
-Plate a no-infection control (to ensure cell death) and a well with 40,000 cells (for a parallel parental line).
-
+**Plate a no-infection control (to ensure cell death) and a well with 40,000 cells (for a parallel parental line).**  
 Incubate cells for 24 hours at 37 °C.
 
 ### Day 2
@@ -50,19 +49,18 @@ Incubate cells for 24 hours at 37 °C.
 **2.** Change to transduction media (**+ 10 µg/mL polybrene**). Incubate cells for at least 1 hour at 37 °C.
 
 **3.** Add 100 µl of concentrated virus to each well (adjust volume based on level of virus concentration). Transduce for 24 hours at 37 °C.  
-  ◦_Note: The no-infection control and parental line do not recieve any virus._
+  ◦ _Note: The no-infection control and parental line do not recieve any virus._
 
 ### Day 3
 **4.** Change back to normal antibiotic-free complete media.  
-  ◦_Note: At this point, treat each well as a different cell line: switch pipettes between wells.</br> Do not vaccuum-aspirate media: bleach everything virus touches before disposal._
+  ◦ _Note: At this point, treat each well as a different cell line: switch pipettes between wells.</br> Do not vaccuum-aspirate media: bleach everything virus touches before disposal._
 
 ### Day 4
 
 **5.** Change virus-infected and no-infection controls to selection media (**+ 1 µg/mL puromycin**). Do not change media on the parental cells.
 
 ### Day 5
-**6.** Trypsinize cells (200 µL) and transfer to new 60 mm dishes in 4 mL selection media (**+ 1 µg/mL puromycin**). </br> Split parental line as normal (100 mm dish and antibiotic-free media).
-
+**6.** Trypsinize cells (200 µL) and transfer to 60 mm dishes in 4 mL selection media (**+ 1 µg/mL puromycin**). </br> Split parental line as normal (100 mm dish and antibiotic-free media).  
 Incubate cells for 24 hours at 37 °C.
 
 ### Day 6
