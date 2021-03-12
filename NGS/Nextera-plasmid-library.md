@@ -72,7 +72,7 @@ Protocol:
 *Note: Cycle number has been increased by 2 to offset the use of less reagent*
 
 **6.** Clean up PCRs with columns or SPRI beads. Elute libraries in 15 µL of water.
-  * Dilute with 17.5 µL of water and use SPRI beads to purify (0.65X ratio and 2X washes with 80% ethanol).
+  * Dilute with 17.5 µL of water and use [SPRI beads](./SPRI-beads.md) to purify (0.65X ratio and 2X washes with 80% ethanol).
   * Alternatively, add 17.5 µL of TE buffer to PCR products and purify with [column-based kit](https://www.neb.com/-/media/nebus/files/protocols/t1030_quick_protocol_card_monarch_pcrdna_cleanup.pdf?rev=df342b32fb1144af88257b50773a0c7a&hash=662C2FB4EA8277B53B4FE89E3D5887A8)
   
 **7.** Check samples on a Bioanalyzer/TapeStation and assess length distributions before sequencing.
@@ -85,11 +85,6 @@ Protocol:
   
   <a href="https://support.illumina.com/content/dam/illumina-support/documents/documentation/chemistry_documentation/samplepreps_nextera/nextera-xt/nextera-xt-library-prep-reference-guide-15031942-05.pdf">
 Detailed Nextera Information</a>
-
-<br/>
-
-  <a href="http://gc3fstorage.uoregon.edu/IMAGES/Evaluation_of_Omega_Mag-Bind_TotalPure_NGS_Beads_MWeitzman_April2018.pdf">
-Determining Bead Cutoffs</a> 
 
 <br/>
 
