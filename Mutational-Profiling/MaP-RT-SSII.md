@@ -24,7 +24,8 @@ Materials:
 Equipment Required:
 --------------------------------------------------------------------------------
   * Thermocycler
-  
+
+<br/><br/><br/><br/><br/><br/><br/>
 ___
 Protocol:
 --------------------------------------------------------------------------------
@@ -42,7 +43,7 @@ Protocol:
   
   **The color should change upon adding MnCl<sub>2</sub>. If it doesn't, you need new NTP minus buffer.**  
   _Note 1: Add the manganese last to prevent precipitation and only add immediately before use._  
-  _Note 2: You can vary the concentration of MnCl<sub>2</sub> to accomodate larger RNA volumes, but 0.5 µL is the lower limit._
+  _Note 2: You can lower the concentration of MnCl<sub>2</sub> to 0.5 µL to accomodate larger RNA volumes._
   
  **3.** Mix 9 µL of master mix with 10 µL of each primer-RNA mix and incubate for 2 minutes at 25 °C. 
 
