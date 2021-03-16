@@ -32,7 +32,7 @@ Protocol:
 
 **1.** For each sample, combine 7 µl RNA, 1 µl primer, and 2 µl of dNTPs. <br/>Denature at 68-75 °C for 5 minutes, then anneal on ice for 2 minutes.
 
-**2.** During incubations, assemble enough RT master mix for each sample, adding manganese only immediately before use:
+**2.** Assemble enough RT master mix for each sample, adding manganese only immediately before use:
 
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
