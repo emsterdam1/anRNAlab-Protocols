@@ -32,7 +32,7 @@ Protocol:
 
 **1.** For each sample, combine 7 µl RNA, 1 µl primer, and 2 µl of dNTPs. <br/>Denature at 68-75 °C for 5 minutes, then anneal on ice for 2 minutes.
 
-**2.** During incubations, assemble enough RT master mix for each sample:
+**2.** During incubations, assemble enough RT master mix for each sample, adding manganese only immediately before use:
 
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
@@ -42,10 +42,9 @@ Protocol:
   || **Total** | **9** µL |
   
   **The color should change upon adding MnCl<sub>2</sub>. If it doesn't, you need new NTP minus buffer.**  
-  _Note 1: Add the manganese last to prevent precipitation and only add immediately before use._  
-  _Note 2: You can lower the concentration of MnCl<sub>2</sub> to 0.5 µL to accomodate larger RNA volumes._
+  _Note: You can lower the concentration of MnCl<sub>2</sub> to 0.5 µL to accomodate larger RNA volumes._
   
- **3.** Mix 9 µL of master mix with 10 µL of each primer-RNA mix and incubate for 2 minutes at 25 °C. 
+**3.** Mix 9 µL of master mix with 10 µL of each primer-RNA mix and incubate for 2 minutes at 25 °C. 
 
 **4.** Add 1 µL of SSII RT enzyme to each reaction and perform the following thermocycles:
 
