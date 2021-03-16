@@ -28,11 +28,13 @@ Equipment Required:
   * Magnetic stand
 
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 <!-- Use <br/> to go to next page -->
   
 Protocol:
 --------------------------------------------------------------------------------
+
+
 **1.** Mix 1-3 µl of cDNA template and 1.25 µL of each primer (per 25 µL reaction) with buffer components according to the polymerase chosen:
 
   * [Q5 Hot-start Master Mix](https://www.neb.com/protocols/2012/08/30/protocol-for-q5-hot-start-high-fidelity-2x-master-mix-m0494)
