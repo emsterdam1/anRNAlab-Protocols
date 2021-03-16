@@ -15,7 +15,7 @@ Materials:
     ◦ 500 mM Tris pH 8.0  
     ◦ 750 mM KCl  
     ◦ 100 mM DTT _(Note: Don't use DTT that has been freeze-thawed more than once.)_  
-  * **5M Betaine**
+  * [**5M Betaine**](https://www.fishersci.ca/shop/products/betaine-5m-solution-molecular-biology-grade-ultrapure-affymetrix-usb-3/aaj77507ucr)
   * **40 mM MnCl<sub>2</sub>**  
   * **200 U/µl** [**SuperScript II**](https://www.thermofisher.com/order/catalog/product/18064022#/18064022) **Reverse Transcriptase**
   * [**G-50 microspin columns**](https://www.cytivalifesciences.com/en/us/shop/molecular-biology/purification/gel-filtration-columns/illustra-microspin-g-50-columns-p-00056)
