@@ -25,7 +25,7 @@ Equipment Required:
 --------------------------------------------------------------------------------
   * Thermocycler
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ___
 Protocol:
 --------------------------------------------------------------------------------
@@ -63,9 +63,9 @@ Protocol:
   | iv | 70 °C | 10:00 | Enzyme denaturation |
   | ---------: | :--------: | :---------: |:---------: |
 
-**5.** cDNA product purification:
-  * For abundant targets, product cDNA can go straight into PCR amplification.
-  * For lowly expressed targets and randomly-primed reactions, buffer exchange with G50 columns.
+**5.** cDNA product purification:  
+  ◦ For abundant targets, product cDNA can go straight into PCR amplification.  
+  ◦ For lowly expressed targets and randomly-primed reactions, buffer exchange with G50 columns.
 
 **(6.)** Dilute randomly-primed cDNA to 68 µL in preparation for second-strand synthesis.
   
