@@ -33,22 +33,22 @@ Equipment Required:
   
 Protocol:
 --------------------------------------------------------------------------------
-
+**Step 1 PCR**
 
 **1.** In 25 µl volumes, mix 1-3 µl of cDNA, 1.25 µL of each primer, and buffer components according to the polymerase chosen:  
   ◦ [Q5 Hot-start Master Mix](https://www.neb.com/protocols/2012/08/30/protocol-for-q5-hot-start-high-fidelity-2x-master-mix-m0494)
   ◦ [Q5 Hot-start Polymerase](https://www.neb.com/protocols/2012/08/30/pcr-using-q5-hot-start-high-fidelity-dna-polymerase-m0493)
   
-  _Note: A high-fidelity polymerase is required to accurately capture mutational profile.
+  _Note: A high-fidelity polymerase is required to accurately capture mutational profile._
   
   
 **2.** Incubate samples in thermocycler with the following settings:  
 
   | Cycles | Temp | Time | Step |
   | ---------: | :--------: | :---------: |:---------: |
-  | **1** | **98 °C** | **0:30** | **inital denaturation** |
+  | **1** | **98 °C** | **1:00** | **inital denaturation** |
   
-  **Optional Touchdown phase for lowly represented targets in cDNA**<br/>Annealing temp is reduced by 1 degree each cycle. Total cycles (this phase and next) should not exceed 40.
+  **Optional Touchdown phase for lowly represented targets in cDNA**<br/>Annealing temp is reduced by 1 degree each cycle. Total cycles (steps 1+2) should not exceed 30.
   || 98 °C | 0:10 | denaturation |
   | ---------: | :--------: | :---------: |:---------: |
   | **variable** | **72->target °C** | **0:30** | **annealing** |
@@ -63,16 +63,20 @@ Protocol:
   | 1 | 72 °C | 2 minutes | final extension |
   | ---------: | :--------: | :---------: |:---------: |
   
-  _Note: the extension times and annealing temps can be optimized for amplicon length and primer Tm's_
+  _Note: the extension times and annealing temps can be optimized for amplicon length and primer Tm's._
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
 **3.** Clean up 1st step PCR with a 1X ratio of [SPRI beads](./SPRI-beads.md), 2x 80% Ethanol washes, and 15 µL elution.
 
-**4.** In 50 µl volumes, mix 2 ng of step 1 product, 5 µL of each index primer, and PCR buffer components and cycle:
+<br/><br/><br/><br/><br/>
+
+**Step 2 PCR**
+
+**4.** In 50 µl PCR reactions, mix 2 ng of step 1 product and 5 µL of each index primer. Cycle as follows:
 
   | Cycles | Temp | Time | Step |
   | ---------: | :--------: | :---------: |:---------: |
-  | **1** | **98 °C** | **0:30** | **inital denaturation** |
+  | **1** | **98 °C** | **1:00** | **inital denaturation** |
   
   || 98 °C | 0:10 | denaturation |
   | ---------: | :--------: | :---------: |:---------: |
