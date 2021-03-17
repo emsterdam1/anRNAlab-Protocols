@@ -2,7 +2,10 @@
 ================================================================================
 Description: Normally used to amplify cDNA for Mutational profiling, but could be used to add adapters and indices onto any DNA target.
 
-[Go To Protocol](#protocol)
+[Go To Step 1 PCR](#step-1-pcr)
+
+[Go To Step 2 PCR](#step-2-pcr)
+
 
 Materials:
 --------------------------------------------------------------------------------
@@ -33,7 +36,7 @@ Equipment Required:
   
 Protocol:
 --------------------------------------------------------------------------------
-**Step 1 PCR**
+### Step 1 PCR
 
 **1.** In 25 µl volumes, mix 1-3 µl of cDNA, 1.25 µL of each primer, and buffer components according to the polymerase chosen:  
   ◦ [Q5 Hot-start Master Mix](https://www.neb.com/protocols/2012/08/30/protocol-for-q5-hot-start-high-fidelity-2x-master-mix-m0494)
@@ -70,7 +73,7 @@ Protocol:
 
 <br/><br/><br/><br/><br/>
 
-**Step 2 PCR**
+### Step 2 PCR
 
 **4.** In 50 µl PCR reactions, mix 2 ng of step 1 product and 5 µL of each index primer. Cycle as follows:
 
