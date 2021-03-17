@@ -35,12 +35,11 @@ Protocol:
 --------------------------------------------------------------------------------
 
 
-**1.** Mix 1-3 µl of cDNA template and 1.25 µL of each primer (per 25 µL reaction) with buffer components according to the polymerase chosen:
-
-  * [Q5 Hot-start Master Mix](https://www.neb.com/protocols/2012/08/30/protocol-for-q5-hot-start-high-fidelity-2x-master-mix-m0494)
-  * [Q5 Hot-start Polymerase](https://www.neb.com/protocols/2012/08/30/pcr-using-q5-hot-start-high-fidelity-dna-polymerase-m0493)
+**1.** In 25 µl volumes, mix 1-3 µl of cDNA, 1.25 µL of each primer, and buffer components according to the polymerase chosen:  
+  ◦ [Q5 Hot-start Master Mix](https://www.neb.com/protocols/2012/08/30/protocol-for-q5-hot-start-high-fidelity-2x-master-mix-m0494)
+  ◦ [Q5 Hot-start Polymerase](https://www.neb.com/protocols/2012/08/30/pcr-using-q5-hot-start-high-fidelity-dna-polymerase-m0493)
   
-  _Note: Sometimes other polymerases work better for specific amplicons._<br/>_For difficult amplicons, adding DMSO to a final concentration of 3 % can help._
+  _Note: A high-fidelity polymerase is required to accurately capture mutational profile.
   
   
 **2.** Incubate samples in thermocycler with the following settings:  
@@ -69,7 +68,7 @@ Protocol:
 
 **3.** Clean up 1st step PCR with a 1X ratio of [SPRI beads](./SPRI-beads.md), 2x 80% Ethanol washes, and 15 µL elution.
 
-**4.** Mix 2 ng of Step 1 product and 5 µL of each index primer (per 50 µL reaction) with PCR buffer components and cycle:
+**4.** In 50 µl volumes, mix 2 ng of step 1 product, 5 µL of each index primer, and PCR buffer components and cycle:
 
   | Cycles | Temp | Time | Step |
   | ---------: | :--------: | :---------: |:---------: |
