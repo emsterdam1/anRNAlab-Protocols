@@ -66,7 +66,7 @@ Protocol:
   ◦ For abundant targets, product cDNA can go straight into PCR amplification.  
   ◦ For lowly expressed targets and randomly-primed reactions, buffer exchange with G50 columns.
 
-**(6.)** Dilute randomly-primed cDNA to 68 µL in preparation for second-strand synthesis.
+**(6.)** Dilute randomly-primed cDNA to 34 µL in preparation for second-strand synthesis.
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
