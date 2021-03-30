@@ -69,7 +69,7 @@ Second-Strand Synthesis</a>
 <details>
   <summary>More Info</summary>
   
-  <a href="https://doi.org/10.1038/nprot.2015.103">
-Original SHAPE-MaP Protocol</a>  
+  <a href="https://www.sciencedirect.com/science/article/pii/S0022283620302552">
+Original Pyle Lab Marathon RT Protocol</a>  
 
 </details>
