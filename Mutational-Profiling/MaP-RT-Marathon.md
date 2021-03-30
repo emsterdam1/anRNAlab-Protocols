@@ -12,7 +12,7 @@ Materials:
   * **2 µM of gene specific primer (_targeted_) or 70 µM (200 ng/µL) of [random nonamer](https://www.neb.com/products/s1254-random-primer-9#Product%20Information) (_for non-targeted_)**
   * **10 mM dNTPs**
   * **5X MRT buffer** _(make fresh and keep on ice)_  
-    ◦ 250 mM Tris pH 8.0  
+    ◦ 250 mM Tris pH 7.5  
     ◦ 1 M KCl  
     ◦ 25 mM DTT _(Note: Don't use DTT that has been freeze-thawed more than once.)_  
   * **20 mM MnCl<sub>2</sub>**  
