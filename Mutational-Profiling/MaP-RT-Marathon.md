@@ -69,7 +69,7 @@ Second-Strand Synthesis</a>
 <details>
   <summary>More Info</summary>
   
-  <a href="https://www.sciencedirect.com/science/article/pii/S0022283620302552">
+  <a href="https://doi.org/10.1016/j.jmb.2020.03.022">
 Original Pyle Lab Marathon RT Protocol</a>  
 
 </details>
