@@ -29,7 +29,7 @@ Protocol:
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
   | Tagment DNA Buffer | 2X | **10**  µL | 
-  |  dsDNA | 0.1 ng/µL | **5**  µL |
+  |  dsDNA | 0.2 ng/µL | **5**  µL |
   | Amplicon Tagment Mix || **5**  µL |
   || **Total** | **20** µL |
   
