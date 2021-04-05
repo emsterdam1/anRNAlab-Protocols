@@ -41,7 +41,7 @@ Protocol:
  **2.** In a thermocycler, incubate reactions at 55 °C for 11 minutes, then cool to 10 °C.
    * *Note: Normal reaction time is 5 minutes, but plasmids are much longer than typical template* 
 
-**3.** As soon as reactions reach 10 °C, add 1.25 Neutralization Buffer (NT) and incubate 5 min at RT.
+**3.** As soon as reactions reach 10 °C, add 1.25 µL Neutralization Buffer (NT) and incubate 5 min at RT.
   * *Neutralization buffer stops the reaction, so timing is important*
   
 **4.** Assemble Nextera PCR reactions:
