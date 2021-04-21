@@ -10,7 +10,7 @@ Materials:
   
   * 100 mM stock of [NHS-Diazirine (SDA)](https://www.thermofisher.com/order/catalog/product/26167#/26167) in DMSO<br/>_Note: SDA is best diluted the day of use, but can be stored in DMSO at -20 °C for at least 1 month._
   
-  * [Trizol lysis reagent](https://www.thermofisher.com/order/catalog/product/15596026#/15596026) 
+  * [Trizol](https://www.thermofisher.com/order/catalog/product/15596026#/15596026) lysis reagent
      
 Equipment Required:
 --------------------------------------------------------------------------------
