@@ -1,6 +1,6 @@
 Orthogonal Organic Phase Separation (OOPS) of bound RNA
 ================================================================================
-Description: Crosslinked ribonucleoprotein (RNP) complexes end up in the interface during phase separation.<br/>
+Description: Crosslinked ribonucleoprotein complexes are retained in interface during phase separation.<br/>
 This fact enables easy separation of protein-crosslinked and uncrosslinked RNA.
 
 [Go To Protocol](#protocol)
@@ -87,7 +87,7 @@ _Note: If enzyme not RNA-grade, pre-incubate with buffer at 50 °C for 15 minute
 **Part 5: Isopropanol precipitation of bound and unbound RNAs (30 minutes)**
 
 _You can retrieve the unbound RNAs from storage and precipitate together with the bound RNAs._<br/>
-_Bound and unbound RNA fractions will be at ~350 and ~450 µL, respectively.
+_Bound and unbound RNA fractions will be at ~350 and ~450 µL, respectively._
 
 **14.** To each RNA sample fraction, add 600 µL isopropanol and vortex 15 seconds.
 
