@@ -65,6 +65,7 @@ _Note: If not using RNA grade Proteinase K, helpful to pre-incubate the enzyme a
 
 **10.** Incubate samples at 50 °C (shake at 400 rpm) for 1.5 - 2 hours to digest crosslinked proteins.
 
+<br/><br/>
 **Part 4: Prepare bound RNA fraction for precipitation (20 minutes)**
 
 **11.** Add 1 volume of PCA (300 µL) to each digested sample, vortex for 15 seconds, and separate phases at 12,000 x g for 15 minutes at 4 °C.
