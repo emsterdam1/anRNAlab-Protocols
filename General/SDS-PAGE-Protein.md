@@ -1,4 +1,4 @@
-SDS-PAGE for protein
+SDS-PAGE for protein (NOT COMPLETED)
 ================================================================================
 Description: A polyacrylamide matrix and electric current is used to separate proteins within a mixture.
 
