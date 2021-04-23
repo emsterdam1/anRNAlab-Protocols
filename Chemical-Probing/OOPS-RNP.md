@@ -46,6 +46,7 @@ Protocol:
 _Note: Initial aqueous phases can be stored on ice for 2-3 hours or long-term at -80 °C._<br/>
 _This fraction contains uncrosslinked (unbound) RNA._
 
+<br/><br/>
 **Part 2: Clean crosslinked RNP interface (40 minutes)**
 
 **5.** Remove the (bottom) organic phase from the remaining interphase layer and discard (in appropriate waste container).<br/>
@@ -58,6 +59,7 @@ _Note 2: In other protocols, this discarded phenol organic phase could be saved 
 
 **8.** Pellet interface at 14,000 x g for 10 minutes (4 °C or room temp). Discard supernatant and <ins>repeat</ins> methanol wash once.
 
+<br/><br/>
 **Part 3: Digest crosslinked proteins (2 hours)**
 
 **9.** To cleaned interface pellet, add 300 µL of Proteinase K buffer with a final concentration of 0.5 mg/ml Proteinase K.<br/>
@@ -65,13 +67,14 @@ _Note: If not using RNA grade Proteinase K, helpful to pre-incubate the enzyme a
 
 **10.** Incubate samples at 50 °C (shake at 400 rpm) for 1.5 - 2 hours to digest crosslinked proteins.
 
-<br/><br/>
+
 **Part 4: Prepare bound RNA fraction for precipitation (20 minutes)**
 
 **11.** Add 1 volume of PCA (300 µL) to each digested sample, vortex for 15 seconds, and separate phases at 12,000 x g for 15 minutes at 4 °C.
 
 **12.** Transfer (top) aqueous phase to a new tube and add 50 µL of 3M sodium acetate
 
+<br/><br/>
 **Part 5: Isopropanol precipitation of bound and unbound RNAs (30 minutes)**
 
 _You can retrieve the unbound RNAs from storage and precipitate together with the bound RNAs._
