@@ -31,8 +31,6 @@ Equipment Required:
   * High-speed microcentrifuge
   * 50 °C heat block (ideally with rotation)
 
-<br/><br/><br/><br/>
-
 ___
 Protocol:
 --------------------------------------------------------------------------------
