@@ -28,3 +28,5 @@ Protocol:
 
 **4.** Purify RNA using 1.8X volumes of [SPRI beads](../NGS/SPRI-beads.md), washing 3x in 70% ethanol and eluting in 20-50 µl nuclease-free water.<br/>_Note: SPRI beads purify RNA without heat-denaturing the DNase, avoiding degradation of RNA in the absence of the right metal chelators._ 
 
+Purified RNA can used for standard reverse transcription or [mutational profiling](../Mutational-Profiling/MaP-RT-Marathon.md).
+
