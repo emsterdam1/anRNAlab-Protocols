@@ -25,8 +25,17 @@ Table of Contents
 
 General
 --------------------------------------------------------------------------------
-* [Phusion PCR](./General/Phusion-PCR.md)
+* [BCA Assay](./General/BCA-Assay.md)
+* [DNA Agarose Gel](./General/DNA-Agarose-Gel.md)
+* [Reseal Inverse PCRs](./General/Dpn1-Kinase-Ligate-Inv-PCR.md)
+* [Making frozen cell stocks](./General/Freezing-Cells.md)
+* [Gibson Assembly](./General/Gibson-Assembly.md)
 * [Restriction Digest](./General/Restriction-Digest.md)
+* [SDS-PAGE for protein](./General/SDS-PAGE-Protein.md)
+* [Standard PCR](./General/Standard-PCR.md)
+* [DNase treatment of RNA](./General/TURBO-DNase.md)
+* [Trizol RNA Purification](./General/Trizol-RNA-Purification.md)
+* [Western Blotting](./General/Western-Blotting.md)
 
 Gateway Cloning
 --------------------------------------------------------------------------------
