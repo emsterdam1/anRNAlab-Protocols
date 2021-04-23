@@ -27,14 +27,6 @@ Protocol:
 
 **7.** Remove most of the ethanol, spin down and remove residual ethanol, and then air dry pellets for 5-8 minutes.
 
-**8.** Resuspend in 44 or 88 µl (depending on expected yield) of nuclease-free water in preparation for DNase treatment.
+**8.** Resuspend in 44 or 88 µl (depending on expected yield) of nuclease-free water in preparation for [DNase treatment](./TURBO-DNase.md).<br/>_Note: DNase treatment is not necessary if RNA is not from a cell or tissue source._
 
-<!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
-<details>
-  <summary>Next Steps</summary>
-
-</p> <a href="./TURBO-DNase.md">
-DNase treatment of cellular RNA</a>
-
-</details>
