@@ -15,9 +15,13 @@ This method does not work in Firefox.
 Table of Contents
 --------------------------------------------------------------------------------
 * [Procedure Template](Procedure-Template.md)
-* [General](#gateway-cloning)
+* [General](#general)
+* [Chemical Probing](#chemical-probing)
+* [Mutational Profiling](#mutational-profiling)
 * [Gateway Cloning](#gateway-cloning)
-* [NGS](#gateway-cloning)
+* [Lentivirus Stables](#lentivirus-stables)
+* [Proximity Labeling](#proximity-labeling)
+* [NGS](#ngs)
 
 General
 --------------------------------------------------------------------------------
