@@ -21,7 +21,7 @@ Materials:
     * 10 mM EDTA (Metal chelator)
   * 20 mg/ml [Proteinase K](https://www.thermofisher.com/order/catalog/product/25530049#/25530049)
   * [Acid PCA](https://www.thermofisher.com/order/catalog/product/AM9722#/AM9722) (phenol:chloroform:isoamyl alcohol 125:25:1)<br/>
-  _Note: Acid phenol is better at separating RNA, but normal formulations of PCA and salts are acceptable._
+  _Note: Acid phenol is better at separating RNA, but normal pH PCA and salts are also acceptable._
   * [3M Sodium Acetate](https://www.fishersci.com/shop/products/sodium-acetate-3m-aq-soln-ph-4-5-autoclaved/AAJ61288EQE) pH 4.5
   * Optional for low concentrations: [glycogen](https://www.thermofisher.com/order/catalog/product/10814010#/10814010)
   
@@ -80,13 +80,13 @@ _Note: If enzyme not RNA-grade, pre-incubate with buffer at 50 °C for 15 minute
 
 **13.** Transfer (top) aqueous phase to a new tube and add 50 µL of 3M sodium acetate
 
-<br/>
+<br/><br/>
 
 **Part 5: Isopropanol precipitation of bound and unbound RNAs (30 minutes)**
 
 _You can retrieve the unbound RNAs from storage and precipitate together with the bound RNAs._
 
-**14.** To bound (~350 µL) and unbound (~450 µL) RNA fractions, add 600 µL isopropanol and vortex 15 seconds.
+**14.** To bound (~350 µL) and unbound (~450 µL) RNA samples, add 600 µL isopropanol and vortex 15 seconds.
 
 **15.** Pellet RNA precipitate at 15-20,000 x g for 10 minutes at 4 °C. Discard supernatant.
 
