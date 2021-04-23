@@ -46,46 +46,50 @@ Protocol:
 _Note: Initial aqueous phases can be stored on ice for 2-3 hours or long-term at -80 °C._<br/>
 _This fraction contains uncrosslinked (unbound) RNA._
 
-<br/><br/>
+<br/
 **Part 2: Clean crosslinked RNP interface (40 minutes)**
 
-**5.** Remove the (bottom) organic phase from the remaining interphase layer and discard (in appropriate waste container).<br/>
-_Note 1: Use a pipette tip to "pierce" the interphase from one side of the tube before withdrawing liquid from the bottom_<br/>
-_Note 2: In other protocols, this discarded phenol organic phase could be saved as the unbound protein fraction._
+**5.** Remove (bottom) organic phase and discard (in appropriate waste container), retaining only the interface.<br/>
+_Note 1: "Pierce" the interface from one side of the tube before withdrawing liquid from the bottom_<br/>
+_Note 2: The discarded phenol organic phase could be saved as an unbound protein fraction._
 
-**6.** Clean up the remaining interphase first with two subsequent 1 mL Trizol separations, discarding the aqueous and organic phases each time.
+**6.** Clean up the interface first with two subsequent 1 mL Trizol separations, retaining interface each time.
 
-**7.** To the remaining interface, add 9 volumes of 100% methanol (~900 µL). Invert mix and vortex 15 seconds.
+**7.** To the final interface, add 9 volumes of 100% methanol (~900 µL). Vortex 15 seconds.
 
-**8.** Pellet interface at 14,000 x g for 10 minutes (4 °C or room temp). Discard supernatant and <ins>repeat</ins> methanol wash once.
+**8.** Pellet interface at 14,000 x g for 10 minutes (4 °C or room temp). 
 
-<br/><br/>
+**9.** Discard supernatant and <ins>repeat</ins> methanol wash once.
+
+<br/>
 **Part 3: Digest crosslinked proteins (2 hours)**
 
-**9.** To cleaned interface pellet, add 300 µL of Proteinase K buffer with a final concentration of 0.5 mg/ml Proteinase K.<br/>
-_Note: If not using RNA grade Proteinase K, helpful to pre-incubate the enzyme and buffer at 50 °C for 15 minutes to remove RNase activity_
+**10.** To cleaned interface, add 300 µL of Proteinase K buffer with a final concentration of 0.5 mg/ml Proteinase K.<br/>
+_Note: If not using RNA grade enzyme, pre-incubate enzyme and buffer at 50 °C for 15 minutes to remove RNase activity_
 
-**10.** Incubate samples at 50 °C (shake at 400 rpm) for 1.5 - 2 hours to digest crosslinked proteins.
+**11.** Incubate samples at 50 °C (shake at 400 rpm) for 1.5 - 2 hours to digest crosslinked proteins.
 
 
 **Part 4: Prepare bound RNA fraction for precipitation (20 minutes)**
 
-**11.** Add 1 volume of PCA (300 µL) to each digested sample, vortex for 15 seconds, and separate phases at 12,000 x g for 15 minutes at 4 °C.
+**12.** Add 1 volume of PCA (300 µL) to each sample, vortex 15 seconds, and spin at 12,000 x g for 15 minutes at 4 °C.
 
-**12.** Transfer (top) aqueous phase to a new tube and add 50 µL of 3M sodium acetate
+**13.** Transfer (top) aqueous phase to a new tube and add 50 µL of 3M sodium acetate
 
-<br/><br/>
+<br/>
 **Part 5: Isopropanol precipitation of bound and unbound RNAs (30 minutes)**
 
 _You can retrieve the unbound RNAs from storage and precipitate together with the bound RNAs._
 
-**13.** To each bound (~350 µL) and unbound (~450 µL) RNA fraction, add 600 µL of isopropanol and vortex 15 seconds.
+**14.** To each bound (~350 µL) and unbound (~450 µL) RNA fraction, add 600 µL isopropanol and vortex 15 seconds.
 
-**14.** Pellet RNA precipitate at 15-20,000 x g for 10 minutes at 4 °C. Discard supernatant.
+**15.** Pellet RNA precipitate at 15-20,000 x g for 10 minutes at 4 °C. Discard supernatant.
 
-**15.** Add 900 µL 100% ethanol, spin 5 minutes, and discard ethanol. Repeat wash once with 70% ethanol and air dry pellet for 5 minutes.
+**16.** Add 900 µL 100% ethanol, spin 5 minutes, and discard ethanol. 
 
-**16.** Resuspend in 44 µl of nuclease-free water in preparation for [DNase treatment](../General/TURBO-DNase.md).<br/>
+**17.** Repeat wash once with 70% ethanol and air dry pellet for 5 minutes.
+
+**18.** Resuspend in 44 µl of nuclease-free water in preparation for [DNase treatment](../General/TURBO-DNase.md).<br/>
 _Note: DNase treatment is not necessary if RNA is not from a cell or tissue source._
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
