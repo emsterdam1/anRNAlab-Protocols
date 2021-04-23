@@ -21,7 +21,7 @@ Materials:
     * 10 mM EDTA (Metal chelator)
   * 20 mg/ml [Proteinase K](https://www.thermofisher.com/order/catalog/product/25530049#/25530049)
   * [Acid PCA](https://www.thermofisher.com/order/catalog/product/AM9722#/AM9722) (phenol:chloroform:isoamyl alcohol 125:25:1)<br/>
-  _Note: Acid phenol is better at separating RNA, but normal formulations of PCA and salts can also be used._
+  _Note: Acid phenol is better at separating RNA, but normal formulations of PCA and salts are acceptable._
   * [3M Sodium Acetate](https://www.fishersci.com/shop/products/sodium-acetate-3m-aq-soln-ph-4-5-autoclaved/AAJ61288EQE) pH 4.5
   * Optional for low concentrations: [glycogen](https://www.thermofisher.com/order/catalog/product/10814010#/10814010)
   
@@ -34,9 +34,10 @@ Equipment Required:
 ___
 Protocol:
 --------------------------------------------------------------------------------
+
 **Part 1: Extract unbound RNA fraction (40 minutes)**
 
-**1.** Homogenize cells in Trizol (**all steps assume 1 mL per sample**) and let sit for 5 minutes at room temperature.
+**1.** Homogenize cells (**all steps assume 1 mL Trizol per sample**) and set 5 minutes at room temperature.
 
 **2.** Add 200 µL of chloroform to each sample, vortex mix for 15 seconds.
   
@@ -46,10 +47,11 @@ Protocol:
 _Note: Initial aqueous phases can be stored on ice for 2-3 hours or long-term at -80 °C._<br/>
 _This fraction contains uncrosslinked (unbound) RNA._
 
-<br/
+<br/>
+
 **Part 2: Clean crosslinked RNP interface (40 minutes)**
 
-**5.** Remove (bottom) organic phase and discard (in appropriate waste container), retaining only the interface.<br/>
+**5.** Discard (bottom) organic phase (in appropriate waste container), retaining only the interface.<br/>
 _Note 1: "Pierce" the interface from one side of the tube before withdrawing liquid from the bottom_<br/>
 _Note 2: The discarded phenol organic phase could be saved as an unbound protein fraction._
 
@@ -62,26 +64,29 @@ _Note 2: The discarded phenol organic phase could be saved as an unbound protein
 **9.** Discard supernatant and <ins>repeat</ins> methanol wash once.
 
 <br/>
+
 **Part 3: Digest crosslinked proteins (2 hours)**
 
-**10.** To cleaned interface, add 300 µL of Proteinase K buffer with a final concentration of 0.5 mg/ml Proteinase K.<br/>
-_Note: If not using RNA grade enzyme, pre-incubate enzyme and buffer at 50 °C for 15 minutes to remove RNase activity_
+**10.** To cleaned interface, add 300 µL Proteinase K buffer + 0.5 mg/ml Proteinase K enzyme.<br/>
+_Note: If enzyme not RNA-grade, pre-incubate with buffer at 50 °C for 15 minutes to remove RNase activity_
 
 **11.** Incubate samples at 50 °C (shake at 400 rpm) for 1.5 - 2 hours to digest crosslinked proteins.
 
+<br/>
 
 **Part 4: Prepare bound RNA fraction for precipitation (20 minutes)**
 
-**12.** Add 1 volume of PCA (300 µL) to each sample, vortex 15 seconds, and spin at 12,000 x g for 15 minutes at 4 °C.
+**12.** Add 300 µL PCA to each sample, vortex 15 seconds, and spin at 12,000 x g for 15 minutes at 4 °C.
 
 **13.** Transfer (top) aqueous phase to a new tube and add 50 µL of 3M sodium acetate
 
 <br/>
+
 **Part 5: Isopropanol precipitation of bound and unbound RNAs (30 minutes)**
 
 _You can retrieve the unbound RNAs from storage and precipitate together with the bound RNAs._
 
-**14.** To each bound (~350 µL) and unbound (~450 µL) RNA fraction, add 600 µL isopropanol and vortex 15 seconds.
+**14.** To bound (~350 µL) and unbound (~450 µL) RNA fractions, add 600 µL isopropanol and vortex 15 seconds.
 
 **15.** Pellet RNA precipitate at 15-20,000 x g for 10 minutes at 4 °C. Discard supernatant.
 
