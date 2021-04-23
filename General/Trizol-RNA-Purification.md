@@ -6,6 +6,7 @@ Materials:
 --------------------------------------------------------------------------------
   * Cells/nuclei on a plate or in a pellet 
   * [Trizol](https://www.thermofisher.com/order/catalog/product/15596026#/15596026) lysis reagent
+  * Chloroform
   * 75% ethanol
   * Optional for low concentrations: [glycogen](https://www.thermofisher.com/order/catalog/product/10814010#/10814010)
      
