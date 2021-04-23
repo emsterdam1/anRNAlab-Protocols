@@ -1,4 +1,4 @@
-Western Blotting
+Western Blotting (NOT COMPLETED)
 ================================================================================
 Description: Proteins are transferred onto a membrane and probed for specific targets with antibodies.
 
