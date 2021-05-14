@@ -20,35 +20,7 @@ Equipment Required:
   * 42 °C water bath
   * 37 °C shaker
   
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <!-- Use <br/> to fill in first page -->
   
@@ -72,10 +44,10 @@ Protocol:
    * can be 15 minutes if only assembling 2-3 fragments
    * samples must be chilled before transformation
  
-**3.** (If assembling a plasmid) Use 2 µL  of product to transform 20 µL of competent cells.
+**3.** (If assembling a plasmid) Use 2 µL of 4-fold diluted product to transform 50 µL of competent cells.
    * *Mix 30 min on ice*
    * *Heat shock 45 sec at 42 °C, return to ice for 2 min*
-   * *Recover 1 hr at 37 °C with 80 µL of SOC*
+   * *Recover 1 hr at 37 °C with 200 µL of SOC*
    * *plate on LB + antibiotic*
 
 
