@@ -1,4 +1,30 @@
-ARL#,Name,Type,target vector,Vendor,Ref #,sequence
-001,pTETRIS 3p seq R,Sequencing,pTETRIS CARGO,Thermo,67702505,CAAGTAAGACCTCTACAATGTGG
-002,pTETRIS ENE 3p seq R,Sequencing,pTETRIS CARGO,Thermo,67702505,TGGAAACCAGGAGTGCC
-003,pTETRIS 5p seq F,Sequencing,pTETRIS CARGO,Thermo,67702505,AGAACGTATGTCGAGGTAGG
+ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
+001,pTETRIS 3p seq R,Sequencing,pTETRIS CARGO,MALAT1,Thermo,67702505,CAAGTAAGACCTCTACAATGTGG
+002,pTETRIS ENE 3p seq R,Sequencing,pTETRIS CARGO,MALAT1,Thermo,67702505,TGGAAACCAGGAGTGCC
+003,pTETRIS 5p seq F,Sequencing,pTETRIS CARGO,MALAT1,Thermo,67702505,AGAACGTATGTCGAGGTAGG
+004,DECKO insert2 gBlock,CRISPR,pDECKO,MALAT1,IDT,21368384,gttttagagctagaaatagcaagttaaaataaggctagtccgttatcaacttgaaaaagtggcaccgagtcggtgcttttttgaacgctgacgtcatcaacccgctccaaggaatcgcgggcccagtgtcactaggcgggaacacccagcgcgcgtgcgccctggcaggaagatggctgtgagggacaggggagtggcgccctgcaatatttgcatgtcgctatgtgttctgggaaatcaccataaacgtgaaatgtctttggatttgggagtcttataagttctgtatgagaccac
+005,DECKO insert2 F,CRISPR,pDECKO,MALAT1,Thermo,67999557,gttttagagctagaaatagcaag
+006,DECKO insert2 R,CRISPR,pDECKO,MALAT1,Thermo,67999557,gtggtctcatacagaacttataag
+007,MALAT1_C DECKO 1R,CRISPR,pDECKO,MALAT1,Thermo,67999557,caactgagccccagccggtgtttcgtcctttccacaagat
+008,MALAT1_C DECKO 2F,CRISPR,pDECKO,MALAT1,Thermo,67999557,caccggctggggctcagttgcgtaaGTTTTAGAGCTAGAAGAGAC
+009,Universal DECKO 3R,CRISPR,pDECKO,MALAT1,Thermo,67999557,GAGACGGGATCCTAGGAATTCCGTCTCTTCTAGCTCTAAAAC
+010,Universal DECKO 4F,CRISPR,pDECKO,MALAT1,Thermo,67999557,TTCCTAGGATCCCGTCTCTCTGTatgagaccactctttccc
+011,MALAT1_C DECKO 5R,CRISPR,pDECKO,MALAT1,Thermo,67999557,aacccgtcatgttttagaaacctgggaaagagtggtctcat
+012,MALAT1_C DECKO 6F,CRISPR,pDECKO,MALAT1,Thermo,67999557,tctaaaacatgacgggttttagagctagaaatagcaagtt
+013,MALAT1_A DECKO 1R,CRISPR,pDECKO,MALAT1,Thermo,67999557,AATTGAGAACAGCTGcggtgtttcgtcctttccacaagat
+014,MALAT1_A 2F,CRISPR,pDECKO,MALAT1,Thermo,67999557,caccgCAGCTGTTCTCAATTGACGCGTTTTAGAGCTAGAAGAGAC
+015,MALAT1_A DECKO 5R,CRISPR,pDECKO,MALAT1,Thermo,67999557,aacCTTAAGCGCAGCGCCATTTTgggaaagagtggtctcat
+016,MALAT1_A DECKO 6F,CRISPR,pDECKO,MALAT1,Thermo,67999557,GGCGCTGCGCTTAAGgttttagagctagaaatagcaagtt
+017,EcoRI TRE F,Cloning,pDexTet,MALAT1,Thermo,68327953,ggacgaattcCCTTTCGTCTTCACTCGAGTTTAC
+018,XbaI TRE R,Cloning,pDexTet,MALAT1,Thermo,68327953,gcgctctagaaccggtcTCCAGGCGATCTGACGG
+019,Stop-UBC-rtTA F,Cloning,pDexTet,MALAT1,Thermo,68327953,acgatgacgataagggatAAAGATGGTTAATTAACCCACCCAAG
+020,P2A rtTA R,Cloning,pDexTet,MALAT1,Thermo,68327953,aagtttgttgcgccGGACCCGGGGAGCATGTC
+021,DECKO TRE amp F,Cloning,pDexTet,MALAT1,Thermo,68327953,CTTAATTAACCGTTTgagggcctatttcccatgattcc
+022,dCas9 TRE amp R,Cloning,pDexTet,MALAT1,Thermo,68327953,TTCTTGTCCATGCCCGCGGCagcgctctagaaccggtc
+023,Flag-stop amp F,Cloning,pDexTet,MALAT1,Thermo,68327953,AGAAGAGAAAGGTAGGCgattacaaagacgatgacgataaggg
+024,T2A rtTA amp R,Cloning,pDexTet,MALAT1,Thermo,68327953,CCCTCTCCGCTTCCGctCCCGGGGAGCATGTCAAG
+025,dCas9 NLS amp F,Cloning,pDexTet,MALAT1,Thermo,68327953,GCTCGGAGGGGATgccCCCAAGAAGAAGAGGAAGGTG
+026,dCas9 BsmBI-del amp R,Cloning,pDexTet,MALAT1,Thermo,68327953,ctcgtTtcttcatcgggatcctccaac
+027,dCas9 BsmBI-del amp F,Cloning,pDexTet,MALAT1,Thermo,68327953,cgatgaagaAacgagccaggctgtcaaag
+028,Blast amp R,Cloning,pDexTet,MALAT1,Thermo,68327953,ACATCGTCGAGTGGCGAATTCttaGCCCTCCCACAC
+029,Rta AD Flag amp F,Cloning,pDexTet,MALAT1,Thermo,68327953,acacatctctgtttGGCgattacaaagacgatgacgataaggg
