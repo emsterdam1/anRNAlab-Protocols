@@ -28,3 +28,7 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 027,dCas9 BsmBI-del amp F,Cloning,pDexTet,MALAT1,Thermo,68327953,cgatgaagaAacgagccaggctgtcaaag
 028,Blast amp R,Cloning,pDexTet,MALAT1,Thermo,68327953,ACATCGTCGAGTGGCGAATTCttaGCCCTCCCACAC
 029,Rta AD Flag amp F,Cloning,pDexTet,MALAT1,Thermo,68327953,acacatctctgtttGGCgattacaaagacgatgacgataaggg
+030,U6 seq F,Sequencing,pDECKO,MALAT1,Thermo,68653088,ggcctatttcccatgattcc
+031,DECKO insert seq F,Sequencing,pDECKO,MALAT1,Thermo,68653088,atggactatcatatgcttaccg
+032,DECKO insert seq R,Sequencing,pDECKO,MALAT1,Thermo,68653088,gtctcaagatctagttacgcc
+033,Cas9 upstream seq R,Sequencing,pDexTet,MALAT1,Thermo,68653088,GGCACCTTGTACTCGTC
