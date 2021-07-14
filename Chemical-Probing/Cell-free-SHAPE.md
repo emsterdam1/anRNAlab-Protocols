@@ -16,7 +16,8 @@ Materials:
     ◦ 1 mM CaCl<sub>2</sub>  
     ◦ 256 mM Sucrose  
     ◦ 0.5 % Triton X-100  
-    ◦ 800 U/mL [RNasin](https://www.promega.com/products/rna-analysis/rnase-inhibitor-rna-protection/rnasin-ribonuclease-inhibitor/?catNum=N2515#overview)  
+    ◦ 800 U/mL [RNase Inhibitor](https://www.promega.com/products/rna-analysis/rnase-inhibitor-rna-protection/rnasin-ribonuclease-inhibitor/?catNum=N2515#overview)  
+    ◦ 450 U/mL [DNase](https://www.sigmaaldrich.com/US/en/product/roche/04716728001?gclid=CjwKCAjwlrqHBhByEiwAnLmYUF7uNch8ZtYvdJEVUtHcejUvWKjIPZmwarWgjhkKkK72v79CWCJXKRoC0bUQAvD_BwE)
   
      
 Equipment Required:
