@@ -1,16 +1,15 @@
-Cell-free RNA structure probing with SHAPE reagents
+Cell-free RNA structure probing with SHAPE
 ================================================================================
 Description: SHAPE reagents label 2'OH of flexible unbound RNA nucleotides.
 
 Materials:
 --------------------------------------------------------------------------------
-  * Mostly confluent cells (for HEK293T cells, plate 500K cells in a 10 cm dish and grow up 2 days) <br/>_Note: You will need 2 dishes for ample RNA._ 
+  ### Solutions and Buffers ###
   
   * 1X Phosphate-buffered saline pH 7.4
-  
-  * 10X stock of SHAPE reagent. _Note: Store reagents dry and dilute in DMSO immediately before use._  
-    ◦ For a 10X stock of [5NIA](https://www.sigmaaldrich.com/catalog/product/aldrich/s428396) in DMSO, 5.2 mg/100 µl yields 250 mM  
-    ◦ a 10X stock of [1M7](https://www.sigmaaldrich.com/US/en/product/aldrich/908401) is 100 mM, [NAI](https://www.sigmaaldrich.com/catalog/product/mm/03310) and [NAI-N3](https://www.sigmaaldrich.com/catalog/product/aldrich/913812) is 1 M
+  * 25:24:1 Phenol Chloroform Isoamyl Alcohol [(PCA)](https://www.thermofisher.com/order/catalog/product/15593031#/15593031)
+  * 5M NaCl
+  * 20 % SDS
   
   * **2X Cell-Free Lysis Buffer** 
     ◦ 80 mM Tris pH 8.0    
@@ -20,7 +19,7 @@ Materials:
     ◦ 500 mM Sucrose    
     ◦ 1 % Triton X-100    
   
-  * **2X Proteinase K Digestion Buffer** _Note: Salt precipitates at temperatures below 20 °C. Keep 2X at room temperature._   
+  * **2X Proteinase K Digestion Buffer** _Note: Keep 2X at room temperature._   
     ◦ 80 mM Tris pH 8.0  
     ◦ 400 mM NaCl    
     ◦ 40 mM EDTA  
@@ -31,12 +30,14 @@ Materials:
     ◦ 111 mM NaCl      
     ◦ 5.55 mM MgCl<sub>2</sub>    
   
+ ### Other materials and reagents ### 
+  * Confluent cells (for HEK293T cells, plate 500K cells each in 2 10 cm dishes and grow up 2 days)
+  * 10X stock of SHAPE reagent. _Note: Store reagents dry and dilute in DMSO immediately before use._  
+    ◦ For a 10X stock of [5NIA](https://www.sigmaaldrich.com/catalog/product/aldrich/s428396) in DMSO, 5.2 mg/100 µl yields 250 mM  
+    ◦ a 10X stock of [1M7](https://www.sigmaaldrich.com/US/en/product/aldrich/908401) is 100 mM, [NAI](https://www.sigmaaldrich.com/catalog/product/mm/03310) and [NAI-N3](https://www.sigmaaldrich.com/catalog/product/aldrich/913812) is 1 M 
   * [RNase Inhibitor](https://www.promega.com/products/rna-analysis/rnase-inhibitor-rna-protection/rnasin-ribonuclease-inhibitor/?catNum=N2515#overview)
   * [High concentration DNase I](https://www.sigmaaldrich.com/US/en/product/roche/04716728001?context=product)
   * 20 mg/mL [Proteinase K](https://www.thermofisher.com/order/catalog/product/EO0491#/EO0491)
-  * 25:24:1 Phenol Chloroform Isoamyl Alcohol [(PCA)](https://www.thermofisher.com/order/catalog/product/15593031#/15593031)
-  * 5M NaCl
-  * 20 % SDS
   * [PD-10](https://www.sigmaaldrich.com/US/en/product/sigma/ge17085101) G-25 Sephadex desalting columns
   * [20 mg/ml glycogen](https://www.thermofisher.com/order/catalog/product/R0561#/R0561)
   
