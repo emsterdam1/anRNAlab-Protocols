@@ -2,14 +2,11 @@ Cell-free RNA structure probing with SHAPE
 ================================================================================
 Description: SHAPE reagents label 2'OH of flexible unbound RNA nucleotides.
 
-Materials:
 --------------------------------------------------------------------------------
   ### Solutions and Buffers ###
   
   * 1X Phosphate-buffered saline pH 7.4
   * 25:24:1 Phenol Chloroform Isoamyl Alcohol [(PCA)](https://www.thermofisher.com/order/catalog/product/15593031#/15593031)
-  * 5M NaCl
-  * 20 % SDS
   
   * **2X Cell-Free Lysis Buffer** 
     ◦ 80 mM Tris pH 8.0    
@@ -25,7 +22,7 @@ Materials:
     ◦ 40 mM EDTA  
     ◦ 3 % SDS
     
-  * **1.11X Folding Buffer** 
+  * **1.11X Folding Buffer**  
     ◦ 111 mM HEPES pH 8.0    
     ◦ 111 mM NaCl      
     ◦ 5.55 mM MgCl<sub>2</sub>    
