@@ -46,18 +46,18 @@ Equipment Required:
   * Centrifuge equipped with high-speed rotor for 15 ml and 50 ml conical tubes
   <br/>_Note: ensure your conical tubes can withstand necessary g-forces._
   * Fume hood for work with phenol
-___
+
 Protocol:
 --------------------------------------------------------------------------------
 ### Part 1: Cell Lysis and Fractionation (20 minutes) ###
 
 **1.** Prepare ice-cold 1X Cell-Free lysis buffer with 800 U/mL RNase Inhibitor and 450 U/mL of DNase I.
 
-**2.** Wash cells (in 10 cm dishes) twice in 5 mL PBS.<br/>_Note: Suspension cells will have to be pelleted._
+**2.** Wash cells (in 10 cm dishes) twice in 5 mL PBS. _Note: Suspension cells will have to be pelleted._
 
 **3.** Scrape cells into 2.5 mL of the prepared cold 1X Cell-Free lysis buffer. Incubate for 5 minutes at 4 °C.
     
-**4.** Pellet nuclei at 1500 x g for 5 minutes at 4 °C. Retain separately both the cytoplasmic lysate and nuclear pellet.
+**4.** Pellet nuclei at 1500 x g for 5 minutes at 4 °C. Carefully separate the cytoplasmic lysate and nuclear pellet.
 
 ### Part 2: Protein Digestion (60 minutes) ###
 
