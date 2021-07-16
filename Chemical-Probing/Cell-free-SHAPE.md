@@ -8,9 +8,9 @@ Materials:
   
   * 1X Phosphate-buffered saline pH 7.4
   
-  * 10X stock of SHAPE reagent. _Note: SHAPE reagents must be stored dry and made up in DMSO immediately before probing._
-    * For a 10X stock of [5NIA](https://www.sigmaaldrich.com/catalog/product/aldrich/s428396) in DMSO, 5.2 mg/100 µl yields 250 mM
-    * a 10X stock of [1M7](https://www.sigmaaldrich.com/US/en/product/aldrich/908401) is 100 mM, [NAI](https://www.sigmaaldrich.com/catalog/product/mm/03310) and [NAI-N3](https://www.sigmaaldrich.com/catalog/product/aldrich/913812) is 1 M
+  * 10X stock of SHAPE reagent. _Note: Store reagents dry and dilute in DMSO immediately before use._  
+    ◦ For a 10X stock of [5NIA](https://www.sigmaaldrich.com/catalog/product/aldrich/s428396) in DMSO, 5.2 mg/100 µl yields 250 mM  
+    ◦ a 10X stock of [1M7](https://www.sigmaaldrich.com/US/en/product/aldrich/908401) is 100 mM, [NAI](https://www.sigmaaldrich.com/catalog/product/mm/03310) and [NAI-N3](https://www.sigmaaldrich.com/catalog/product/aldrich/913812) is 1 M
   
   * **2X Cell-Free Lysis Buffer** 
     ◦ 80 mM Tris pH 8.0    
@@ -20,7 +20,7 @@ Materials:
     ◦ 500 mM Sucrose    
     ◦ 1 % Triton X-100    
   
-  * **2X Proteinase K Digestion Buffer** <br/>_Note: Salt precipitates at temperatures below 20 °C. Keep 2X at room temperature._   
+  * **2X Proteinase K Digestion Buffer** _Note: Salt precipitates at temperatures below 20 °C. Keep 2X at room temperature._   
     ◦ 80 mM Tris pH 8.0  
     ◦ 400 mM NaCl    
     ◦ 40 mM EDTA  
