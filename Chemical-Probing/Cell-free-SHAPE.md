@@ -57,7 +57,7 @@ Protocol:
 
 **3.** Scrape cells into 2.5 mL of the prepared cold 1X Cell-Free lysis buffer. Incubate for 5 minutes at 4 °C.
     
-**4.** Pellet nuclei at 1500 x g for 5 minutes at 4 °C. Carefully separate the cytoplasmic lysate and nuclear pellet.
+**4.** Pellet nuclei at 2250 x g for 3 minutes at 4 °C. Carefully separate the cytoplasmic lysate and nuclear pellet.
 
 ### Part 2: Protein Digestion (60 minutes) ###
 
