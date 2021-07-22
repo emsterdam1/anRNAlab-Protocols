@@ -14,6 +14,7 @@ Materials:
 Equipment Required:
 --------------------------------------------------------------------------------
   * Cell culture incubator and hood
+  * Clinical swinging bucket centrifuge (for suspension cells)
 ___
 Protocol:
 --------------------------------------------------------------------------------
