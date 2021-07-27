@@ -57,7 +57,7 @@ Equipment Required:
 
   * Li-Cor imager (or other detector specific to secondary antibody label)
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <!-- Use <br/> to fill in first page -->
 
 ___
