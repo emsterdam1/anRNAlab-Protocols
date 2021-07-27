@@ -65,46 +65,44 @@ Protocol:
 --------------------------------------------------------------------------------
 ### Day 1
 
-**1.** Make up 2X Transfer Buffer in 10% methanol. (100 mL 20X, 100 mL methanol, 800 mL water)
-
-**2.** Cut membrane and whatman paper to size appropriate to transfer apparatus.
+**1.** Make up 2X Transfer Buffer in 10% methanol. (100 mL 20X, 100 mL methanol, 800 mL water)<br/>
+Cut membrane and whatman paper to size appropriate to transfer apparatus.
     
-**3.** Place membrane in transfer buffer to equilibrate for at least 5 minutes.
+**2.** Place membrane in transfer buffer to equilibrate for at least 5 minutes.
   
-**4.** **Transfer sandwich** (anode, foam, 2X whatman, gel, membrane, 2X whatman, foam, cathode).<br/>
+**3.** **Transfer sandwich** (anode, foam, 2X whatman, gel, membrane, 2X whatman, foam, cathode).<br/>
 Submerge each part in buffer before adding to stack, and remove air bubbles with a roller.<br/>
 The goal is maintaining tight contact between the gel and the membrane throughout transfer.<br/>
 _Note: Set up in a way that you can capture spill-over. Filter extra used buffer for re-use._
 
-**5.** Once assembled, transfer proteins to nitrocellulose at voltage and time specific to your apparatus.<br/>
+**4.** Once assembled, transfer proteins to nitrocellulose at voltage and time specific to your apparatus.<br/>
 _For example: [Idea Scientific's](http://ideascientific.com/) genie blotter achieves good transfer at 24V for 1 hour._<br/>
 _Note: Some proteins might require higher or lower voltages at varying times to transfer efficiently._
 
-**6.** Disassemble sandwich and dispose of methanol waste (in appropriate container).<br/>
+**5.** Disassemble sandwich and dispose of methanol waste (in appropriate container).<br/>
 Place blot protein-side up in container and rinse with water. Keep protein-side up throughout probing.
 
 _**Optional Ponceau Staining.**_  
-  **i.** Stain blot with Ponceau S solution. Cover and remove quickly (< 1 minute).<br/>
+  **i.** Stain blot with Ponceau S solution. Cover blot quickly (< 1 minute) and pour back into bottle.<br/>
   **ii.** Rinse with water until transfer efficiency is visible. This can be imaged for reference.<br/>
-_Note: Ponceau S solution can be re-used. Pour back into bottle._<br/>
   **iii.** Blots can be cut into separate pieces (for multiple antibodies and targets of varying size).<br/>
   **iv.** Wash all blots with TBS-T until the Ponceau stain is removed.<br/>
 _Some high concentrated proteins will get over-stained and might show up in fluor scans._
 
-**7.** Block the membranes in blocking buffer for 1 hour at room temperature.
+**6.** Block the membranes in blocking buffer for 1 hour at room temperature.
 
-**8.** Incubate membranes rocking with primary antibody in blocking buffer overnight at 4 °C.<br/>
+**7.** Incubate membranes rocking with primary antibody in blocking buffer overnight at 4 °C.<br/>
 _Note: Combine blots treated with the same primary into one cassette with 10-15 mL antibody._<br/>
 _Optimal concentrations should be determined for each new antibody._
 
 ### Day 2
 
-**9.** Retain primary antibody for future use. Wash membrane 4 X 5 minutes in TBS-T at room temperature.
+**8.** Retain primary antibody for future use. Wash membrane 4 X 5 minutes in TBS-T at room temperature.
 
-**10.** Probe blots 1 hour at room temperature with secondary antibodies (or probes like 1:5000 Strep-680).<br/>
+**9.** Probe blots 1 hour at room temperature with secondary antibodies (or probes like 1:5000 Strep-680).<br/>
 _Li-cor secondary antibodies are usually used diluted ~ 1:15000 in 10-15 mL blocking buffer for good signal._
 
-**11.** Wash 4 X 5 minutes in TBS-T at room temperature. Wash once in PBS before Li-cor imaging.<br/>
+**10.** Wash 4 X 5 minutes in TBS-T at room temperature. Wash once in PBS before Li-cor imaging.<br/>
 _Blots can be re-probed with new antibodies but strong signals from first probe will remain._
 
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
