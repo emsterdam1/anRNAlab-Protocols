@@ -38,6 +38,7 @@ Materials:
   * Methanol
 
 <br/>
+
 ### Other materials and reagents ### 
 
   * SDS-PAGE gel with separated proteins
