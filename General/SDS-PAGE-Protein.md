@@ -56,7 +56,8 @@ _**optional**_ If samples are to be labeled (for example with [HaloTag ligand](.
 
 **4.** **Prepare gels:** Remove wrapping, rinse in ddH<sub>2</sub>O, and remove comb and seal covering the gel bottom.<br/>Place gels into the electrophoresis apparatus, ensuring the wells are facing the chamber where current is applied.<br/>The electrophoresis chamber must be closed (use of a buffer dam is required when running 1 gel).
     
-**5.** Fill the inner (for current) and outer (for heat transfer) chambers of the electrophoresis apparatus with 1X MOPS running buffer.<br/>The inner chamber should not leak.
+**5.** Fill the inner (for current) and outer (for heat transfer) chambers of the electrophoresis apparatus with 1X MOPS running buffer.<br/>
+The inner chamber should not leak. Use a syringe needle or pipette to flush the wells of build-up.
 
 **6.** Spin down samples at 15,000 x g to pellet any aggregate material.
   
