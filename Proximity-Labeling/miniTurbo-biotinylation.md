@@ -77,7 +77,7 @@ Whole Cell Lysis</a>
 </p> <a href="./BCA-Assay.md">
 BCA protein quantification</a>
 
-</p> <a href="../General/SDS-PAGE.md">
+</p> <a href="../General/SDS-PAGE-Protein.md">
 SDS-PAGE</a>
 
 </p> <a href="./miniTurbo-Western-Validation.md">
