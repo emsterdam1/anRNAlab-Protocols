@@ -77,17 +77,17 @@ _Note: Set up in a way that you can capture spill-over. Filter extra used buffer
 
 **5.** Once assembled, transfer proteins to nitrocellulose at voltage and time specific to your apparatus.<br/>
 _For example: [Idea Scientific's](http://ideascientific.com/) genie blotter achieves good transfer at 24V for 1 hour._<br/>
-_Note: proteins of varying sizes might require higher or lower voltages at varying times to transfer efficiently._
+_Note: Some proteins might require higher or lower voltages at varying times to transfer efficiently._
 
 **6.** Disassemble sandwich and dispose of methanol waste (in appropriate container).<br/>
 Place blot protein-side up in container and rinse with water. Keep protein-side up throughout probing.
 
 _**Optional Ponceau Staining.**_  
-  i. Stain blot with Ponceau S solution. Cover and remove quickly (< 1 minute).<br/>
-  ii. Rinse with water a few minutes at a time until transfer efficiency is visible. This can be imaged for reference.<br/>
+  **i.** Stain blot with Ponceau S solution. Cover and remove quickly (< 1 minute).<br/>
+  **ii.** Rinse with water until transfer efficiency is visible. This can be imaged for reference.<br/>
 _Note: Ponceau S solution can be re-used. Pour back into bottle._<br/>
-  iii. Blots can be cut into separate pieces (for multiple antibodies and targets of varying size).<br/>
-  iv. Wash all blots with TBS-T until the Ponceau stain is removed.<br/>
+  **iii.** Blots can be cut into separate pieces (for multiple antibodies and targets of varying size).<br/>
+  **iv.** Wash all blots with TBS-T until the Ponceau stain is removed.<br/>
 _Some high concentrated proteins will get over-stained and might show up in fluor scans._
 
 **7.** Block the membranes in blocking buffer for 1 hour at room temperature.
@@ -103,8 +103,8 @@ _Optimal concentrations should be determined for each new antibody._
 **10.** Probe blots 1 hour at room temperature with secondary antibodies (or probes like 1:5000 Strep-680).<br/>
 _Li-cor secondary antibodies are usually used diluted ~ 1:15000 in 10-15 mL blocking buffer for good signal._
 
-**11.** Wash membrane 4 X 5 minutes in TBS-T at room temperature. Wash once in PBS before Li-cor imaging.<br/>
-_Blots can be re-probed with new primary and secondary antibodies but strong signals will remain. Plan accordingly.
+**11.** Wash 4 X 5 minutes in TBS-T at room temperature. Wash once in PBS before Li-cor imaging.<br/>
+_Blots can be re-probed with new antibodies but strong signals from first probe will remain. Plan accordingly._
 
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
