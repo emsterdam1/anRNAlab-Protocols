@@ -40,8 +40,6 @@ Equipment Required:
   
   * power supply
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
 <!-- Use <br/> to fill in first page -->
 
 ___
