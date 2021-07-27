@@ -66,25 +66,25 @@ Protocol:
 
 **1.** Make up 2X Transfer Buffer in 10% methanol. (100 mL 20X, 100 mL methanol, 800 mL water)
 
-**2.** Cut membrane and whatman paper to size appropriate to transfer apparatus (this can be done in bulk ahead of time).
+**2.** Cut membrane and whatman paper to size appropriate to transfer apparatus.
     
 **3.** Place membrane in transfer buffer to equilibrate for at least 5 minutes.
   
-**4.** Set up transfer sandwich in buffer (anode, mesh/foam, 2X whatman paper, gel, membrane, 2X whatman paper, mesh/foam, cathode).<br/>
-Each part should be submerged in buffer before adding to stack, and air bubbles should be purged at each step with a roller.<br/>
-The goal is maintaining tight unmoving contact between the gel and the membrane throughout transfer.<br/>
-_Note: If you set up the sandwich in set of containers, you can recover any excess buffer and filter for re-use.
+**4.** **Transfer sandwich** (anode, foam, 2X whatman, gel, membrane, 2X whatman, foam, cathode).<br/>
+Submerge each part in buffer before adding to stack, and remove air bubbles with a roller.<br/>
+The goal is maintaining tight contact between the gel and the membrane throughout transfer.<br/>
+_Note: Set up in a way that you can capture spill-over. Filter extra used buffer for re-use._
 
 **5.** Once assembled, transfer proteins to nitrocellulose at voltage and time specific to your apparatus.<br/>
 _For example: [Idea Scientific's](http://ideascientific.com/) genie blotter achieves good transfer at 24V for 1 hour._<br/>
-_Note: proteins of different sizes sometimes require higher or lower voltages at varying times to transfer efficiently._
+_Note: proteins of varying sizes might require higher or lower voltages at varying times to transfer efficiently._
 
 **6.** Disassemble sandwich and dispose of methanol waste (in appropriate container).<br/>
-Place blot protein-side up in container and rinse with water. Always keep protein-side up through probing.
+Place blot protein-side up in container and rinse with water. Keep protein-side up throughout probing.
 
 _**Optional Ponceau Staining.**_  
   i. Stain blot with Ponceau S solution. Cover and remove quickly (< 1 minute).<br/>
-  ii. Rinse with water a few minutes at a time until transfer efficiency is clearly visible. This can be imaged for reference.<br/>
+  ii. Rinse with water a few minutes at a time until transfer efficiency is visible. This can be imaged for reference.<br/>
 _Note: Ponceau S solution can be re-used. Pour back into bottle._<br/>
   iii. Blots can be cut into separate pieces (for multiple antibodies and targets of varying size).<br/>
   iv. Wash all blots with TBS-T until the Ponceau stain is removed.<br/>
@@ -93,17 +93,17 @@ _Some high concentrated proteins will get over-stained and might show up in fluo
 **7.** Block the membranes in blocking buffer for 1 hour at room temperature.
 
 **8.** Incubate membranes rocking with primary antibody in blocking buffer overnight at 4 °C.<br/>
-_Note: Blots being treated with the same primary should be combined into one cassette with 10-15 mL antibody._<br/>
+_Note: Combine blots treated with the same primary into one cassette with 10-15 mL antibody._<br/>
 _Optimal concentrations should be determined for each new antibody._
 
 ### Day 2
 
-**9.** Recover primary antibody and save for future use. Wash membrane 4 X 5 minutes in TBS-T at room temperature.
+**9.** Retain primary antibody for future use. Wash membrane 4 X 5 minutes in TBS-T at room temperature.
 
-**10.** Probe blots 1 hour at room temperature with secondary antibodies (or labeled binding probes like 1:5000 Strep-680).<br/>
+**10.** Probe blots 1 hour at room temperature with secondary antibodies (or probes like 1:5000 Strep-680).<br/>
 _Li-cor secondary antibodies are usually used diluted ~ 1:15000 in 10-15 mL blocking buffer for good signal._
 
-**11.** Wash membrane 4 X 5 minutes in TBS-T at room temperature. Wash membranes once in 1X PBS before Li-cor imaging.<br/>
+**11.** Wash membrane 4 X 5 minutes in TBS-T at room temperature. Wash once in PBS before Li-cor imaging.<br/>
 _Blots can be re-probed with new primary and secondary antibodies but strong signals will remain. Plan accordingly.
 
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
