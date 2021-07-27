@@ -57,6 +57,7 @@ Equipment Required:
 
   * Li-Cor imager (or other detector specific to secondary antibody label)
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <!-- Use <br/> to fill in first page -->
 
 ___
@@ -104,7 +105,7 @@ _Optimal concentrations should be determined for each new antibody._
 _Li-cor secondary antibodies are usually used diluted ~ 1:15000 in 10-15 mL blocking buffer for good signal._
 
 **11.** Wash 4 X 5 minutes in TBS-T at room temperature. Wash once in PBS before Li-cor imaging.<br/>
-_Blots can be re-probed with new antibodies but strong signals from first probe will remain. Plan accordingly._
+_Blots can be re-probed with new antibodies but strong signals from first probe will remain._
 
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
