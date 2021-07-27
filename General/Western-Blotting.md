@@ -1,4 +1,4 @@
-Western Blotting (NOT COMPLETED)
+Western Blotting (wet transfer with nitrocellulose)
 ================================================================================
 Description: Proteins are transferred onto a membrane and probed for specific targets with antibodies.
 
@@ -6,110 +6,112 @@ Description: Proteins are transferred onto a membrane and probed for specific ta
 
 Before starting:
 --------------------------------------------------------------------------------
-* [Whole Cell lysis](../Proximity-Labeling/Whole-Cell-Lysis-RIPA.md)
+* [SDS PAGE](./SDS-PAGE.md)
 
 Materials:
 --------------------------------------------------------------------------------
+
+### Solutions and Buffers ###
+
+  * **20X Bis-Tris transfer buffer** ([Boston BioProducts](https://bostonbioproducts.com/bis-tris-transfer-buffer-20x-bp-193))  
+    ◦ 500 mM Bis-Tris  
+    ◦ 500 mM Bicine  
+    ◦ 20 mM EDTA  
   
-  * Cell lysate
+  * **Blocking buffer** 
+    ◦ 5% milk **OR** 5% BSA  
+    ◦ 50 mM Tris  
+    ◦ 150 mM NaCl  
+    ◦ 0.1 % Tween-20  
+    ◦ 0.02 % Sodium Azide (preserative)
   
-  * 4-12% gradient polyacrylamide gel (variety of sizes)
-    * [10-well](https://www.thermofisher.com/order/catalog/product/NP0335BOX?SID=srch-srp-NP0335BOX#/NP0335BOX?SID=srch-srp-NP0335BOX), 1.5 mm, load volume 37 µl
-    * [15-well](https://www.thermofisher.com/order/catalog/product/NP0336BOX?SID=srch-srp-NP0336BOX#/NP0336BOX?SID=srch-srp-NP0336BOX), 1.5 mm, load volume 25 µl
-    * [18-well](https://www.bio-rad.com/en-us/sku/3450124-4-12-criterion-xt-bis-tris-protein-gel-18-well-30-ul?ID=3450124), load volume 30 µl
-    * [26-well](https://www.bio-rad.com/en-us/sku/3450125-4-12-criterion-xt-bis-tris-protein-gel-26-well-15-ul?ID=3450125), load volume 15 µl
-  
-  * 1M DTT (20X)
-  
-  * SDS Loading buffer ([4X LDS](https://www.thermofisher.com/order/catalog/product/NP0007#/NP0007))
-  
-  * Molecular weight ladder ([Pageruler Plus](https://www.thermofisher.com/order/catalog/product/26619#/26619), [Precision Plus](https://www.bio-rad.com/en-us/sku/1610374-precision-plus-protein-dual-color-standards-500-ul?ID=1610374))
-  
-  * 20X MOPS-SDS Running Buffer [(Boston Bioproducts, pH 7.7)](https://bostonbioproducts.com/products/mops-sds-running-buffer-20x-bp-178)
-    * 1M MOPS
-    * 1M Tris-Base
-    * 20 mM EDTA
-    * 2% SDS
+  * **1X TBS-T wash buffer**  
+    ◦ 50 mM Tris  
+    ◦ 150 mM NaCl  
+    ◦ 0.1 % Tween-20<br/>_Note: Blocking and Wash buffers can be made from stock 10X TBS_<br/>_(121.1 g Tris base and 175.32 g NaCl, pH to 7.4-7.6 in 2 L of H<sub>2</sub>O)._
+
+  * **Ponceau S staining solution** ([Sigma](https://www.sigmaaldrich.com/US/en/product/sial/p7170)) 
+    ◦ 5% Acetic Acid  
+    ◦ 0.1% [Ponceau S](https://www.fishersci.com/shop/products/ponceau-s-fisher-bioreagents/BP10310)  
     
-  **Part 2 - Transfer**  
-  
-  * Part 1 gel
-  
+  * 1X Phosphate-buffered saline pH 7.4
+  * Methanol
+    
+### Other materials and reagents ### 
+
+  * SDS-PAGE gel with separated proteins
   * Whatman paper
-  
-  * transfer membrane (nitrocellulose or PVDF)
-  
-  * Transfer buffer
-
-  **Part 3 - Blotting** 
-  
-  * Blocking Buffer
-  
-  * primary antibody
-  
-### Day 2
-
-  * secondary antibody
-  
-
-  
-  * TBST
-    *
-    *
-    *
-  
+  * nitrocellulose membrane
+  * primary and secondary antibodies (or labeled binding probe, e.g. Strep-680)
   
 Equipment Required:
 --------------------------------------------------------------------------------
 ### Day 1
 
-  * Gel and transfer electrophoresis vessels (varying manufacturer's and setups)
-  
-  * Heat block (70 °C)
-  
-  * Rig-appropriate power supplies (transfer cassettes and gel rigs have varying power needs).
-  
+  * transfer apparatus and accessories (varying manufacturer's and setups)
+  * Rig-appropriate power supplies.
   * Plate rocker
+  * Containers for blots
   
 ### Day 2
 
-  * Li-Cor gel imager
-  
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+  * Li-Cor imager (or other detector specific to secondary antibody label)
 
 <!-- Use <br/> to fill in first page -->
 
 ___
 Protocol:
 --------------------------------------------------------------------------------
+### Day 1
 
-**1.** Combine 50 parts of Reagent A to 1 part Reagent B to create enough BCA reagent for 400 µl per standard and 200 µl per sample.
+**1.** Make up 2X Transfer Buffer in 10% methanol. (100 mL 20X, 100 mL methanol, 800 mL water)
 
-**2.** Set up 2 replicates of 10 µl each BSA standard and 2-10 µl of each sample (diluted in 10 µl total buffer) in wells of a 96-well microplate.
-  
-  *Note: doing replicates of the samples could improve accuracy, but is not always necessary.*<br/>*More important that dilution falls within dynamic range of assay.*
+**2.** Cut membrane and whatman paper to size appropriate to transfer apparatus (this can be done in bulk ahead of time).
     
-**3.** Add 200 µl of mixed BCA reagent to each well. Ensure wells are thoroughly mixed (by 30 sec on plate shaker or multi-channel pipette mixing).
+**3.** Place membrane in transfer buffer to equilibrate for at least 5 minutes.
   
-**4.** Incubate with lid on at 37 °C for 30 minutes.
+**4.** Set up transfer sandwich in buffer (anode, mesh/foam, 2X whatman paper, gel, membrane, 2X whatman paper, mesh/foam, cathode).<br/>
+Each part should be submerged in buffer before adding to stack, and air bubbles should be purged at each step with a roller.<br/>
+The goal is maintaining tight unmoving contact between the gel and the membrane throughout transfer.<br/>
+_Note: If you set up the sandwich in set of containers, you can recover any excess buffer and filter for re-use.
 
-**5.** Let plate cool to room temperature. Measure absorbance in a plate reader at 562 nm for all standards and samples.
+**5.** Once assembled, transfer proteins to nitrocellulose at voltage and time specific to your apparatus.<br/>
+_For example: [Idea Scientific's](http://ideascientific.com/) genie blotter achieves good transfer at 24V for 1 hour._<br/>
+_Note: proteins of different sizes sometimes require higher or lower voltages at varying times to transfer efficiently._
 
-**6.** Average measurements for each standard and subtract background absorbance (the 0 standard). Plot normalized averages against concentration.
+**6.** Disassemble sandwich and dispose of methanol waste (in appropriate container).<br/>
+Place blot protein-side up in container and rinse with water. Always keep protein-side up through probing.
 
-  *A quadratic can be fitted to the curve to calculate sample concentrations, or concentration can be interpolated linearly between two standard points.* 
+_**Optional Ponceau Staining.**_  
+  i. Stain blot with Ponceau S solution. Cover and remove quickly (< 1 minute).<br/>
+  ii. Rinse with water a few minutes at a time until transfer efficiency is clearly visible. This can be imaged for reference.<br/>
+_Note: Ponceau S solution can be re-used. Pour back into bottle._<br/>
+  iii. Blots can be cut into separate pieces (for multiple antibodies and targets of varying size).<br/>
+  iv. Wash all blots with TBS-T until the Ponceau stain is removed.<br/>
+_Some high concentrated proteins will get over-stained and might show up in fluor scans._
 
-**Tube method:** The BCA assay can be performed in cuvettes on a spectrophotometer with 10X volumes (100 µl Sample and 2 mL BCA reagent).<br/>This does not require replicates.
+**7.** Block the membranes in blocking buffer for 1 hour at room temperature.
 
-**Enhanced Sensitivity:** Incubating at 60 °C for 30 minutes instead can increase the sensitivity, but shrink the dynamic range of the assay. Not usually necessary.
+**8.** Incubate membranes rocking with primary antibody in blocking buffer overnight at 4 °C.<br/>
+_Note: Blots being treated with the same primary should be combined into one cassette with 10-15 mL antibody._<br/>
+_Optimal concentrations should be determined for each new antibody._
+
+### Day 2
+
+**9.** Recover primary antibody and save for future use. Wash membrane 4 X 5 minutes in TBS-T at room temperature.
+
+**10.** Probe blots 1 hour at room temperature with secondary antibodies (or labeled binding probes like 1:5000 Strep-680).<br/>
+_Li-cor secondary antibodies are usually used diluted ~ 1:15000 in 10-15 mL blocking buffer for good signal._
+
+**11.** Wash membrane 4 X 5 minutes in TBS-T at room temperature. Wash membranes once in 1X PBS before Li-cor imaging.<br/>
+_Blots can be re-probed with new primary and secondary antibodies but strong signals will remain. Plan accordingly.
 
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
 <details>
   <summary>More Info</summary>
   
-  <a href="https://www.thermofisher.com/order/catalog/product/23225#/23225">
-Pierce BCA Assay</a>  
+  <a href="https://en.wikipedia.org/wiki/Western_blot">
+Wikipedia</a>  
 
 </details>
