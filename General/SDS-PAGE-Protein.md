@@ -48,7 +48,7 @@ Protocol:
 
 **1.** Prepare ~ 500 mL of 1X MOPS SDS Running buffer per rig (dilute in ddH<sub>2</sub>O).
 
-**2o.** If samples are to be labeled (for example with [HaloTag ligand](./Labeling-HaloTag-Samples.md)), perform this labeling before denaturation.
+_**optional**_ If samples are to be labeled (for example with [HaloTag ligand](./Labeling-HaloTag-Samples.md)), perform this labeling before denaturation.
 
 **2.** Prepare each sample with reducing agent and SDS Loading Buffer. <br/>_(for example, 18 µl Sample + 3 µl 0.5 M TCEP + 7 µl 4X LDS)_
 
