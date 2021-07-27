@@ -36,7 +36,8 @@ Materials:
     
   * 1X Phosphate-buffered saline pH 7.4
   * Methanol
-    
+
+<br/>
 ### Other materials and reagents ### 
 
   * SDS-PAGE gel with separated proteins
@@ -57,7 +58,7 @@ Equipment Required:
 
   * Li-Cor imager (or other detector specific to secondary antibody label)
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <!-- Use <br/> to fill in first page -->
 
 ___
