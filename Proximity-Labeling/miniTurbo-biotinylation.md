@@ -74,13 +74,13 @@ Protocol:
 </p> <a href="./Whole-Cell-Lysis-RIPA.md">
 Whole Cell Lysis</a>
 
-</p> <a href="./BCA-Assay.md">
+</p> <a href="../General/BCA-Assay.md">
 BCA protein quantification</a>
 
 </p> <a href="../General/SDS-PAGE-Protein.md">
 SDS-PAGE</a>
 
-</p> <a href="./miniTurbo-Western-Validation.md">
+</p> <a href="../General/Western-Blotting.md">
 Western Validation</a>
 
 </p> <a href="./miniTurbo-Strep-IP.md">
