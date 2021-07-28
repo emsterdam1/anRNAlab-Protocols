@@ -73,10 +73,16 @@ Western Validation</a>
 </p> <a href="./miniTurbo-Strep-Pulldown.md">
 Strep IP</a>
 
-</p> <a href="./Affinity-MS-Sample-Prep.md">
-MS Sample Prep</a>
+</p> <a href="../Mass-Spec-Prep/On-Bead-Digestion.md">
+Rapigest reduction, alkylation, and Trypsin Digestion</a>
 
-</p> <a href="./Peptide-Quant.md">
+</p> <a href="../Mass-Spec-Prep/C18-Column-Cleanup.md">
+C18 Column</a>
+  
+</p> <a href="../Mass-Spec-Prep/Ethyl-Acetate-Cleanup.md">
+Ethyl Acetate Cleanup</a>  
+  
+</p> <a href="../Mass-Spec-Prep/Peptide-Quant.md">
 Peptide Quantification</a>
 
 </details>
