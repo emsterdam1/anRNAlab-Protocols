@@ -13,9 +13,9 @@ Materials:
 --------------------------------------------------------------------------------
   * Cell pellet
   
-  * 1X Mass Spec RIPA lysis buffer pH 7.5
+  * 1X Mass Spec RIPA lysis buffer
   
-    * 50 mM HEPES pH 8 (HEPES is substituted instead of Tris for MS compatibility)
+    * 50 mM HEPES pH 7.5 (HEPES is substituted instead of Tris for MS compatibility)
     * 150 mM NaCl
     * 2 mM EDTA (Metal chelator)
     * 0.1% SDS
