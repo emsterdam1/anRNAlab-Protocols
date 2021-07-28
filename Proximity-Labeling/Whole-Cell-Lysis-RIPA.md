@@ -70,7 +70,7 @@ BCA protein quantification</a>
 </p> <a href="../General/Western-Blotting.md">
 Western Validation</a>
 
-</p> <a href="./miniTurbo-Strep-IP.md">
+</p> <a href="./miniTurbo-Strep-Pulldown.md">
 Strep IP</a>
 
 </p> <a href="./Affinity-MS-Sample-Prep.md">
