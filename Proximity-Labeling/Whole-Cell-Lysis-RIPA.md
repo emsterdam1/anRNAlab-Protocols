@@ -67,7 +67,7 @@ Protocol:
 </p> <a href="../General/BCA-Assay.md">
 BCA protein quantification</a>
 
-</p> <a href="./miniTurbo-Western-Validation.md">
+</p> <a href="../General/Western-Blotting.md">
 Western Validation</a>
 
 </p> <a href="./miniTurbo-Strep-IP.md">
