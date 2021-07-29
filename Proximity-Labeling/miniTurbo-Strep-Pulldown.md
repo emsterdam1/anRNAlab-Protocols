@@ -44,7 +44,7 @@ Materials:
     ◦ 50 mM HEPES pH **7.5**  
     ◦ 50 mM NaCl  
     
-  * 50 mM Ammonium bicarbonate (ABC, NH<sub>4<sub/>HCO<sub>3<sub/>)<br/>
+  * 50 mM Ammonium bicarbonate (ABC, NH<sub>4</sub>HCO<sub>3</sub>)<br/>
   _Note: Make ABC in mass spec grade water and store in glass up to 2 months at room temperature_
   
 <br/>
