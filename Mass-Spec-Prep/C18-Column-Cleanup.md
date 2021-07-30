@@ -1,7 +1,7 @@
 C18 Column Cleanup for Mass Spectrometry
 ================================================================================
 Description: Peptides are retained and buffer exchanged over a C18 reverse phase column.<br/>
-C18 (literally 18 carbon chains) act as a nonpolar stationary phase in a polar solvent.<br/>
+C18 (literally supports with 18-carbon chains) acts as a nonpolar stationary phase in a polar solvent.<br/>
 Peptides are retained in more polar solvents (water) and can be eluted by reducing polarity (acetonitrile).
 
 [Go To Protocol](#protocol)
