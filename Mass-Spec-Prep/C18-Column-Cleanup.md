@@ -1,64 +1,34 @@
-Streptavidin Pull-down of MiniTurbo-labeled Proteins (NOT DONE)
+C18 Column Cleanup for Mass Spectrometry
 ================================================================================
-Description: Proteins labeled with biotin by miniTurbo are captured on a streptavidin matrix.
+Description: Peptides are retained and buffer exchanged over a C18 reverse phase column.<br/>
+C18 (literally 18 carbon chains) act as a nonpolar stationary phase in a polar solvent.<br/>
+Peptides are retained in more polar solvents (water) and can be eluted by reducing polarity (acetonitrile).
 
 [Go To Protocol](#protocol)
 
 Before starting:
 --------------------------------------------------------------------------------
-* [miniTurbo biotinylation](./miniTurbo-biotinylation.md)
-* [RIPA cell lysis](./Whole-Cell-Lysis-RIPA.md)
+* [Trypsin digestion](./On-Bead-Digestion)
 
 Materials:
 --------------------------------------------------------------------------------
 
-### Solutions and Buffers ###
-
-  * **1X Mass Spec RIPA lysis buffer**  
-    ◦ 50 mM HEPES pH 7.5 (HEPES is substituted instead of Tris for MS compatibility)  
-    ◦ 150 mM NaCl  
-    ◦ 2 mM EDTA (Metal chelator)  
-    ◦ 0.1% SDS  
-    ◦ 1% Nonidet-P40 (or IGEPAL CA-630)  
-    ◦ 0.2% Sodium Deoxycholate (some formulations have up to 0.5%)  
-    ◦ 10% Glycerol (for protein solubility and stability)  
-
-  * **Wash Buffer 1 (WB1)**  
-    ◦ 2% SDS  
-    
-  * **Wash Buffer 2 (high salt, WB2)**
-    ◦ 50 mM HEPES pH **7.5**  
-    ◦ 500 mM NaCl  
-    ◦ 1 mM EDTA  
-    ◦ 1% Triton-X 100
-    ◦ 0.1% Sodium Deoxycholate
- 
-   * **Wash Buffer 3 (high detergent, WB3)** 
-    ◦ 50 mM HEPES pH **8.0**  
-    ◦ 250 mM LiCl  
-    ◦ 1 mM EDTA  
-    ◦ 0.5% Nonidet-P40 (or IGEPAL CA-630)
-    ◦ 0.5% Sodium Deoxycholate
-    
-   * **Wash Buffer 4 (low salt, WB4)** 
-    ◦ 50 mM HEPES pH **7.5**  
-    ◦ 50 mM NaCl  
-    
-  * 50 mM Ammonium bicarbonate (ABC, NH<sub>4<sub/>HCO<sub>3<sub/>)<br/>
-  _Note: Make ABC in mass spec grade water and store in glass up to 2 months at room temperature_
+  * C18 [spin columns](https://www.fishersci.ca/shop/products/pierce-c-18-spin-columns/pi89870)
+  * LC-MS grade [water](https://www.fishersci.com/shop/products/water-optima-lc-ms-fisher-chemical-4/W64)
+  * LC-MS grade acetonitrile [(ACN)](https://www.fishersci.com/shop/products/acetonitrile-optima-lc-ms-fisher-chemical-5/A955212?ef_id=CjwKCAjwxo6IBhBKEiwAXSYBs2v11Bluj3pETKww8U_aoWkCp1HpQLxRBQdGHsjoq2VdN0VmKjl83xoCBSgQAvD_BwE:G:s&s_kwcid=AL!3652!3!381350240870!b!!g!!&gclid=CjwKCAjwxo6IBhBKEiwAXSYBs2v11Bluj3pETKww8U_aoWkCp1HpQLxRBQdGHsjoq2VdN0VmKjl83xoCBSgQAvD_BwE)
+  * 0.5% and 0.1% LC-MS grade trifluoroacetic acid [(TFA)](https://www.fishersci.ca/shop/products/trifluoroacetic-acid-optima-lc-ms-fisher-chemical-5/p-3803256)<br/>
+  _Note: Dilute TFA in mass spec grade water and store in glass._
+  * C18 elution buffer: 70% ACN/0.1% TFA (7:2:1 ACN:0.5% TFA:water)<br/>
+  _Note: Make with Mass Spec grade components and store long-term in glass._
+  * low-retention centrifuge [tubes](https://www.fishersci.com/shop/products/fisherbrand-low-retention-microcentrifuge-tubes-8/p-193936) (1.5 mL and 2 mL)
   
 <br/>
 
-### Other materials and reagents ### 
-
-  * cell lysate (10 mg total protein per replicate)
-  * streptavidin-conjugated [sepharose beads](https://www.sigmaaldrich.com/US/en/product/sigma/ge17511301) 70% slurry
-  * _optional: 26-gauge needles and 1 mL syringes_
-  
 Equipment Required:
 --------------------------------------------------------------------------------
   
-  * tube rotator
+  * centrifuge
+  * Vaccuum Concentrator ([like this](https://www.thermofisher.com/order/catalog/product/SPD2030A-220#/SPD2030A-220)) or Freeze-Dryer ([like this](https://www.labconco.com/product/freezone-25-liter-84c-benchtop-freeze-dryers/6117)
 
 <br/><br/><br/><br/>
 <!-- Use <br/> to fill in first page -->
@@ -66,56 +36,40 @@ Equipment Required:
 ___
 Protocol:
 --------------------------------------------------------------------------------
-### Day 1
 
-**1.** For each sample, aliquot 10 mg of total protein in 8 mL of RIPA lysis buffer on ice.<br/>
-  _Note: Make 2 replicates per sample, ideally biological replicates_
+**1.** For each sample, prepare a C18 spin column in a 2 mL low-retention centrifuge tube.<br/>
+Spin dry column 3000 x g for 2 minutes at room temperature to settle the column.
     
-**2.** Suspend streptavidin beads in 4 volumes of RIPA buffer and spin at 400 x g for 2 minutes at 4 °C.<br/>
-  _Start with ~60 µl of bead slurry per pulldown._ 
+**2.** Wet the columns with 200 µl of 100% ACN and spin 3000 x g for 2 minutes at room temperature. 
   
-**3.** Aspirate the supernatant, leaving a 0.5 cm layer of RIPA above the beads. Wash in RIPA 2 more times.<br/>
-  _If you are worried about bead loss, a 26-gauge needle can optionally be used to aspirate._
+**3.** Equilibrate columns with 200 µl of 0.5% TFA. Spin at 3000 x g for 2 minutes at room temperature.<br/>
+Discard the flowthrough and repeat equilibration wash once.
 
-**4.** Resuspend beads as a 50% slurry in RIPA (a total bead+RIPA volume of ~85 µl per pulldown).
+**4.** Load 200 µl sample onto columns and spin 1000 x g for 5 minutes at room temperature. <br/>
+**Collect flow-through and add back to same column to ensure more complete peptide retention.**<br>
+Spin again at 1000 x g for 5 minutes and discard this flowthrough.
 
-**5.** Add 60 µl of the 50% slurry to each 8 mL sample. <br/>
-  Capture biotinylated proteins with rotation overnight (16 hours) at 4 °C.
+**5.** Wash the columns with 200 µl of 0.5% TFA and spin 3000 x g for 2 minutes at room temperature.<br/>
+Repeat this wash once and move columns to new low-retention 1.5 ml centrifuge tubes.
 
-### Day 2
+**6.** Add 50 µl of C18 elution buffer and let samples sit for 2 minutes at room temperature.<br/>
+Perform first elution at 1000 x g for 5 minutes at room temperature. Don't discard elution.
 
-**6.** Re-capture beads at 400 x g for 2 minutes at 4 °C. Save the supernatant in a separate tube.
+**7.** Add 50 µl more C18 elution buffer and let sit again for 2 minutes at room temperature.<br/>
+Perform second elution at 3000 x g for 2 minutes at room temperature.
 
-**7.** Resuspend beads in 500 µl of RIPA and move to a 1.7 mL eppendorf tube.<br/>
-  Rinse the 15 mL once more with 500 µl of RIPA and add to 1.7 mL tube as well.
-
-**8.** Re-capture beads at 400 x g for 2 minutes at 4 °C and discard supernatant.
-
-**9.** Wash beads in 1 mL of wash buffer 1 (WB1), rotating 5 minutes and re-capturing at room temperature.
-
-**10.** Repeat the wash step 1X with WB1, 1X with WB2, 1X with WB3, and 1X with WB4.
-  
-**11.** Wash beads 3 more times in 50 mM ABC, without rotations but capturing at 400 x g for 5 minutes.<br/>
-  _Retain 10% of the last resuspension for analysis. Final pellet is ready for on-bead digestion._
-    
+**8.** Concentrate 100 µl elutions (for example in a vaccuum concentrator at 45 °C and 1 mTorr) to 0 volume.<br/>
+Resuspend each sample in 100 µl of 0.1% TFA in preparation for ethyl acetate cleanup.
   
  
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
-
-<details>
-  <summary>More Info</summary>
-  
-  <a href="https://doi.org/10.1083/jcb.201112098">
-Original BioID approach</a>  
-
-</details>
   
 <details>
   <summary>Next Steps</summary>
 
-</p> <a href="./Affinity-MS-Sample-Prep.md">
-MS Sample Prep</a>
-
+</p> <a href="./Ethyl-Acetate-Cleanup.md">
+Ethyl Acetate Cleanup</a>  
+  
 </p> <a href="./Peptide-Quant.md">
 Peptide Quantification</a>
 
