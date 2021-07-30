@@ -28,7 +28,7 @@ Equipment Required:
 --------------------------------------------------------------------------------
   
   * centrifuge
-  * Vaccuum Concentrator ([like this](https://www.thermofisher.com/order/catalog/product/SPD2030A-220#/SPD2030A-220)) or Freeze-Dryer ([like this](https://www.labconco.com/product/freezone-25-liter-84c-benchtop-freeze-dryers/6117)
+  * Vaccuum Concentrator ([like this](https://www.thermofisher.com/order/catalog/product/SPD2030A-220#/SPD2030A-220)) or Freeze-Dryer ([like this](https://www.labconco.com/product/freezone-25-liter-84c-benchtop-freeze-dryers/6117))
 
 <br/><br/><br/><br/>
 <!-- Use <br/> to fill in first page -->
@@ -36,6 +36,8 @@ Equipment Required:
 ___
 Protocol:
 --------------------------------------------------------------------------------
+
+### Column Prep ###
 
 **1.** For each sample, prepare a C18 spin column in a 2 mL low-retention centrifuge tube.<br/>
 Spin dry column 3000 x g for 2 minutes at room temperature to settle the column.
@@ -45,6 +47,8 @@ Spin dry column 3000 x g for 2 minutes at room temperature to settle the column.
 **3.** Equilibrate columns with 200 µl of 0.5% TFA. Spin at 3000 x g for 2 minutes at room temperature.<br/>
 Discard the flowthrough and repeat equilibration wash once.
 
+### Sample Loading and Washing ###
+
 **4.** Load 200 µl sample onto columns and spin 1000 x g for 5 minutes at room temperature. <br/>
 **Collect flow-through and add back to same column to ensure more complete peptide retention.**<br>
 Spin again at 1000 x g for 5 minutes and discard this flowthrough.
@@ -52,11 +56,15 @@ Spin again at 1000 x g for 5 minutes and discard this flowthrough.
 **5.** Wash the columns with 200 µl of 0.5% TFA and spin 3000 x g for 2 minutes at room temperature.<br/>
 Repeat this wash once and move columns to new low-retention 1.5 ml centrifuge tubes.
 
+### Sample Elution ###
+
 **6.** Add 50 µl of C18 elution buffer and let samples sit for 2 minutes at room temperature.<br/>
 Perform first elution at 1000 x g for 5 minutes at room temperature. Don't discard elution.
 
 **7.** Add 50 µl more C18 elution buffer and let sit again for 2 minutes at room temperature.<br/>
 Perform second elution at 3000 x g for 2 minutes at room temperature.
+
+### Eluate Concentration ###
 
 **8.** Concentrate 100 µl elutions (for example in a vaccuum concentrator at 45 °C and 1 mTorr) to 0 volume.<br/>
 Resuspend each sample in 100 µl of 0.1% TFA in preparation for ethyl acetate cleanup.
