@@ -19,10 +19,10 @@ Materials:
   * 0.5% and 0.1% LC-MS grade trifluoroacetic acid [(TFA)](https://www.fishersci.ca/shop/products/trifluoroacetic-acid-optima-lc-ms-fisher-chemical-5/p-3803256)<br/>
   _Note: Dilute TFA in mass spec grade water and store in glass._
   * C18 elution buffer: 70% ACN/0.1% TFA (7:2:1 ACN:0.5% TFA:water)<br/>
-  _Note: Make with Mass Spec grade components and store long-term in glass._
+  _Note: Make with mass spec grade components and store long-term in glass._
   * low-retention centrifuge [tubes](https://www.fishersci.com/shop/products/fisherbrand-low-retention-microcentrifuge-tubes-8/p-193936) (1.5 mL and 2 mL)
   
-<br/>
+<br/><br/><br/>
 
 Equipment Required:
 --------------------------------------------------------------------------------
