@@ -30,7 +30,7 @@ Equipment Required:
   
   * Fluorometer or plate reader that measures fluorescence at or near at Ex 390nm/Em 475nm
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 <!-- Use <br/> to fill in first page -->
 
