@@ -44,7 +44,7 @@ Repeat this shaking 2 more times and let rest finally at least 30 minutes.
 **3.** A clear layer of ethyl acetate should be on top (this is what you extract with).<br/>
 Store in the dark at room temperature and use within 2 weeks of preparation.
 
-### ethyl acetate cleanup (25 minutes) ###
+### Ethyl acetate cleanup (25 minutes) ###
 
 **4.** Add 10 volumes (1 mL) of water-saturated ethyl acetate to each peptide sample.
 
