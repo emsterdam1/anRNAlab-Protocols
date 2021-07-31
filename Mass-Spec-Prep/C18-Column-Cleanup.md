@@ -15,7 +15,7 @@ Materials:
 
   * C18 [spin columns](https://www.fishersci.ca/shop/products/pierce-c-18-spin-columns/pi89870)
   * LC-MS grade [water](https://www.fishersci.com/shop/products/water-optima-lc-ms-fisher-chemical-4/W64)
-  * LC-MS grade acetonitrile [(ACN)](https://www.fishersci.com/shop/products/acetonitrile-optima-lc-ms-fisher-chemical-5/A955212?ef_id=CjwKCAjwxo6IBhBKEiwAXSYBs2v11Bluj3pETKww8U_aoWkCp1HpQLxRBQdGHsjoq2VdN0VmKjl83xoCBSgQAvD_BwE:G:s&s_kwcid=AL!3652!3!381350240870!b!!g!!&gclid=CjwKCAjwxo6IBhBKEiwAXSYBs2v11Bluj3pETKww8U_aoWkCp1HpQLxRBQdGHsjoq2VdN0VmKjl83xoCBSgQAvD_BwE)
+  * LC-MS grade acetonitrile [(ACN)](https://www.fishersci.com/shop/products/pierce-acetonitrile-acn-lc-ms-grade-3/PI85188)
   * 0.5% and 0.1% LC-MS grade trifluoroacetic acid [(TFA)](https://www.fishersci.ca/shop/products/trifluoroacetic-acid-optima-lc-ms-fisher-chemical-5/p-3803256)<br/>
   _Note: Dilute TFA in mass spec grade water and store in glass._
   * C18 elution buffer: 70% ACN/0.1% TFA (7:2:1 ACN:0.5% TFA:water)<br/>
