@@ -1,7 +1,7 @@
 Peptide Quantification
 ================================================================================
 Description: Peptide concentration is measured using an amine-reactive fluorescent detection reagent<br/>
-that specifically labels the N-terminus of peptides. Labeled peptides are detected at Ex 390nm/Em 475nm.
+that specifically labels the N-terminus of peptides. Labeled peptides detected at Ex 390nm/Em 475nm.
 
 [Go To Protocol](#protocol)
 
@@ -30,7 +30,7 @@ Equipment Required:
   
   * Fluorometer or plate reader that measures fluorescence at or near at Ex 390nm/Em 475nm
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 <!-- Use <br/> to fill in first page -->
 
