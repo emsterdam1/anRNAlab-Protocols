@@ -15,7 +15,7 @@ Materials:
   * 100 µl peptide samples
   * ethyl acetate [(HPLC grade)](https://www.fishersci.ca/shop/products/ethyl-acetate-optima-fisher-chemical-2/e196sk4)
   * LC-MS grade [water](https://www.fishersci.com/shop/products/water-optima-lc-ms-fisher-chemical-4/W64)
-  * MS Loading Buffer in LC-MS grade water
+  * MS Loading Buffer in LC-MS grade water  
     ◦ 2% acetonitrile [(ACN)](https://www.fishersci.com/shop/products/pierce-acetonitrile-acn-lc-ms-grade-3/PI85188)  
     ◦ 0.1% formic acid [(FA)](https://www.fishersci.ca/shop/products/formic-acid-optima-lc-ms-grade-fisher-chemical-5/p-3795381)  
   _Example: 979 µl of water, 20 µl of ACN, and 1 µl FA. Store in glass._
@@ -27,7 +27,7 @@ Equipment Required:
   * Vaccuum Concentrator ([like this](https://www.thermofisher.com/order/catalog/product/SPD2030A-220#/SPD2030A-220)) or Freeze-Dryer ([like this](https://www.labconco.com/product/freezone-25-liter-84c-benchtop-freeze-dryers/6117))
 
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <!-- Use <br/> to fill in first page -->
 
 ___
