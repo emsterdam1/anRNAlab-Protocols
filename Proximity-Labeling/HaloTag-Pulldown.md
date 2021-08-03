@@ -13,8 +13,6 @@ Before starting:
 Materials:
 --------------------------------------------------------------------------------
 
-### Solutions and Buffers ###
-
   * Protein Purification Buffer - NP40 (PPB-N)  
     ◦ 50 mM HEPES pH 7.5  
     ◦ 150 mM NaCl  
@@ -29,13 +27,8 @@ Materials:
     ◦ 0.2% Triton-X 100
     
   * 50 mM Ammonium bicarbonate (ABC, NH<sub>4</sub>HCO<sub>3</sub>)<br/>
-  _Note: Make ABC in mass spec grade water and store in glass up to 2 months at room temperature_
-  
-<br/>
-
-### Other materials and reagents ### 
-
-  * crosslinked cell lysate (10 mg total protein per replicate)
+  _Note: Make ABC in mass spec grade water and store in glass up to 2 months at room temperature_  
+  * crosslinked cell lysate (10 mg total protein per replicate)  
   * chloroalkane-conjugated [magnetic beads](https://www.promega.com/products/protein-purification/protein-purification-kits/magne-halotag-beads/?catNum=G7281) 20% slurry
   
 Equipment Required:
