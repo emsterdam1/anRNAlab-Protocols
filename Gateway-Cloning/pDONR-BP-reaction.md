@@ -6,6 +6,7 @@ Description: BP Clonase inserts a gene fragment into a pDONR vector, creating a 
 
 Before starting:
 --------------------------------------------------------------------------------
+* [Fragment Design](./pENTR-fragment-creation.csv)
 * [Fragment amplification](../General/Standard-PCR.md)
 
 Materials:
@@ -32,7 +33,7 @@ Equipment Required:
   * 37 °C shaker
   * 42 °C water bath
 
-<br/><br/>
+<br/>
 
 
 
