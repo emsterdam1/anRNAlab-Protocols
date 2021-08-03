@@ -18,7 +18,9 @@ Materials:
 ### Day 3 or 4
   * 1X PBS pH 7.4 _Note: It may be worth testing higher pH PBS to improve DSP reactivity_
   * 25 mM [DSP](https://www.thermofisher.com/order/catalog/product/A35393#/A35393) in DMSO (made immediately before use)
-  * 1 M Tris pH 7.5
+  * **Quenching Solution**  
+    ◦ 20 mM Tris pH 7.5  
+    ◦ 5 mM L-Cysteine  
   * Liquid nitrogen for freezing large cell pellets
 
 Equipment Required:
@@ -28,7 +30,7 @@ Equipment Required:
   * Cell culture incubator (37 °C with 5% CO<sub>2</sub> usually)
   * Microcentrifuge (for tubes) or larger centrifuge (for conicals) 
 
-<br/><br/><br/>
+<br/>
 
 <!-- Use <br/> to fill in first page -->
 ___
@@ -52,10 +54,11 @@ _1 mg of DSP in 100 µl of DMSO makes a 25 mM stock solution enough to treat 1 1
 **4.** Incubate cells at 37 °C for 30 minutes.<br/>
 _Note: other protocols use room temperature or ice for 2 hours. Worth testing._ 
   
-**5.** Quench excess DSP with 0.1 volume of 1 M Tris pH 7.5 and incubate 5 minutes at room temperature.<br/>
+**5.** Carefully aspirate media.<br/>
+Quench excess DSP with 0.5 growth volume of Quenching Solution for 5 minutes at room temperature.<br/>
 _Note: This may cause adherent cells to detach, requiring pelleting. May be an unnecessary step._
 
-**6.** Carefully aspirate buffer and wash cells with 0.5X growth volume of PBS.<br/>
+**6.** Carefully aspirate Quenching Solution and wash cells with 0.5X growth volume of PBS.<br/>
 _Note: Cells are being harvested, no need to use cell culture grade PBS for washing steps._<br/>
 _To process 15 cm dishes, don't aspirate, just dump media and washes into waste container._
   
