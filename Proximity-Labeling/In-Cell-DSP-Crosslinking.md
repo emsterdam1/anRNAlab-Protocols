@@ -92,7 +92,7 @@ Western Validation</a>
 </p> <a href="./HaloTag-Pulldown.md">
 HaloTag Pulldown</a>
 
-</p> <a href="../Mass-Spec-Prep/On-Bead-Digestion.md">
+</p> <a href="../Mass-Spec-Prep/Bead-Reduction-Elution.md">
 Rapigest reduction, alkylation, and Trypsin Digestion</a>
 
 </p> <a href="../Mass-Spec-Prep/C18-Column-Cleanup.md">
