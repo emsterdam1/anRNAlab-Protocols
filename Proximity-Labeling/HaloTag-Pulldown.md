@@ -77,10 +77,10 @@ _Note: DSP-crosslinked samples might be able to endure truly denaturing conditio
 <details>
   <summary>More Info</summary>
   
-  <a href="https://doi.org/10.1371/journal.pone.0016206">
-In cell DSP crosslinking</a>  
+<a href="https://doi.org/10.1371/journal.pone.0016206">
+In cell DSP crosslinking</a>  <br/>
   
-  <a href="https://doi.org/10.1016/j.celrep.2020.03.080">
+<a href="https://doi.org/10.1016/j.celrep.2020.03.080">
 HaloTag + crosslinking approach</a> 
 
 </details>
