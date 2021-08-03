@@ -16,12 +16,14 @@ Table of Contents
 --------------------------------------------------------------------------------
 * [Procedure Template](Procedure-Template.md)
 * [General](#general)
-* [Chemical Probing](#chemical-probing)
-* [Mutational Profiling](#mutational-profiling)
+* [NGS](#ngs)
 * [Gateway Cloning](#gateway-cloning)
 * [Lentivirus Stables](#lentivirus-stables)
+* [Chemical Probing](#chemical-probing)
+* [Mutational Profiling](#mutational-profiling)
 * [Proximity Labeling](#proximity-labeling)
-* [NGS](#ngs)
+* [Mass Spec Prep](#mass-spec-prep)
+
 
 General
 --------------------------------------------------------------------------------
@@ -37,11 +39,54 @@ General
 * [Trizol RNA Purification](./General/Trizol-RNA-Purification.md)
 * [Western Blotting](./General/Western-Blotting.md)
 
-Gateway Cloning
---------------------------------------------------------------------------------
-* [Multisite Assembly](./Gateway-Cloning/Multisite-LR-reaction.md)
-* [pENTR Creation](./Gateway-Cloning/pDONR-BP-reaction.md)
-
 NGS
 --------------------------------------------------------------------------------
+* [Nextera XT Library Prep](./NGS/Basic-Nextera-XT.md)
 * [Nextera Plasmid Library Prep](./NGS/Nextera-plasmid-library.md)
+* [SPRI Bead Cleanup and Size Selection](./NGS/SPRI-beads.md)
+* [2-step Illumina Library Prep](./NGS/Two-Step-PCR-Library.md)
+
+Gateway Cloning
+--------------------------------------------------------------------------------
+* [pENTR Creation](./Gateway-Cloning/pDONR-BP-reaction.md)
+* [Multisite Assembly](./Gateway-Cloning/Multisite-LR-reaction.md)
+
+Lentivirus Stables
+--------------------------------------------------------------------------------
+* [Virus Production](../Lentivirus-Stables/virus-production-HEK293T.md)
+* [Infection and Selection](../Lentivirus-Stables/Infection-and-Selection.md)
+
+Chemical Probing
+--------------------------------------------------------------------------------
+* [SDA Crosslinking](../Chemical-Probing/SDA-Xlinking.md)
+* [OOPS RNP Enrichment](../Chemical-Probing/OOPS-RNP.md)
+* [In-cell SHAPE probing](../Chemical-Probing/In-Cell-SHAPE.md)
+* [Cell-free DMS probing](../Chemical-Probing/Cell-free-SHAPE.md)
+* [In-cell DMS probing](../Chemical-Probing/In-Cell-DMS.md)
+* [Cell-free DMS probing](../Chemical-Probing/Cell-free-DMS.md)
+
+
+Mutational Profiling
+--------------------------------------------------------------------------------
+* [MaP RT with SuperScript II](../Mutational-Profiling/MaP-RT-SSII.md)
+* [MaP RT with Marathon](../Mutational-Profiling/MaP-RT-Marathon.md)
+
+
+Proximity Labeling
+--------------------------------------------------------------------------------
+* [miniTURBO Biotinylation](../Proximity-Labeling/miniTurbo-biotinylation.md)
+* [RIPA Whole Cell Lysis](../Proximity-Labeling/Whole-Cell-Lysis-RIPA.md)
+* [miniTURBO Streptavidin Pulldown](../Proximity-Labeling/miniTurbo-Strep-Pulldown.md)
+* [In-cell DSP Crosslinking](../Proximity-Labeling/In-Cell-DSP-Crosslinking.md)
+* [HaloTag Mammalian Cell Lysis](../Proximity-Labeling/HaloTag-Mammalian-Lysis.md)
+* [HaloTag Pulldown](../Proximity-Labeling/HaloTag-Pulldown.md)
+
+
+Mass Spec Prep
+--------------------------------------------------------------------------------
+* [On-bead Digestion](../Mass-Spec-Prep/On-Bead-Digestion.md)
+* [Bead Reduction and Elution](../Mass-Spec-Prep/Bead-Reduction-Elution.md)
+* [C18 Column Cleanup](../Mass-Spec-Prep/C18-Column-Cleanup.md)
+* [Ethyl Acetate Cleanup](../Mass-Spec-Prep/Ethyl-Acetate-Cleanup.md)
+* [Peptide Quantification](../Mass-Spec-Prep/Peptide-Quant.md)
+
