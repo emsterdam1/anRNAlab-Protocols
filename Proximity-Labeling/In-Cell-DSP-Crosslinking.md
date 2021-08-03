@@ -28,7 +28,7 @@ Equipment Required:
   * Cell culture incubator (37 °C with 5% CO<sub>2</sub> usually)
   * Microcentrifuge (for tubes) or larger centrifuge (for conicals) 
 
-<br/><br/>
+<br/><br/><br/>
 
 <!-- Use <br/> to fill in first page -->
 ___
@@ -61,19 +61,19 @@ _To process 15 cm dishes, don't aspirate, just dump media and washes into waste 
   
 **7.** Scrape cells with ice-cold PBS and combine like samples into single tube.
   
-  * For small plate wells, pipetting a 0.5X growth volume of PBS will dislodge cells.<br/>
+  * For small plate wells, pipetting a 0.5X growth volume of PBS dislodges cells.<br/>
   Move to eppendorf tubes on ice.
   
   * For 15 cm dishes, scrape with 3 mL of cold PBS and combine into a 50 mL conical tube on ice.<br/>
-  Collect remaining cells with a 10 mL wash of cold PBS for all plates of single sample and add to tube.<br/>
-  Example: 5 15 cm dishes of one sample could be processed as 5 x 3 mL PBS scrapes + a final 10 mL shared wash. <br/>
+  Collect remaining cells with shared 10 mL wash of cold PBS for plates of one sample and combine.<br/>
+  Example: Process 5 15 cm dishes of one sample with 3 mL scrapes + a final 10 mL shared wash. <br/>
     This would result in a half-full 50 mL conical for the sample.
   
 **8.** Pellet cells at 500xg for 10 minutes. Discard supernatant and freeze cell pellets (or proceed to lysis).
   
-  *Note:For cell pellets for Westerns in eppendorf tubes, pellets can be frozen and stored directly at -20 °C.*<br/>
-  *For larger pellets less than 1 mL of bed volume in conical tubes, placing them directly into -80 °C is sufficient.*<br/>
-  *Pellets larger than 1 mL should be snap-frozen in liquid nitrogen before being transferred to -80 °C.* 
+  *Note:For cell pellets for Westerns in eppendorf tubes, pellets can be stored directly at -20 °C.*<br/>
+  *For pellets less than 1 mL of bed volume in conical tubes, place directly into -80 °C.*<br/>
+  *Pellets larger than 1 mL should be snap-frozen in liquid nitrogen before moving to -80 °C.* 
  
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
