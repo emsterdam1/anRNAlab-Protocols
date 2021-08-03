@@ -13,7 +13,7 @@ Before starting:
 Materials:
 --------------------------------------------------------------------------------
 
-  * Protein Purification Buffer - NP40 (PPB-N)  
+  * **Protein Purification Buffer - NP40 (PPB-N)**  
     ◦ 50 mM HEPES pH 7.5  
     ◦ 150 mM NaCl  
     ◦ 0.005% NP-40 (or IGEPAL CA-630)<br/>
@@ -37,7 +37,6 @@ Equipment Required:
   * tube rotator
   * magnetic stand
 
-<br/><br/><br/><br/>
 <!-- Use <br/> to fill in first page -->
 
 ___
