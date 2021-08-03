@@ -75,7 +75,7 @@ BCA protein quantification</a>
 </p> <a href="../General/Western-Blotting.md">
 Western Validation</a>
 
-</p> <a href="../Mass-Spec-Prep/On-Bead-Digestion.md">
+</p> <a href="../Mass-Spec-Prep/Bead-Reduction-Elution.md">
 Rapigest reduction, alkylation, and Trypsin Digestion</a>
 
 </p> <a href="../Mass-Spec-Prep/C18-Column-Cleanup.md">
