@@ -5,7 +5,7 @@ Mutations and deletions at sites of read-through can be mapped by sequencing. Ma
 
 Before starting:
 --------------------------------------------------------------------------------
-* [In-cell crosslinking with SDA](../Chemical-Probing/SDA-Xlinking.md)
+* [In-cell crosslinking with SDA](../Chemical-Probing/SDA-Xlinking.md) _(Note: not clear whether this procedure works with SDA crosslinking)_
 * [OOPS RNP enrichment](../Chemical-Probing/OOPS-RNP.md)
 * [In-cell SHAPE RNA profiling](../Chemical-Probing/In-cell-SHAPE.md)
 * [Cell-free SHAPE RNA profiling](../Chemical-Probing/Cell-free-SHAPE.md)
