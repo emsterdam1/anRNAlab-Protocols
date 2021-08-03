@@ -20,11 +20,13 @@ Materials:
     ◦ 0.1% Sodium Deoxycholate  
     _Note: Add detergents last and store buffer at 4 °C._
   
-  * "Day of" lysis additives
+  * "Day of" lysis additives  
     
-    * [100X protease inhibitor](https://www.thermofisher.com/order/catalog/product/78429#/78429)
-    * [100X phosphatase inhibitor](https://www.thermofisher.com/order/catalog/product/78420#/78420)
-    * [250 Units/µl Benzonase Nuclease](https://www.sigmaaldrich.com/catalog/product/sigma/e1014?lang=en&region=US&cm_sp=Insite-_-caSrpResults_srpRecs_srpModel_e1014-25ku-_-srpRecs3-1) (degrades all nucleic acids)
+    ◦ [50X protease inhibitor](https://www.promega.com/products/protein-purification/protein-purification-kits/protease-inhibitor-cocktail/?catNum=G6521)<br/>
+    _HaloTag binding is inhibited in the presence of AEBSF. Do not use protease inhibitor cocktails (like Halt) that include it._<br/>
+    _PMSF is not stable in water. Resuspend dry inhibitor stock in 100% ethanol and store at 4 °C._  
+    ◦ [100X phosphatase inhibitor](https://www.thermofisher.com/order/catalog/product/78420#/78420)  
+    ◦ [250 Units/µl Benzonase Nuclease](https://www.sigmaaldrich.com/catalog/product/sigma/e1014?lang=en&region=US&cm_sp=Insite-_-caSrpResults_srpRecs_srpModel_e1014-25ku-_-srpRecs3-1) (degrades all nucleic acids)  
 
   * **Protein Purification Buffer - NP40 (PPB-N)**  
     ◦ 50 mM HEPES pH 7.5  
@@ -43,7 +45,7 @@ ___
 Protocol:
 --------------------------------------------------------------------------------
 
-**1.** Add protease inhibibitor (1/100), phosphatase inhibitor (1/100), and Benzonase (1/5000) to 1X in HTMLB to create lysis buffer.
+**1.** Add protease inhibibitor (1/50), phosphatase inhibitor (1/100), and Benzonase (1/5000) to 1X in HTMLB to create lysis buffer.
 
 **2.** Lyse cell pellets on ice for 15 minutes in prepared lysis buffer.
   * For multi-well plate formats, use 25 µl/cm<sup>2</sup> of lysis buffer
