@@ -13,14 +13,12 @@ Materials:
 --------------------------------------------------------------------------------
   * Cell pellet
   
-  * HaloTag Mammalian Lysis Buffer (HTMLB)
-  
-    * 50 mM Tris-HCl pH 7.5
-    * 150 mM NaCl
-    * 1% Triton-X 100
-    * 0.1% Sodium Deoxycholate
-    
-    *Note: Add detergents last and store buffer at 4 °C.*
+  * HaloTag Mammalian Lysis Buffer (HTMLB)  
+    ◦ 50 mM Tris-HCl pH 7.5  
+    ◦ 150 mM NaCl  
+    ◦ 1% Triton-X 100  
+    ◦ 0.1% Sodium Deoxycholate  
+    _Note: Add detergents last and store buffer at 4 °C._
   
   * "Day of" lysis additives
     
@@ -28,19 +26,18 @@ Materials:
     * [100X phosphatase inhibitor](https://www.thermofisher.com/order/catalog/product/78420#/78420)
     * [250 Units/µl Benzonase Nuclease](https://www.sigmaaldrich.com/catalog/product/sigma/e1014?lang=en&region=US&cm_sp=Insite-_-caSrpResults_srpRecs_srpModel_e1014-25ku-_-srpRecs3-1) (degrades all nucleic acids)
 
-  * Protein Purification Buffer - NP40 (PPB-N)
-  
-    * 50 mM HEPES pH 7.5
-    * 150 mM NaCl
-    * 0.005% NP-40 (or IGEPAL CA-630)
-    
-    *Note: Add detergent last and store buffer at 4 °C.*
+  * Protein Purification Buffer - NP40 (PPB-N)  
+    ◦ 50 mM HEPES pH 7.5  
+    ◦ 150 mM NaCl  
+    ◦ 0.005% NP-40 (or IGEPAL CA-630)  
+    _Note: Add detergent last and store buffer at 4 °C._
      
 Equipment Required:
 --------------------------------------------------------------------------------
   
   * [Sonicator](https://www.fishersci.com/shop/products/fisher-scientific-model-120-sonic-dismembrator-4/p-3974654) (other models need optimization)
 
+<br/><br/>
 <!-- Use <br/> to fill in first page -->
 
 ___
