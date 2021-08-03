@@ -40,8 +40,6 @@ Equipment Required:
   
   * [Sonicator](https://www.fishersci.com/shop/products/fisher-scientific-model-120-sonic-dismembrator-4/p-3974654) (other models need optimization)
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
 <!-- Use <br/> to fill in first page -->
 
 ___
