@@ -1,6 +1,6 @@
 In-cell Protein-Protein Crosslinking with DSP _(Work in Progress)_
 ================================================================================
-Description: DSP `(dithiobis[succinimidylpropionate])` crosslinks free amines in close proximity in cells and in solution.<br/>
+Description: DSP `(dithiobis[succinimidylpropionate])` crosslinks proximal free amines in cells.<br/>
 Crosslinks are cleavable by reduction.
 
 [Go To Protocol](#protocol)
@@ -45,30 +45,32 @@ Protocol:
 **2.** Wash cells twice in a half growth volume of PBS (for example 10 mL for a 15 cm dish).<br/>
 Suspension cells will have to be pelleted.
   
-**3.** Cover cells in 1/2 growth volume of PBS. Carefully add DSP while mixing to a final concentration of 0.5 mM.<br/>
+**3.** Cover cells in 0.5 growth volumes PBS. Carefully mix in DSP to a final concentration of 0.5 mM.<br/>
+Uncrosslinked samples treated with DMSO are appropriate when optimizing.<br/>
 _1 mg of DSP in 100 µl of DMSO makes a 25 mM stock solution enough to treat 1 15 cm dish._
 
-**4.** Incubate cells at 37 °C for 30 minutes. _Note: other protocols use room temperature or ice for 2 hours. Worth testing._ 
+**4.** Incubate cells at 37 °C for 30 minutes.<br/>
+_Note: other protocols use room temperature or ice for 2 hours. Worth testing._ 
   
-**5.** Add 1/10th volume of 1 M Tris pH 7.5 and incubate 5 minutes at room temperature to quench excess DSP.<br/>
+**5.** Add 0.1 volume of 1 M Tris pH 7.5 and incubate 5 minutes at room temperature to quench excess DSP.<br/>
 _Note: This may cause adherent cells to detach, requiring pelleting. May be an unnecessary step._
 
 **6.** Carefully aspirate buffer and wash cells with 0.5X growth volume of PBS.
  
   *Note: Cells are being harvested, no need to use cell culture grade PBS for washing steps.*<br/>
-  *When processing many samples for Mass Spec, just dump media and washes into a waste container to speed up process.*
+  *To accelerate processing of many samples, don't aspirate, just dump media and washes into waste container.*
   
 **7.** Scrape cells with ice-cold PBS and combine like samples (for Mass Spec procedure) into single tube.
   
-  * For Western validation, pipetting a 0.5X growth volume of PBS onto the sample is usually enough to dislodge and collect cells.<br/>
+  * For small volumes, pipetting a 0.5X growth volume of PBS onto the sample efficiently dislodges cells.<br/>
   Move to eppendorf tubes on ice.
   
-  * For multi-plate MS samples, scrape with ~3-5 mL of cold PBS per 15 cm dish and combine into a 15 mL or 50 mL conical tube on ice.<br/>
-  Collect any remaining cells with a single up to 10 mL wash of cold PBS for all plates of single sample and add to that sample's conical tube. 
-    * Example: 5 15 cm dishes of one sample could be processed as 5 x 3 mL PBS scrapes + a final 10 mL wash shared between them. <br/>
+  * For multi-plate MS samples, scrape with 3 mL of cold PBS per 15 cm dish and combine into a 50 mL conical tube on ice.<br/>
+  Collect any remaining cells with a single 10 mL wash of cold PBS for all plates of single sample and add to tube. 
+    * Example: 5 15 cm dishes of one sample could be processed as 5 x 3 mL PBS scrapes + a final 10 mL shared wash. <br/>
     This would result in a half-full 50 mL conical for the sample.
   
-**8.** Pellet cells at 500xg for 10 minutes. Discard the supernatant and freeze cell pellets (or proceed directly to cell lysis).
+**8.** Pellet cells at 500xg for 10 minutes. Discard supernatant and freeze cell pellets (or proceed directly to cell lysis).
   
   *Note:For cell pellets for Westerns in eppendorf tubes, pellets can be frozen and stored directly at -20 °C.*<br/>
   *For larger pellets less than 1 mL of bed volume in conical tubes, placing them directly into -80 °C is sufficient.*<br/>
