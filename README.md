@@ -53,40 +53,40 @@ Gateway Cloning
 
 Lentivirus Stables
 --------------------------------------------------------------------------------
-* [Virus Production](../Lentivirus-Stables/virus-production-HEK293T.md)
-* [Infection and Selection](../Lentivirus-Stables/Infection-and-Selection.md)
+* [Virus Production](./Lentivirus-Stables/virus-production-HEK293T.md)
+* [Infection and Selection](./Lentivirus-Stables/Infection-and-Selection.md)
 
 Chemical Probing
 --------------------------------------------------------------------------------
-* [SDA Crosslinking](../Chemical-Probing/SDA-Xlinking.md)
-* [OOPS RNP Enrichment](../Chemical-Probing/OOPS-RNP.md)
-* [In-cell SHAPE probing](../Chemical-Probing/In-Cell-SHAPE.md)
-* [Cell-free DMS probing](../Chemical-Probing/Cell-free-SHAPE.md)
-* [In-cell DMS probing](../Chemical-Probing/In-Cell-DMS.md)
-* [Cell-free DMS probing](../Chemical-Probing/Cell-free-DMS.md)
+* [SDA Crosslinking](./Chemical-Probing/SDA-Xlinking.md)
+* [OOPS RNP Enrichment](./Chemical-Probing/OOPS-RNP.md)
+* [In-cell SHAPE probing](./Chemical-Probing/In-Cell-SHAPE.md)
+* [Cell-free DMS probing](./Chemical-Probing/Cell-free-SHAPE.md)
+* [In-cell DMS probing](./Chemical-Probing/In-Cell-DMS.md)
+* [Cell-free DMS probing](./Chemical-Probing/Cell-free-DMS.md)
 
 
 Mutational Profiling
 --------------------------------------------------------------------------------
-* [MaP RT with SuperScript II](../Mutational-Profiling/MaP-RT-SSII.md)
-* [MaP RT with Marathon](../Mutational-Profiling/MaP-RT-Marathon.md)
+* [MaP RT with SuperScript II](./Mutational-Profiling/MaP-RT-SSII.md)
+* [MaP RT with Marathon](./Mutational-Profiling/MaP-RT-Marathon.md)
 
 
 Proximity Labeling
 --------------------------------------------------------------------------------
-* [miniTURBO Biotinylation](../Proximity-Labeling/miniTurbo-biotinylation.md)
-* [RIPA Whole Cell Lysis](../Proximity-Labeling/Whole-Cell-Lysis-RIPA.md)
-* [miniTURBO Streptavidin Pulldown](../Proximity-Labeling/miniTurbo-Strep-Pulldown.md)
-* [In-cell DSP Crosslinking](../Proximity-Labeling/In-Cell-DSP-Crosslinking.md)
-* [HaloTag Mammalian Cell Lysis](../Proximity-Labeling/HaloTag-Mammalian-Lysis.md)
-* [HaloTag Pulldown](../Proximity-Labeling/HaloTag-Pulldown.md)
+* [miniTURBO Biotinylation](./Proximity-Labeling/miniTurbo-biotinylation.md)
+* [RIPA Whole Cell Lysis](./Proximity-Labeling/Whole-Cell-Lysis-RIPA.md)
+* [miniTURBO Streptavidin Pulldown](./Proximity-Labeling/miniTurbo-Strep-Pulldown.md)
+* [In-cell DSP Crosslinking](./Proximity-Labeling/In-Cell-DSP-Crosslinking.md)
+* [HaloTag Mammalian Cell Lysis](./Proximity-Labeling/HaloTag-Mammalian-Lysis.md)
+* [HaloTag Pulldown](./Proximity-Labeling/HaloTag-Pulldown.md)
 
 
 Mass Spec Prep
 --------------------------------------------------------------------------------
-* [On-bead Digestion](../Mass-Spec-Prep/On-Bead-Digestion.md)
-* [Bead Reduction and Elution](../Mass-Spec-Prep/Bead-Reduction-Elution.md)
-* [C18 Column Cleanup](../Mass-Spec-Prep/C18-Column-Cleanup.md)
-* [Ethyl Acetate Cleanup](../Mass-Spec-Prep/Ethyl-Acetate-Cleanup.md)
-* [Peptide Quantification](../Mass-Spec-Prep/Peptide-Quant.md)
+* [On-bead Digestion](./Mass-Spec-Prep/On-Bead-Digestion.md)
+* [Bead Reduction and Elution](./Mass-Spec-Prep/Bead-Reduction-Elution.md)
+* [C18 Column Cleanup](./Mass-Spec-Prep/C18-Column-Cleanup.md)
+* [Ethyl Acetate Cleanup](./Mass-Spec-Prep/Ethyl-Acetate-Cleanup.md)
+* [Peptide Quantification](./Mass-Spec-Prep/Peptide-Quant.md)
 
