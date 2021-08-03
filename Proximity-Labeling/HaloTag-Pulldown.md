@@ -1,4 +1,4 @@
-HaloTag Pull-down of Crosslinked Protein Complexes<br/>
+Pull-down of Crosslinked HaloTag Complexes<br/>
 (In Progress)
 ================================================================================
 Description: Bait labeled with HaloTag and Prey crosslinked in cells are coupled covalently to beads.
