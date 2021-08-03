@@ -90,7 +90,7 @@ BCA protein quantification</a>
 Western Validation</a>
 
 </p> <a href="./HaloTag-Pulldown.md">
-Western Validation</a>
+HaloTag Pulldown</a>
 
 </p> <a href="../Mass-Spec-Prep/On-Bead-Digestion.md">
 Rapigest reduction, alkylation, and Trypsin Digestion</a>
