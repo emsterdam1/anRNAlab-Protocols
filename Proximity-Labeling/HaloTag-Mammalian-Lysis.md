@@ -7,6 +7,7 @@ Description: Lysis buffer contains detergents suited to disrupt all cellular mem
 Before starting:
 --------------------------------------------------------------------------------
 * [Stable cell line generation by lentiviral infection](../Lentivirus-Stables/virus-production-HEK293T.md)
+* [In cell DSP crosslinking](./In-Cell-DSP-Crosslinking.md)
 
 Materials:
 --------------------------------------------------------------------------------
