@@ -37,9 +37,8 @@ ___
 Protocol:
 --------------------------------------------------------------------------------
 ### Day 1
-**1.** Plate cell lines at ~30,000 cells/cm<sup>2</sup> (about 150,000 cells/mL)
-  
-  * If preparing for western validation, each test sample needs at least a 6-well.
+**1.** Plate cell lines at ~30,000 cells/cm<sup>2</sup> (about 150,000 cells/mL)  
+  * If preparing for western validation, each test sample needs at least a 6-well.  
   * For Mass Spec preparation, each cell line needs at least 5 15-cm dishes (10 total for 2 replicates).
 
 ### Day 3 or 4
@@ -62,11 +61,9 @@ _Note: This may cause adherent cells to detach, requiring pelleting. May be an u
 _Note: Cells are being harvested, no need to use cell culture grade PBS for washing steps._<br/>
 _To process 15 cm dishes, don't aspirate, just dump media and washes into waste container._
   
-**7.** Scrape cells with ice-cold PBS and combine like samples into single tube.
-  
+**7.** Scrape cells with ice-cold PBS and combine like samples into single tube.  
   * For small plate wells, pipetting a 0.5X growth volume of PBS dislodges cells.<br/>
-  Move to eppendorf tubes on ice.
-  
+  Move to eppendorf tubes on ice.  
   * For 15 cm dishes, scrape with 3 mL of cold PBS and combine into a 50 mL conical tube on ice.<br/>
   Collect remaining cells with shared 10 mL wash of cold PBS for plates of one sample and combine.<br/>
   Example: Process 5 15 cm dishes of one sample with 3 mL scrapes + a final 10 mL shared wash. <br/>
