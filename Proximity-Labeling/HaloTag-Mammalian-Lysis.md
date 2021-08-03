@@ -13,7 +13,7 @@ Materials:
 --------------------------------------------------------------------------------
   * Cell pellet
   
-  * HaloTag Mammalian Lysis Buffer (HTMLB)  
+  * **HaloTag Mammalian Lysis Buffer (HTMLB)**  
     ◦ 50 mM Tris-HCl pH 7.5  
     ◦ 150 mM NaCl  
     ◦ 1% Triton-X 100  
@@ -26,7 +26,7 @@ Materials:
     * [100X phosphatase inhibitor](https://www.thermofisher.com/order/catalog/product/78420#/78420)
     * [250 Units/µl Benzonase Nuclease](https://www.sigmaaldrich.com/catalog/product/sigma/e1014?lang=en&region=US&cm_sp=Insite-_-caSrpResults_srpRecs_srpModel_e1014-25ku-_-srpRecs3-1) (degrades all nucleic acids)
 
-  * Protein Purification Buffer - NP40 (PPB-N)  
+  * **Protein Purification Buffer - NP40 (PPB-N)**  
     ◦ 50 mM HEPES pH 7.5  
     ◦ 150 mM NaCl  
     ◦ 0.005% NP-40 (or IGEPAL CA-630)  
