@@ -23,7 +23,8 @@ Materials:
      
   * Agarose
   * Nucleic acid dye or label, for example:  
-    ◦ 5 mg/mL Ethidium Bromide (a 0.5% solution). This is 1000X  
+    ◦ 5 mg/mL Ethidium Bromide (a 0.5% solution). This is 1000X<br/>
+    _Note: EtBr is a carcinogen and must be disposed of properly._   
     ◦ [GelRed Nucleic Acid Stain 10,000X](https://www.sigmaaldrich.com/catalog/product/mm/sct123?lang=en&region=US&cm_sp=Insite-_-caContent_prodMerch_gruCrossEntropy-_-prodMerch10-1). Can be used as 20,000X  
     ◦ [GelStar Nucleic Acid Stain 10,000X](https://bioscience.lonza.com/lonza_bs/US/en/Electrophoresis/p/000000000000182314/GelStar-Nucleic-Acid-Gel-Stain%2C-10%2C000X-%282-x-250-uL%29).
   
@@ -34,7 +35,7 @@ Materials:
   
   * DNA molecular weight ladder
   
-<br/><br/><br/>
+<br/><br/>
 
 Equipment Required:
 --------------------------------------------------------------------------------
@@ -51,13 +52,17 @@ Protocol:
 <br/>*Notes: Can be more or less depending on your eletrophoresis setup.*
 <br/>*Make sure the vessel holds about 2.5x your chosen volume (mixture will boil).*
   
-**2. Melt agarose:** Heat mixture for 1 minute in standard microwave.<br/>Then pulse heat for 15 seconds at a time, mixing in between, until agarose is fully melted.
-<br/>*Wear appropriate PPE. Mixture will be hot.*
+**2. Melt agarose:** Heat mixture for 1 minute in standard microwave.<br/>
+Pulse heat for 15 seconds at a time, mixing in between, until agarose is fully melted.<br/>
+_Wear appropriate PPE. Mixture will be hot._
 
-**3. Add label and pour gel:** Once gel is cool enough to handle with gloved hands, add desired amount of stain and pour gel into cast.<br/>Add a gel comb with desired number of lanes and disrupt any visible bubbles with a pipette tip.<br/>Let gel set for 30-60 minutes (will set faster at 4 °C).
+**3. Add label and pour gel:** Once gel is cool enough to handle with gloved hands, add desired amount of stain and pour gel into cast.<br/>
+Add a gel comb with desired number of lanes and disrupt any visible bubbles with a pipette tip.<br/>
+Let gel set for 30-60 minutes (will set faster at 4 °C).
 
-**4. Load gel:** Dilute DNA samples and ladder into similar volumes and add Loading dye to 1X final concentration. Load each sample into a well.
-<br/>*Notes: Try to match buffer conditions in the ladder and samples, as differences can exaggerate how off the size estimations are.*
+**4. Load gel:** Dilute DNA samples and ladder into similar volumes and add Loading dye to 1X final concentration.<br/>
+Load each sample into a well.<br/>
+_Notes: Try to match buffer conditions in the ladder and samples, as differences can exaggerate how off the size estimations are._
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
 **4. Image gel:** DNA gels are easily imaged on systems using UV transilluminators.
