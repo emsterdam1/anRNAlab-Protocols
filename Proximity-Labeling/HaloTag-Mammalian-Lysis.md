@@ -23,7 +23,7 @@ Materials:
   * "Day of" lysis additives  
     
     ◦ [50X protease inhibitor](https://www.promega.com/products/protein-purification/protein-purification-kits/protease-inhibitor-cocktail/?catNum=G6521)<br/>
-    _HaloTag binding is inhibited in the presence of AEBSF. Do not use protease inhibitor cocktails (like Halt) that include it._<br/>
+    _Do not use protease inhibitor cocktails (like Halt) that include AEBSF, it inhibits HaloTag._<br/>
     _PMSF is not stable in water. Resuspend dry inhibitor stock in 100% ethanol and store at 4 °C._  
     ◦ [100X phosphatase inhibitor](https://www.thermofisher.com/order/catalog/product/78420#/78420)  
     ◦ [250 Units/µl Benzonase Nuclease](https://www.sigmaaldrich.com/catalog/product/sigma/e1014?lang=en&region=US&cm_sp=Insite-_-caSrpResults_srpRecs_srpModel_e1014-25ku-_-srpRecs3-1) (degrades all nucleic acids)  
