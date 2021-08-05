@@ -9,7 +9,7 @@ Materials:
   * 10X stock of SHAPE reagent. _Note: SHAPE reagents must be stored dry and made up in DMSO immediately before probing._
     * For a 10X stock of [5NIA](https://www.sigmaaldrich.com/catalog/product/aldrich/s428396?lang=en&region=US&cm_sp=Insite-_-caSrpResults_srpRecs_srpModel_5-nitroisatoic%20anhydride-_-srpRecs3-1) in DMSO, 5.2 mg/100 µl yields 250 mM
     * a 10X stock of [1M7](https://www.sigmaaldrich.com/catalog/product/aldrich/908401?lang=en&region=US&cm_sp=Insite-_-caContent_prodMerch_gruCrossEntropy-_-prodMerch10-1) is 100 mM, [NAI](https://www.sigmaaldrich.com/catalog/product/mm/03310?lang=en&region=US) and [NAI-N3](https://www.sigmaaldrich.com/catalog/product/aldrich/913812?lang=en&region=US) is 1 M
-  * [Trizol](https://www.thermofisher.com/order/catalog/product/15596026#/15596026) lysis reagent
+  * [Trizol](https://www.thermofisher.com/order/catalog/product/15596026#/15596026) lysis reagent (wear eye protection and PPE)
      
 Equipment Required:
 --------------------------------------------------------------------------------
