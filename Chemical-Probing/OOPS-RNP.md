@@ -84,8 +84,6 @@ _Note: If enzyme not RNA-grade, pre-incubate with buffer at 50 °C for 15 minute
 
 **13.** Transfer (top) aqueous phase to a new tube and add 50 µL of 3M sodium acetate
 
-<br/>
-
 **Part 5: Isopropanol precipitation of bound and unbound RNAs (30 minutes)**
 
 _You can retrieve the unbound RNAs from storage and precipitate together with the bound RNAs._<br/>
