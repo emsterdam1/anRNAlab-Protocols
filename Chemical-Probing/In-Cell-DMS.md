@@ -9,7 +9,7 @@ Materials:
   * 1.7 M DMS in EtOH ([100% DMS](https://www.sigmaaldrich.com/US/en/product/sial/d186309) is 10.57 M)
   * [500 mM Bicine Buffer, pH 8.0](https://www.fishersci.com/shop/products/bicine-0-5m-buffer-soln-ph-8-0/AAJ63924AE)
   * Cold 20% [2-mercaptoethanol (2-ME)](https://www.fishersci.com/shop/products/2-mercaptoethanol-cell-culture-mp-biomedicals-4/ICN19470580)
-  * [Trizol](https://www.thermofisher.com/order/catalog/product/15596026#/15596026) lysis reagent
+  * [Trizol](https://www.thermofisher.com/order/catalog/product/15596026#/15596026) lysis reagent (Wear eye protection and PPE)
      
 Equipment Required:
 --------------------------------------------------------------------------------
