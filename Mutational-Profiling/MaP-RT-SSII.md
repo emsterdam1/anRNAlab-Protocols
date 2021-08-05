@@ -72,7 +72,7 @@ Protocol:
 
 **5.** cDNA product purification:  
   ◦ For abundant targets, product cDNA can go straight into PCR amplification.  
-  ◦ For lowly expressed targets and randomly-primed reactions, buffer exchange with [G50 columns](../NGS/G-50-Microspin.md).
+  ◦ For lowly expressed targets and randomly-primed reactions, buffer exchange with [G50 columns](../NGS/G-50-microspin.md).
 
 **(6.)** Dilute randomly-primed cDNA to 34 µL in preparation for second-strand synthesis.
   
