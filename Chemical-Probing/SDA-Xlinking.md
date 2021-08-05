@@ -7,7 +7,7 @@ Materials:
   * Mostly confluent cells (for HEK293T cells, plate 200K cells in a 6cm dish and grow up 2 days) 
   * 1X Phosphate-buffered saline pH 7.4
   * 100 mM stock of [NHS-Diazirine (SDA)](https://www.thermofisher.com/order/catalog/product/26167#/26167) in DMSO<br/>_Note: SDA is best diluted the day of use, but can be stored in DMSO at -20 °C for at least 1 month._
-  * [Trizol](https://www.thermofisher.com/order/catalog/product/15596026#/15596026) lysis reagent
+  * [Trizol](https://www.thermofisher.com/order/catalog/product/15596026#/15596026) lysis reagent (wear eye protection and PPE)
      
 Equipment Required:
 --------------------------------------------------------------------------------
