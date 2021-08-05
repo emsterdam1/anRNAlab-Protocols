@@ -70,9 +70,10 @@ _Danger is limited, but take care not to ingest or inject live lentiviral prepar
   *  Add entire mixture dropwise to a 10 cm dish containing cells.
   *  Incubate cells at 37 °C for 24 hours.
 
+<br/><br/><br/>
 ### Day 3
 
-**5.** Change media on each plate (10 mL DMEM + 10% FBS, no antibiotics). Incubate cells at 37 °C for 2 more days.<br/>
+**5.** Change media on each plate (10 mL DMEM + 10% FBS, no antibiotics). Incubate at 37 °C for 2 more days.<br/>
   _Note: This media has some amount of virus, use a 10 mL pipette to aspirate._<br/>
   _Bleach and UV treat pipettes and aspirated media before disposal._
 
@@ -80,10 +81,14 @@ _Danger is limited, but take care not to ingest or inject live lentiviral prepar
 _Note: Treat everything on this day as material contaminated with live virus._<br/>
 _All waste media and materials should be bleached and exposed to UV before disposal._
 
-**6.** Aspirate culture media with a 10/20 mL syringe and pass media through a 0.45 µm filter into a concentrator column.
+**6.** Aspirate culture media with a 10/20 mL syringe.<br/>
+Pass media through a 0.45 µm filter into a concentrator column.
 
-**7.** Concentrate the virus (spin in concentrator column at 3,000 xg for 9 minutes) and move resulting volume to cryotubes.
-  * _Note: Time spent concentrating can be varied to yield 1 mL of concentrated virus (20X) or 200 µL of hyper-concentrated virus (100X)_
+**7.** Concentrate the virus (spin in concentrator column at 3,000 xg for 9 minutes).<br/>
+Move resulting (upper) volume to cryotubes.
+  * _Note: Time spent concentrating can be varied to yield different volumes:_<br/>
+  _1 mL of concentrated virus (20X), or_<br/>
+  _200 µL of hyper-concentrated virus (100X)_
 
 **8.** Store the virus at -80 °C for long-term storage or 4 °C for immediate infections.
 
