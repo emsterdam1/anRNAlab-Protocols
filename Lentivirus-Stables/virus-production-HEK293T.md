@@ -30,6 +30,7 @@ Equipment Required:
 ### Day 1-4
 
   * Cell culture incubator (37 °C with 5% CO<sub>2</sub>)
+  * Tissue culture hood equipped with germicidal UV lamp.
 
 ### Day 5
 
@@ -39,6 +40,11 @@ Equipment Required:
 
 Protocol:
 --------------------------------------------------------------------------------
+_Note: The separate plasmid components of lentivirus are not harmful or dangerous by themselves._<br/>
+_When expressed together in a cell line, they will create live virus that should be handled appropriately._<br/>
+_The virus created is not replicative, but does have limited potential to integrate DNA into a person's cells._<br/>
+_This can be hazardous, especially if incorporating known oncogenes._<br/>
+_Danger is limited, but take care not to ingest or inject live lentiviral preparations. Dispose of virus properly._
 
 ### Day 1
 
@@ -69,10 +75,13 @@ Protocol:
 
 ### Day 3
 
-**5.** Change media on each plate (10 mL DMEM + 10% FBS, no antibiotics). Incubate cells at 37 °C for 2 more days.
-  * _Note: This media has some amount of virus, use a 10 mL pipette to aspirate. Bleach and UV treat pipettes and aspirated media._
+**5.** Change media on each plate (10 mL DMEM + 10% FBS, no antibiotics). Incubate cells at 37 °C for 2 more days.<br/>
+  _Note: This media has some amount of virus, use a 10 mL pipette to aspirate._<br/>
+  _Bleach and UV treat pipettes and aspirated media before disposal._
 
 ### Day 5
+_Note: Treat everything on this day as material contaminated with live virus._<br/>
+_All waste media and materials should be bleached and exposed to UV before disposal._
 
 **6.** Aspirate culture media with a 10/20 mL syringe and pass media through a 0.45 µm filter into a concentrator column.
 
