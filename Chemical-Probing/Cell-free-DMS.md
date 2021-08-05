@@ -6,7 +6,7 @@ Description: Dimethyl Sulfate (DMS) methylates bases of flexible RNA nucleotides
   ### Solutions and Buffers ###
   
   * 1X Phosphate-buffered saline pH 7.4
-  * 25:24:1 Phenol Chloroform Isoamyl Alcohol [(PCA)](https://www.thermofisher.com/order/catalog/product/15593031#/15593031)
+  * 25:24:1 Phenol Chloroform Isoamyl Alcohol ([PCA](https://www.thermofisher.com/order/catalog/product/15593031#/15593031), wear eye protection and PPE)
   
   * **2X Cell-Free Lysis Buffer** 
     ◦ 80 mM Tris pH 8.0    
