@@ -14,7 +14,6 @@ Materials:
     ◦ 280 mM NaCl    
     ◦ 50 mM HEPES pH 7.0  
     ◦ 1.5 mM Na<sub>2</sub>HPO<sub>4</sub>( • 2H<sub>2</sub>O)
-    
   * 2.5 M CaCl<sub>2</sub>  
   * Carrier plasmid containing insert (400 ng/µl) _(helpful to also include GFP carrier control)_
   * psPAX2 packaging plasmid (300 ng/µl)
