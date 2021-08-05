@@ -14,6 +14,9 @@ Materials:
 ___
 Protocol:
 --------------------------------------------------------------------------------
+_Note: Trizol (and other phenol reagents) are caustic and corrosive._<br/>
+_Wear eye protection and cover exposed skin. Perform Trizol and chloroform manipulations in fume hood._<br/>
+_Phenol waste must be properly disposed of (containers in the fume hood).
 
 **1.** Suspend cells in 1 mL Trizol Reagent and incubate at room temperature for 5 minutes.<br/>_Note: 1 ml is usually fine for 10<sup>5</sup> - 10<sup>7</sup> cells._
 
