@@ -25,7 +25,7 @@ Materials:
   
   * Molecular weight ladder ([Pageruler Plus](https://www.thermofisher.com/order/catalog/product/26619#/26619), [Precision Plus](https://www.bio-rad.com/en-us/sku/1610374-precision-plus-protein-dual-color-standards-500-ul?ID=1610374))<br/>_Note: ladders run [differently](https://assets.thermofisher.com/TFS-Assets/LSG/figures/BN0810112-LadderMarkers.jpg-650.jpg) depending on the gel buffer system._
   
-  * **20X MOPS-SDS Running Buffer** [(Boston Bioproducts, pH 7.7)](https://bostonbioproducts.com/products/mops-sds-running-buffer-20x-bp-178)  
+  * **20X MOPS-SDS Running Buffer** [(Boston Bioproducts, pH 7.7)](https://bostonbioproducts.com/mops-sds-running-buffer-20x-bp-178)  
     ◦ 1 M MOPS  
     ◦ 1 M Tris-Base  
     ◦ 20 mM EDTA  
