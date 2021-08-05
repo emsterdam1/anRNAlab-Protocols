@@ -41,9 +41,11 @@ General
 
 NGS
 --------------------------------------------------------------------------------
+* [Second Strand Synthesis](./NGS/Second-Strand-Synthesis.md)
+* [G-50 Buffer Exchange](./NGS/G-50-microspin.md)
+* [SPRI Bead Cleanup and Size Selection](./NGS/SPRI-beads.md)
 * [Nextera XT Library Prep](./NGS/Basic-Nextera-XT.md)
 * [Nextera Plasmid Library Prep](./NGS/Nextera-plasmid-library.md)
-* [SPRI Bead Cleanup and Size Selection](./NGS/SPRI-beads.md)
 * [2-step Illumina Library Prep](./NGS/Two-Step-PCR-Library.md)
 
 Gateway Cloning
