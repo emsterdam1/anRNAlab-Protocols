@@ -53,14 +53,16 @@ Incubate cells for 24 hours at 37 °C.
 
 ### Day 3
 **4.** Change back to normal antibiotic-free complete media.  
-  ◦ _Note: At this point, treat each well as a different cell line: switch pipettes between wells.</br> Do not vaccuum-aspirate media: bleach everything virus touches before disposal._
+  ◦ _Note: At this point, treat each well as a different cell line: switch pipettes between wells._</br>
+  _Do not vaccuum-aspirate this media: bleach and UV treat everything virus touches before disposal._
 
 ### Day 4
 
 **5.** Change virus-infected and no-infection controls to selection media (**+ 1 µg/mL puromycin**). Do not change media on the parental cells.
 
 ### Day 5
-**6.** Trypsinize cells (200 µL) and transfer to 60 mm dishes in 4 mL selection media (**+ 1 µg/mL puromycin**). </br>**Split parental line as normal (100 mm dish and antibiotic-free media).**  
+**6.** Trypsinize cells (200 µL) and transfer to 60 mm dishes in 4 mL selection media (**+ 1 µg/mL puromycin**).</br>
+**Split parental line as normal (100 mm dish and antibiotic-free media).**<br/>
 Incubate cells for 24 hours at 37 °C.
 
 ### Day 6
