@@ -44,7 +44,7 @@ Equipment Required:
   * 37 °C water bath or heat block for 15 ml conical tubes
   * Centrifuge equipped with high-speed rotor for 15 ml and 50 ml conical tubes
   <br/>_Note: ensure your conical tubes can withstand necessary g-forces._
-  * Fume hood for work with phenol
+  * **Fume hood for work with DMS and phenol**
 
 Protocol:
 --------------------------------------------------------------------------------
@@ -70,7 +70,7 @@ Protocol:
 
 **7.** Incubate both lysates at room temperate with shaking for 45 minutes.<br/>_Note: Start equlibrating the PCA (step 8) and PD-10 columns (step 10) during this incubation._
 
-### Part 3: PCA Extraction (60 minutes) ###
+### Part 3: PCA Extraction (60 minutes, fume hood) ###
 
 **8.** Equilibrate PCA with a total of 8 volumes of 1.1X DMS folding buffer.
 
@@ -93,7 +93,7 @@ Protocol:
 
 **11.** Encourage native refolding of RNAs through incubation for 20 minutes at 37 °C.
 
-### Part 6: DMS modification (15-45 minutes) ###
+### Part 6: DMS modification (15-45 minutes, fume hood) ###
 
 **12.** Split RNA samples into two halves:<br/> add one half to 1/9 volume of 1.7 M DMS solution (treated) and the other half to 1/9 volume of EtOH (untreated). <br/> _Note: It is important to add the larger volume of RNA to the smaller volume of reagent for proper mixing._
 
@@ -105,7 +105,7 @@ Protocol:
 
 **15.** Add 1 volume isopropanol and vortex 15 seconds. Incubate at room temperature for 10 minutes.
 
-**16** Pellet RNA precipitate at 15-20,000 x g for 10 minutes. Discard supernatant.
+**16** Pellet RNA precipitate at 15-20,000 x g for 10 minutes. Discard supernatant in appropriate DMS waste.
 
 **17.** Wash once with 75% ethanol, spin at 7,500 x g for 5 minutes, discard supernatant and air dry pellet for 5 minutes.
 <br/>_Note: Pellets in ethanol can be stored long term at -20 °C, just remember to DNase treat._
