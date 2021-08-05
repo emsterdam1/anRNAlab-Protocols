@@ -73,7 +73,8 @@ _Danger is limited, but take care not to ingest or inject live lentiviral prepar
 <br/><br/><br/>
 ### Day 3
 
-**5.** Change media on each plate (10 mL DMEM + 10% FBS, no antibiotics). Incubate at 37 °C for 2 more days.<br/>
+**5.** Change media on each plate (10 mL DMEM + 10% FBS, no antibiotics).<br/>
+Incubate plates at 37 °C for 2 more days.<br/>
   _Note: This media has some amount of virus, use a 10 mL pipette to aspirate._<br/>
   _Bleach and UV treat pipettes and aspirated media before disposal._
 
