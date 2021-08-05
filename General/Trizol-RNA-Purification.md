@@ -16,7 +16,7 @@ Protocol:
 --------------------------------------------------------------------------------
 _Note: Trizol (and other phenol reagents) are caustic and corrosive._<br/>
 _Wear eye protection and cover exposed skin. Perform Trizol and chloroform manipulations in fume hood._<br/>
-_Phenol waste must be properly disposed of (containers in the fume hood).
+_Phenol waste must be properly disposed of (containers in the fume hood)._
 
 **1.** Suspend cells in 1 mL Trizol Reagent and incubate at room temperature for 5 minutes.<br/>_Note: 1 ml is usually fine for 10<sup>5</sup> - 10<sup>7</sup> cells._
 
@@ -24,14 +24,16 @@ _Phenol waste must be properly disposed of (containers in the fume hood).
     
 **3.** Separate phases at 12,000 x g for 10 minutes at 4 °C, retain the <ins>aqueous</ins> phase (top).<br/>_Note: It is important to not be greedy and avoid the interface (where DNA is) as much as possible._
 
-**4.** Mix samples with 1 volume of isopropanol, vortex 5 seconds and leave at room temperature for 10 minutes.<br/>_Note: For expected low yields, it can help to add 1 µl of carrier glycogen._
+**4.** Mix samples with 1 volume isopropanol, vortex 5 seconds and leave 10 minutes at room temperature.<br/>
+_Note: For expected low yields, it can help to add 1 µl of carrier glycogen._
 
 **5.** Pellet at 12,000 x g for 8 minutes at 4 °C, remove the supernatant.
 
 **6.** Wash in 1 mL 75% ethanol, spin at 7,500 x g for 5 minutes.<br/>_Note: Pellets in ethanol can be stored long term at -20 °C._
 
-**7.** Remove most of the ethanol, spin down and remove residual ethanol, and then air dry pellets for 5-8 minutes.
+**7.** Remove most ethanol, spin down and remove residual ethanol, then air dry pellets for 5-8 minutes.
 
-**8.** Resuspend in 44 or 88 µl (depending on expected yield) of nuclease-free water in preparation for [DNase treatment](./TURBO-DNase.md).<br/>_Note: DNase treatment is not necessary if RNA is not from a cell or tissue source._
+**8.** Resuspend in 44 or 88 µl (depending on expected yield) of nuclease-free water.<br/>
+_Note: If RNA is from a cell or tissue source, a DNase treatment is necessary._
 
 
