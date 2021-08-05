@@ -6,7 +6,7 @@ Description: Proteins are transferred onto a membrane and probed for specific ta
 
 Before starting:
 --------------------------------------------------------------------------------
-* [SDS PAGE](./SDS-PAGE.md)
+* [SDS PAGE](./SDS-PAGE-Protein.md)
 
 Materials:
 --------------------------------------------------------------------------------
