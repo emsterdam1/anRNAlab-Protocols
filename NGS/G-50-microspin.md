@@ -26,7 +26,7 @@ _Sample that comes down the sides will not be buffer exchanged._
 
 **4.** Spin the sample at 735 x g for 2 minutes.<br/>
 Retain the exchanged sample and discard column materials.<br/>
-_Sample is ready immediately for second strand synthesis, for example.
+_Sample is ready immediately for second strand synthesis, for example._
 
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
