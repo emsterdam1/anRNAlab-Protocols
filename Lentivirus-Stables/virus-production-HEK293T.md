@@ -8,15 +8,15 @@ Generated virus allows for insertion of genes into "stable" cell lines by infect
 Materials:
 --------------------------------------------------------------------------------
 ### Day 1-2
+
   * Antibiotic-Free Culture Media (DMEM + 10% FBS)
   * **2X HEPES buffered saline (HBS) pH 7.1** - _pH with NaOH and filter with 0.22 µm_  
     ◦ 280 mM NaCl    
     ◦ 50 mM HEPES pH 7.0  
     ◦ 1.5 mM Na<sub>2</sub>HPO<sub>4</sub>( • 2H<sub>2</sub>O)
     
-  * 2.5 M CaCl<sub>2</sub>
-  * Carrier plasmid containing insert (400 ng/µl)
-  * **GFP carrier plasmid control*** (400 ng/µl)
+  * 2.5 M CaCl<sub>2</sub>  
+  * Carrier plasmid containing insert (400 ng/µl) _(helpful to also include GFP carrier control)_
   * psPAX2 packaging plasmid (300 ng/µl)
   * pMD2.G envelope plasmid (100 ng/µl)
 
@@ -35,8 +35,6 @@ Equipment Required:
 ### Day 5
 
   * Swinging bucket centrifuge (3-4K xg) for 50 mL conicals 
-  
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 Protocol:
 --------------------------------------------------------------------------------
