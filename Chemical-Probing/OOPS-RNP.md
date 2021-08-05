@@ -12,8 +12,8 @@ Before starting:
 Materials:
 --------------------------------------------------------------------------------
   * Crosslinked cells
-  * [Trizol](https://www.thermofisher.com/order/catalog/product/15596026#/15596026) lysis reagent
-  * Chloroform
+  * [Trizol](https://www.thermofisher.com/order/catalog/product/15596026#/15596026) lysis reagent (wear eye protection and PPE)
+  * Chloroform (work in fume hood)
   * 100% and 70% ethanol
   * 100% methanol
   * **Proteinase K lysis buffer**
@@ -36,6 +36,7 @@ Equipment Required:
 ___
 Protocol:
 --------------------------------------------------------------------------------
+_Note: Trizol is caustic and corrosive. Wear proper PPE and work in fume hood._
 
 **Part 1: Extract unbound RNA fraction (40 minutes)**
 
@@ -61,9 +62,10 @@ _Note 2: The discarded phenol organic phase could be saved as an unbound protein
 
 **7.** To the final interface, add 9 volumes of 100% methanol (~900 µL). Vortex 15 seconds.
 
-**8.** Pellet interface at 14,000 x g for 10 minutes (4 °C or room temp). 
+**8.** Pellet interface at 14,000 x g for 10 minutes (4 °C or room temp).
 
-**9.** Discard supernatant and <ins>repeat</ins> methanol wash once.
+**9.** Discard supernatant and <ins>repeat</ins> methanol wash once.<br/>
+_Note: Discard methanol supernatant in proper waste container._
 
 <br/>
 
@@ -82,7 +84,7 @@ _Note: If enzyme not RNA-grade, pre-incubate with buffer at 50 °C for 15 minute
 
 **13.** Transfer (top) aqueous phase to a new tube and add 50 µL of 3M sodium acetate
 
-<br/><br/>
+<br/>
 
 **Part 5: Isopropanol precipitation of bound and unbound RNAs (30 minutes)**
 
