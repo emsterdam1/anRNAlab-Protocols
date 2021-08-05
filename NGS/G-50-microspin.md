@@ -25,7 +25,7 @@ Apply 12-50 µl of sample slowly to the center of the column.<br/>
 _Sample that comes down the sides will not be buffer exchanged._
 
 **4.** Spin the sample at 735 x g for 2 minutes.<br/>
-Retain the exchanged sample and discard column materials.<br/>
+Retain the exchanged sample (now in TE buffer) and discard column materials.<br/>
 _Sample is ready immediately for second strand synthesis, for example._
 
   
