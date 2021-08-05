@@ -6,7 +6,7 @@ Description: SHAPE reagents label 2'OH of flexible unbound RNA nucleotides.
   ### Solutions and Buffers ###
   
   * 1X Phosphate-buffered saline pH 7.4
-  * 25:24:1 Phenol Chloroform Isoamyl Alcohol [(PCA)](https://www.thermofisher.com/order/catalog/product/15593031#/15593031)
+  * 25:24:1 Phenol Chloroform Isoamyl Alcohol ([PCA](https://www.thermofisher.com/order/catalog/product/15593031#/15593031), wear eye protection and PPE)
   
   * **2X Cell-Free Lysis Buffer** 
     ◦ 80 mM Tris pH 8.0    
@@ -59,7 +59,7 @@ Protocol:
     
 **4.** Pellet nuclei at 2250 x g for 3 minutes at 4 °C. Carefully separate the cytoplasmic lysate and nuclear pellet.
 
-### Part 2: Protein Digestion (60 minutes) ###
+### Part 2: Protein Digestion (60 minutes, fume hood) ###
 
 **5.** To the cytoplasmic lysate, adjust buffer with:  
   ◦ 0.04 volumes 5M NaCl _(100 µl for 2.5 mL)_  
