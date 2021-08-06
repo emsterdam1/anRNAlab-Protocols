@@ -6,8 +6,8 @@ Description: Detergent contaminants in peptide preparations are removed by liqui
 
 Before starting:
 --------------------------------------------------------------------------------
-* [Trypsin digestion](./On-Bead-Digestion)
-* [C18 Cleanup](./C18-Column-Cleanup)
+* Trypsin digestion ([On-Bead](./On-Bead-Digestion.md) or [Reduced](./Bead-Reduction-Elution.md))
+* [C18 Cleanup](./C18-Column-Cleanup.md)
 
 Materials:
 --------------------------------------------------------------------------------
