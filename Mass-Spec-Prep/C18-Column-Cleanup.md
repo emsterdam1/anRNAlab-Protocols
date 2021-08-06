@@ -8,7 +8,7 @@ Peptides are retained in more polar solvents (water) and can be eluted by reduci
 
 Before starting:
 --------------------------------------------------------------------------------
-* [Trypsin digestion](./On-Bead-Digestion)
+* Trypsin digestion ([On-Bead](./On-Bead-Digestion.md) or [Reduced](./Bead-Reduction-Elution.md))
 
 Materials:
 --------------------------------------------------------------------------------
