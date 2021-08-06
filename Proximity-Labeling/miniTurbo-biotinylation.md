@@ -69,6 +69,14 @@ Protocol:
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
 <details>
+  <summary>More Info</summary>
+  
+  <a href="https://doi.org/10.1083/jcb.201112098">
+Original BioID approach</a>  
+
+</details>
+
+<details>
   <summary>Next Steps</summary>
   
 </p> <a href="./Whole-Cell-Lysis-RIPA.md">
@@ -83,21 +91,16 @@ SDS-PAGE</a>
 </p> <a href="../General/Western-Blotting.md">
 Western Validation</a>
 
-</p> <a href="./miniTurbo-Strep-IP.md">
-Strep IP</a>
+</p> <a href="./miniTurbo-Strep-Pulldown.md">
+Strep Pulldown</a>
 
-</p> <a href="./Affinity-MS-Sample-Prep.md">
-MS Sample Prep</a>
-
-</p> <a href="./Peptide-Quant.md">
-Peptide Quantification</a>
-
-</details>
-
-<details>
-  <summary>More Info</summary>
+</p> <a href="../Mass-Spec-Prep/C18-Column-Cleanup.md">
+C18 Column</a>
   
-  <a href="https://www.website.com/just-copy-paste-your-target-website-here.html">
-WEBSITE LINK NAME</a>  
+</p> <a href="../Mass-Spec-Prep/Ethyl-Acetate-Cleanup.md">
+Ethyl Acetate Cleanup</a>  
+  
+</p> <a href="../Mass-Spec-Prep/Peptide-Quant.md">
+Peptide Quantification</a>
 
 </details>
