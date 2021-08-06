@@ -29,7 +29,7 @@ Equipment Required:
   
   * centrifuge
   * heat block with shaking
-  * Vaccuum Concentrator ([like this](https://www.thermofisher.com/order/catalog/product/SPD2030A-220#/SPD2030A-220)) or Freeze-Dryer ([like this](https://www.labconco.com/product/freezone-25-liter-84c-benchtop-freeze-dryers/6117)
+  * Vaccuum Concentrator ([like this](https://www.thermofisher.com/order/catalog/product/SPD2030A-220#/SPD2030A-220)) or Freeze-Dryer ([like this](https://www.labconco.com/product/freezone-25-liter-84c-benchtop-freeze-dryers/6117))
 
 <br/><br/><br/><br/><br/><br/>
 <!-- Use <br/> to fill in first page -->
