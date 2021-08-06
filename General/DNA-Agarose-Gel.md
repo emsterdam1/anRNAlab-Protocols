@@ -71,16 +71,14 @@ _Notes: Try to match buffer conditions in the ladder and samples, as differences
 **Optional. Gel Purification:** DNA can be purified and size selected on a gel.<br/>
 Use a razor blade or scalpel to excise the gel slice and purify with commercial [kit](https://www.neb.com/-/media/nebus/files/protocols/t1020_quick_protocol_card_monarch_dna_gel_extraction.pdf?rev=09308c01500f43c6a8589b01845765d9&hash=0FD4350A9DE2AEAC84913DB2A00140AF).<br/>
 _3 µg of input DNA (or more) can be visualized by the naked eye with GelRed stain._<br/>
-_Mid-range UV can be used to locate bands, but too much exposure will damage DNA._
-
-µ
+_Mid-range UV can be used to locate bands labeled with EtBr, but too much exposure will damage DNA._
 
 <details>
   <summary>More Info</summary>
   
 <a href="https://en.wikipedia.org/wiki/Agarose_gel_electrophoresis">
 Wikipedia</a>  
-
+<br/>
 <a href="https://www.neb.com/products/t1020-monarch-dna-gel-extraction-kit">
 NEB Gel Extraction Kit</a>  
 
