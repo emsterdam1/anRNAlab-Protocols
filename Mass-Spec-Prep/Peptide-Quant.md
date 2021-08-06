@@ -7,8 +7,8 @@ that specifically labels the N-terminus of peptides. Labeled peptides detected a
 
 Before starting:
 --------------------------------------------------------------------------------
-* [Trypsin digestion](./On-Bead-Digestion)
-* [C18 cleanup](./C18-Column-Cleanup)
+* Trypsin digestion ([On-Bead](./On-Bead-Digestion.md) or [Reduced](./Bead-Reduction-Elution.md))
+* [C18 cleanup](./C18-Column-Cleanup.md)
 * [Ethyl acetate cleanup](./Ethyl-Acetate-Cleanup.md)
 
 Materials:
