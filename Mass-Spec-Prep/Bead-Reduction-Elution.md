@@ -20,7 +20,7 @@ Materials:
   * 2-chloroacetamide [(CA)](https://www.fishersci.com/shop/products/2-chloroacetamide-98-acros-organics-3/AC148410050)
   * LC-MS grade [water](https://www.fishersci.com/shop/products/water-optima-lc-ms-fisher-chemical-4/W64)
   * Modified MS-grade [Trypsin](https://www.promega.com/products/mass-spectrometry/trypsin/sequencing-grade-modified-trypsin/?catNum=V5113)
-  * 1 M HCl 
+  * 1 M HCl (concentrated acid, cover your skin and wear eye protection)
   * 0.5% LC-MS grade trifluoroacetic acid [(TFA)](https://www.fishersci.ca/shop/products/trifluoroacetic-acid-optima-lc-ms-fisher-chemical-5/p-3803256)<br/>
   _Note: Dilute TFA in mass spec grade water and store in glass._
    
@@ -66,7 +66,8 @@ Digest both beads (for bait) and eluates (for prey). Seal tubes with parafilm to
 **8.** Add 50 µl of ABC to the beads and mix well. Spin again and add supernatant to first elution.<br/>
 Repeat the 50 µl ABC bead wash and spin. Pool third supernatant with first two for a total of ~200 µl.
 
-**9.** Cleave Rapigest and inactivate trypsin with 10 µl of 1 M HCl. Incubate at 37 °C for 30 minutes.
+**9.** Cleave Rapigest and inactivate trypsin with 10 µl of 1 M HCl (wear proper PPE).<br/>
+Incubate at 37 °C for 30 minutes.
 
 **10.** Centrifuge samples at 15,000 x g for 10 minutes and collect in new tubes, discarding any precipitates.
 
