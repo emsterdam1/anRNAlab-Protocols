@@ -10,7 +10,7 @@ Select the text above and drag it to your bookmark toolbar. Rename it what
 you'd like. Then, go to the Github page for the protocol you'd like to print,
 and click on the bookmarklet.
 
-This method does not work in Firefox.
+This method does not work in Firefox and is disabled on CoreImage Computers.
 
 Table of Contents
 --------------------------------------------------------------------------------
