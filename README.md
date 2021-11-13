@@ -55,7 +55,8 @@ Gateway Cloning
 
 Lentivirus Stables
 --------------------------------------------------------------------------------
-* [Virus Production](./Lentivirus-Stables/virus-production-HEK293T.md)
+* [Virus Production - Calcium Phosphate](./Lentivirus-Stables/virus-production-HEK293T.md)
+* [Virus Production - FuGENE HD](./Lentivirus-Stables/virus-production-HEK293T-FugeneHD.md)
 * [Infection and Selection](./Lentivirus-Stables/Infection-and-Selection.md)
 
 Chemical Probing
