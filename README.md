@@ -11,6 +11,7 @@ you'd like. Then, go to the Github page for the protocol you'd like to print,
 and click on the bookmarklet.
 
 This method does not work in Firefox and is disabled on CoreImage Computers.
+You may be able to find browser extensions that print Markdown, like [this one](https://microsoftedge.microsoft.com/addons/detail/github-markdown-printer/njdhaokfdmnighagdlhbfpkmcgojljcl?hl=en-US) for Microsoft Edge
 
 Table of Contents
 --------------------------------------------------------------------------------
