@@ -6,7 +6,7 @@ Materials:
 --------------------------------------------------------------------------------
   * Mostly confluent cells (for HEK293T cells, plate 200K cells in a 6cm dish and grow up 2 days) 
   * 1X Phosphate-buffered saline pH 7.4
-  * 100 mM stock of [NHS-Diazirine (SDA)](https://www.thermofisher.com/order/catalog/product/26167#/26167) in DMSO<br/>_Note: SDA is best diluted the day of use, but can be stored in DMSO at -20 °C for at least 1 month._
+  * 200 mM stock of [NHS-Diazirine (SDA)](https://www.thermofisher.com/order/catalog/product/26167#/26167) in DMSO<br/>_Note: SDA is best diluted the day of use, but can be stored in DMSO at -20 °C for at least 1 month._
   * [Trizol](https://www.thermofisher.com/order/catalog/product/15596026#/15596026) lysis reagent (wear eye protection and PPE)
      
 Equipment Required:
@@ -19,8 +19,8 @@ Protocol:
 
 **1.** Wash cells twice in 0.5 growth volumes of 1XPBS.<br/>_Note: Suspension cells will have to be pelleted. SDA reacts with amine-containing growth buffers._
 
-**2.** Add/resuspend in 0.45 growth volumes of 1XPBS. Add SDA to a final concentration of 10 mM.
-  * _For example: Cover HEK293T cells in a 6 cm dish with 1.8 mL of PBS and add 200 µl of 100 mM SDA._
+**2.** Add/resuspend in 0.475 growth volumes of 1XPBS. Add SDA to a final concentration of 10 mM.
+  * _For example: Cover HEK293T cells in a 6 cm dish with 1.9 mL of PBS and add 100 µl of 200 mM SDA._
   * _Note: Add SDA slowly and swirl mix as you add to avoid blasting cells with too much DMSO._ 
     
 **3.** Incubate cells under at normal growth temperature for 10 minutes. Shield SDA-treated cells from outside light as much as possible.
