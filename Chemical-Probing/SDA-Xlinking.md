@@ -6,7 +6,7 @@ Materials:
 --------------------------------------------------------------------------------
   * Mostly confluent cells (for HEK293T cells, plate 200K cells in a 6cm dish and grow up 2 days) 
   * 1X Phosphate-buffered saline pH 7.4
-  * 200 mM stock of [NHS-Diazirine (SDA)](https://www.thermofisher.com/order/catalog/product/26167#/26167) in DMSO<br/>_Note: SDA is best diluted day of use, but can be stored in DMSO at -20 °C for at least 1 month._
+  * 200 mM stock of [NHS-Diazirine (SDA)](https://www.thermofisher.com/order/catalog/product/26167#/26167) in DMSO<br/>_Note: SDA is best diluted day of, but can be stored in DMSO at -20 °C for at least 1 month._
   * [Trizol](https://www.thermofisher.com/order/catalog/product/15596026#/15596026) lysis reagent (wear eye protection and PPE)
      
 Equipment Required:
@@ -14,7 +14,7 @@ Equipment Required:
   * Cell culture incubator and hood
   * [UV365 Crosslinker](https://www.fishersci.com/shop/products/fisher-scientific-uv-crosslinker-ah-4/13245221) (other models need optimization)<br/>_Note: Instrument comes with UV254 nm bulbs, SDA crosslinking requires [UV365 nm bulbs](https://www.fishersci.com/shop/products/fisher-scientific-uv-crosslinker-ah-4/13245225)._
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ___
 Protocol:
 --------------------------------------------------------------------------------
