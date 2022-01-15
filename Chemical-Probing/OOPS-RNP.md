@@ -91,7 +91,7 @@ _Bound and unbound RNA fractions will be at ~350 and ~450 µL, respectively._
 
 **14.** To each RNA sample fraction, add 600 µL isopropanol and vortex 15 seconds.
 
-**15.** Pellet RNA precipitate at 15-20,000 x g for 10 minutes at 4 °C. Discard supernatant.
+**15.** Pellet RNA precipitate at 18-20,000 x g for 10 minutes at 4 °C. Discard supernatant.
 
 **16.** Add 900 µL 100% ethanol, spin 5 minutes, and discard ethanol. 
 
