@@ -1,6 +1,6 @@
 2-step PCR amplification of amplicon sequencing libraries
 ================================================================================
-Description: Normally used to amplify cDNA for Mutational profiling, but could be used to add adapters and indices onto any DNA target.
+Description: PCR used to amplify cDNA for Mutational profiling, additionally able to add adapters and indices onto any DNA target.
 
 [Go To Step 1 PCR](#step-1-pcr)
 
