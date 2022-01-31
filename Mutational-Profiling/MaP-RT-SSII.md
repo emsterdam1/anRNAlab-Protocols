@@ -9,6 +9,7 @@ Before starting:
 * [OOPS RNP enrichment](../Chemical-Probing/OOPS-RNP.md)
 * [In-cell SHAPE RNA profiling](../Chemical-Probing/In-Cell-SHAPE.md)
 * [Cell-free SHAPE RNA profiling](../Chemical-Probing/Cell-free-SHAPE.md)
+* [*In Vitro* SHAPE RNA profiling](../Chemical-Probing/In-Vitro-SHAPE.md)
 
 Materials:
 --------------------------------------------------------------------------------
@@ -31,8 +32,6 @@ Materials:
 Equipment Required:
 --------------------------------------------------------------------------------
   * Thermocycler
-
-<br/>
 
 ___
 Protocol:
