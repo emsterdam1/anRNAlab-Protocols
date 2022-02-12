@@ -94,7 +94,8 @@ _Bound and unbound RNA fractions will be at ~350 and ~450 µL, respectively._
 
 **15.** Incubate samples at room tempurature for 10 min.
 
-**16.** Pellet RNA precipitate at 18-20,000 x g for 10 minutes. Discard supernatant.
+**16.** Pellet RNA precipitate at 15,000 x g for 10 minutes. Discard supernatant.<br/>
+_You can spin at higher speeds, but do so at ~15 °C to mitigate heating._
 
 **17.** Add 900 µL 100% ethanol, spin 5 minutes, and discard ethanol. 
 
