@@ -95,13 +95,16 @@ _Bound and unbound RNA fractions will be at ~350 and ~450 µL, respectively._
 **15.** Incubate samples at room tempurature for 10 min.
 
 **16.** Pellet RNA precipitate at 15,000 x g for 10 minutes. Discard supernatant.<br/>
-_You can spin at higher speeds, but do so at ~15 °C to mitigate heating._
+_Note: You can spin at higher speeds, but do so at ~15 °C to mitigate heating._
 
 **17.** Add 900 µL 100% ethanol, spin 5 minutes, and discard ethanol. 
 
-**18.** Repeat wash once with 70% ethanol and air dry pellet for 5 minutes.
+**18.** Wash once more with 70% ethanol at 7,500 x g.
 
-**19.** Resuspend in 44 µl of nuclease-free water in preparation for [DNase treatment](../General/TURBO-DNase.md).<br/>
+**19.** Remove final wash carefully and air dry pellet for 5 minutes.<br/>
+_Note: Spin down residual ethanol an remove with a small volume pipette._
+
+**20.** Resuspend in 44 µl of nuclease-free water in preparation for [DNase treatment](../General/TURBO-DNase.md).<br/>
 _Note: DNase treatment is not necessary if RNA is not from a cell or tissue source._
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
