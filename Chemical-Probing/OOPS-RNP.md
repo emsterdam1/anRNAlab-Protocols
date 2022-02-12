@@ -1,6 +1,6 @@
 Orthogonal Organic Phase Separation (OOPS) of bound RNA
 ================================================================================
-Description: Crosslinked ribonucleoprotein complexes are retained in interface during phase separation.<br/>
+Description: Crosslinked ribonucleoproteins are retained in interface during phase separation.<br/>
 This fact enables easy separation of protein-crosslinked and uncrosslinked RNA.
 
 [Go To Protocol](#protocol)
@@ -44,7 +44,7 @@ _Note: Trizol is caustic and corrosive. Wear proper PPE and work in fume hood._
 
 **2.** Add 200 µL of chloroform to each sample, vortex mix for 15 seconds.
   
-**3.** Separate phases at 12,000 x g for 15 minutes at 4 °C.
+**3.** Separate phases at 12,000 x g for 15 minutes at 10 °C.
 
 **4.** Carefully remove the (top) aqueous phase and store in new tubes on ice until ready to precipitate.<br/>
 _Note: Initial aqueous phases can be stored on ice for 2-3 hours or long-term at -80 °C._<br/>
@@ -58,11 +58,11 @@ _This fraction contains uncrosslinked (unbound) RNA._
 _Note 1: "Pierce" the interface from one side of the tube before withdrawing liquid from the bottom_<br/>
 _Note 2: The discarded phenol organic phase could be saved as an unbound protein fraction._
 
-**6.** Clean up the interface first with two subsequent 1 mL Trizol separations, retaining interface each time.
+**6.** Clean interface with two more 1 mL Trizol/ 200 µL chloroform separations, retaining interface each time.
 
 **7.** To the final interface, add 9 volumes of 100% methanol (~900 µL). Vortex 15 seconds.
 
-**8.** Pellet interface at 14,000 x g for 10 minutes (4 °C or room temp).
+**8.** Pellet interface at 14,000 x g for 10 minutes at 10 °C.
 
 **9.** Discard supernatant and <ins>repeat</ins> methanol wash once.<br/>
 _Note: Discard methanol supernatant in proper waste container._
@@ -80,7 +80,7 @@ _Note: If enzyme not RNA-grade, pre-incubate with buffer at 50 °C for 15 minute
 
 **Part 4: Prepare bound RNA fraction for precipitation (20 minutes)**
 
-**12.** Add 300 µL PCA to each sample, vortex 15 seconds, and spin at 12,000 x g for 15 minutes at 4 °C.
+**12.** Add 300 µL PCA to each sample, vortex 15 seconds, and spin at 12,000 x g for 15 minutes at 10 °C.
 
 **13.** Transfer (top) aqueous phase to a new tube and add 50 µL of 3M sodium acetate
 
@@ -89,9 +89,9 @@ _Note: If enzyme not RNA-grade, pre-incubate with buffer at 50 °C for 15 minute
 _You can retrieve the unbound RNAs from storage and precipitate together with the bound RNAs._<br/>
 _Bound and unbound RNA fractions will be at ~350 and ~450 µL, respectively._
 
-**14.** To each RNA sample fraction, add 600 µL isopropanol and vortex 15 seconds.
+**14.** To each RNA fraction, add 600 µL isopropanol, vortex 15 sec, and incubate at room tempurature for 10 min.
 
-**15.** Pellet RNA precipitate at 18-20,000 x g for 10 minutes at 4 °C. Discard supernatant.
+**15.** Pellet RNA precipitate at 18-20,000 x g for 10 minutes. Discard supernatant.
 
 **16.** Add 900 µL 100% ethanol, spin 5 minutes, and discard ethanol. 
 
