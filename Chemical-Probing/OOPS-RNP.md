@@ -21,7 +21,7 @@ Materials:
     * 10 mM EDTA (Metal chelator)
   * 20 mg/ml [Proteinase K](https://www.thermofisher.com/order/catalog/product/25530049#/25530049)
   * [Acid PCA](https://www.thermofisher.com/order/catalog/product/AM9722#/AM9722) (phenol:chloroform:isoamyl alcohol 125:25:1)<br/>
-  _Note: Acid phenol is better at separating RNA, but normal pH PCA and salts are also acceptable._
+  _Note: Acid phenol is better at separating RNA, but normal pH PCA is also acceptable._
   * [3M Sodium Acetate](https://www.fishersci.com/shop/products/sodium-acetate-3m-aq-soln-ph-4-5-autoclaved/AAJ61288EQE) pH 4.5
   * Optional for low concentrations: [glycogen](https://www.thermofisher.com/order/catalog/product/10814010#/10814010)
   
@@ -31,7 +31,6 @@ Equipment Required:
   * High-speed microcentrifuge
   * 50 °C heat block (ideally with rotation)
 
-<br/>
 
 ___
 Protocol:
