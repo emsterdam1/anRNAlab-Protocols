@@ -102,7 +102,7 @@ _Note: You can spin at higher speeds, but do so at ~15 °C to mitigate heating._
 **18.** Wash once more with 70% ethanol at 7,500 x g.
 
 **19.** Remove final wash carefully and air dry pellet for 5 minutes.<br/>
-_Note: Spin down residual ethanol an remove with a small volume pipette._
+_Note: Spin down residual ethanol and remove with a small volume pipette._
 
 **20.** Resuspend in 44 µl of nuclease-free water in preparation for [DNase treatment](../General/TURBO-DNase.md).<br/>
 _Note: DNase treatment is not necessary if RNA is not from a cell or tissue source._
