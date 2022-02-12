@@ -31,6 +31,7 @@ Equipment Required:
   * High-speed microcentrifuge
   * 50 °C heat block (ideally with rotation)
 
+<br/><br/>
 ___
 Protocol:
 --------------------------------------------------------------------------------
@@ -56,7 +57,7 @@ _This fraction contains uncrosslinked (unbound) RNA._
 _Note 1: "Pierce" the interface from one side of the tube before withdrawing liquid from the bottom_<br/>
 _Note 2: The discarded phenol organic phase could be saved as an unbound protein fraction._
 
-**6.** Clean interface with two more 1 mL Trizol/ 200 µL chloroform separations.<br/> Retain interface each time.
+**6.** Clean interface with two more 1 mL Trizol/ 200 µL chloroform separations, retaining interface.
 
 **7.** To the final interface, add 9 volumes of 100% methanol (~900 µL). Vortex 15 seconds.
 
