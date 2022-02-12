@@ -83,20 +83,24 @@ _Note: If enzyme not RNA-grade, pre-incubate with buffer at 50 °C for 15 minute
 
 **13.** Transfer (top) aqueous phase to a new tube and add 50 µL of 3M sodium acetate
 
+<br/>
+
 **Part 5: Isopropanol precipitation of bound and unbound RNAs (30 minutes)**
 
 _You can retrieve the unbound RNAs from storage and precipitate together with the bound RNAs._<br/>
 _Bound and unbound RNA fractions will be at ~350 and ~450 µL, respectively._
 
-**14.** To each RNA fraction, add 600 µL isopropanol, vortex 15 sec, and incubate at room tempurature for 10 min.
+**14.** To each RNA fraction, add 600 µL isopropanol and vortex 15 seconds 
 
-**15.** Pellet RNA precipitate at 18-20,000 x g for 10 minutes. Discard supernatant.
+**15.** Incubate samples at room tempurature for 10 min.
 
-**16.** Add 900 µL 100% ethanol, spin 5 minutes, and discard ethanol. 
+**16.** Pellet RNA precipitate at 18-20,000 x g for 10 minutes. Discard supernatant.
 
-**17.** Repeat wash once with 70% ethanol and air dry pellet for 5 minutes.
+**17.** Add 900 µL 100% ethanol, spin 5 minutes, and discard ethanol. 
 
-**18.** Resuspend in 44 µl of nuclease-free water in preparation for [DNase treatment](../General/TURBO-DNase.md).<br/>
+**18.** Repeat wash once with 70% ethanol and air dry pellet for 5 minutes.
+
+**19.** Resuspend in 44 µl of nuclease-free water in preparation for [DNase treatment](../General/TURBO-DNase.md).<br/>
 _Note: DNase treatment is not necessary if RNA is not from a cell or tissue source._
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
