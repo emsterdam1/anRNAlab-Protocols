@@ -29,7 +29,7 @@ Protocol:
  
 **3.** Capture beads on magnetic stand for 2 minutes (until solution clarifies).
 
-**4.** Remove liquid from beads. Add ethanol (70% for RNA, 80% for DNA) equal to at least 2 volumes of starting mix.  
+**4.** Remove liquid from beads. Add ethanol (70% for larger RNA, 80% for DNA, 85% for smaller RNAs) equal to at least 2 volumes of starting mix.  
   Incubate on magnetic stand for 1 minute at room temperature.  
   ◦ _Note: larger DNA fragments will remain on beads. If selecting for smaller fragments with a moderate ratio, retain the removed starting liquid for a follow-up higher ratio cleanup._
 
