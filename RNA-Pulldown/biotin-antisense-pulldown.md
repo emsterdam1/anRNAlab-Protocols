@@ -73,7 +73,10 @@ _Buffer stocks can be stored long term at room temperature without reducing agen
 **3.** Combine 53.5 ul of master mix with each RNA sample (100 ul total).<br/>
 _Final concentrations: 500 nM probe, 50 mM HEPES pH 7.5, 1 M NaCl, 2 M Urea, 6 mM EDTA, 0.3 % SDS, 2 mM DTT_
 
-**2.** Add 5 ul of biotinylated probes to each RNA.<br/>
+**4.** Pre-clear RNA sample with 5 ul of pre-equilibrated Streptavidin beads. <br/>
+Mix samples with overhead rotation for 30 minutes at room temperature.
+
+**5.** Add 5 ul of biotinylated probes to each RNA.<br/>
 _Note: matched sense probes for each RNA sample are recommended as a control._<br/>
 Incubate hybridization reaction overnight (~16 hrs) at room temperature.
 
