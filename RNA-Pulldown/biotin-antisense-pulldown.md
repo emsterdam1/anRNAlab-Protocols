@@ -1,38 +1,25 @@
-Pulldown of target RNA with small number of biotinylated antisense DNA oligos
+RNA pulldwon with biotinylated DNA oligos
 ================================================================================
 Description: A target RNA can be enriched from complex pools via antisense pulldown.
-<br/>
-The enriched RNA (or RNA complexes) are useful for a number of downstream applications.
-
-[Go To Protocol](#protocol)
-
-Before starting:
---------------------------------------------------------------------------------
-* [Trizol RNA Purification](../General/Trizol-RNA-Purification.md)
 
 Materials:
 --------------------------------------------------------------------------------
-  * 100 mM DTT  
-  * 20% SDS  
-  * 100 mM NaCl
+  ◦ Input RNA  
+  ◦ 10 uM biotinylated DNA probes _(antisense for capture, sense for control)_  
+  ◦ 100 mM DTT  
+  ◦ 500 mM TCEP  
+  ◦ 20% SDS  
+  ◦ 100 mM NaCl  
+  ◦ [MyOne Streptavidin C1 Magnetic Beads](https://www.thermofisher.com/order/catalog/product/65001)  
   * **Bead Treatment Solution (make day of use)**  
     ◦ 100 mM NaOH  
     ◦ 50 mM NaCl 
-
-### Day 1
-  * Input RNA  
-  * 10 uM biotinylated DNA probes <br/>_(antisense for capture, sense for control)_
-
-
   * **Hybridization Buffer Stock (2X)**  
     ◦ 100 mM HEPES pH 7.5  
     ◦ 2 M NaCl  
     ◦ 4 M Urea  
     ◦ 12 mM EDTA  
-    
-### Day 2
-  * 500 mM TCEP
-  * [MyOne Streptavidin C1 Magnetic Beads](https://www.thermofisher.com/order/catalog/product/65001)
+
   * **Wash Buffer No Salt Stock (10X)**  
     ◦ 100 mM HEPES pH 7.4  
     ◦ 20 mM EDTA  
@@ -47,11 +34,11 @@ Materials:
 
 Equipment Required:
 --------------------------------------------------------------------------------
-* Overhead rotator 
-* Magnetic racks for 1.5mL tubes and for 96-well plates
-* Heated Water Bath
-* Heat block with shaking
-* Thermocycler
+◦ Overhead rotator 
+◦ Magnetic racks for 1.5mL tubes and for 96-well plates
+◦ Heated Water Bath
+◦ Heat block with shaking
+◦ Thermocycler
 
 
 <br/><br/>
