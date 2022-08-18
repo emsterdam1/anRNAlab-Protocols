@@ -79,11 +79,11 @@ _Note: Be sure to include samples for capture with control sense probes._
 
 **Bead Equilibration**
 
-**3.** Separate (5 x #RNA samples) µL of Streptavidin beads on a magnetic rack.  
-  ◦ Wash beads twice for 2 minutes in Bead Treatment solution (inactivate RNases)
-  ◦ Combine (10 x #RNA samples) µL of hyb master mix with (8.7 x #RNA samples) µL of water  
-  ◦ Resuspend beads in (5 x #RNA samples) µL of the new 1X hyb buffer  
-  ◦ Capture beads, discard buffer, resuspend in (5 x #RNA samples) µL of 1X hyb buffer
+**3.** Treat and Equilibrate (5 x #RNA samples) µL of Streptavidin beads on a magnetic rack.<br/>      
+  &ensp;&ensp;**i.** Wash beads twice for 2 minutes in Bead Treatment solution (inactivate RNases)  
+  &ensp;&ensp;**ii.** Combine (10 x #RNA samples) µL of hyb master mix with (8.7 x #RNA samples) µL of water    
+  &ensp;&ensp;**iii.** Resuspend beads in (5 x #RNA samples) µL of the new 1X hyb buffer    
+  &ensp;&ensp;**iv.** Capture beads, discard buffer, resuspend in (5 x #RNA samples) µL of 1X hyb buffer  
   
 **Sample Pre-clearance**
 
@@ -116,20 +116,19 @@ Incubate hybridization reaction overnight (~16 hrs) at room temperature.
 
 **3.** Remove 10 % (~10 µL) of input RNA samples and store at 4C for downstream validation. 
 
-**4.** Capture (26 x #RNA samples) µL of Streptavidin beads in a 1.5 mL tube by magnetic rack.  
-  ◦ Wash beads twice for 2 minutes in 1 original volume of Bead Treatment solution (inactivate RNases)  
-  ◦ Wash beads once for 2 minutes in 1 volume 100 mM NaCl, and resuspend in 0.25 volumes 100 mM NaCl  
+**4.** Capture and treat (26 x #RNA samples) µL of Streptavidin beads in a 1.5 mL tube by magnetic rack.<br/>  
+  &ensp;&ensp;**i.** Wash beads twice for 2 minutes in 1 original volume of Bead Treatment solution (inactivate RNases)  
+  &ensp;&ensp;**ii.** Wash beads once for 2 minutes in 1 volume 100 mM NaCl, and resuspend in 0.25 volumes 100 mM NaCl  
   
 **5.** To each RNA hybridization, add 5 µL of treated streptavidin beads.<br/>
 Incubate capture mixtures with end-over-end rotation at room temperature for 2 hours.
 
-<br/><br/>
 **Washing beads**
 
-  7. After incubation, place the tubes on a magrack. 
-  8. **Remove and keep the supernatant. This is the flowthrough**
-  9. Perform washes, 500µL each, room temp, with ~5 minutes of overhead rotation per wash: 
-  		1. WB100 5x washes
+  **6.** Separate capture mixtures on a magnetic rack  
+  **7.** **Retain the buffer fraction as "flow-through" for downstream analysis.**
+  **8.** Perform bead washes, 500µL each, 5 minutes, with shaking or rotation: 
+  		&ensp;&ensp;**i.** WB100 5x washes
   		2. **Transfer beads to new clean eppendorf tubes**
   		3. WB100 2x washes 
   		4. WB30 at 42C 1x wash
