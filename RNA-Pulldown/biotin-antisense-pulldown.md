@@ -26,7 +26,7 @@ Materials:
   * **Elution Buffer Stock (10X)**  
     ◦ 200 mM Tris pH 8.0  
     ◦ 100 mM EDTA  
-    
+<br/><br/><br/>  
 Equipment Required:
 --------------------------------------------------------------------------------
 ◦ End-over-end rotator  
@@ -109,7 +109,7 @@ Incubate capture mixtures with end-over-end rotation at room temperature for 2 h
 
   **6.** Separate capture mixtures on a magnetic rack  
   **7.** **Retain the buffer fraction as "flow-through" for downstream analysis.**  
-  **8.** Perform bead washes, 500 µL each, 2-5 minutes, with shaking or rotation: 
+  **8.** Perform bead washes, 500 µL each, 2-5 minutes, with shaking or rotation:  
   		&ensp;&ensp;**i.** 5 x room temperature washes with WB100  
   		&ensp;&ensp;**ii.** **Transfer beads to new clean eppendorf tubes**  
   		&ensp;&ensp;**iii.** 2 x more washes with WB100  
@@ -117,7 +117,6 @@ Incubate capture mixtures with end-over-end rotation at room temperature for 2 h
     &ensp;&ensp;**v.** 1 x wash with WB10 **at 42 °C**  
     &ensp;&ensp;**vi.** 1 x wash with WB10 **at 50 °C**  
 
-<br/><br/>
 **Eluting RNA**
 
 **9.** Make 50 µL of 1X elution buffer per RNA sample:
@@ -144,13 +143,6 @@ Incubate capture mixtures with end-over-end rotation at room temperature for 2 h
   _Samples can be stored at 4C overnight or go directly to bead clean up_
   
   **14.** Clean up captured RNA with a 1.8X ratio of [SPRI beads](../NGS/SPRI-beads.md), 3x 70% Ethanol washes, and 15 µL elution.
-  
-<br/><br/>
-
-<br/>
-
-
-<!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
 <details>
   <summary>Next Steps</summary>
@@ -170,10 +162,10 @@ Nextera XT library prep</a>
   <summary>Cited Protocols</summary>
   
   <a href="https://www.nature.com/articles/s41594-020-0390-z">
-Enhanced nucleotide chemistry and toehold nanotechnology reveals lncRNA spreading on chromatin</a> Toehold techology, wash buffers, capture oligos. 
-
+Enhanced nucleotide chemistry and toehold nanotechnology reveals lncRNA spreading on chromatin</a> <br/>Toehold techology, wash buffers, capture oligos. 
+<br/>
  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7956044/">
-Analysis of RNA-protein networks with RNP-MaP defines functional hubs on RNAn</a> Elution of RNA off beads (without use of elution oligos) 
+Analysis of RNA-protein networks with RNP-MaP defines functional hubs on RNAn</a> <br/>Elution of RNA off beads (without use of elution oligos) 
 
 
 </details>
