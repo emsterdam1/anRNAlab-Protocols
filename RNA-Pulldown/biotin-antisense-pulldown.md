@@ -48,7 +48,7 @@ Materials:
 Equipment Required:
 --------------------------------------------------------------------------------
 * Overhead rotator 
-* Magnetic rack for 1.5mL tubes
+* Magnetic racks for 1.5mL tubes and for 96-well plates
 * Heated Water Bath
 * Heat block with shaking
 * Thermocycler
@@ -126,35 +126,44 @@ Incubate capture mixtures with end-over-end rotation at room temperature for 2 h
 **Washing beads**
 
   **6.** Separate capture mixtures on a magnetic rack  
-  **7.** **Retain the buffer fraction as "flow-through" for downstream analysis.**
-  **8.** Perform bead washes, 500µL each, 5 minutes, with shaking or rotation: 
-  		&ensp;&ensp;**i.** WB100 5x washes
-  		2. **Transfer beads to new clean eppendorf tubes**
-  		3. WB100 2x washes 
-  		4. WB30 at 42C 1x wash
-  		5. WB10 at 42C 1x wash; *during this time set the heatbath to 50C and place the remaining WB10 at 50C*
-  		6. WB10 at 50C 1x wash. Remove ALL wash buffer with small pippette 
-<br/><br/>
-#### Eluting RNA
+  **7.** **Retain the buffer fraction as "flow-through" for downstream analysis.**  
+  **8.** Perform bead washes, 500 µL each, 2-5 minutes, with shaking or rotation: 
+  		&ensp;&ensp;**i.** 5 x room temperature washes with WB100  
+  		&ensp;&ensp;**ii.** **Transfer beads to new clean eppendorf tubes**  
+  		&ensp;&ensp;**iii.** 2 x more washes with WB100  
+  		&ensp;&ensp;**iv.** 1 x wash with WB30 **at 42 °C**  
+    &ensp;&ensp;**v.** 1 x wash with WB10 **at 42 °C**  
+    &ensp;&ensp;**vi.** 1 x wash with WB10 **at 50 °C**  
 
-  10. Resuspend beads in 50uL of Elution Buffer and transfer to PCR strip tubes
-  11. Run in a thermocycler
-  		1. 3x cycles of ramping up to 95C and then down to 4C at a rate of 1C/second 
-  		2. Hold at 4C
-  12. Place PCR strips on magrack and transfer the supernatant to new clean 1.5mL eppendorfs
-  13. Samples can be stored at 4C overnight or directly to bead clean up
 <br/><br/>
-#### Cleaning up elution
+**Eluting RNA**
 
-  14. Clean up using 1.8x SPRI beads; 90µL of well vortexed beads to 50µL of elution 
-  15. Gently mix SPRI beads and elution and let sit room temp for 5-10 minutes
-  16. Wash 3x with 500µL 70% EtOH, ~2 minutes each 
-  17. After final wash, use a small pipette to remove all liquid 
-  18. Let beads air dry for 5-10 minutes. Do not allow to over-dry
-  19. Resuspend beads well in 30µL ultrapure ddH20
-  20. Let sit room temperature for >10 minutes 
-  21. Place beads back on magrack 
-  22. Transfer supernatant to new clean eppendorf. This is your eluted RNA. 
+**9.** Make 50 µL of 1X elution buffer per RNA sample:
+
+  | Component | Concentration | Quantity | 
+  | ---------: | ---------: | :---------- |
+  | Elution stock | 10X | **5**  µL | 
+  | TCEP | 500 mM | **2**  µL |
+  | ddH<sub>2</sub>O || **43**  µL |
+  || **Total** | **50** µL |
+  
+  **10.** Capture beads, discard wash buffer, and resuspend beads in 30uL of 1X Elution Buffer.<br/>
+  Transfer samples to PCR strip tubes
+  
+  **11.** In a thermocycler, perform 3 cycles of:
+  &ensp;&ensp;**i.** Rapidly heat samples to 95 °C, and  
+  &ensp;&ensp;**ii.** cool to 4 °C at a rate of 1 °C/second.<br/>
+  _After the third cool down, samples can be kept at 4-10 °C_
+  
+  **12.** Separate beads on magnetic rack and transfer the eluate to new clean 1.5 mL eppendorfs.
+  
+  **13.** Resuspend the beads in 20 µL of 1X elution buffer and repeat elution. <br/>
+  Combine the original 30 µL elution and second 20 µL elutions together.<br/>
+  _Samples can be stored at 4C overnight or go directly to bead clean up_
+  
+  **14.** Clean up captured RNA with a 1.8X ratio of [SPRI beads](../NGS/SPRI-beads.md), 3x 70% Ethanol washes, and 15 µL elution.
+  
+<br/><br/>
 
 <br/>
 
@@ -164,11 +173,14 @@ Incubate capture mixtures with end-over-end rotation at room temperature for 2 h
 <details>
   <summary>Next Steps</summary>
   
-</p> <a href="./path-to-file/file1.ext">
-Link to RT-qPCR protocol?</a>
+</p> <a href="../Mutational-Profiling/MaP-RT-SSII.md">
+MaP with SuperScript II RT</a>
 
-</p> <a href="./path-to-other-file/file2.ext">
-IDK?</a>
+</p> <a href="../NGS/Second-Strand-Synthesis.md">
+Second-Strand Synthesis</a>
+
+</p> <a href="../NGS/Basic-Nextera-XT.md">
+Nextera XT library prep</a>
 
 </details>
 
