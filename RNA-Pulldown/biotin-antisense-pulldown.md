@@ -26,7 +26,8 @@ Materials:
   * **Elution Buffer Stock (10X)**  
     ◦ 200 mM Tris pH 8.0  
     ◦ 100 mM EDTA  
-<br/><br/><br/>  
+<br/><br/><br/><br/>  
+
 Equipment Required:
 --------------------------------------------------------------------------------
 ◦ End-over-end rotator  
@@ -35,9 +36,6 @@ Equipment Required:
 ◦ Heat block with shaking  
 ◦ Thermocycler  
 
-
-
-___
 Protocol:
 --------------------------------------------------------------------------------
 ### Day 0: Prepare Buffer Stocks (See Materials)<br/>
