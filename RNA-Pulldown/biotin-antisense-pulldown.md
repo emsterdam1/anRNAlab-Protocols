@@ -1,6 +1,5 @@
-RNA pulldwon with biotinylated DNA oligos
+RNA pulldown with biotinylated DNA oligos
 ================================================================================
-Description: A target RNA can be enriched from complex pools via antisense pulldown.
 
 Materials:
 --------------------------------------------------------------------------------
@@ -27,21 +26,17 @@ Materials:
   * **Elution Buffer Stock (10X)**  
     ◦ 200 mM Tris pH 8.0  
     ◦ 100 mM EDTA  
-  
-  
-<!-- Using distinct bullet symbols with 2 spaces at end of each line makes a better formatted list -->
     
-
 Equipment Required:
 --------------------------------------------------------------------------------
-◦ Overhead rotator 
-◦ Magnetic racks for 1.5mL tubes and for 96-well plates
-◦ Heated Water Bath
-◦ Heat block with shaking
-◦ Thermocycler
+◦ End-over-end rotator  
+◦ Magnetic racks for 1.5mL tubes and for 96-well plates  
+◦ Heated Water Bath  
+◦ Heat block with shaking  
+◦ Thermocycler  
 
 
-<br/><br/>
+
 ___
 Protocol:
 --------------------------------------------------------------------------------
