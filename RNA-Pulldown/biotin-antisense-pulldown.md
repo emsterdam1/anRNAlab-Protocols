@@ -26,15 +26,15 @@ Materials:
     ◦ 12 mM EDTA  
     
 ### Day 2
+  * 500 mM TCEP
   * [MyOne Streptavidin C1 Magnetic Beads](https://www.thermofisher.com/order/catalog/product/65001)
   * **Wash Buffer No Salt Stock (10X)**  
     ◦ 100 mM HEPES pH 7.4  
     ◦ 20 mM EDTA  
     ◦ 10 mM EGTA  
-  * **Elution Buffer Stock (2X)**  
-    ◦ 40 mM HEPES pH 8.0  
-    ◦ 20 mM EDTA  
-    ◦ 20 mM TCEP  
+  * **Elution Buffer Stock (10X)**  
+    ◦ 200 mM Tris pH 8.0  
+    ◦ 100 mM EDTA  
   
   
 <!-- Using distinct bullet symbols with 2 spaces at end of each line makes a better formatted list -->
@@ -45,50 +45,56 @@ Equipment Required:
 ### Day 2
 * Overhead rotator 
 * Magnetic rack for 1.5mL tubes
-* Heat block/thermocycler
+* Heated Water Bath
+* Heat block with shaking
+* Thermocycler
 
 
 <br/><br/>
 ___
 Protocol:
 --------------------------------------------------------------------------------
-### Day 1: 
+### Day 0: Prepare Buffer Stocks (See Materials)<br/>
+_Buffer stocks can be stored long term at room temperature without reducing agent or SDS._
 
-**METHOD FORMATTING IN PROGRESS**
+### Day 1: RNA-oligo hybridization
 
-**1.** Dilute up to 4 ug of each RNA sample in 41.5 ul of nuclease-free water.
-
-**2.** Add 5 ul of biotinylated probes to each RNA.<br/>
-_Note: matched sense probes for each RNA sample are recommended as a control._
+**1.** Dilute up to 4 ug of each RNA sample in 46.5 ul of nuclease-free water.
   
 **2.** Create enough hybridization master mix for each RNA sample: 
-  * 50 ul 2X hybrization stock
-  * 2 ul of 100 mM DTT
-  * 1.5 ul of 20% SDS
 
+  | Component | Concentration | Quantity | 
+  | ---------: | ---------: | :---------- |
+  | hybridization stock | 2X | **50**  µL | 
+  | DTT | 100 mM | **2**  µL |
+  | SDS | 20 % | **1.5**  µL |
+  || **Total** | **53.5** µL |
+  
 **3.** Combine 53.5 ul of master mix with each RNA sample (100 ul total).<br/>
+_Final concentrations: 500 nM probe, 50 mM HEPES pH 7.5, 1 M NaCl, 2 M Urea, 6 mM EDTA, 0.3 % SDS, 2 mM DTT_
+
+**2.** Add 5 ul of biotinylated probes to each RNA.<br/>
+_Note: matched sense probes for each RNA sample are recommended as a control._<br/>
 Incubate hybridization reaction overnight (~16 hrs) at room temperature.
 
-<details>
-  <summary>Example**</summary>
 
-** Expect roughly 75-80% loss from starting material. Modulate streptavidin bead amount if more RNA is used. For reference, in a pulldown from a MALAT1 T7 reaction, starting with ~6ug of RNA resulted in 800-900ng eluted MALAT1 RNA. 
-
-
-* *Example:* 
- 	1. *2uL of RNA in ddH20, 2ug RNA* 
-  	2. *10uL 10mM biotinylated probe* 
-  	3. *88uL 1x hybridisation buffer*
-</details><br/>
-3. Leave reaction benchtop and room temperature overnight. 
-<br/>
-### Day 2
+### Day 2: Bead Capture, Washing, and Elution
 
 #### Buffer prep and bead capture 
 
-  1. Prepare 1x WB100, WB30, W10 with 2% SDS added freshly. Washes will be 500uL per wash. WB100 has 7x washes, WB30 has 1x wash, and WB10 has 2x washes. 
-  2. Place WB10 and WB30 in a 42C heatbath at this time. 
-  3. If input is required for control, remove 7-10uL from each reaction at this time and store at 4C. 
+**1.** Prepare enough fresh wash buffer for each RNA sample. Per sample:
+
+  | for WB100 | [ ] | Quantity || for WB30 | [ ] | Quantity || for WB10 | [ ] | Quantity |
+  | ---------: | :--------: | :---------- | ---------: | ---------: | :--------: | :---------- | ---------: | ---------: | :--------: | :---------- |
+  | WB stock | 10X | **400**  µL || WB stock | 10X | **100**  µL || WB stock | 10X | **150**  µL |
+  | NaCl | 5 M | **80**  µL || NaCl | 5 M | **6**  µL || NaCl | 5 M | **3**  µL |
+  | SDS | 20 % | **400**  µL || SDS | 20 % | **100**  µL || SDS | 20 % | **150**  µL |
+  | ddH<sub>2</sub>O || **3120**  µL || ddH<sub>2</sub>O || **794**  µL || ddH<sub>2</sub>O || **1197**  µL | 
+  || **Total** | **4** mL ||| **Total** | **1** mL ||| **Total** | **1.5** mL |
+  
+**2.** Set aside WB30 and WB10 in a 42 °C water bath or heat block at this time. 
+
+**3.** Remove 10 % (~10 µL) of input RNA samples and store at 4C for downstream validation. 
   4. Take the hybridisation reactions and add 25uL of MyOne T1 Streptavidin beads to each reaction. Vortex beads thoroughly before use. 
   6. Gently mix the beads + hybridisation reaction and leave on benchtop room temperature for **~2** hours.
 <br/><br/>
