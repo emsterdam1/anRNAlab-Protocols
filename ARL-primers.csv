@@ -354,3 +354,15 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 353,GCLC R (for 65C),qPCR,GCLC gene,NRF2,IDT,422005840,CACTGGGTTGGGTTTGACCTC
 354,SLC7a11 F (For 65C),qPCR,SLC7a11 gene,NRF2,IDT,422005841,GTGTGTGGGGTCCTGTCACTA
 355,SLC7a11 R (For 65C),qPCR,SLC7a11 gene,NRF2,IDT,422005842,GCTGCAGGGCGTATTATGAGG
+356,PCR2 R MALAT1,PCR,MALAT1 ,MALAT1 ,IDT,422760462,GTGTTCTCTTGAGGGACAGTAGG
+357,PCR2 F MALAT1,PCR,MALAT1 ,MALAT1 ,IDT,422760463,GGTTACTAAGATATTGCTTAGCGTTAAGTT
+358,PUS7 KO G1 F,CRISPR,PUS7,PUS7,IDT,424365135,atcttgtggaaaggacgaaacaccgactggtgtgtcgctgaaacggttttagagctagaaatagcaagtt
+359,PUS7 KO G1 R,CRISPR,PUS7,PUS7,IDT,424365136,aacttgctatttctagctctaaaaccgtttcagcgacacaccagtcggtgtttcgtcctttccacaagat
+360,PUS7 KO G2 F,CRISPR,PUS7,PUS7,IDT,424365137,atcttgtggaaaggacgaaacaccgtcggaatgcagtctaaccaagttttagagctagaaatagcaagtt
+361,PUS7 KO G2 R,CRISPR,PUS7,PUS7,IDT,424365138,aacttgctatttctagctctaaaacttggttagactgcattccgacggtgtttcgtcctttccacaagat
+362,PUS7 KO G3 F,CRISPR,PUS7,PUS7,IDT,424365139,atcttgtggaaaggacgaaacaccgccatcagtgaagacgtgcctgttttagagctagaaatagcaagtt
+363,PUS7 KO G3 R,CRISPR,PUS7,PUS7,IDT,424365140,aacttgctatttctagctctaaaacaggcacgtcttcactgatggcggtgtttcgtcctttccacaagat
+364,PUS7 KO G4 F,CRISPR,PUS7,PUS7,IDT,424365141,atcttgtggaaaggacgaaacaccgttaatattgaaaccccgctcgttttagagctagaaatagcaagtt
+365,PUS7 KO G4 R,CRISPR,PUS7,PUS7,IDT, 424365142,aacttgctatttctagctctaaaacgagcggggtttcaatattaacggtgtttcgtcctttccacaagat
+366,PUS7 KO G5 F,CRISPR,PUS7,PUS7,IDT,424365143,atcttgtggaaaggacgaaacaccgagttcatcaagcacttattcgttttagagctagaaatagcaagtt
+367,PUS7 KO G5 R,CRISPR,PUS7,PUS7,IDT,424365144,aacttgctatttctagctctaaaacgaataagtgcttgatgaactcggtgtttcgtcctttccacaagat
