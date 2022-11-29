@@ -366,12 +366,13 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 365,PUS7 KO G4 R,CRISPR,PUS7,PUS7,IDT, 424365142,aacttgctatttctagctctaaaacgagcggggtttcaatattaacggtgtttcgtcctttccacaagat
 366,PUS7 KO G5 F,CRISPR,PUS7,PUS7,IDT,424365143,atcttgtggaaaggacgaaacaccgagttcatcaagcacttattcgttttagagctagaaatagcaagtt
 367,PUS7 KO G5 R,CRISPR,PUS7,PUS7,IDT,424365144,aacttgctatttctagctctaaaacgaataagtgcttgatgaactcggtgtttcgtcctttccacaagat
-368,psiKO inv R,cloning,pDECKO_mCherry_Puro,General,IDT,,ctcatttacaaccgtctccggtg
-369,MALAT1 shRNA1 psiKO R1,shRNA,psiKO,MALAT1,IDT,,aTCaTTTCACAATaCCGGTGtttcgtcctttccacaagat
-370,MALAT1 shRNA1 psiKO F2,shRNA,psiKO,MALAT1,IDT,,CACCGGtATTGTGAAAtGAtTGGAGTATGATCAAGAGTCA
-371,MALAT1 shRNA1 psiKO R3,shRNA,psiKO,MALAT1,IDT,,aGCATTGTGAAACGACTGGAGTATGACTCTTGATCATACTC
-372,MALAT1 shRNA1 psiKO F4,shRNA,psiKO,MALAT1,IDT,,CAGTCGTTTCACAATGCttttttaagcttggcgtaac
-373,M1scr shRNA1 psiKO R1,shRNA,psiKO,MALAT1,IDT,,ATCTTAAAaCACaTCCGGTGtttcgtcctttccacaagat
-374,M1scr shRNA1 psiKO F2,shRNA,psiKO,MALAT1,IDT,,CACCGGAtGTGtTTTAAGATGAtGAAGAGTTCAAGAG
-375,M1scr shRNA1 psiKO R3,shRNA,psiKO,MALAT1,IDT,,aGACGTGCTTTAAGATGACGAAGAGTCTCTTGAACTCTTCa
-376,M1scr shRNA1 psiKO F4,shRNA,psiKO,MALAT1,IDT,,TCATCTTAAAGCACGTCttttttaagcttggcgtaac
+368,psiKO inv F,cloning,pDECKO_mCherry_Puro,General,IDT,,gtacgtctctttttttaagcttggcgtaactagatcttg
+369,psiKO inv R,cloning,pDECKO_mCherry_Puro,General,IDT,,ctcatttacaaccgtctccggtg
+370,MALAT1 shRNA1 psiKO R1,shRNA,psiKO,MALAT1,IDT,,aTCaTTTCACAATaCCGGTGtttcgtcctttccacaagat
+371,MALAT1 shRNA1 psiKO F2,shRNA,psiKO,MALAT1,IDT,,CACCGGtATTGTGAAAtGAtTGGAGTATGATCAAGAGTCA
+372,MALAT1 shRNA1 psiKO R3,shRNA,psiKO,MALAT1,IDT,,aGCATTGTGAAACGACTGGAGTATGACTCTTGATCATACTC
+373,MALAT1 shRNA1 psiKO F4,shRNA,psiKO,MALAT1,IDT,,CAGTCGTTTCACAATGCttttttaagcttggcgtaac
+374,M1scr shRNA1 psiKO R1,shRNA,psiKO,MALAT1,IDT,,ATCTTAAAaCACaTCCGGTGtttcgtcctttccacaagat
+375,M1scr shRNA1 psiKO F2,shRNA,psiKO,MALAT1,IDT,,CACCGGAtGTGtTTTAAGATGAtGAAGAGTTCAAGAG
+376,M1scr shRNA1 psiKO R3,shRNA,psiKO,MALAT1,IDT,,aGACGTGCTTTAAGATGACGAAGAGTCTCTTGAACTCTTCa
+377,M1scr shRNA1 psiKO F4,shRNA,psiKO,MALAT1,IDT,,TCATCTTAAAGCACGTCttttttaagcttggcgtaac
