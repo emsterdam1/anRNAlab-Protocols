@@ -376,3 +376,17 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 375,M1scr shRNA1 psiKO F2,shRNA,psiKO,MALAT1,IDT,,CACCGGAtGTGtTTTAAGATGAtGAAGAGTTCAAGAG
 376,M1scr shRNA1 psiKO R3,shRNA,psiKO,MALAT1,IDT,,aGACGTGCTTTAAGATGACGAAGAGTCTCTTGAACTCTTCa
 377,M1scr shRNA1 psiKO F4,shRNA,psiKO,MALAT1,IDT,,TCATCTTAAAGCACGTCttttttaagcttggcgtaac
+378,PEmax Amp 1 F,CRISPR,pPE,General,IDT,,gccagaacacaggaccggttctagagcgctgccaccatgaaacggacagccgacg
+379,PEmax Amp 1 R,CRISPR,pPE,General,IDT,,ccacgggccgCctccatggtcccagcttctgg
+380,PEmax Amp 2 F,CRISPR,pPE,General,IDT,,accatggagGcggcccgtggcctatctg
+381,PEmax Amp 2 R,CRISPR,pPE,General,IDT,,gagagaagtttgttgcgccggatcccttatcgtcatcgtctttgtaatctccgcttccgtccagc
+382,LUCAT1-1 PE gRNA F1,CRISPR,pPE,NRF2,IDT,,atcttgtggaaaggacgaaacaccgttgcagtcaacaagaactttgttttagagctagaaatagcaag
+383,LUCAT1-1 PE gRNA R1,CRISPR,pPE,NRF2,IDT,,tgatttcactgcctgaaaaggcagatagcaccgactcggtg
+384,LUCAT1-1 PE HHRins F2,CRISPR,pPE,NRF2,IDT,,cttttcaggcagtgaaatcattcAaaaaGCATGGAATGGAGGACG
+385,LUCAT1-1 PE HHRins R2,CRISPR,pPE,NRF2,IDT,,TGGAGGGAgcagtcaacaagaacGCACGGTACATGGAGC
+386,LUCAT1-1 PE masc ins F2,CRISPR,pPE,NRF2,IDT,,cttttcaggcagtgaaatcattcAaaaaAAGCAAAGACGCCGC
+387,LUCAT1-1 PE masc ins R2,CRISPR,pPE,NRF2,IDT,,TGGAGGGAgcagtcaacaagaacAAGCAAAAGATGCTGGTGG
+388,LUCAT1-1 PE PreQ-H1 F3,CRISPR,pPE,NRF2,IDT,,cttgttgactgcTCCCTCCACGCGGTTCTATCTAGTTACG
+389,LUCAT1-1 PE PBS-H1 R3,CRISPR,pPE,NRF2,IDT,,gctatttctagctctaaaacGAACCTGAGTGTGTGGGCTCgggaaagagtggtctcatacagaactta
+390,HHR reverse comp,CRISPR,pPE,General,IDT,,GCATGGAATGGAGGACGCACCGAAGCGCGTTTCGTCCTATTTGGGACTCATCAGCTCCATGTACCGTGC
+391,PreQ1-H1 gBlock,CRISPR,pPE,General,IDT,,CGCGGTTCTATCTAGTTACGCGTTAAACCAACTAGAATTTTTTgaacgctgacgtcatcaacccgctccaaggaatcgcgggcccagtgtcactaggcgggaacacccagcgcgcgtgcgccctggcaggaagatggctgtgagggacaggggagtggcgccctgcaatatttgcatgtcgctatgtgttctgggaaatcaccataaacgtgaaatgtctttggatttgggagtcttataagttctgtatgagaccac
