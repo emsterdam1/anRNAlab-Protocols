@@ -363,30 +363,34 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 362,PUS7 KO G3 F,CRISPR,PUS7,PUS7,IDT,424365139,atcttgtggaaaggacgaaacaccgccatcagtgaagacgtgcctgttttagagctagaaatagcaagtt
 363,PUS7 KO G3 R,CRISPR,PUS7,PUS7,IDT,424365140,aacttgctatttctagctctaaaacaggcacgtcttcactgatggcggtgtttcgtcctttccacaagat
 364,PUS7 KO G4 F,CRISPR,PUS7,PUS7,IDT,424365141,atcttgtggaaaggacgaaacaccgttaatattgaaaccccgctcgttttagagctagaaatagcaagtt
-365,PUS7 KO G4 R,CRISPR,PUS7,PUS7,IDT, 424365142,aacttgctatttctagctctaaaacgagcggggtttcaatattaacggtgtttcgtcctttccacaagat
+365,PUS7 KO G4 R,CRISPR,PUS7,PUS7,IDT,424365142,aacttgctatttctagctctaaaacgagcggggtttcaatattaacggtgtttcgtcctttccacaagat
 366,PUS7 KO G5 F,CRISPR,PUS7,PUS7,IDT,424365143,atcttgtggaaaggacgaaacaccgagttcatcaagcacttattcgttttagagctagaaatagcaagtt
 367,PUS7 KO G5 R,CRISPR,PUS7,PUS7,IDT,424365144,aacttgctatttctagctctaaaacgaataagtgcttgatgaactcggtgtttcgtcctttccacaagat
-368,psiKO inv F,cloning,pDECKO_mCherry_Puro,General,IDT,,gtacgtctctttttttaagcttggcgtaactagatcttg
-369,psiKO inv R,cloning,pDECKO_mCherry_Puro,General,IDT,,ctcatttacaaccgtctccggtg
-370,MALAT1 shRNA1 psiKO R1,shRNA,psiKO,MALAT1,IDT,,aTCaTTTCACAATaCCGGTGtttcgtcctttccacaagat
-371,MALAT1 shRNA1 psiKO F2,shRNA,psiKO,MALAT1,IDT,,CACCGGtATTGTGAAAtGAtTGGAGTATGATCAAGAGTCA
-372,MALAT1 shRNA1 psiKO R3,shRNA,psiKO,MALAT1,IDT,,aGCATTGTGAAACGACTGGAGTATGACTCTTGATCATACTC
-373,MALAT1 shRNA1 psiKO F4,shRNA,psiKO,MALAT1,IDT,,CAGTCGTTTCACAATGCttttttaagcttggcgtaac
-374,M1scr shRNA1 psiKO R1,shRNA,psiKO,MALAT1,IDT,,ATCTTAAAaCACaTCCGGTGtttcgtcctttccacaagat
-375,M1scr shRNA1 psiKO F2,shRNA,psiKO,MALAT1,IDT,,CACCGGAtGTGtTTTAAGATGAtGAAGAGTTCAAGAG
-376,M1scr shRNA1 psiKO R3,shRNA,psiKO,MALAT1,IDT,,aGACGTGCTTTAAGATGACGAAGAGTCTCTTGAACTCTTCa
-377,M1scr shRNA1 psiKO F4,shRNA,psiKO,MALAT1,IDT,,TCATCTTAAAGCACGTCttttttaagcttggcgtaac
-378,PEmax Amp 1 F,CRISPR,pPE,General,IDT,,gccagaacacaggaccggttctagagcgctgccaccatgaaacggacagccgacg
-379,PEmax Amp 1 R,CRISPR,pPE,General,IDT,,ccacgggccgCctccatggtcccagcttctgg
-380,PEmax Amp 2 F,CRISPR,pPE,General,IDT,,accatggagGcggcccgtggcctatctg
-381,PEmax Amp 2 R,CRISPR,pPE,General,IDT,,gagagaagtttgttgcgccggatcccttatcgtcatcgtctttgtaatctccgcttccgtccagc
-382,LUCAT1-1 PE gRNA F1,CRISPR,pPE,NRF2,IDT,,atcttgtggaaaggacgaaacaccgttgcagtcaacaagaactttgttttagagctagaaatagcaag
-383,LUCAT1-1 PE gRNA R1,CRISPR,pPE,NRF2,IDT,,tgatttcactgcctgaaaaggcagatagcaccgactcggtg
-384,LUCAT1-1 PE HHRins F2,CRISPR,pPE,NRF2,IDT,,cttttcaggcagtgaaatcattcAaaaaGCATGGAATGGAGGACG
-385,LUCAT1-1 PE HHRins R2,CRISPR,pPE,NRF2,IDT,,TGGAGGGAgcagtcaacaagaacGCACGGTACATGGAGC
-386,LUCAT1-1 PE masc ins F2,CRISPR,pPE,NRF2,IDT,,cttttcaggcagtgaaatcattcAaaaaAAGCAAAGACGCCGC
-387,LUCAT1-1 PE masc ins R2,CRISPR,pPE,NRF2,IDT,,TGGAGGGAgcagtcaacaagaacAAGCAAAAGATGCTGGTGG
-388,LUCAT1-1 PE PreQ-H1 F3,CRISPR,pPE,NRF2,IDT,,cttgttgactgcTCCCTCCACGCGGTTCTATCTAGTTACG
-389,LUCAT1-1 PE PBS-H1 R3,CRISPR,pPE,NRF2,IDT,,gctatttctagctctaaaacGAACCTGAGTGTGTGGGCTCgggaaagagtggtctcatacagaactta
-390,HHR reverse comp,CRISPR,pPE,General,IDT,,GCATGGAATGGAGGACGCACCGAAGCGCGTTTCGTCCTATTTGGGACTCATCAGCTCCATGTACCGTGC
-391,PreQ1-H1 gBlock,CRISPR,pPE,General,IDT,,CGCGGTTCTATCTAGTTACGCGTTAAACCAACTAGAATTTTTTgaacgctgacgtcatcaacccgctccaaggaatcgcgggcccagtgtcactaggcgggaacacccagcgcgcgtgcgccctggcaggaagatggctgtgagggacaggggagtggcgccctgcaatatttgcatgtcgctatgtgttctgggaaatcaccataaacgtgaaatgtctttggatttgggagtcttataagttctgtatgagaccac
+368,psiKO inv F,cloning,pDECKO_mCherry_Puro,General,IDT,425715272,gtacgtctctttttttaagcttggcgtaactagatcttg
+369,psiKO inv R,cloning,pDECKO_mCherry_Puro,General,IDT,425715273,ctcatttacaaccgtctccggtg
+370,MALAT1 shRNA1 psiKO R1,shRNA,psiKO,MALAT1,IDT,425715274,aTCaTTTCACAATaCCGGTGtttcgtcctttccacaagat
+371,MALAT1 shRNA1 psiKO F2,shRNA,psiKO,MALAT1,IDT,425715275,CACCGGtATTGTGAAAtGAtTGGAGTATGATCAAGAGTCA
+372,MALAT1 shRNA1 psiKO R3,shRNA,psiKO,MALAT1,IDT,425715276,aGCATTGTGAAACGACTGGAGTATGACTCTTGATCATACTC
+373,MALAT1 shRNA1 psiKO F4,shRNA,psiKO,MALAT1,IDT,425715277,CAGTCGTTTCACAATGCttttttaagcttggcgtaac
+374,M1scr shRNA1 psiKO R1,shRNA,psiKO,MALAT1,IDT,425715278,ATCTTAAAaCACaTCCGGTGtttcgtcctttccacaagat
+375,M1scr shRNA1 psiKO F2,shRNA,psiKO,MALAT1,IDT,425715279,CACCGGAtGTGtTTTAAGATGAtGAAGAGTTCAAGAG
+376,M1scr shRNA1 psiKO R3,shRNA,psiKO,MALAT1,IDT,425715280,aGACGTGCTTTAAGATGACGAAGAGTCTCTTGAACTCTTCa
+377,M1scr shRNA1 psiKO F4,shRNA,psiKO,MALAT1,IDT,425715281,TCATCTTAAAGCACGTCttttttaagcttggcgtaac
+378,PEmax Amp 1 F,CRISPR,pPE,General,IDT,426074202,gccagaacacaggaccggttctagagcgctgccaccatgaaacggacagccgacg
+379,PEmax Amp 1 R,CRISPR,pPE,General,IDT,426074203,ccacgggccgCctccatggtcccagcttctgg
+380,PEmax Amp 2 F,CRISPR,pPE,General,IDT,426074204,accatggagGcggcccgtggcctatctg
+381,PEmax Amp 2 R,CRISPR,pPE,General,IDT,426074205,gagagaagtttgttgcgccggatcccttatcgtcatcgtctttgtaatctccgcttccgtccagc
+382,LUCAT1-1 PE gRNA F1,CRISPR,pPE,NRF2,IDT,426074206,atcttgtggaaaggacgaaacaccgttgcagtcaacaagaactttgttttagagctagaaatagcaag
+383,LUCAT1-1 PE gRNA R1,CRISPR,pPE,NRF2,IDT,426074207,tgatttcactgcctgaaaaggcagatagcaccgactcggtg
+384,LUCAT1-1 PE HHRins F2,CRISPR,pPE,NRF2,IDT,426074208,cttttcaggcagtgaaatcattcAaaaaGCATGGAATGGAGGACG
+385,LUCAT1-1 PE HHRins R2,CRISPR,pPE,NRF2,IDT,426074209,TGGAGGGAgcagtcaacaagaacGCACGGTACATGGAGC
+386,LUCAT1-1 PE masc ins F2,CRISPR,pPE,NRF2,IDT,426074210,cttttcaggcagtgaaatcattcAaaaaAAGCAAAGACGCCGC
+387,LUCAT1-1 PE masc ins R2,CRISPR,pPE,NRF2,IDT,426074211,TGGAGGGAgcagtcaacaagaacAAGCAAAAGATGCTGGTGG
+388,LUCAT1-1 PE PreQ-H1 F3,CRISPR,pPE,NRF2,IDT,426074212,cttgttgactgcTCCCTCCACGCGGTTCTATCTAGTTACG
+389,LUCAT1-1 PE PBS-H1 R3,CRISPR,pPE,NRF2,IDT,426074213,gctatttctagctctaaaacGAACCTGAGTGTGTGGGCTCgggaaagagtggtctcatacagaactta
+390,HHR reverse comp,CRISPR,pPE,General,IDT,426074214,GCATGGAATGGAGGACGCACCGAAGCGCGTTTCGTCCTATTTGGGACTCATCAGCTCCATGTACCGTGC
+391,PreQ1-H1 gBlock,CRISPR,pPE,General,IDT,426074215,CGCGGTTCTATCTAGTTACGCGTTAAACCAACTAGAATTTTTTgaacgctgacgtcatcaacccgctccaaggaatcgcgggcccagtgtcactaggcgggaacacccagcgcgcgtgcgccctggcaggaagatggctgtgagggacaggggagtggcgccctgcaatatttgcatgtcgctatgtgttctgggaaatcaccataaacgtgaaatgtctttggatttgggagtcttataagttctgtatgagaccac
+392,MALAT1 PE-Del Cprime gRNA F1,CRISPR,pPE,General,IDT,,atcttgtggaaaggacgaaacaccgGCTGGGGCTCAGTTGCGTAAgttttagagctagaaatagcaag
+393,MALAT1 PE-Del Cprime gRNA R1,CRISPR,pPE,General,IDT,,TGCGTAATACCAATAGAAGGGCAATGCTTTTAGATTAAAgcaccgactcggtg
+394,MALAT1 PE-Del PreQ-H1 F2,CRISPR,pPE,General,IDT,,CCTTCTATTGGTATTACGCAACTGAGCCCCATAAATACGCGCGGTTCTATCTAGTTACG
+395,MALAT1 PE-Del H1-Cprime R2,CRISPR,pPE,General,IDT,,gctatttctagctctaaaacAATTAATACCAATAGAAGGGgggaaagagtggtctcatacagaactta
