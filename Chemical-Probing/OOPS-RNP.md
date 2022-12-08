@@ -75,7 +75,7 @@ _Note: If enzyme not RNA-grade, pre-incubate with buffer at 50 °C for 15 minute
 
 **11.** Incubate samples at 50 °C (shake at 400 rpm) for 1.5 - 2 hours to digest crosslinked proteins.
 
-<br/>
+<br/><br/>
 
 **Part 4: Prepare bound RNA fraction for precipitation (20 minutes)**
 
