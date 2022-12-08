@@ -29,7 +29,7 @@ Protocol:
 --------------------------------------------------------------------------------
 **1.** One Unit of enzyme is enough to digest one µg of DNA template in one hour. Using 5-fold excess enzyme is normal.
 
-  * *Note: Using even more excess enzyme or less DNA template decreases the necessary digestion time* 
+  * *Note: Using even more excess enzyme or less DNA template decreases the necessary digestion time*
 
 **2.** Mix desired components like this:
 
@@ -41,7 +41,7 @@ Protocol:
   | ddH2O || **12-X**  µL |
   || **Total** | **15** µL |
   
-   *Restriction enzymes are not active in all buffers, be sure to check whether all enzymes used are active in chosen buffer.*
+   *Restriction enzymes are not active in all buffers, be sure to check whether all enzymes used are active in chosen buffer.*<br/>*[Quick CIP](https://www.neb.com/protocols/2019/06/04/protocol-for-dephosphorylation-of-5-ends-of-dna-using-quick-cip-neb-m0525) can be used to phosphatase simultaneously in CutSmart Buffer.*
    
    *If no buffer is compatible with all desired enzymes, a sequential digestion (with buffer exchange in between) is required.*
    
