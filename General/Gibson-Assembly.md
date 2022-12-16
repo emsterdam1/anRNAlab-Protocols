@@ -6,8 +6,8 @@ Description: Uses a mixture of DNA enzymes to ligate pieces of DNA together base
 
 Materials:
 --------------------------------------------------------------------------------
-  * Linearized Vector (30 nM)
-  * All other fragments (100 nM)
+  * Linearized Vector (10-30 nM)
+  * All other fragments (30-100 nM)
     * *concentrations of fragments less than 200 bp should be doubled*
     * *maximum amount of unpurified PCR products should not exceed 20%*
   * Gibson Assembly Master Mix (NEB)
@@ -32,7 +32,7 @@ Protocol:
 
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
-  | 1.5 µL each fragment| 30-100 nM | **X**  µL | 
+  | 1.5 µL each fragment| 10-100 nM | **X**  µL | 
   | Enzyme Master Mix | 2X | **10**  µL |
   | ddH2O || **10-X**  µL |
   || **Total** | **20** µL |
