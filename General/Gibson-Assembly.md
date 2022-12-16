@@ -10,6 +10,7 @@ Materials:
   * All other fragments (30-100 nM)
     * *concentrations of fragments less than 200 bp should be doubled*
     * *maximum amount of unpurified PCR products should not exceed 20%*
+    * *You can use lower concentrations, but probability of success declines*
   * Gibson Assembly Master Mix (NEB)
   * SOC media
   * LB + antibiotic agar plates
