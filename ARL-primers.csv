@@ -390,7 +390,7 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 389,LUCAT1-1 PE PBS-H1 R3,CRISPR,pPE,NRF2,IDT,426074213,gctatttctagctctaaaacGAACCTGAGTGTGTGGGCTCgggaaagagtggtctcatacagaactta
 390,HHR reverse comp,CRISPR,pPE,General,IDT,426074214,GCATGGAATGGAGGACGCACCGAAGCGCGTTTCGTCCTATTTGGGACTCATCAGCTCCATGTACCGTGC
 391,PreQ1-H1 gBlock,CRISPR,pPE,General,IDT,426074215,CGCGGTTCTATCTAGTTACGCGTTAAACCAACTAGAATTTTTTgaacgctgacgtcatcaacccgctccaaggaatcgcgggcccagtgtcactaggcgggaacacccagcgcgcgtgcgccctggcaggaagatggctgtgagggacaggggagtggcgccctgcaatatttgcatgtcgctatgtgttctgggaaatcaccataaacgtgaaatgtctttggatttgggagtcttataagttctgtatgagaccac
-392,MALAT1 PE-Del Cprime gRNA F1,CRISPR,pPE,General,IDT,,atcttgtggaaaggacgaaacaccgGCTGGGGCTCAGTTGCGTAAgttttagagctagaaatagcaag
-393,MALAT1 PE-Del Cprime gRNA R1,CRISPR,pPE,General,IDT,,TGCGTAATACCAATAGAAGGGCAATGCTTTTAGATTAAAgcaccgactcggtg
-394,MALAT1 PE-Del PreQ-H1 F2,CRISPR,pPE,General,IDT,,CCTTCTATTGGTATTACGCAACTGAGCCCCATAAATACGCGCGGTTCTATCTAGTTACG
-395,MALAT1 PE-Del H1-Cprime R2,CRISPR,pPE,General,IDT,,gctatttctagctctaaaacAATTAATACCAATAGAAGGGgggaaagagtggtctcatacagaactta
+392,MALAT1 PE-Del Cprime gRNA F1,CRISPR,pPE,General,IDT,426078201,atcttgtggaaaggacgaaacaccgGCTGGGGCTCAGTTGCGTAAgttttagagctagaaatagcaag
+393,MALAT1 PE-Del Cprime gRNA R1,CRISPR,pPE,General,IDT,426078202,TGCGTAATACCAATAGAAGGGCAATGCTTTTAGATTAAAgcaccgactcggtg
+394,MALAT1 PE-Del PreQ-H1 F2,CRISPR,pPE,General,IDT,426078203,CCTTCTATTGGTATTACGCAACTGAGCCCCATAAATACGCGCGGTTCTATCTAGTTACG
+395,MALAT1 PE-Del H1-Cprime R2,CRISPR,pPE,General,IDT,426078204,gctatttctagctctaaaacAATTAATACCAATAGAAGGGgggaaagagtggtctcatacagaactta
