@@ -394,3 +394,7 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 393,MALAT1 PE-Del Cprime gRNA R1,CRISPR,pPE,General,IDT,426078202,TGCGTAATACCAATAGAAGGGCAATGCTTTTAGATTAAAgcaccgactcggtg
 394,MALAT1 PE-Del PreQ-H1 F2,CRISPR,pPE,General,IDT,426078203,CCTTCTATTGGTATTACGCAACTGAGCCCCATAAATACGCGCGGTTCTATCTAGTTACG
 395,MALAT1 PE-Del H1-Cprime R2,CRISPR,pPE,General,IDT,426078204,gctatttctagctctaaaacAATTAATACCAATAGAAGGGgggaaagagtggtctcatacagaactta
+396,pSecko Malat1 C1 F,CRISPR,pSecko,MALAT1 ,IDT,428840822,atcttgtggaaaggacgaaacaccggctggggctcagttgcgtaagttttagagctagaaatagcaagtt
+397,pSecko Malat1 C1 R,CRISPR,pSecko,MALAT1 ,IDT,428840823,aacttgctatttctagctctaaaacttacgcaactgagccccagccggtgtttcgtcctttccacaagat
+398,pSecko Malat1 C2 F,CRISPR,pSecko,MALAT1 ,IDT,428840824,atcttgtggaaaggacgaaacaccgaggtttctaaaacatgacgggttttagagctagaaatagcaagtt
+399,pSecko Malat1 C2 R,CRISPR,pSecko,MALAT1 ,IDT,428840825,aacttgctatttctagctctaaaacccgtcatgttttagaaacctcggtgtttcgtcctttccacaagat
