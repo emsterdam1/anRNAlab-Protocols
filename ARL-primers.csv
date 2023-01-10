@@ -398,3 +398,6 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 397,pSecko Malat1 C1 R,CRISPR,pSecko,MALAT1 ,IDT,428840823,aacttgctatttctagctctaaaacttacgcaactgagccccagccggtgtttcgtcctttccacaagat
 398,pSecko Malat1 C2 F,CRISPR,pSecko,MALAT1 ,IDT,428840824,atcttgtggaaaggacgaaacaccgaggtttctaaaacatgacgggttttagagctagaaatagcaagtt
 399,pSecko Malat1 C2 R,CRISPR,pSecko,MALAT1 ,IDT,428840825,aacttgctatttctagctctaaaacccgtcatgttttagaaacctcggtgtttcgtcctttccacaagat
+400,NEBNext Nextera Adapter,Sequencing,Sequencing,Sequencing,IDT,,GATCGGAAGAGCCTGTCTCTTATACACATCTCCGAGCCCACGAGAC/ideoxyU/TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGGCTCTTCCGATC*T
+401,Tn5 amp,Sequencing,Sequencing,Sequencing,IDT,,TCGTCGGCAGCGTCAG
+402,H2AC i7 s1 F,Sequencing,H2AC mRNA,Histone mRNAs,IDT,,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGNNNNNAAGAAGACTGAGAGCCACCA
