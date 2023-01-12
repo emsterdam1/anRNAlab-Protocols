@@ -30,3 +30,11 @@ _Note: thermocycler lid should be off or set to < 40 °C._
 
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
+
+<details>
+  <summary>Next Steps</summary>
+  
+</p> <a href="./End-Prep-Ligation-USER.md">
+End prep, adaptor ligation, and USER treatment</a>
+
+</details>
