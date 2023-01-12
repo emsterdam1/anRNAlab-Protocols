@@ -25,12 +25,11 @@ Protocol:
 
 **2.** Add 2 µl of 10X RNA Fragmentation Buffer
 
-**3.** Incubate for 5-20 minutes at 70 °C
-_Note: 5/10/20 minutes yields ~ 1000/500/300 nt average fragment length
+**3.** Incubate for 5-20 minutes at 70 °C<br/>_Note: 5/10/20 minutes yields ~ 1000/500/300 nt average fragment length_
 
 **4.** Remove RNA from heat and chelate magnesium by adding 2 µl of 0.5 M EDTA
 
-**5.** Purify cDNA with [SPRI beads](../SPRI-beads.md) at a 1.8X ratio.
+**5.** Purify RNA with [SPRI beads](../SPRI-beads.md) at a 1.8X ratio and two 70% ethanol washes.<br/>_Note: Fragmentation success can be monitored by Bioanalyzer or TapeStation_
 
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
