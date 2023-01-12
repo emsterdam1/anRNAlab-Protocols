@@ -30,6 +30,8 @@ _Note: 5/10/20 minutes yields ~ 1000/500/300 nt average fragment length
 
 **4.** Remove RNA from heat and chelate magnesium by adding 2 µl of 0.5 M EDTA
 
+**5.** Purify cDNA with [SPRI beads](../SPRI-beads.md) at a 1.8X ratio.
+
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
