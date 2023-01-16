@@ -20,17 +20,7 @@ Materials:
   * **[NEBNext® Ultra™ II Ligation Module](https://www.neb.com/products/e7595-nebnext-ultra-ii-ligation-module#Protocols,%20Manuals%20&%20Usage)**
     * Ligation Enhancer
     * Ligation Master Mix
-  * 100% and 70% ethanol
-  * 100% methanol
-  * **Proteinase K lysis buffer**
-    * 10 mM Tris-HCl pH 8
-    * 10 mM EDTA (Metal chelator)
-  * 20 mg/ml [Proteinase K](https://www.thermofisher.com/order/catalog/product/25530049#/25530049)
-  * [Acid PCA](https://www.thermofisher.com/order/catalog/product/AM9722#/AM9722) (phenol:chloroform:isoamyl alcohol 125:25:1)<br/>
-  _Note: Acid phenol is better at separating RNA, but normal pH PCA is also acceptable._
-  * [3M Sodium Acetate](https://www.fishersci.com/shop/products/sodium-acetate-3m-aq-soln-ph-4-5-autoclaved/AAJ61288EQE) pH 4.5
-  * Optional for low concentrations: [glycogen](https://www.thermofisher.com/order/catalog/product/10814010#/10814010)
-  
+    
 Equipment Required:
 --------------------------------------------------------------------------------
   * Fume hood
@@ -41,17 +31,41 @@ Equipment Required:
 ___
 Protocol:
 --------------------------------------------------------------------------------
-_Note: Trizol is caustic and corrosive. Wear proper PPE and work in fume hood._
 
-**Part 1: Extract unbound RNA fraction (40 minutes)**
+**Part 1: End Prep and dA tailing**<br/>_Note: MaP products only require half-reactions for all steps._
 
-**1.** Homogenize cells (**all steps assume 1 mL Trizol per sample**), set 5 minutes at room temperature.
+**1.** Dilute second strand synthesis product in 50 µL of water.
 
-**2.** Add 200 µL of chloroform to each sample, vortex mix for 15 seconds.
+**2.** Add 7 µL of End Prep Reaction Buffer and 3 µL of End Prep Enzyme Mix.<br/>Pipette mix each sample thoroughy and perform the following thermocycles:<br/>
+_Note: set heated lid > 75 °C._
+
+  | Step | Temp | Time | Action |
+  | ---------: | :--------: | :---------: |:---------: |
+  | **i** | **20 °C** | **30:00** | **End Repair** |
+  | **ii** | **65 °C** | **30:00** | **dA-Tailing** |
+  | **iii** | **10 °C** | **hold** | **wait** |
   
-**3.** Separate phases at 12,000 x g for 15 minutes at 10 °C.
+**Part 2: Adaptor Ligation**
+  
+**3.** Dilute Adaptor on ice in Adaptor Dilution Buffer according to input RNA amount.<br/>_Note: Treat MaP input as 10-fold less starting material_<br/>
+
+  | Total RNA Input | Dilution Factor |
+  | ---------: | :--------: |
+  | **1,000 ng - 250 ng** | **1/5 dilution** |
+  | **249 ng - 100 ng** | **1/25 dilution** |
+  | **99 ng - 10 ng** | **1/100 dilution** |
+
 
 **4.** Carefully remove (top) aqueous phase and store in new tubes on ice until ready to precipitate.<br/>
+
+  | Component | Quantity | 
+  | ---------: | :---------- |
+  | End Prepped DNA | **60**  µL | 
+  | Diluted Adaptor | **2.5**  µL |
+  | Ligation Enhancer | **1**  µL |
+  | Ligation Master Mix | **30**  µL |
+  | **Total** | **93.5** µL |
+  
 _Note: Initial aqueous phases can be stored on ice for 2-3 hours or long-term at -80 °C._<br/>
 _This fraction contains uncrosslinked (unbound) RNA._
 
