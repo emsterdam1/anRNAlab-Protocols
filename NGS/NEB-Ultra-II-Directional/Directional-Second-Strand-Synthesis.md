@@ -4,7 +4,7 @@ Description: Combination of enzymes makes complementary cDNA from RT products.<b
 
 Materials:
 --------------------------------------------------------------------------------
-_Note: This NEB module is included in the [NEBNext® Ultra™ II Directional RNA Library Prep Kit for Illumina®](https://www.neb.com/products/e7760-nebnext-ultra-ii-directional-rna-library-prep-kit-for-illumina#Product%20Information)_
+_Note: This module included in [NEBNext® Ultra™ II Directional RNA Library Prep Kit for Illumina®](https://www.neb.com/products/e7760-nebnext-ultra-ii-directional-rna-library-prep-kit-for-illumina#Product%20Information)_
   * Reverse Transcription product (buffer-exchanged)
   * RNase-free water
   * [NEBNext Ultra II Directional RNA Second Strand Synthesis Module](https://www.neb.com/products/e7550-nebnext-ultra-directional-rna-second-strand-synthesis-module#Product%20Information)  
