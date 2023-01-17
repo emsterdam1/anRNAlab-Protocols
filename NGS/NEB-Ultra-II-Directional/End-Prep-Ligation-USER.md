@@ -24,11 +24,9 @@ Materials:
     
 Equipment Required:
 --------------------------------------------------------------------------------
-  * Fume hood
-  * High-speed microcentrifuge
-  * 50 °C heat block (ideally with rotation)
+  * Thermocycler
 
-<br/><br/>
+<br/><br/><br/><br/>
 ___
 Protocol:
 --------------------------------------------------------------------------------
@@ -37,8 +35,7 @@ Protocol:
 
 **1.** Dilute second strand synthesis product in 50 µL of water.
 
-**2.** Add 7 µL of End Prep Reaction Buffer and 3 µL of End Prep Enzyme Mix.<br/>Pipette mix each sample thoroughy and perform the following thermocycles:<br/>
-_Note: set heated lid > 75 °C._
+**2.** Add 7 µL of End Prep Reaction Buffer and 3 µL of End Prep Enzyme Mix.<br/>Mix each sample thoroughy and perform the following thermocycles:<br/>
 
   | Step | Temp | Time | Action |
   | ---------: | :--------: | :---------: |:---------: |
