@@ -22,7 +22,7 @@ Protocol:
 _Map RT products are low yield and all reagent volumes can be halved._
 
 **2.** Add 8 µl of Reaction Buffer and 4 µl of Enzyme Mix to each sample and pipette mix.<br/>
-_Note: RNase H nicks RNA strand, and remaining RNA serves as templates for 2<sup>nd</sup> cDNA strand_
+_Note: RNase H nicks RNA strand, and remaining RNA serves as primers for 2<sup>nd</sup> cDNA strand_
  
 **3.** Incubate reaction for 2.5 hours at 16 °C.<br/>
 _Note: thermocycler lid should be off or set to < 40 °C._
