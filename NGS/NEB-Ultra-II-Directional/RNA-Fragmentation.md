@@ -1,7 +1,7 @@
 RNA fragmentation with MgCl<sub/>2<sub/>
 ================================================================================
-Description: Divalent metal ions and heat will catalyze self-cleavage of RNA molecules
-This is a useful way to fragment RNA during libary preparation workflows
+Description: Divalent metal ions and heat will catalyze self-cleavage of RNA molecules.<br/>
+This is a useful way to fragment RNA during libary preparation workflows.
 
 [Go To Protocol](#protocol)
 
@@ -29,7 +29,8 @@ Protocol:
 
 **4.** Remove RNA from heat and chelate magnesium by adding 2 µl of 0.5 M EDTA
 
-**5.** Purify RNA with [SPRI beads](../SPRI-beads.md) at a 1.8X ratio and two 70% ethanol washes.<br/>_Note: Fragmentation success can be monitored by Bioanalyzer or TapeStation_
+**5.** Purify RNA with [SPRI beads](../SPRI-beads.md) at a 1.8X ratio and two 70% ethanol washes.<br/>
+_Note: Fragmentation success can be monitored by Bioanalyzer or TapeStation_
 
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
