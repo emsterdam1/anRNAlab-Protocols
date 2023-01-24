@@ -401,3 +401,7 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 400,NEBNext Nextera Adapter,Sequencing,Sequencing,Sequencing,IDT,429007914,GATCGGAAGAGCCTGTCTCTTATACACATCTCCGAGCCCACGAGAC/ideoxyU/TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGGCTCTTCCGATC*T
 401,Tn5 amp,Sequencing,Sequencing,Sequencing,IDT,429007915,TCGTCGGCAGCGTCAG
 402,H2AC i7 s1 F,Sequencing,H2AC mRNA,Histone mRNAs,IDT,429007916,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGNNNNNAAGAAGACTGAGAGCCACCA
+403,NRF2 seq F,Sequencing,genomic,NRF2,IDT,430255837,gattaccgagtgccggg
+404,NRF2 seq R,Sequencing,genomic,NRF2,IDT,430255838,cctggctctggccagac
+405,KEAP1 seq F,Sequencing,genomic,NRF2,IDT,430255839,cttgcaaaacgaggcccg
+406,KEAP1 seq R,Sequencing,genomic,NRF2,IDT,430255840,gcactcagtggaggcgta
