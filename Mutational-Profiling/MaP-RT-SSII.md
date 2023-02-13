@@ -14,7 +14,7 @@ Before starting:
 Materials:
 --------------------------------------------------------------------------------
   * **Modified RNA** _(and unmodified for control)_
-    * 5 pMol of _in vitro_ RNA transcript,
+    * 5 pmoles of _in vitro_ RNA transcript,
     * 0.5-5 µg of cellular RNA (depending on representation of RNA of interest), **OR**
     * enriched target RNA
   * **2 µM of gene specific primer (_targeted_) or 70 µM (200 ng/µL) of [random nonamer](https://www.neb.com/products/s1254-random-primer-9#Product%20Information) (_for non-targeted_)**
