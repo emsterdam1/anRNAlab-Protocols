@@ -6,9 +6,11 @@ Description: Couples diol oxidation and hydrazide labeling to add molecules to R
 
 Materials:
 --------------------------------------------------------------------------------
-  * Target RNA (with 3' hydoxyls, 100 µM)
+  * Target RNA (with 3' hydoxyls, 50 µM)
   * 1 M NaOAc (pH 4.5)
   * 1 M NaOAc (pH 6, can increase pH of solution with NaOH)
+  * 40 % glycerol
+  * 1 M Tris pH 8.5
   * 250 mM NaIO<sub>4</sub>
     * *Dissolve 0.053 g of solid [NaIO<sub>4</sub>](https://www.fishersci.com/shop/products/sodium-periodate-99-8-acs-reagent-thermo-scientific/AC419610050) per mL of water.*<br/>
       *This solution can be stored long-term in the dark in aliquots at -80 °C.*<br/>
@@ -34,40 +36,39 @@ Protocol:
 
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
-  | RNA| 100 µM | **25**  µL | 
-  | NaOAc pH 4.5 | 1 M | **5**  µL |
-  | NaIO<sub>4</sub> | 250 mM | **20**  µL |
-  || **Total** | **50** µL |
+  | RNA| 50 µM | **40**  µL | 
+  | NaOAc pH 4.5 | 1 M | **2**  µL |
+  | NaIO<sub>4</sub> | 250 mM | **2**  µL |
+  || **Total** | **44** µL |
   
   <!-- : in the pipes specify justification -->
   <!-- **X** bolds the inside -->
   
-**2.** Incubate samples at room temperature for 90 minutes in the dark.
+**2.** Incubate samples at room temperature for 90 minutes in the dark.<br/>
+Periodate will break the bond between terminal 2'-3' ribose diol and leave behind aldehydes. 
 
-**2.** 40 % Glycerol quench and Tris pH 8.5 to neutralize
+**3.** Add 2 µL of 40 % Glycerol to quench periodate.
+
+**4.** Add 14 µL of Tris pH 8.5 to raise pH to more neutral level.
  
-**3.** Remove reaction buffer through purification with [SPRI beads](../NGS/SPRI-beads.md).<br/>
-Elute in 40 µL of nuclease-free water. <br/>
-*Note: If your RNA is small, be sure to use correct bead amount and isopropanol additive.*
+**5.** Remove reaction buffer through purification with [SPRI beads](../NGS/SPRI-beads.md).<br/>
+Elute in 20 µL of nuclease-free water. <br/>
+*Note: If your RNA is small, be sure to use correct bead amount and isopropanol additive.*<br/>
+*Note: Reaction products will be ~ 500 µM formaldehyde, dispose first flowthrough in appropriate liquid waste*
 
-**4.** Mix following components in the fume hood:
+**6.** Mix following components in the fume hood:<br/>
+*Note: hydrazide at this concentration (< 1 % solution) is not considered hazardous.*
 
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
-  | Oxidated RNA product| ~ 62.5 µM | **40**  µL | 
-  | NaOAc pH 6 | 1 M | **5**  µL |
-  | hydrazide-label | 10 mM | **5**  µL |
-  || **Total** | **50** µL |
+  | Oxidated RNA product| ~ 100 µM | **20**  µL | 
+  | NaOAc pH 6 | 1 M | **2.5**  µL |
+  | hydrazide-label | 10 mM | **2.5**  µL |
+  || **Total** | **25** µL |
   
-**2.** Incubate samples at room temperature for 2 hours (in the dark if fluorescent label).
-  
-<!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
+**7.** Incubate samples at room temperature for 2 hours (in the dark if fluorescent label).<br/>
+Hydrazide reacts with the proximal aldehydes generated in the first reaction.
 
-
-<details>
-  <summary>More Info</summary>
-  
-  <a href="https://www.neb.com/protocols/2012/09/25/gibson-assembly-master-mix-assembly">
-NEB website</a>  
-
-</details>
+**8.** Remove reaction buffer through purification with [SPRI beads](../NGS/SPRI-beads.md).<br/>
+Elute in 20 µL of nuclease-free water (and store in amber tubes if fluorescent). <br/>
+*Note: If your RNA is small, be sure to use correct bead amount and isopropanol additive.*<br/>
