@@ -22,9 +22,10 @@ Materials:
 
 Equipment Required:
 --------------------------------------------------------------------------------
-  * magnetic rack
-  
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+  * Magnetic rack
+  * Fume Hood
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 <!-- Use <br/> to fill in first page -->
   
