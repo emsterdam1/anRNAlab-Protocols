@@ -4,23 +4,29 @@ Description: Make body-labeled fluorescent RNA probes for Northern blotting
 
 Materials:
 --------------------------------------------------------------------------------
-
+  **In vitro transcription**  
   * T7 DNA template (50-250 ng/µl)
   * [T7 RNA polymerase 50 U/µl](https://www.neb.com/products/m0251-t7-rna-polymerase?gclid=Cj0KCQiAi8KfBhCuARIsADp-A57GNLut6Ljx0Vs8oFy-UTuFQ5o9echAGb_0VRMSuEzQ4IjYrTkXpFsaArplEALw_wcB#Product%20Information)
   * 20 mM Spermidine (3 µl of pure 6.37 M in 1 mL of water)
-  * 10 mM rATP
-  * 10 mM rGTP
-  * 10 mM rCTP
-  * 10 mM rUTP
+  * Separate stocks of 10 mM rATP, rCTP, rGTP, and rUTP
   * 10 mM 5-Azido-C<sub>3</sub>-UTP
   * 100 mM DTT
   * **10X T7 Buffer**  
-    ◦ 400 mM Tris-HCl, pH 8.0
-    ◦ 250 mM NaCl
-    ◦ 80 mM MgCl<sub>2</sub>
+    ◦ 400 mM Tris-HCl, pH 8.0  
+    ◦ 250 mM NaCl  
+    ◦ 80 mM MgCl<sub>2</sub>  
+  
+  **DNase Treatment**      
+  * TURBO DNase (2U/µl)
+  * **25X DNase Stop Buffer**  
+    ◦ 250 mM EDTA  
+    ◦ 250 mM EGTA  
+  * G-50 Sephadex columns  
+  
+  **Dye Labeling**  
+  * 6-10% denaturing urea polyacrylamide gels  
   * [10 mM 800CW-DBCO Infrared Dye](https://www.fishersci.com/shop/products/800cw-dbco-1/NC0902760) (dissolve 0.5 mg in 37.5 µl DMSO)
-  * 10X PBS pH 7.4
-  * 6-10% denaturing urea polyacrylamide gels
+  * 10X PBS pH 7.4  
   * SPRI beads
     
 
@@ -33,6 +39,8 @@ Equipment Required:
 ___
 Protocol:
 --------------------------------------------------------------------------------
+
+**Part 1: In vitro transcription (overnight reaction)**  
 
 **1.** For each transcription:<br/>
 Make 4 µL of a 3:1 mixture of rUTP and 5-Azido-C<sub>3</sub>-UTP (10 mM total).
@@ -55,12 +63,27 @@ Make 4 µL of a 3:1 mixture of rUTP and 5-Azido-C<sub>3</sub>-UTP (10 mM total).
 **3.** Incubate reaction overnight (16 hours) at 37 °C.<br/>
 _Note: thermocycler lid should be off or set to < 50 °C._
 
-**4.** RNA probes can be visualized and purified on a denaturing urea polyacrylamide gel.
+**Part 2: DNase Treatment (~20 minutes)** 
 
-**5.** In 20 µL 1X PBS, combine 20 molar equivalents of 800CW DBCO with RNA probe. <br/>
+**4.** Add 1 µL of TURBO DNase and incubate for an additional 10 minutes at 37 °C.<br/>
+*Note: There is 10 mM necessary CaCl<sub>2</sub> in the TURBO enzyme storage buffer.*
+
+**5.** Add 0.5 µL of DNase stop buffer to chelate calcium and magnesium.
+
+**6.** Buffer exchange over a G-50 microspin column.
+
+**Part 3: Gel Verification/Purification (3 hours + variable) ** 
+
+**7.** RNA probes can be visualized on a denaturing urea polyacrylamide gel.<br/>
+*Note: If there are significant truncation products, full length should be gel-purified.*<br/>
+*Gel slices can be eluted passively in TBE or [electroeluted](https://doi.org/10.1016/j.ab.2013.02.021) and precipitated.*
+
+**Part 4: Dye Labeling ** 
+
+**8.** In 20 µL 1X PBS, combine 20 molar equivalents of 800CW DBCO with RNA probe. <br/>
 Incubate in the dark at room temperature for 6 hours.
 
-**4.** Purify label RNA probes with [SPRI beads](./SPRI-beads.md) at ratio relevant to probe size.
+**9.** Purify label RNA probes with [SPRI beads](./SPRI-beads.md) at ratio relevant to probe size.
 
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
