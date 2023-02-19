@@ -6,7 +6,7 @@ Description: Couples diol oxidation and hydrazide labeling to add molecules to R
 
 Materials:
 --------------------------------------------------------------------------------
-  * Target RNA (with 3' hydoxyls, 50 µM)
+  * Target RNA (with 3' hydoxyls, 100 µM)
   * 1 M NaOAc (pH 4.5)
   * 1 M NaOAc (pH 6, can increase pH of solution with NaOH)
   * 40 % glycerol
@@ -37,10 +37,10 @@ Protocol:
 
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
-  | RNA| 50 µM | **40**  µL | 
-  | NaOAc pH 4.5 | 1 M | **2**  µL |
-  | NaIO<sub>4</sub> | 250 mM | **2**  µL |
-  || **Total** | **44** µL |
+  | RNA | 100 µM | **20**  µL | 
+  | NaOAc pH 4.5 | 1 M | **1**  µL |
+  | NaIO<sub>4</sub> | 250 mM | **1**  µL |
+  || **Total** | **22** µL |
   
   <!-- : in the pipes specify justification -->
   <!-- **X** bolds the inside -->
@@ -48,9 +48,9 @@ Protocol:
 **2.** Incubate samples at room temperature for 90 minutes in the dark.<br/>
 Periodate will break the bond between terminal 2'-3' ribose diol and leave behind aldehydes. 
 
-**3.** Add 2 µL of 40 % Glycerol to quench periodate.
+**3.** Add 1 µL of 40 % Glycerol to quench periodate.
 
-**4.** Add 14 µL of Tris pH 8.5 to raise pH to more neutral level.
+**4.** Add 7 µL of Tris pH 8.5 to raise pH to more neutral level.
  
 **5.** Remove reaction buffer through purification with [SPRI beads](../NGS/SPRI-beads.md).<br/>
 Elute in 20 µL of nuclease-free water. <br/>
