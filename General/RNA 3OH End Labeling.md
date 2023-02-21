@@ -7,8 +7,8 @@ Description: Couples diol oxidation and hydrazide labeling to add molecules to R
 Materials:
 --------------------------------------------------------------------------------
   * Target RNA (with 3' hydoxyls, 100 µM)
-  * 1 M NaOAc (pH 4.5)
-  * 1 M NaOAc (pH 6, can increase pH of solution with NaOH)
+  * 1 M NaOAc pH 4.5
+  * 1 M NaOAc pH 6 (can increase pH of solution with NaOH, add 128 µl of 6.25 N NaOH to 3 ml of 1M NaOAc pH 5.2)
   * 40 % glycerol
   * 1 M Tris pH 8.5
   * 250 mM NaIO<sub>4</sub>
