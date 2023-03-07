@@ -64,7 +64,7 @@ Protocol:
   | Ligation Master Mix | **30**  µL |
   | **Total** | **93.5** µL |
   
-**5.** Mix well and incubate for 15 minutes at 37 °C. 
+**5.** Mix well and incubate for 15 minutes at 20 °C. 
 
 **Part 3: USER removal of U-containing DNA**
 
