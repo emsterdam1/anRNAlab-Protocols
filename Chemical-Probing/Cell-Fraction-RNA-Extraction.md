@@ -5,20 +5,20 @@ Description: Extract RNA from Nucleus and Cytoplasm
 --------------------------------------------------------------------------------
   ### Solutions and Buffers ###
   
-  * 1X Phosphate-buffered saline pH 7.4
-  * 25:24:1 Phenol Chloroform Isoamyl Alcohol ([PCA](https://www.thermofisher.com/order/catalog/product/15593031#/15593031), wear eye protection and PPE)  
-  * 100 mM DTT
-  * Triton X-100
-  * 20 % SDS
-  * 5M NaCl
-  * 500 mM EDTA
+  ◦ 1X Phosphate-buffered saline pH 7.4  
+  ◦ 25:24:1 Phenol Chloroform Isoamyl Alcohol ([PCA](https://www.thermofisher.com/order/catalog/product/15593031#/15593031), wear eye protection and PPE)   
+  ◦ 100 mM DTT  
+  ◦ Triton X-100  
+  ◦ 20 % SDS  
+  ◦ 5M NaCl  
+  ◦ 500 mM EDTA  
+   
+  * **10X Low Salt Buffer**   
+    ◦ 200 mM Tris pH 8.0  
+    ◦ 100 mM KCl  
+    ◦ 15 mM MgCl<sub>2</sub>      
   
-  * **10X Low Salt Buffer** 
-    ◦ 200 mM Tris pH 8.0    
-    ◦ 100 mM KCl    
-    ◦ 15 mM MgCl<sub>2</sub>    
-  
-  * **5X Proteinase K Digestion Buffer** 
+  * **5X Proteinase K Digestion Buffer**  
     ◦ 200 mM Tris pH 8.0  
     ◦ 1 M NaCl    
     ◦ 100 mM EDTA   
