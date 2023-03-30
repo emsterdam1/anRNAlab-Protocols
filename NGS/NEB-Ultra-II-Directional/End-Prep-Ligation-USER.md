@@ -54,17 +54,21 @@ Protocol:
   | **99 ng - 10 ng** | **1/100 dilution** |
 
 
-**4.** Combine the following reagents on ice:
+**4.** Mix the following reagents separately on ice:<br/>_Adaptor dimers form more readily if mixed with ligase first._
 
   | Component | Quantity | 
   | ---------: | :---------- |
   | End Prepped DNA | **60**  µL | 
   | Diluted Adaptor | **2.5**  µL |
+  | **Total** | **62.5** µL |
+  
+    | Component | Quantity | 
+  | ---------: | :---------- |
   | Ligation Enhancer | **1**  µL |
   | Ligation Master Mix | **30**  µL |
-  | **Total** | **93.5** µL |
+  | **Total** | **31** µL |
   
-**5.** Mix well and incubate for 15 minutes at 20 °C. 
+**5.** Combine the two mixtures and incubate for 15 minutes at 20 °C. 
 
 **Part 3: USER removal of U-containing DNA**
 
