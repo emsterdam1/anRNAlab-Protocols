@@ -2,7 +2,6 @@ Cell Fractionation and RNA Recovery
 ================================================================================
 Description: Extract RNA from Nucleus and Cytoplasm
 
---------------------------------------------------------------------------------
   ### Solutions and Buffers ###
   
   ◦ 1X Phosphate-buffered saline pH 7.4  
@@ -13,15 +12,15 @@ Description: Extract RNA from Nucleus and Cytoplasm
   ◦ 5M NaCl  
   ◦ 500 mM EDTA  
    
-  * **10X Low Salt Buffer**   
-    ◦ 200 mM Tris pH 8.0  
-    ◦ 100 mM KCl  
-    ◦ 15 mM MgCl<sub>2</sub>      
+* **10X Low Salt Buffer**   
+  ◦ 200 mM Tris pH 8.0  
+  ◦ 100 mM KCl  
+  ◦ 15 mM MgCl<sub>2</sub>
   
-  * **5X Proteinase K Digestion Buffer**  
-    ◦ 200 mM Tris pH 8.0  
-    ◦ 1 M NaCl    
-    ◦ 100 mM EDTA   
+* **5X Proteinase K Digestion Buffer**  
+  ◦ 200 mM Tris pH 8.0  
+  ◦ 1 M NaCl    
+  ◦ 100 mM EDTA   
   
  ### Other materials and reagents ### 
   * Confluent cells (for HEK293T cells, plate 500K cells each in 2 10 cm dishes and grow up 2 days)
