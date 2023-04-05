@@ -29,7 +29,7 @@ Protocol:
   
 **4.** Aspirate all media and crosslink cells (mostly dry) on ice with 2J/cm<sup>2</sup> of 365 nm UV light.<br/>_Note: For suspension cells, pellet and resuspend in a thin layer of PBS for crosslinking._
 
-**5.** Lyse cells with desired lysis reagent (will vary depending on followup)._
+**5.** Lyse cells with desired lysis reagent (will vary depending on followup).
 
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
