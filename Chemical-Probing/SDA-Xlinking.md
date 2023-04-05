@@ -29,7 +29,7 @@ Protocol:
   
 **4.** Aspirate all media and crosslink cells (mostly dry) on ice with 2J/cm<sup>2</sup> of 365 nm UV light.<br/>_Note: For suspension cells, pellet and resuspend in a thin layer of PBS for crosslinking._
 
-**5.** Lyse cells in 1 ml Trizol. Add directly to plate, resuspend, and transfer to 1.5 ml tube in preparation for RNP enrichment.<br/>_Note: Samples can be stored in Trizol at 4 °C overnight or for at least a year at -20 °C._
+**5.** Lyse cells (will vary depending on followup)._
 
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
