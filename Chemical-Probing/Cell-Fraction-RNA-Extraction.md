@@ -41,8 +41,9 @@ Protocol:
 --------------------------------------------------------------------------------
 ### Part 1: Cell Lysis and Fractionation (20 minutes) ###
 
-**1.** Prepare ice-cold Lysis Buffer with 1X Low Salt Buffer, 800 U/mL RNase Inhibitor, 1 mM DTT and 0.1 % Triton.<br/>
-_Note: 2.5 mL per 10 cm dish or 500 ul per 6-well plate well._
+**1.** Prepare ice-cold Lysis Buffer with 1X Low Salt Buffer, 1 mM DTT and 0.1 % Triton.<br/>
+_Note: 2.5 mL per 10 cm dish or 500 ul per 6-well plate well._<br/>
+_Optional: 800 U/mL RNase Inhibitor_
 
 **2.** Wash cells twice in 0.5 growth volumes of PBS. <br/>
 _Note: Crosslinked or chemically treated cells can be lysed directly on plate after treatment._
@@ -55,7 +56,7 @@ _Note: Need volume equal to original lysis amounts._
 
 **5.** Carefully remove the cytoplasmic lysate into a new tube on ice. <br/>
 
-**6.** Wash nuclei with Wash Buffer and pellet again 1500 x g for 5 minutes at 4 °C<br/>
+**6.** Wash nuclei with Wash Buffer and pellet again 1500 x g for 5 minutes at 4 °C.<br/>
 While spinning, prepare PK Buffer with 1X Proteinase K Digestion buffer, 1.5 % SDS, and 0.5 mg/ml Proteinase K
 
 ### Part 2: Protein Digestion (2 hours) ###
@@ -87,7 +88,7 @@ _Note: 2.5 mL per 10 cm dish or 500 ul per 6-well plate well._
 
 **13** Pellet RNA precipitate at 15-20,000 x g for 10 minutes. Discard supernatant.
 
-**14.** Wash once with 75% ethanol, spin at 7,500 x g for 5 minutes, discard supernatant and air dry pellet for 5 minutes.
+**14.** Wash with 75% ethanol, spin at 7,500 x g for 5 minutes, discard supernatant and air dry pellet for 5 minutes.
 <br/>_Note: Pellets in ethanol can be stored long term at -20 °C, just remember to DNase treat._
 
 **15.** Resuspend in 44/88 µl of nuclease-free water in preparation for [DNase treatment](../General/TURBO-DNase.md).<br/>
