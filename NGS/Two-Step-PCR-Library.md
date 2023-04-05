@@ -31,7 +31,7 @@ Equipment Required:
   * Magnetic stand
 
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 <!-- Use <br/> to go to next page -->
   
 Protocol:
