@@ -57,12 +57,11 @@ _Note: Need volume equal to original lysis amounts._
 **5.** Carefully remove the cytoplasmic lysate into a new tube on ice. <br/>
 
 **6.** Wash nuclei with Wash Buffer and pellet again 1500 x g for 5 minutes at 4 °C.<br/>
-While spinning, prepare PK Buffer with 1X Proteinase K Digestion buffer, 1.5 % SDS, and 0.5 mg/ml Proteinase K
+During spin, prepare PK Buffer (1X PK Digestion buffer, 1.5 % SDS, and 0.5 mg/ml Proteinase K)
 
 ### Part 2: Protein Digestion (2 hours) ###
 
-**7.** Resuspend washed nuclear pellet in PK Buffer and set at room temperature.<br/>
-_Note: 2.5 mL per 10 cm dish or 500 ul per 6-well plate well._
+**7.** Resuspend washed nuclear pellet in lysis volume of PK Buffer and set at room temperature.<br/>
 
 **8.** To the cytoplasmic lysate, adjust buffer with:  
   ◦ 0.04 volumes 5M NaCl _(100 µl for 2.5 mL)_  
