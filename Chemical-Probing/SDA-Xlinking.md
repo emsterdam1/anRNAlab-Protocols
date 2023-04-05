@@ -7,7 +7,7 @@ Materials:
   * Mostly confluent cells (for HEK293T cells, plate 750K cells in a 6cm dish and grow up 2 days) 
   * 1X Phosphate-buffered saline pH 7.4
   * 200 mM stock of [NHS-Diazirine (SDA)](https://www.thermofisher.com/order/catalog/product/26167#/26167) in DMSO<br/>_Note: SDA is best diluted day of, but can be stored in DMSO at -20 °C for at least 1 month._
-  * [Trizol](https://www.thermofisher.com/order/catalog/product/15596026#/15596026) lysis reagent (wear eye protection and PPE)
+  * Lysis reagent
      
 Equipment Required:
 --------------------------------------------------------------------------------
@@ -29,7 +29,7 @@ Protocol:
   
 **4.** Aspirate all media and crosslink cells (mostly dry) on ice with 2J/cm<sup>2</sup> of 365 nm UV light.<br/>_Note: For suspension cells, pellet and resuspend in a thin layer of PBS for crosslinking._
 
-**5.** Lyse cells (will vary depending on followup)._
+**5.** Lyse cells with desired lysis reagent (will vary depending on followup)._
 
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
