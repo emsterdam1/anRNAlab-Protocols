@@ -71,7 +71,7 @@ Protocol:
 
 **3.** Clean up 1st step PCR with a 1X ratio of [SPRI beads](./SPRI-beads.md), 2x 80% Ethanol washes, and 15 µL elution.
 
-<br/><br/>
+<br/><br/><br/>
 
 ### Step 2 PCR
 
