@@ -8,6 +8,7 @@ Materials:
   * phiX library
   * Illumina Sequecing kit
   * 1 N NaOH stock
+  * 200 mM Tris-HCl pH 7.0
 
 Equipment Required:
 --------------------------------------------------------------------------------
@@ -69,9 +70,12 @@ _A dab of 100 % EtOH on new lens paper can help clean and dry._
 **11.** Mix 5 µL of library pool and 5 µL of 0.2 N NaOH. Vortex mix.<br/>
 _Note: Volumes can be increased up to 10/20 µL for 2/1 nM pools (but 4 nM works best)._
 
-**12.** Spin down library at 280 x g for 1 min. Incubate at room temperatur for 4 min.
+**12.** Spin down library at 280 x g for 1 min. Incubate at room temperature for 4 min.
 
-**13.** Dilute library up to 1 mL with HT1 buffer (990 µL for a 4 nM library).
+**13.** Quench base with 5 µL of 200 mM Tris-HCl pH 7. Vortex and spin down.<br/>
+_Note: Increase volumes to 10/20 µL for 2/1 nM pools._
+
+**13.** Dilute library up to 1 mL with HT1 buffer (985 µL for a quenched 4 nM library).
 
 **Part 5: Adjusting deantured library to final concentration with PhiX**
 
