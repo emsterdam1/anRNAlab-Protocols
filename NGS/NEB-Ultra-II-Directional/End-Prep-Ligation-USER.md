@@ -62,7 +62,7 @@ Protocol:
   | Diluted Adaptor | **2.5**  µL |
   | **Total** | **62.5** µL |
   
-    | Component | Quantity | 
+  | Component | Quantity | 
   | ---------: | :---------- |
   | Ligation Enhancer | **1**  µL |
   | Ligation Master Mix | **30**  µL |
