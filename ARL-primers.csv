@@ -529,13 +529,16 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 528,MALAT1 qPCR3 R,qPCR,MALAT1,MALAT1,IDT,439623939,GTATTAATTCGGGGCTCTGTAGTCC
 529,18S qPCR F,qPCR,18S,all,IDT,439623940,TTCGAAGACGATCAGATACCGTCG
 530,18S qPCR R,qPCR,18S,all,IDT,439623941,CCCGGAACCCAAAGACTTTGG
-531,Cas3 gRNA inv PCR F,cloning,pDECKO-Cas9,MALAT1,IDT,,tgtacgtctctAGGCGGCTGTGTGTTGAAACttttttgaattcgctagctag
-532,Cas3 gRNA inv PCR R,cloning,pDECKO-Cas9,MALAT1,IDT,,caaccgtctccAGCCGCCTAGAGGCGGCTGACtttcgtcctttccacaag
-533,AIO backbone amp F,cloning,pCASCADE,MALAT1,IDT,,gcaacaaacttctctctgctg
-534,AIO backbone amp R,cloning,pCASCADE,MALAT1,IDT,,ttaccgtaagttatgtaacgactgacgggcaccgg
-535,Cascade Amp F,cloning,pYZ991,MALAT1,IDT,,cgttacataacttacggtaaatggccc
-536,Cascade Amp R,cloning,pYZ991,MALAT1,IDT,,ccacgtcgccacaggtcagcagagagccccggccctcggcggtcttggcctcg
-537,Cas3 Amp F,cloning,pYZ990,MALAT1,IDT,,gctgacctgtggcgacgtggaggagaaccccggccccATGAACTTCGACTATATCGCCC
-538,Cas3 Amp R,cloning,pYZ990,MALAT1,IDT,,agcagagagaagtttgttgcCACTTTCCGCTTTTTCTTGGG
-539,E2A seq F,Sanger,pCASCADE,MALAT1,IDT,,gtccaaccctggaccc
-540,WPRE seq R,Sanger,lenti,all,IDT,,catagcgtaaaaggagcaaca
+531,Cas3 gRNA inv PCR F,cloning,pDECKO-Cas9,MALAT1,IDT,439900523,tgtacgtctctAGGCGGCTGTGTGTTGAAACttttttgaattcgctagctag
+532,Cas3 gRNA inv PCR R,cloning,pDECKO-Cas9,MALAT1,IDT,439900524,caaccgtctccAGCCGCCTAGAGGCGGCTGACtttcgtcctttccacaag
+533,AIO backbone amp F,cloning,pCASCADE,MALAT1,IDT,439900525,gcaacaaacttctctctgctg
+534,AIO backbone amp R,cloning,pCASCADE,MALAT1,IDT,439900526,ttaccgtaagttatgtaacgactgacgggcaccgg
+535,Cascade Amp F,cloning,pYZ991,MALAT1,IDT,439900527,cgttacataacttacggtaaatggccc
+536,Cascade Amp R,cloning,pYZ991,MALAT1,IDT,439900528,ccacgtcgccacaggtcagcagagagccccggccctcggcggtcttggcctcg
+537,Cas3 Amp F,cloning,pYZ990,MALAT1,IDT,439900529,gctgacctgtggcgacgtggaggagaaccccggccccATGAACTTCGACTATATCGCCC
+538,Cas3 Amp R,cloning,pYZ990,MALAT1,IDT,439900530,agcagagagaagtttgttgcCACTTTCCGCTTTTTCTTGGG
+539,E2A seq F,Sanger,pCASCADE,MALAT1,IDT,439900531,gtccaaccctggaccc
+540,WPRE seq R,Sanger,lenti,all,IDT,439900532,catagcgtaaaaggagcaaca
+541,pYZ990 delBsmBI INV F,cloning,pYZ990,MALAT1,IDT,,acgccatccacgctgttttg
+542,pYZ990 delBsmBI INV R,cloning,pYZ990,MALAT1,IDT,,tccaggcgatctgacggttc
+543,pYZ991 delBsmBI INV F,cloning,pYZ991,MALAT1,IDT,,tccacgtcaccagcca
