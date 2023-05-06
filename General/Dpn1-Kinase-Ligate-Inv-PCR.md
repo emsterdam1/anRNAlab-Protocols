@@ -9,7 +9,7 @@ DpnI destroys vector plasmid, Kinase phosphorylates 5' ends, and Ligase circular
 Materials:
 --------------------------------------------------------------------------------
 
-  * PCR product (unpurified, confirmed with Q5 and Phusion buffer) 
+  * 25 cycle PCR product (unpurified, confirmed with Q5 and Phusion buffer) 
   * T4 DNA Ligase (NEB 400 U/µl)
   * T4 Polynucleotide Kinase (PNK) (NEB 10 U/µl)
   * DpnI methylation-sensitive restriction endonuclease (NEB 20 U/µl)
