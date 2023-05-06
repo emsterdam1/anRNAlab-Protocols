@@ -537,4 +537,4 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 540,WPRE seq R,Sanger,lenti,all,IDT,439900532,catagcgtaaaaggagcaaca
 541,pYZ990 delBsmBI INV F,cloning,pYZ990,MALAT1,IDT,,acgccatccacgctgttttg
 542,pYZ990 delBsmBI INV R,cloning,pYZ990,MALAT1,IDT,,tccaggcgatctgacggttc
-543,pYZ991 delBsmBI INV F,cloning,pYZ991,MALAT1,IDT,,tccacgtcaccagcca
+543,pYZ991 delBsmBI INV R,cloning,pYZ991,MALAT1,IDT,,tccacgtcaccagccagcttcaacag
