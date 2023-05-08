@@ -437,11 +437,15 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 436,pPE MALAT1 R,Sequencing,MALAT1,MALAT1,IDT,,GTTGGTTTAACGCGTAAC
 437,PUS7-KO gRNA5 F Primer Set 2,CRISPR,PUS7,PUS7,IDT,436257817,ACAGAGGTATTTGCTCTCACAGAGG
 438,PUS7-KO gRNA5 R Primer Set 2,CRISPR,PUS7,PUS7,IDT,436257818,CTCACCTGCTGCAGTGCCTTTTCC
+439,pDPE-Cas9nRT inv F,cloning,pPE MALAT1 cDel,MALAT1,IDT,,tgtacgtctctttttttgaattcgctagc
+440,MALAT1-Cdel-DPE-R3,cloning,pPE MALAT1 cDel,MALAT1,IDT,,TGGTATTACGCAACTGAGCCCCAGCCTTGCAGGGACGGTTGAGgcaccgactcggt
 441,pSecko MALAT1 Guide C2 F,CRISPR,MALAT1,MALAT1,IDT,436257821,atcttgtggaaaggacgaaacaccgaggtttctaaaacatgacgggttttagagctagaaatagcaagtt
 442,pSecko MALAT1 Guide C2 R,CRISPR,MALAT1,MALAT1,IDT,436257822,aacttgctatttctagctctaaaacccgtcatgttttagaaacctcggtgtttcgtcctttccacaagat
 443,NRF2 seq2 Rev,Sequencing,genomic,NRF2,IDT,431463557,cagaccttcccgcaactt
 444,KEAP1 seq2 F,Sequencing,genomic,NRF2,IDT,431463558,CAGGCTGTTGAGGAGTTCAG
 445,KEAP1 seq2 R,Sequencing,genomic,NRF2,IDT,431463559,gatcctccagggtgtagct
+446,MALAT1-Cdel-DPE-F4,cloning,pPE MALAT1 cDel,MALAT1,IDT,,GGCTCAGTTGCGTAATACCAATAGAAGGGCCGAAGTGCGCGGTTCTATCTAGTTAC
+447,MALAT1-Cdel-DPE-R4,cloning,pPE MALAT1 cDel,MALAT1,IDT,,cctagctagcgaattcAAAAAATTCTAGTTGGTTTAACG
 448,pSecko MALAT1 C2 F,CRISPR,MALAT1,MALAT1,IDT,438790248,atcttgtggaaaggacgaaacaccgaggtttctaaaacatgacgggttttagagctagaaatagcaagtt
 449,pSecko MALAT1 C2 R,CRISPR,MALAT1,MALAT1,IDT,438790249,aacttgctatttctagctctaaaacccgtcatgttttagaaacctcggtgtttcgtcctttccacaagat
 450,pSecko MALAT1 TH4 F,CRISPR,MALAT1,MALAT1,IDT,438790250,atcttgtggaaaggacgaaacaccgACAATACGTGTTGTTTTCTCgttttagagctagaaatagcaagtt
