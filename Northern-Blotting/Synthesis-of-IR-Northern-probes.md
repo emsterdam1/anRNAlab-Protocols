@@ -83,7 +83,7 @@ _Note: thermocycler lid should be off or set to < 50 °C._
 **8.** In 20 µL 1X PBS, combine 20 molar equivalents of 800CW DBCO with RNA probe. <br/>
 Incubate in the dark at room temperature for 6 hours.
 
-**9.** Purify label RNA probes with [SPRI beads](./SPRI-beads.md) at ratio relevant to probe size.
+**9.** Purify label RNA probes with [SPRI beads](../NGS/SPRI-beads.md) at ratio relevant to probe size.
 
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
