@@ -70,15 +70,15 @@ _Note: thermocycler lid should be off or set to < 50 °C._
 
 **5.** Add 0.5 µL of DNase stop buffer to chelate calcium and magnesium.
 
-**6.** Buffer exchange over a G-50 microspin column.
+**6.** Buffer exchange over a G-50 microspin column.  
 
-**Part 3: Gel Verification/Purification (3 hours + variable) ** 
+**Part 3: Gel Verification/Purification (3 hours + variable)** 
 
 **7.** RNA probes can be visualized on a denaturing urea polyacrylamide gel.<br/>
 *Note: If there are significant truncation products, full length should be gel-purified.*<br/>
 *Gel slices can be eluted passively in TBE or [electroeluted](https://doi.org/10.1016/j.ab.2013.02.021) and precipitated.*
 
-**Part 4: Dye Labeling ** 
+**Part 4: Dye Labeling** 
 
 **8.** In 20 µL 1X PBS, combine 20 molar equivalents of 800CW DBCO with RNA probe. <br/>
 Incubate in the dark at room temperature for 6 hours.
