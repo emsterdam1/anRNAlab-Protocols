@@ -15,7 +15,7 @@ Materials:
   * **[NEBNext® Ultra™ II End Repair/dA-Tailing Module](https://www.neb.com/products/e7546-nebnext-ultra-ii-end-repair-da-tailing-module#Protocols,%20Manuals%20&%20Usage)**
     * End Prep Reaction Buffer
     * End Prep Enzyme Mix
-  * 15 µM NEBNext Nextera Adapter ([ARL400](../../ARL-primers.csv))
+  * 15 µM NEBNext Nextera Adapter ([ARL524](../../ARL-primers.csv))
   * [NEBNext® Adaptor Dilution Buffer](https://www.neb.com/products/b1430-nebnext-adaptor-dilution-buffer#Product%20Information)
   * **[NEBNext® Ultra™ II Ligation Module](https://www.neb.com/products/e7595-nebnext-ultra-ii-ligation-module#Protocols,%20Manuals%20&%20Usage)**
     * Ligation Enhancer
@@ -75,7 +75,7 @@ Protocol:
 **6.** Add 3 µL USER enzyme to the mixture and incubate for 15 minutes at 37 °C.
 
 **7.** Purify and size select desired cDNA with [SPRI beads](../SPRI-beads.md).<br/>
-_Note: cDNA is single-stranded after USER treatment (half-size, 0.9X for everything)_<br/>
+_Note: goal is to remove adaptor dimer (~150 nt), use at most 0.9X beads_<br/>
 _The product can be amplified in a gene-specific manner or immediately barcoded (contains i7 and i5 sequences)_
 
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
