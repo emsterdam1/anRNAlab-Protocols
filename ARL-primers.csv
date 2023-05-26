@@ -532,9 +532,9 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 531,Cas3 gRNA inv PCR F,cloning,pDECKO-Cas9,MALAT1,IDT,439900523,tgtacgtctctAGGCGGCTGTGTGTTGAAACttttttgaattcgctagctag
 532,Cas3 gRNA inv PCR R,cloning,pDECKO-Cas9,MALAT1,IDT,441053162,caaccgtctccAGCCGCCTAGAGGCGGCTGAcggtgtttcgtcctttc
 533,AIO backbone amp F,cloning,pCASCADE,MALAT1,IDT,439900525,gcaacaaacttctctctgctg
-534,AIO backbone amp R,cloning,pCASCADE,MALAT1,IDT,439900526,ttaccgtaagttatgtaacgactgacgggcaccgg
-535,Cascade Amp F,cloning,pYZ991,MALAT1,IDT,439900527,cgttacataacttacggtaaatggccc
-536,Cascade Amp R,cloning,pYZ991,MALAT1,IDT,439900528,ccacgtcgccacaggtcagcagagagccccggccctcggcggtcttggcctcg
+534,AIO backbone amp R,cloning,pCASCADE,MALAT1,IDT,439900526,tcccactcctttcaagacctaaaaaagctagctcgtcctttccacaagaTATATAAAgcc
+535,Cascade Amp F,cloning,pYZ991,MALAT1,IDT,439900527,aggtcttgaaaggagtgggaatcgataagcttgggagttccg
+536,Cascade Amp R,cloning,pYZ991,MALAT1,IDT,439900528,ccacgtcgccacaggtcagcagagagccccggccctcagcgagtcCggcggtcttggcc
 537,Cas3 Amp F,cloning,pYZ990,MALAT1,IDT,439900529,gctgacctgtggcgacgtggaggagaaccccggccccATGAACTTCGACTATATCGCCC
 538,Cas3 Amp R,cloning,pYZ990,MALAT1,IDT,439900530,agcagagagaagtttgttgcCACTTTCCGCTTTTTCTTGGG
 539,E2A seq F,Sanger,pCASCADE,MALAT1,IDT,439900531,gtccaaccctggaccc
