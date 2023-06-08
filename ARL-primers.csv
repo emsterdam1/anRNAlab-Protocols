@@ -398,7 +398,7 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 397,pSecko Malat1 C1 R,CRISPR,pSecko,MALAT1 ,IDT,428840823,aacttgctatttctagctctaaaacttacgcaactgagccccagccggtgtttcgtcctttccacaagat
 398,pSecko Malat1 C2 F,CRISPR,pSecko,MALAT1 ,IDT,428840824,atcttgtggaaaggacgaaacaccgaggtttctaaaacatgacgggttttagagctagaaatagcaagtt
 399,pSecko Malat1 C2 R,CRISPR,pSecko,MALAT1 ,IDT,428840825,aacttgctatttctagctctaaaacccgtcatgttttagaaacctcggtgtttcgtcctttccacaagat
-400,NEBNext Adapter,Sequencing,Sequencing,Sequencing,IDT,,GATCGGAAGAGCACACGTCTGAACTCCAGTC/ideoxyU/ACACTCTTTCCCTACACGACGCTCTTCCGATC*T
+400,NEBNext Adapter,Sequencing,Sequencing,Sequencing,IDT,442118914,GATCGGAAGAGCACACGTCTGAACTCCAGTC/ideoxyU/ACACTCTTTCCCTACACGACGCTCTTCCGATC*T
 401,Tn5 amp,Sequencing,Sequencing,Sequencing,IDT,429007915,TCGTCGGCAGCGTCAG
 402,H2AC i7 s1 F,Sequencing,H2AC mRNA,Histone mRNAs,IDT,429007916,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGNNNNNAAGAAGACTGAGAGCCACCA
 403,NRF2 seq F,Sequencing,genomic,NRF2,IDT,430255837,gattaccgagtgccggg
@@ -522,9 +522,9 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 521,SHMT1 UCUAG RT,MaP,SHMT1,PUS7,IDT,438790321,CTTCTGATTTACAGCAGAAGCC
 522,SHMT1 Psi RT,MaP,SHMT1,PUS7,IDT,438790322,CTACACCATACTTTGAGCTACTG
 523,SHMT1 UGUAA RT,MaP,SHMT1,PUS7,IDT,438790323,GGGAAGGTGACATTTGGC
-524,NEBNext Nextera Adapter,Sequencing,Sequencing,Sequencing,IDT,,CTGTCTCTTATACACATCTCCGAGCCCACGAGAC/ideoxyU/TCGTCGGCAGCGTCAGATGTGTATAAGAGACAG*T
-525,NEBNext i501,Sequencing,Sequencing,Sequencing,IDT,,AATGATACGGCGACCACCGAGATCTACACTATAGCCTACACTCTTTCCCTACACGACGCTCTTCCGATCT
-526,NEBNext i701,Sequencing,Sequencing,Sequencing,IDT,,CAAGCAGAAGACGGCATACGAGATCGAGTAATGTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT
+524,NEBNext Nextera Adapter,Sequencing,Sequencing,Sequencing,IDT,442118915,CTGTCTCTTATACACATCTCCGAGCCCACGAGAC/ideoxyU/TCGTCGGCAGCGTCAGATGTGTATAAGAGACAG*T
+525,NEBNext i501,Sequencing,Sequencing,Sequencing,IDT,442118916,AATGATACGGCGACCACCGAGATCTACACTATAGCCTACACTCTTTCCCTACACGACGCTCTTCCGATCT
+526,NEBNext i701,Sequencing,Sequencing,Sequencing,IDT,442118917,CAAGCAGAAGACGGCATACGAGATCGAGTAATGTGACTGGAGTTCAGACGTGTGCTCTTCCGATCT
 527,MALAT1 qPCR3 F,qPCR,MALAT1,MALAT1,IDT,439623938,GGTTTCTAAAACATGACGGAGGTTG
 528,MALAT1 qPCR3 R,qPCR,MALAT1,MALAT1,IDT,439623939,GTATTAATTCGGGGCTCTGTAGTCC
 529,18S qPCR F,qPCR,18S,all,IDT,439623940,TTCGAAGACGATCAGATACCGTCG
@@ -532,16 +532,16 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 531,Cas3 gRNA inv PCR F,cloning,pDECKO-Cas9,MALAT1,IDT,439900523,tgtacgtctctAGGCGGCTGTGTGTTGAAACttttttgaattcgctagctag
 532,Cas3 gRNA inv PCR R,cloning,pDECKO-Cas9,MALAT1,IDT,441053162,caaccgtctccAGCCGCCTAGAGGCGGCTGAcggtgtttcgtcctttc
 533,AIO backbone amp F,cloning,pCASCADE,MALAT1,IDT,439900525,gcaacaaacttctctctgctg
-534,AIO backbone amp R,cloning,pCASCADE,MALAT1,IDT,439900526,tcccactcctttcaagacctaaaaaagctagctcgtcctttccacaagaTATATAAAgcc
-535,Cascade Amp F,cloning,pYZ991,MALAT1,IDT,439900527,aggtcttgaaaggagtgggaatcgataagcttgggagttccg
-536,Cascade Amp R,cloning,pYZ991,MALAT1,IDT,439900528,ccacgtcgccacaggtcagcagagagccccggccctcagcgagtcCggcggtcttggcc
+534,AIO backbone amp R,cloning,pCASCADE,MALAT1,IDT,443232516,tcccactcctttcaagacctaaaaaagctagctcgtcctttccacaagaTATATAAAgcc
+535,Cascade Amp F,cloning,pYZ991,MALAT1,IDT,443232517,aggtcttgaaaggagtgggaatcgataagcttgggagttccg
+536,Cascade Amp R,cloning,pYZ991,MALAT1,IDT,443232518,ccacgtcgccacaggtcagcagagagccccggccctcagcgagtcCggcggtcttggcc
 537,Cas3 Amp F,cloning,pYZ990,MALAT1,IDT,439900529,gctgacctgtggcgacgtggaggagaaccccggccccATGAACTTCGACTATATCGCCC
 538,Cas3 Amp R,cloning,pYZ990,MALAT1,IDT,439900530,agcagagagaagtttgttgcCACTTTCCGCTTTTTCTTGGG
 539,E2A seq F,Sanger,pCASCADE,MALAT1,IDT,439900531,gtccaaccctggaccc
 540,WPRE seq R,Sanger,lenti,all,IDT,439900532,catagcgtaaaaggagcaaca
 541,pYZ990 delBsmBI INV F,cloning,pYZ990,MALAT1,IDT,440487001,acgccatccacgctgttttg
 542,pYZ990 delBsmBI INV R,cloning,pYZ990,MALAT1,IDT,440487002,tccaggcgatctgacggttc
-543,pYZ991 delBsmBI INV R,cloning,pYZ991,MALAT1,IDT,,tccacgtcaccagccagcttcaacagggc
+543,pYZ991 delBsmBI INV R,cloning,pYZ991,MALAT1,IDT,442866025,tccacgtcaccagccagcttcaacagggc
 544,i7 Index1 1382,Sequencing,seq libraries,All,IDT,441342864,CAAGCAGAAGACGGCATACGAGATACTACACGTGTCTCGTGGGCTCGG
 545,i7 Index1 1383,Sequencing,seq libraries,All,IDT,441342865,CAAGCAGAAGACGGCATACGAGATCGCCTGGATGTCTCGTGGGCTCGG
 546,i7 Index1 1384,Sequencing,seq libraries,All,IDT,441342866,CAAGCAGAAGACGGCATACGAGATGCCTCATCTGTCTCGTGGGCTCGG
@@ -558,5 +558,7 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 557,i5 Index2 148,Sequencing,seq libraries,All,IDT,441342877,AATGATACGGCGACCACCGAGATCTACACATCTCTCGTCGTCGGCAGCGTC
 558,i5 Index2 149,Sequencing,seq libraries,All,IDT,441342878,AATGATACGGCGACCACCGAGATCTACACAGTAATCGTCGTCGGCAGCGTC
 559,i5 Index2 150,Sequencing,seq libraries,All,IDT,441342879,AATGATACGGCGACCACCGAGATCTACACGATGGAACTCGTCGGCAGCGTC
-560,Hs18S DNA Northern probe,northern blotting,18S rRNA,All,IDT,,CCTTGGATGTGGTAGCCGTTTCTCAGGCTCCCTCTCCG
-561,pYZ991 delBsmBI INV F,cloning,pYZ991,MALAT1,IDT,,gtccaaccctggaccctcc
+560,Hs18S DNA Northern probe,northern blotting,18S rRNA,All,IDT,441460069,CCTTGGATGTGGTAGCCGTTTCTCAGGCTCCCTCTCCG
+561,pYZ991 delBsmBI INV F,cloning,pYZ991,MALAT1,IDT,442866026,gtccaaccctggaccctcc
+562,Cascade Amp 1 R,cloning,pYZ991,MALAT1,IDT,,gattctaggcaggtttccggc
+563,Cascade Amp 2 F,cloning,pYZ991,MALAT1,IDT,,ctgatgccggaaacctgcctagaatc
