@@ -62,11 +62,6 @@ Protocol:
 
 **4.** Digest rRNA in a thermocycler for 30 minutes at 50 °C (set lid to 55 °C):
 
-  | Temp | Time | Step |
-  | :--------: | :---------: |:---------: |
-  | **98 °C** | **2:00** | **inital denaturation** |
-  | **down to 22 °C** | **1 °C/sec** | **gradual ramp down** |
-  | **22 °C** | **5:00** | **final annealing** |
   <br/>
 
 ### DNase removal of oligos (~40 minutes)
