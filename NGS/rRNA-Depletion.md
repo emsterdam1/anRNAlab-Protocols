@@ -62,7 +62,7 @@ Protocol:
 
 **4.** Digest rRNA in a thermocycler for 30 minutes at 50 °C (set lid to 55 °C):
 
-  <br/>
+  <br/><br/><br/><br/><br/><br/>
 
 ### DNase removal of oligos (~40 minutes)
 
