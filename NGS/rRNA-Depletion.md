@@ -55,14 +55,15 @@ Protocol:
   | Component | Quantity | 
   | ---------: | :---------- |
   | Oligo-annealed RNA | **15**  µL | 
-  | RNase-free water | **1**  µL |
+  | RNase-free water | **2**  µL |
   | 10X RNase H Buffer | **2**  µL |
-  | 5U/µL thermostable RNase H| **2**  µL |
+  | 5U/µL thermostable RNase H| **1**  µL |
   | **Total** | **20** µL |
 
-**4.** Digest rRNA in a thermocycler for 30 minutes at 50 °C (set lid to 55 °C):
+**4.** Digest rRNA in a thermocycler for 30 minutes at 50 °C (set lid to 55 °C):<br/>
+_Note: For samples that require intact RNA, 1 hour at 37 °C minimizes random fragmentation_ 
 
-  <br/><br/><br/><br/><br/><br/><br/>
+  <br/><br/><br/><br/><br/><br/>
 
 ### DNase removal of oligos (~40 minutes)
 
