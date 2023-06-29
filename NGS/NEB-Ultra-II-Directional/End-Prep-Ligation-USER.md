@@ -54,27 +54,30 @@ Protocol:
   | **99 ng - 10 ng** | **1/100 dilution** |
 
 
-**4.** Mix the following reagents separately on ice:<br/>_Adaptor dimers form more readily if mixed with ligase first._
+**4.** Mix together DNA and diluted adaptor on ice:<br/>_Adaptor dimers form more readily if mixed with ligase first._
 
   | Component | Quantity | 
   | ---------: | :---------- |
   | End Prepped DNA | **60**  µL | 
   | Diluted Adaptor | **2.5**  µL |
   | **Total** | **62.5** µL |
-  
+
+<br/><br/>
+**5.** Mix together ligation enhancer and master mix on ice:
+
   | Component | Quantity | 
   | ---------: | :---------- |
   | Ligation Enhancer | **1**  µL |
   | Ligation Master Mix | **30**  µL |
   | **Total** | **31** µL |
   
-**5.** Combine the two mixtures and incubate for 15 minutes at 37 °C. 
+**6.** Combine the two mixtures and incubate for 15 minutes at 37 °C. 
 
 **Part 3: USER removal of U-containing DNA**
 
-**6.** Add 3 µL USER enzyme to the mixture and incubate for 15 minutes at 37 °C.
+**7.** Add 3 µL USER enzyme to the mixture and incubate for 15 minutes at 37 °C.
 
-**7.** Purify and size select desired cDNA with [SPRI beads](../SPRI-beads.md).<br/>
+**8.** Purify and size select desired cDNA with [SPRI beads](../SPRI-beads.md).<br/>
 _Note: goal is to remove adaptor dimer (~150 nt), use at most 0.9X beads_<br/>
 _The product can be amplified in a gene-specific manner or immediately barcoded (contains i7 and i5 sequences)_
 
