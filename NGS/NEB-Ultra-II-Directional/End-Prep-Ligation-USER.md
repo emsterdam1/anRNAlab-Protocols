@@ -62,7 +62,7 @@ Protocol:
   | Diluted Adaptor | **2.5**  µL |
   | **Total** | **62.5** µL |
 
-<br/><br/>
+<br/><br/><br/>
 **5.** Mix together ligation enhancer and master mix on ice:
 
   | Component | Quantity | 
@@ -71,7 +71,7 @@ Protocol:
   | Ligation Master Mix | **30**  µL |
   | **Total** | **31** µL |
   
-**6.** Combine the two mixtures and incubate for 15 minutes at 37 °C. 
+**6.** Combine ligation and DNA-adaptor mixes together (62.5 + 31 µL) and incubate for 15 minutes at 37 °C. 
 
 **Part 3: USER removal of U-containing DNA**
 
