@@ -36,9 +36,9 @@ Protocol:
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
   | DNA template | 50-250 ng/µl | **4**  µL | 
-  | rNTP mix | 25 mM each | **5**  µL |
+  | rNTP mix | 25 mM each | **6**  µL |
   | T7 Buffer | 10X | **2**  µL |
-  | RNase-free water | | **7**  µL |
+  | RNase-free water | | **6**  µL |
   | T7 Enzyme Mix | | **2**  µL |
   || **Total** | **20** µL |
 
