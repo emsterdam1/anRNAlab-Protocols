@@ -11,7 +11,6 @@ Materials:
   * Mix of 10 mM each rATP, rCTP, rGTP, and rUTP
   * 100 mM DTT
   * 1 U/µl [Inorganic Pyrophosphotase (PPase)](https://www.neb.com/products/m0361-pyrophosphatase-inorganic-e-coli)
-  * DMSO
   * 0.1 % Triton X-100
   * **10X T7 Buffer**  
     ◦ 400 mM Tris-HCl, pH 8.0  
@@ -47,7 +46,7 @@ Protocol:
   | Spermidine | 20 mM | **5**  µL |
   | rNTP mix | 10 mM each| **5**  µL |
   | T7 Buffer | 10X | **5**  µL |
-  | DMSO | | **5**  µL |
+  | RNase-free water | | **5**  µL |
   | Triton X-100 | 0.1 % | **5**  µL |
   | DTT | 100 mM | **5**  µL |
   | PPase | 1 U/µl | **5**  µL |
