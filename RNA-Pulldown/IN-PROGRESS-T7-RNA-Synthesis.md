@@ -26,7 +26,9 @@ Materials:
   * G-50 Sephadex columns  
   
   **Gel Validation and Purification**  
-  * 6-10% denaturing urea polyacrylamide gels  
+  * 6-10% denaturing urea polyacrylamide gels
+  * 2X NEB RNA Loading Dye
+  * 10,000X GelRed Nucleic Acid Stain  
   * SPRI beads
     
 
@@ -65,17 +67,20 @@ _Note: thermocycler lid should be off or set to < 50 °C._
 **3.** Add 5 µL of TURBO DNase and incubate for an additional 10 minutes at 37 °C.<br/>
 *Note: There is 10 mM necessary CaCl<sub>2</sub> in the TURBO enzyme storage buffer.*
 
-**4.** Add 2.5 µL of DNase stop buffer to chelate calcium and magnesium.
-
-**5.** Buffer exchange over a G-50 microspin column.  
+**4.** Purify RNA with [SPRI beads](../NGS/SPRI-beads.md) at a 1.8X ratio with two 70 % ethanol washes.
 
 **Part 3: Gel Verification/Purification (3 hours + variable)** 
 
-**6.** RNA probes can be visualized on a denaturing urea polyacrylamide gel.<br/>
+**5.** RNA probes can be visualized on a denaturing urea polyacrylamide gel.<br/>
+  * Dilute RNA samples into 20 µL of 1X NEB RNA Loading Dye (target 10 pmoles total)
+  * Dilute appropriate RNA ladder into 20 µL of 1X NEB RNA Loading Dye as well
+  * Denature samples for 5 minutes at 70 °C
+  * Load 18 µL of each sample
+  * Gels can be stained for 30 minutes in 50 mL 3X GelRed solution (in water)<br/>
 *Note: If there are significant truncation products, full length should be gel-purified.*<br/>
 *Gel slices can be eluted passively in TBE or [electroeluted](https://doi.org/10.1016/j.ab.2013.02.021) and precipitated.*
 
-**7.** Purify label RNA probes with [SPRI beads](../NGS/SPRI-beads.md) at ratio relevant to probe size.
+**6.** Purify RNA with [SPRI beads](../NGS/SPRI-beads.md) again at a 1.8X ratio with two 70 % ethanol washes.
 
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
