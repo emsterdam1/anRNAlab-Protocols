@@ -20,17 +20,12 @@ Materials:
   
   **DNase Treatment**      
   * TURBO DNase (2U/µl)
-  * **25X DNase Stop Buffer**  
-    ◦ 250 mM EDTA  
-    ◦ 250 mM EGTA  
-  * G-50 Sephadex columns  
+  * SPRI beads
   
   **Gel Validation and Purification**  
   * 6-10% denaturing urea polyacrylamide gels
   * 2X NEB RNA Loading Dye
   * 10,000X GelRed Nucleic Acid Stain  
-  * SPRI beads
-    
 
 Equipment Required:
 --------------------------------------------------------------------------------
