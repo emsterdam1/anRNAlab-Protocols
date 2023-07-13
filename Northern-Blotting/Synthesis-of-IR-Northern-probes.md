@@ -69,9 +69,9 @@ _Note: thermocycler lid should be off or set to < 50 °C._
 **5.** Purify products with [SPRI beads](../NGS/SPRI-beads.md).<br/>
 _Note: For RNA probes ~ 100 nt, add 3X beads and 1.8X isopropanol._ <br/>
 _Bind 10 minutes. Wash 2x in 85 % Ethanol. Dry and elute in 16 µL of water._
-
-
 <br/><br/><br/>
+
+
 **Part 3: Gel Verification/Purification (3 hours + variable)** 
 
 **6.** RNA probes can be visualized on a denaturing urea polyacrylamide gel.<br/>
