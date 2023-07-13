@@ -68,22 +68,26 @@ _Note: thermocycler lid should be off or set to < 50 °C._
 **4.** Add 1 µL of TURBO DNase and incubate for an additional 10 minutes at 37 °C.<br/>
 *Note: There is 10 mM necessary CaCl<sub>2</sub> in the TURBO enzyme storage buffer.*
 
-**5.** Add 0.5 µL of DNase stop buffer to chelate calcium and magnesium.
-
-**6.** Buffer exchange over a G-50 microspin column.  
+**5.** Purify products with [SPRI beads](../NGS/SPRI-beads.md).<br/>
+_Note: For RNA probes ~ 100 nt, add 3X beads and 1.8X isopropanol._ <br/>
+_Bind 10 minutes. Wash 2x in 85 % Ethanol. Dry and elute in 16 µL of water._
 
 **Part 3: Gel Verification/Purification (3 hours + variable)** 
 
-**7.** RNA probes can be visualized on a denaturing urea polyacrylamide gel.<br/>
+**6.** RNA probes can be visualized on a denaturing urea polyacrylamide gel.<br/>
 *Note: If there are significant truncation products, full length should be gel-purified.*<br/>
 *Gel slices can be eluted passively in TBE or [electroeluted](https://doi.org/10.1016/j.ab.2013.02.021) and precipitated.*
 
 **Part 4: Dye Labeling** 
 
-**8.** In 20 µL 1X PBS, combine 20 molar equivalents of 800CW DBCO with RNA probe. <br/>
+**7.** In 20 µL 1X PBS, combine 20 molar equivalents of 800CW DBCO with 5 µL RNA probe. <br/>
 Incubate in the dark at room temperature for 6 hours.
 
-**9.** Purify label RNA probes with [SPRI beads](../NGS/SPRI-beads.md) at ratio relevant to probe size.
+**8.** Purify labeled RNA probes again with [SPRI beads](../NGS/SPRI-beads.md) at ratios relevant to probe size.<br/>
+Elute products in 16 µL.
+
+**9.** Labeling of RNA probes can be confirmed by fluorescence on a denaturing urea polyacrylamide gel.<br/>
+_Note: In general, 1 µL of product is enough to visualize on a gel._
 
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
