@@ -32,7 +32,7 @@ Equipment Required:
   * Polyacrylamide gel rig
   * Magnetic rack
 
-<br/><br/>
+<br/>
 ___
 Protocol:
 --------------------------------------------------------------------------------
@@ -69,6 +69,8 @@ _Note: thermocycler lid should be off or set to < 50 °C._
 _Note: For RNA probes ~ 100 nt, add 3X beads and 1.8X isopropanol._ <br/>
 _Bind 10 minutes. Wash 2x in 85 % Ethanol. Dry and elute in 16 µL of water._
 
+
+<br/><br/>
 **Part 3: Gel Verification/Purification (3 hours + variable)** 
 
 **6.** RNA probes can be visualized on a denaturing urea polyacrylamide gel.<br/>
@@ -83,7 +85,7 @@ Incubate in the dark at room temperature for 6 hours.
 **8.** Purify labeled RNA probes again with [SPRI beads](../NGS/SPRI-beads.md) at ratios relevant to probe size.<br/>
 Elute products in 16 µL.
 
-**9.** Labeling of RNA probes can be confirmed by fluorescence on a denaturing urea polyacrylamide gel.<br/>
+**9.** RNA labeling can be confirmed by fluorescence on a denaturing urea polyacrylamide gel.<br/>
 _Note: In general, 1 µL of product is enough to visualize on a gel._
 
   
