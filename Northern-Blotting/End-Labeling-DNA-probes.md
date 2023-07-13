@@ -1,4 +1,4 @@
-Tailing DNA IR Northern probes with Terminal Transferase
+Labeling DNA IR Northern probes
 ================================================================================
 Description: Make end-labeled fluorescent DNA probes for Northern blotting
 
@@ -28,7 +28,7 @@ Equipment Required:
   * Microvolume spectrophotometer
   * Magnetic rack
   * Polyacrylamide gel rig
-<br/><br/><br/><br/>
+<br/><br/><br/>
   
 ___
 Protocol:
