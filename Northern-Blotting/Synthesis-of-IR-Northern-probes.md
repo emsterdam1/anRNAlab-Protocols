@@ -18,10 +18,6 @@ Materials:
   
   **DNase Treatment**      
   * TURBO DNase (2U/µl)
-  * **25X DNase Stop Buffer**  
-    ◦ 250 mM EDTA  
-    ◦ 250 mM EGTA  
-  * G-50 Sephadex columns  
   
   **Dye Labeling**  
   * 6-10% denaturing urea polyacrylamide gels  
@@ -35,7 +31,8 @@ Equipment Required:
   * Thermocycler/heat block set to 37 °C
   * Polyacrylamide gel rig
   * Magnetic rack
-  
+
+<br/><br/>
 ___
 Protocol:
 --------------------------------------------------------------------------------
