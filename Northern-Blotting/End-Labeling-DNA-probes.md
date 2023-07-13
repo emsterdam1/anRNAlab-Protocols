@@ -28,7 +28,7 @@ Equipment Required:
   * Microvolume spectrophotometer
   * Magnetic rack
   * Polyacrylamide gel rig
-<br/><br/><br/>
+<br/><br/><br/><br/><br/>
   
 ___
 Protocol:
