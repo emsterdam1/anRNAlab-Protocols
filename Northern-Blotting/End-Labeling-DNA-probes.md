@@ -28,6 +28,7 @@ Equipment Required:
   * Microvolume spectrophotometer
   * Magnetic rack
   * Polyacrylamide gel rig
+<br/><br/><br/><br/>
   
 ___
 Protocol:
@@ -59,7 +60,7 @@ _Note: Calculate molarity assuming an average of 3 added AmdU._
 
 **Part 2: Dye Labeling** 
 
-**5.** In 20 µL 1X PBS, combine 20 molar equivalents of AZDye 680 DBCO with 5 µL of tailed ssDNA probe. <br/>
+**5.** In 20 µL 1X PBS, combine 20 molar equivalents of AZDye 680 DBCO with 5 µL of ssDNA probe. <br/>
 Incubate in the dark at room temperature for 6 hours.
 
 **6.** Purify labeled DNA probes again with [SPRI beads](../NGS/SPRI-beads.md) at ratios relevant to probe size.<br/>
