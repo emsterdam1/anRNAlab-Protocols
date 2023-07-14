@@ -8,7 +8,7 @@ Materials:
   * 10 µM DNA northern probe
   * [Terminal Transferase 20 U/µl](https://www.neb.com/products/m0315-terminal-transferase)
   * 2.5 mM CoCl<sub>2</sub>
-  * 100 µM [5-Azidomethyl-2'-deoxyuridine (AmdU)](https://www.lumiprobe.com/p/amdu-azidomethyl-deoxyuridine)
+  * 100 µM [5-Azidomethyl-2-deoxyuridine triphosphate (AmdUTP)](https://www.jenabioscience.com/click-chemistry/click-reagents-by-chemistry/azide-reagents/nucleotides/uridines/clk-084-5-azidomethyl-dutp)
   * **10X TdT Buffer**  
     ◦ 200 mM Tris-Acetate, pH 7.9  
     ◦ 500 mM KOAc (potassium acetate)  
@@ -41,7 +41,7 @@ Protocol:
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
   | DNA probe | 10 µM | **10**  µL | 
-  | AmdU | 100 µM | **4**  µL |
+  | AmdUTP | 100 µM | **4**  µL |
   | TdT Buffer | 10X | **2**  µL |
   | CoCl<sub>2</sub> | 2.5 mM | **2**  µL |
   | RNase-free water |  | **1**  µL |  
