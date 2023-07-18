@@ -26,13 +26,15 @@ Materials:
   **Probe hybridization**  
   * Near IR Northern probes (1 µM)
   * [Hybridization buffer](https://www.thermofisher.com/order/catalog/product/AM8677)
-  * 20 % SDS 
+  * 20 % SDS solution
     
 Equipment Required:
 --------------------------------------------------------------------------------
   * Agarose Gel Rig
   * Fume Hood
   * [Northern Blotting Apparatus](https://www.cytivalifesciences.com/en/us/shop/protein-analysis/blotting-and-detection/blotting-equipment/turboblotter-kits-large-p-05563)
+  * Hybridization oven with rotation
+  * Gel/Blot fluorescent imager
 
 <br/>
 
@@ -40,46 +42,41 @@ ___
 Protocol:
 --------------------------------------------------------------------------------
 
-**Part 1: In vitro transcription (overnight reaction)**  
+**Part 1: Denaturing Agarose gel (~3 hours)**  
 
-**1.** For each transcription:<br/>
-Make 4 µL of a 3:1 mixture of rUTP and 5-Azido-C<sub>3</sub>-rUTP (10 mM total).
+**1.** For a 100 ml volume gel, combine the following and melt:  
+  
+  | Component | Concentration | Quantity | 
+  | ---------: | ---------: | :---------- |
+  | agarose | | **1**  g | 
+  | MOPS RNA Running Buffer | 10X | **10**  mL |
+  | Water | | **74**  mL |
+  || **Total** | **84** mL |
+  
+**2.** In a fume hood, add 16 mL of 37 % formaldehyde to the mixture and cast gel.<br/>
+_Gel sets in ~30 minutes._
 
-**2.** Assemble the transcription reactions as follows:
+**3.** Prepare 5X Sample buffer (mix 500 µL of 10X MOPS with 500 µL of glycerol)
+_Note: thermocycler lid should be off or set to < 50 °C._
+
+**4.** Assemble enough 2X RNA Loading Buffer per RNA sample as follows:
 
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
-  | DNA template | 50-250 ng/µl | **2**  µL | 
-  | Spermidine | 20 mM | **1**  µL |
-  | rATP | 10 mM | **1**  µL |
-  | rCTP | 10 mM | **1**  µL |
-  | rGTP | 10 mM | **1**  µL |
-  | rUTP mix | 10 mM | **1**  µL |
-  | Buffer | 10X | **1**  µL |
-  | DTT | 100 mM | **1**  µL |
-  | T7 RNA Polymerase | 50 U/µL | **1**  µL |
-  || **Total** | **10** µL |
+  | Sample Buffer | 5X | **4**  µl | 
+  | Gel stain | 100X | **0.8**  µl |
+  | Formaldehyde | 37 % | **3.35**  µl |
+  | Water | | **1.85**  µl |
+  || **Total** | **10** µl |
 
-**3.** Incubate reaction overnight (16 hours) at 37 °C.<br/>
-_Note: thermocycler lid should be off or set to < 50 °C._
+**5.** Mix 10 µl of RNA sample (at least 10 µg) with 10 µl of 2X Loading Buffer.<br/>
+Denature RNAs at 70 °C for 5 minutes and cool at 0-4 °C for 2 minutes.
+
+**6.** Load samples (and usually a ladder). Run gel at 110 V for 1.5 hours.<br/>
+Image gel to ensure even loading before assembling Northern transfer.
 
 **Part 2: DNase Treatment (~20 minutes)** 
-
-**4.** Add 1 µL of TURBO DNase and incubate for an additional 10 minutes at 37 °C.<br/>
-*Note: There is 10 mM necessary CaCl<sub>2</sub> in the TURBO enzyme storage buffer.*
-
-**5.** Purify products with [SPRI beads](../NGS/SPRI-beads.md).<br/>
-_Note: For RNA probes ~ 100 nt, add 3X beads and 1.8X isopropanol._ <br/>
-_Bind 10 minutes. Wash 2x in 85 % Ethanol. Dry and elute in 16 µL of water._
-<br/><br/><br/><br/>
-
-
 **Part 3: Gel Verification/Purification (3 hours + variable)** 
-
-**6.** RNA probes can be visualized on a denaturing urea polyacrylamide gel.<br/>
-*Note: If there are significant truncation products, full length should be gel-purified.*<br/>
-*Gel slices can be eluted passively in TBE or [electroeluted](https://doi.org/10.1016/j.ab.2013.02.021) and precipitated.*
-
 **Part 4: Dye Labeling** 
 
 **7.** In 20 µL 1X PBS, combine 20 molar equivalents of 800CW DBCO with 5 µL RNA probe. <br/>
