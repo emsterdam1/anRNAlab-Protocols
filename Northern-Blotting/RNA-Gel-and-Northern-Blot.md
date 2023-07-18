@@ -57,7 +57,6 @@ Protocol:
 _Gel sets in ~30 minutes._
 
 **3.** Prepare 5X Sample buffer (mix 500 µL of 10X MOPS with 500 µL of glycerol)
-_Note: thermocycler lid should be off or set to < 50 °C._
 
 **4.** Assemble enough 2X RNA Loading Buffer per RNA sample as follows:
 
@@ -73,20 +72,22 @@ _Note: thermocycler lid should be off or set to < 50 °C._
 Denature RNAs at 70 °C for 5 minutes and cool at 0-4 °C for 2 minutes.
 
 **6.** Load samples (and usually a ladder). Run gel at 110 V for 1.5 hours.<br/>
+
+**7.** Rinse 
 Image gel to ensure even loading before assembling Northern transfer.
 
-**Part 2: DNase Treatment (~20 minutes)** 
-**Part 3: Gel Verification/Purification (3 hours + variable)** 
-**Part 4: Dye Labeling** 
+**Part 2: Northern Transfer (overnight)** 
 
-**7.** In 20 µL 1X PBS, combine 20 molar equivalents of 800CW DBCO with 5 µL RNA probe. <br/>
-Incubate in the dark at room temperature for 6 hours.
+ 
 
 **8.** Purify labeled RNA probes again with [SPRI beads](../NGS/SPRI-beads.md) at ratios relevant to probe size.<br/>
 Elute products in 16 µL.
 
 **9.** RNA labeling can be confirmed by fluorescence on a denaturing urea polyacrylamide gel.<br/>
 _Note: In general, 1 µL of product is enough to visualize on a gel._
+
+**Part 3: Gel Verification/Purification (3 hours + variable)** 
+**Part 4: Dye Labeling** 
 
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
