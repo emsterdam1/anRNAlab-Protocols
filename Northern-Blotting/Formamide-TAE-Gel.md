@@ -1,4 +1,4 @@
-Bench-safe Denaturing RNA Gel with Formamide Loading Dye
+Bench-safe Formamide Denaturing RNA Gel
 ================================================================================
 Description: Denaturing RNA gel protocol that doesn't require fume hood.
 
@@ -25,7 +25,7 @@ Equipment Required:
   * Agarose Gel Rig
   * Gel/Blot fluorescent imager
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 ___
 Protocol:
