@@ -20,7 +20,7 @@ Equipment Required:
   * Fume Hood
   * Gel/Blot fluorescent imager
 
-<br/>
+<br/><br/><br/><br/><br/>
 
 ___
 Protocol:
