@@ -22,7 +22,7 @@ Protocol:
 **1.** Allow SPRI beads/crowding solution to reach room temperature. Vortex mixture before use.
 
 **2.** To nucleic acid sample, add 1.8 X volumes of SPRI beads/crowding solution. Mix well and let sit at room temperature for 5 minutes.
-  ◦ _Note: Lower volume ratios can be used for [size-selection](http://gc3fstorage.uoregon.edu/IMAGES/Evaluation_of_Omega_Mag-Bind_TotalPure_NGS_Beads_MWeitzman_April2018.pdf) of DNA. This is useful for eliminating PCR primer dimers and truncated products._<br/>
+  ◦ _Note: Lower volume ratios can be used for [size-selection](./Evaluation_of_Omega_Mag-Bind_TotalPure_NGS_Beads.pdf) of DNA. This is useful for eliminating PCR primer dimers and truncated products._<br/>
   
   ◦ _If you want to capture 90-200 nt RNAs, use 3X beads + 1.8X isopropanol <br/>  or add 1.2X beads and 1.8X isopropanol (original volumes) to the first flowthrough._<br/>
   
