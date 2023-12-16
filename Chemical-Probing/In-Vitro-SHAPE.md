@@ -29,7 +29,7 @@ Equipment Required:
 Protocol:
 --------------------------------------------------------------------------------
 
-**1.** Dilute 10 pMol of RNA into 14 µl of water.
+**1.** Dilute 10 pmoles of RNA into 14 µl of water.
 
 **2.** Denature RNA at 95 °C for 2 minutes, then place on ice for 2 minutes.
  
