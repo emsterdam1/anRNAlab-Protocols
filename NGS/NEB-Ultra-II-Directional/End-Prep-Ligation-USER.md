@@ -86,7 +86,7 @@ _The product can be amplified in a gene-specific manner or immediately barcoded 
 <details>
   <summary>Next Steps</summary>
 
-</p> <a href="../NGS/Two-Step-PCR-Library.md">
-2-step PCR library generation </a>
+</p> <a href="./Final-Library-Amplification.md">
+Final library generation </a>
 
 </details>
