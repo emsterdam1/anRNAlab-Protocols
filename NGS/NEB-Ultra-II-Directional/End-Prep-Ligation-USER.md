@@ -62,7 +62,7 @@ Protocol:
   | Diluted Adaptor | **2.5**  µL |
   | **Total** | **62.5** µL |
 
-<br/><br/><br/>
+<br/>
 **5.** Mix together ligation enhancer and master mix on ice:
 
   | Component | Quantity | 
