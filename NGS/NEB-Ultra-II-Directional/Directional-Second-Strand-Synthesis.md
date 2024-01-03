@@ -27,7 +27,7 @@ _Note: RNase H nicks RNA strand, and remaining RNA serves as primers for 2<sup>n
 **3.** Incubate reaction for 2.5 hours at 16 °C.<br/>
 _Note: thermocycler lid should be off or set to < 40 °C._
 
-**4.** Purify cDNA with [SPRI beads](./SPRI-beads.md) at a 1.8X ratio, 2x 80% Ethanol washes, and 50 µL elution.
+**4.** Purify cDNA with [SPRI beads](./SPRI-beads.md) at a 1.8X ratio, 2x 80% Ethanol washes, and 50 µL elution.<br/>
 _Note: If not going straight to End Prep, you may also want to elute in a smaller volume._
 
   
