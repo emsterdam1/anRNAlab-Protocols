@@ -77,8 +77,8 @@ Protocol:
 
 **7.** Add 3 µL USER enzyme to the mixture and incubate for 15 minutes at 37 °C.
 
-**8.** Purify and size select desired cDNA with [SPRI beads](../SPRI-beads.md).<br/>
-_Note: goal is to remove adaptor dimer (~150 nt), use at most 0.9X beads_<br/>
+**8.** Purify and size select desired cDNA with [SPRI beads](../SPRI-beads.md), 2x 80% ethanol washes, and elute in 20 µL.<br/>
+_Note: goal is to remove adaptor dimer (~150 bp), use 75 µL beads (for ~0.8X with 95 µL)_<br/>
 _The product can be amplified in a gene-specific manner or immediately barcoded (contains i7 and i5 sequences)_
 
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
