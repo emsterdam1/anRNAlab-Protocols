@@ -23,6 +23,14 @@ ___
 Protocol:
 --------------------------------------------------------------------------------
 
+**Before Starting**  
+It can be helpful to understand the lowest number of cycles necessary to produce library.<br/>
+Fewer cycles reduce the potential for PCR duplication to alter the results.<br/><br/>
+It is advisable to do 3 test reactions with 1 µL of 1 sample's input at 12, 16, and 20 cycles.<br/>
+_12, 16, and 20 cycles with 1 µL are ~equivalent to 8, 12, and 16 cycles with 15 µL input._<br/><br/>
+Quantify by fluorimeter and Tapestation/bioanalyzer test PCRs to find the optimal cycle number.<br/>
+
+
 **1.** For each sample, combine the following components and mix well.
 
   | Component | Quantity | 
