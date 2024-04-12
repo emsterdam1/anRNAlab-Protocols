@@ -14,7 +14,7 @@ Description: SHAPE reagents label 2'OH of flexible unbound RNA nucleotides.
   
   * 10X stock of SHAPE reagent. _Note: Store reagents dry and dilute in DMSO immediately before use._  
     ◦ For a 10X stock of [5NIA](https://www.sigmaaldrich.com/catalog/product/aldrich/s428396) in DMSO, 5.2 mg/100 µl yields 250 mM  
-    ◦ a 10X stock of [1M7](https://www.sigmaaldrich.com/US/en/product/aldrich/908401) is 100 mM, [NAI](https://www.sigmaaldrich.com/catalog/product/mm/03310) and [NAI-N3](https://www.sigmaaldrich.com/catalog/product/aldrich/913812) is 1 M 
+    ◦ a 10X stock of [1M7 (222.15 g/mol)](https://www.sigmaaldrich.com/US/en/product/aldrich/908401) is 100 mM, [NAI](https://www.sigmaaldrich.com/catalog/product/mm/03310) and [NAI-N3](https://www.sigmaaldrich.com/catalog/product/aldrich/913812) is 1 M 
   
   * Depending on SHAPE reagent half-life, DTT may be required for quenching
   
