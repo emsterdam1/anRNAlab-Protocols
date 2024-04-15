@@ -55,7 +55,7 @@ Periodate will break the bond between terminal 2'-3' ribose diol and leave behin
 **5.** Remove reaction buffer through purification with [SPRI beads](../NGS/SPRI-beads.md).<br/>
 Elute in 20 µL of nuclease-free water. <br/>
 *Note: If your RNA is small, be sure to use correct bead amount and isopropanol additive.*<br/>
-*Note: Reaction products will be ~ 500 µM formaldehyde, dispose flowthrough in appropriate liquid waste*
+*Note: Reaction products will be ~ 500 µM formaldehyde, dispose in appropriate liquid waste*
 
 **6.** Mix following components in the fume hood:<br/>
 *Note: hydrazide at this concentration (< 1 % solution) is not considered hazardous.*
