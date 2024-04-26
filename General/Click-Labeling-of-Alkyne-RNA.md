@@ -6,12 +6,12 @@ Description: Click labeleing of alkyne RNA with an azide compound
 
 Materials:
 --------------------------------------------------------------------------------
-  * Alkynated RNA (ideally 20+ µM)
-  * Cu(II)SO<sub>4</sub> (copper sulfate) - click chemistry catalyst (oxidized) <br/>*Make 100 mM stock (10 mg in 628 µl RNase-free H<sub>2</sub>O)*<br/>*Aliquot 12 50 µl portions (good at -20 for a year)*
-  * THPTA (tris-hydroxypropyltriazolylmethylamine) – Orients and protects copper catalyst <br/>*Make 250 mM stock (25 mg in 230 ul RNase-free H<sub>2</sub>O)*<br/>*Aliquot 10 20 µl portions (good at -20 for a year)*
-  * C<sub>6</sub>H<sub>7</sub>NaO<sub>6</sub> (sodium ascorbate) – Reducing agent maintains copper(I) catalyst <br/>*Make 1 M stock (200 mg in 1010 ul RNase-free H<sub>2</sub>O)*<br/>*Aliquot 20 50 µl portions (good at -20 for a year)*
-  * Azide-containing label (500 µM)
-  * 10X PBS
+  * **Alkynated RNA** (ideally 20+ µM)
+  * **Cu(II)SO<sub>4</sub> (copper sulfate)** - click chemistry catalyst (oxidized) <br/>*Make 100 mM stock (10 mg in 628 µl RNase-free H<sub>2</sub>O)*<br/>*Aliquot 12 50 µl portions (good at -20 for a year)*<br/>
+  * **THPTA (tris-hydroxypropyltriazolylmethylamine)** – Orients and protects copper catalyst <br/>*Make 250 mM stock (25 mg in 230 ul RNase-free H<sub>2</sub>O)*<br/>*Aliquot 10 20 µl portions (good at -20 for a year)*<br/>
+  * **C<sub>6</sub>H<sub>7</sub>NaO<sub>6</sub> (sodium ascorbate)** – Reducing agent maintains copper(I) catalyst <br/>*Make 1 M stock (200 mg in 1010 ul RNase-free H<sub>2</sub>O)*<br/>*Aliquot 20 50 µl portions (good at -20 for a year)*<br/>
+  * **Azide-containing label** (500 µM)
+  * **10X PBS**
 
 Equipment Required:
 --------------------------------------------------------------------------------
@@ -33,7 +33,7 @@ Protocol:
 
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
-  | RNA | 20-100 µM | **12.8**  µL | 
+  | RNA | 20+ µM | **12.8**  µL | 
   | PBS | 10X | **2**  µL | 
   | Azide | 500 µM | **2**  µL | 
   | Cu/THPTA | 33 mM/167 mM | **1.2**  µL |
