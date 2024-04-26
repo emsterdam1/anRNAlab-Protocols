@@ -37,7 +37,8 @@ Protocol:
 
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
-  | RNA | 100 µM | **20**  µL | 
+  | RNA | 100 µM | **5**  µL | 
+  | ddH<sub>2</sub>O | | **15**  µL | 
   | NaOAc pH 4.5 | 1 M | **1**  µL |
   | NaIO<sub>4</sub> | 250 mM | **1**  µL |
   || **Total** | **22** µL |
@@ -50,9 +51,9 @@ Periodate will break the bond between terminal 2'-3' ribose diol and leave behin
 
 **3.** Add 1 µL of 40 % Glycerol to quench periodate.
 
-**4.** Add 7 µL of Tris pH 8.5 to raise pH to more neutral level.
+**4.** Add 7 µL of 1M Tris pH 8.5 to raise pH to more neutral level.
  
-**5.** Remove reaction buffer through purification with [SPRI beads](../NGS/SPRI-beads.md).<br/>
+**5.** Dilute reaction to 50 µL with water and purify with [SPRI beads](../NGS/SPRI-beads.md).<br/>
 Elute in 20 µL of nuclease-free water. <br/>
 *Note: If your RNA is small, be sure to use correct bead amount and isopropanol additive.*<br/>
 *Note: Reaction products will be ~ 500 µM formaldehyde, dispose in appropriate liquid waste*
@@ -62,7 +63,7 @@ Elute in 20 µL of nuclease-free water. <br/>
 
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
-  | Oxidated RNA product| ~ 100 µM | **20**  µL | 
+  | Oxidated RNA product| ~ 25 µM | **20**  µL | 
   | NaOAc pH 6 | 1 M | **2.5**  µL |
   | hydrazide-label | 10 mM | **2.5**  µL |
   || **Total** | **25** µL |
@@ -70,6 +71,5 @@ Elute in 20 µL of nuclease-free water. <br/>
 **7.** Incubate samples at room temperature for 2 hours (in the dark if fluorescent label).<br/>
 Hydrazide reacts with the proximal aldehydes generated in the first reaction.
 
-**8.** Remove reaction buffer through purification with [SPRI beads](../NGS/SPRI-beads.md).<br/>
+**8.** Dilute reaction to 50 µL with water and purify with [SPRI beads](../NGS/SPRI-beads.md).<br/>
 Elute in 20 µL of nuclease-free water (and store in amber tubes if fluorescent). <br/>
-*Note: If your RNA is small, be sure to use correct bead amount and isopropanol additive.*<br/>
