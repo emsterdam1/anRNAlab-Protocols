@@ -6,7 +6,7 @@ Materials:
 --------------------------------------------------------------------------------
   **Probe annealing**
   * DNA-free total RNA
-  * 50 µM [DNA depletion oligo mix](./HsMm-rRNA-RNaseH-pool.csv) (each at ~ 380 pM)
+  * 50 µM [DNA depletion oligo mix](./HsMm-rRNA-RNaseH-pool.csv) (each at ~ 380 nM)
   
   **RNase H digestion**
   * 5 U/µl [Thermostable RNase H](https://www.neb.com/products/m0523-thermostable-rnase-h#Product%20Information)
