@@ -790,3 +790,5 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 789,Rn Calm2 3' seq F,PCR,Rat Calm2 mRNA,Calmodulin RNAs,IDT,,catcagtgcagcagagcttc
 790,Rn Calm3 3' seq F,PCR,Rat Calm3 mRNA,Calmodulin RNAs,IDT,,atgagatgatccgagaggcg
 791,3' RACE polydT RT,3'RACE,polyA tails,Calmodulin RNAs,IDT,,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGNNNNNNNTTTTTTTTTTTTTTTTV
+792,5' biotin i5 5N2W 3rG TSO,Template Switching,5' ends,Varying,IDT,,/5Biosg/GCTAATTCGTCGGCAGCGTCAGATGTGTATAAGAGACAGNNNNNWWrGrGrG
+793,3' blocked preadenylated i7 adapter,sequencing libraries,3' ends,Varying,IDT,,
