@@ -33,7 +33,7 @@ Protocol:
 
 **Part 1: End Prep and dA tailing**<br/>_Note: MaP products only require half-reactions for all steps._
 
-**1.** Dilute second strand synthesis product in 50 µL of water.
+**1.** Dilute second strand synthesis product up to 50 µL of water.
 
 **2.** Add 7 µL of End Prep Reaction Buffer and 3 µL of End Prep Enzyme Mix.<br/>Mix each sample thoroughy and perform the following thermocycles:<br/>
 
