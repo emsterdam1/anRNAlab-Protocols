@@ -15,7 +15,7 @@ Materials:
   * **[NEBNext® Ultra™ II End Repair/dA-Tailing Module](https://www.neb.com/products/e7546-nebnext-ultra-ii-end-repair-da-tailing-module#Protocols,%20Manuals%20&%20Usage)**
     * End Prep Reaction Buffer
     * End Prep Enzyme Mix
-  * 15 µM NEBNext Nextera Adapter ([ARL524 or mix of 5uM each ARL615,616,617](../../ARL-primers.csv))
+  * 15 µM NEBNext Nextera UMI Adapter ([5uM each ARL615,616,617](../../ARL-primers.csv))
   * [NEBNext® Adaptor Dilution Buffer](https://www.neb.com/products/b1430-nebnext-adaptor-dilution-buffer#Product%20Information)
   * **[NEBNext® Ultra™ II Ligation Module](https://www.neb.com/products/e7595-nebnext-ultra-ii-ligation-module#Protocols,%20Manuals%20&%20Usage)**
     * Ligation Enhancer
