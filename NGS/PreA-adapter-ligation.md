@@ -37,35 +37,30 @@ Protocol:
 --------------------------------------------------------------------------------
 ### Day 1: Ligation with RNA Ligase I (~15 minute prep, overnight ligation)
 
-**1.** In a total of 15 µl of RNase-free water, combine 1 µl of depletion oligos for every 5 µg of total RNA.  
+**1.** Assemble the ligation reaction. <br/>The ratio of adapter to RNA should be around 2:1, and works with as little as 5 pmol of pure RNA ends.
 
-**2.** Anneal oligos to target rRNA in a thermocycler with the following program:  
+  | Component | Stock Concentration | Quantity | 
+  | ---------: | ---------: | :---------- |
+  | PEG-8000 | 50 % | **10**  µL | 
+  | RNA || **1**  µL |
+  | adapter || **1**  µL |
+  | DMSO | 100 % | **2**  µL |
+  | RNA Ligase Buffer | 10X | **2**  µL |
+  | ddH<sub/>2<sub>O || **3**  µL |
+  | T4 RNA Ligase I | 10 U/µL | **1**  µL |
+  || **Total** | **20** µL |
 
-  | Temp | Time | Step |
-  | :--------: | :---------: |:---------: |
-  | **98 °C** | **2:00** | **inital denaturation** |
-  | **down to 22 °C** | **1 °C/sec** | **gradual ramp down** |
-  | **22 °C** | **5:00** | **final annealing** |
-  <br/>
+  _Note: PEG-8000 is super viscous, be careful that you add the correct amount._ <br/> _Ensure all components are mixed thoroughly by tapping and spinning down._
 
-### RNase H digestion (~40 minutes)
+**2.** Ligate the RNA in a thermocycler for 16 hours at 16 °C (turn off lid).
 
-**3.** For each sample, mix the following components:
+### Day 2: Purification of Reaction products
 
-  | Component | Quantity | 
-  | ---------: | :---------- |
-  | Oligo-annealed RNA | **15**  µL | 
-  | RNase-free water | **2**  µL |
-  | 10X RNase H Buffer | **2**  µL |
-  | 5U/µL thermostable RNase H| **1**  µL |
-  | **Total** | **20** µL |
+**3.** Chelate Magnesium in the buffer by quenching reaction with 20 µL (1 reaction volume) of 25 mM EDTA.
 
-**4.** Digest rRNA in a thermocycler for 30 minutes at 50 °C (set lid to 55 °C):<br/>
-_Note: For samples that require intact RNA, 1 hour at 37 °C minimizes random fragmentation_ 
+**4.** If your ligated products are expected to be > 200 nt, you can remove excess adapter with [SPRI beads](./SPRI-beads.md). <br/> For small RNA products, it is advisable to [gel purify](./PAGE-purification-of-RNA.md). <br/> In either case, it is useful to validate efficiency on a denaturing PAGE gel if performing for the first time.
 
-  <br/><br/><br/><br/><br/><br/>
 
-### DNase removal of oligos (~40 minutes)
 
 **5.** For each sample, mix the following components:
 
