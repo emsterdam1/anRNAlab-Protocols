@@ -4,32 +4,20 @@ Description: Ligation of 3' adapter to RNA for subsequent RT
 
 Materials:
 --------------------------------------------------------------------------------
-  **Probe annealing**
-  * DNA-free total RNA
-  * 50 µM [DNA depletion oligo mix](./HsMm-rRNA-RNaseH-pool.csv) (each at ~ 380 nM)
-  
-  **RNase H digestion**
-  * 5 U/µl [Thermostable RNase H](https://www.neb.com/products/m0523-thermostable-rnase-h#Product%20Information)
-  * **10X RNase H Buffer (pH 8.3 at RT, included with enzyme)**
-    * 500 mM Tris-HCl
-    * 750 mM KCl
-    * 30 mM MgCl<sub/>2<sub>
-    * 100 mM DTT
-  
-  **DNase removal of oligos**
-  * 2 U/µl [TURBO DNase](https://www.thermofisher.com/order/catalog/product/AM2238)
-  * **10X DNase I Buffer (pH 7.6 at RT, included with enzyme + stabilizer)**
-    * 100 mM Tris-HCl
-    * 25 mM MgCl<sub/>2<sub>
-    * 5 mM CaCl<sub/>2<sub>
-  
-  **Cleanup**
-  * [SPRI beads](./SPRI-beads.md)
+  * At least 5 uM of purified RNA target
+  * 100 uM 5' preadenylated (App) and 3' blocked adapter ([ARL793](../ARL-primers.csv)) 
+  * 50 % PEG-8000
+  * 100 % DMSO
+  * **10X T4 RNA Ligase Reaction Buffer**
+    * 500 mM Tris-HCl pH 7.5
+    * 100 mM MgCl<sub/>2<sub>
+    * 10 mM DTT
+  * 10 U/ul T4 RNA Ligase I
+  * 25 mM EDTA
   
 Equipment Required:
 --------------------------------------------------------------------------------
   * Thermocycler
-  * Magnetic stand
 
 <!-- Use <br/> to go to next page -->
   
@@ -58,36 +46,12 @@ Protocol:
 
 **3.** Chelate Magnesium in the buffer by quenching reaction with 20 µL (1 reaction volume) of 25 mM EDTA.
 
-**4.** If your ligated products are expected to be > 200 nt, you can remove excess adapter with [SPRI beads](./SPRI-beads.md). <br/> For small RNA products, it is advisable to [gel purify](./PAGE-purification-of-RNA.md). <br/> In either case, it is useful to validate efficiency on a denaturing PAGE gel if performing for the first time.
-
-
-
-**5.** For each sample, mix the following components:
-
-  | Component | Quantity | 
-  | ---------: | :---------- |
-  | RNase H-treated RNA | **20**  µL | 
-  | RNase-free water | **24**  µL |
-  | 10X DNase I Buffer | **5**  µL |
-  | 2U/µL TURBO DNase| **1**  µL |
-  | **Total** | **50** µL |
-
-**6.** Digest DNA in a thermocycler for 30 minutes at 37 °C (set lid to 55 °C):
-<br/>
-
-### SPRI bead cleanup (~15 minutes)
-
-**7.** Clean up rRNA-depleted RNA with columns or SPRI beads. Elute RNA in 16 µL of RNase-free water.
-  * Use [SPRI beads](./SPRI-beads.md) to purify (1.8X ratio and 2X washes with 70% ethanol).
-
-The product can be used for downstream library preparation.
-
-<!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
+**4.** If your ligated products are expected to be > 200 nt, you can remove excess adapter with 1.8X [SPRI beads](./SPRI-beads.md). <br/> For small RNA products, the correct size should be [gel purified](./PAGE-purification-of-RNA.md).
 
 <details>
   <summary>Next Steps</summary>
 
-</p> <a href="./NEB-Ultra-II-Directional/First-strand-synthesis.md">
-First Strand Synthesis </a>
+</p> <a href="./PAGE-purification-of-RNA.md">
+PAGE purification of small RNA products </a>
 
 </details>
