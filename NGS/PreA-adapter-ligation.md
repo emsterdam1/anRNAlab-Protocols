@@ -34,7 +34,7 @@ Protocol:
   | adapter || **1**  µL |
   | DMSO | 100 % | **2**  µL |
   | RNA Ligase Buffer | 10X | **2**  µL |
-  | ddH<sub/>2<sub>O || **3**  µL |
+  | ddH<sub/>2</sub>O || **3**  µL |
   | T4 RNA Ligase I | 10 U/µL | **1**  µL |
   || **Total** | **20** µL |
 
