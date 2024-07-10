@@ -792,39 +792,59 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 791,3' RACE polydT RT,3'RACE,polyA tails,Calmodulin RNAs,IDT,480005536,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGNNNNNNNTTTTTTTTTTTTTTTTV
 792,5' biotin i5 5N2W 3rG TSO,Template Switching,5' ends,Varying,IDT,481976667,/5Biosg/GCTAATTCGTCGGCAGCGTCAGATGTGTATAAGAGACAGNNNNNWWrGrGrG
 793,3' blocked preadenylated i7 adapter,sequencing libraries,3' ends,Varying,IDT,481976668,/5rApp/NNNNNNNCTGTCTCTTATACACATCTCCGAGCCCACGAGA/3ddC/
-794,Rn Calm1 L Northern template P1 F,Northern,Rn Calm1,Calmodulin RNAs,IDT,,gcccttgttttaaatgcaacacacttctaagggggactttttaaatagcccagtgccttg
-795,Rn Calm1 L Northern template P2 R,Northern,Rn Calm1,Calmodulin RNAs,IDT,,ccaaaacgtagatgtgctggtactggtcccttagcccaaggcactgggctatttaaaaag
-796,Rn Calm1 L amp F,Northern,Rn Calm1,Calmodulin RNAs,IDT,,gcccttgttttaaatgcaacac
-797,Rn Calm1 L amp R,Northern,Rn Calm1,Calmodulin RNAs,IDT,,ccaaaacgtagatgtgctgg
-798,Rn Calm1 L T7 amp F,Northern,Rn Calm1,Calmodulin RNAs,IDT,,taatacgactcactataggcccttgttttaaatgcaacac
-799,Rn Calm1 L T7 amp R,Northern,Rn Calm1,Calmodulin RNAs,IDT,,taatacgactcactataggccaaaacgtagatgtgctgg
-800,Rn Calm1 SL Northern template P1 F,Northern,Rn Calm1,Calmodulin RNAs,IDT,,gcctgactgtgctcaatcaccaagctgcatgcatgagaaactggccagcccagacagtgt
-801,Rn Calm1 SL Northern template P2 R,Northern,Rn Calm1,Calmodulin RNAs,IDT,,ggactccttcaagttccatttgctaatgattaacacactgtctgggctggccagtttctc
-802,Rn Calm1 SL amp F,Northern,Rn Calm1,Calmodulin RNAs,IDT,,gcctgactgtgctcaatca
-803,Rn Calm1 SL amp R,Northern,Rn Calm1,Calmodulin RNAs,IDT,,ggactccttcaagttccatttg
-804,Rn Calm1 SL T7 amp F,Northern,Rn Calm1,Calmodulin RNAs,IDT,,taatacgactcactataggcctgactgtgctcaatca
-805,Rn Calm1 SL T7 amp R,Northern,Rn Calm1,Calmodulin RNAs,IDT,,taatacgactcactatagggactccttcaagttccatttg
-806,Rn Calm1 Lint Northern template P1 F,Northern,Rn Calm1,Calmodulin RNAs,IDT,,gctcgaatgaacacagctaccgtgtacaataccctggtaagcatccacagcggctgctaa
-807,Rn Calm1 Lint Northern template P2 R,Northern,Rn Calm1,Calmodulin RNAs,IDT,,cctggttttccgtagccttcaggtcgttacagcaagttagcagccgctgtggatgcttac
-808,Rn Calm1 Lint amp F,Northern,Rn Calm1,Calmodulin RNAs,IDT,,gctcgaatgaacacagctac
-809,Rn Calm1 Lint amp R,Northern,Rn Calm1,Calmodulin RNAs,IDT,,cctggttttccgtagccttc
-810,Rn Calm1 Lint T7 amp F,Northern,Rn Calm1,Calmodulin RNAs,IDT,,taatacgactcactataggctcgaatgaacacagctac
-811,Rn Calm1 Lint T7 amp R,Northern,Rn Calm1,Calmodulin RNAs,IDT,,taatacgactcactataggcctggttttccgtagccttc
-812,Rn Calm2 Northern template P1 F,Northern,Rn Calm2,Calmodulin RNAs,IDT,,gcataacccagatgttccctttgaccaactccatctaagtgtagatgtgcagaagggctt
-813,Rn Calm2 Northern template P2 R,Northern,Rn Calm2,Calmodulin RNAs,IDT,,ccatgttgcatgtggcttcctctggatatatctaagcccttctgcacatctacacttaga
-814,Rn Calm2 amp F,Northern,Rn Calm2,Calmodulin RNAs,IDT,,gcataacccagatgttccc
-815,Rn Calm2 amp R,Northern,Rn Calm2,Calmodulin RNAs,IDT,,ccatgttgcatgtggcttc
-816,Rn Calm2 T7 amp F,Northern,Rn Calm2,Calmodulin RNAs,IDT,,taatacgactcactataggcataacccagatgttccc
-817,Rn Calm2 T7 amp R,Northern,Rn Calm2,Calmodulin RNAs,IDT,,taatacgactcactataggccatgttgcatgtggcttc
-818,Rn Calm3 L Northern template P1 F,Northern,Rn Calm3,Calmodulin RNAs,IDT,,gcccacagaagtgtttattgcaggttggttcttgtgagcatggtggggctcgtctctcct
-819,Rn Calm3 L Northern template P2 R,Northern,Rn Calm3,Calmodulin RNAs,IDT,,taaacatgccgggccaactaaagggtggggagaggagagacgagccccaccatgctcaca
-820,Rn Calm3 L amp F,Northern,Rn Calm3,Calmodulin RNAs,IDT,,gcccacagaagtgtttattgc
-821,Rn Calm3 L amp R,Northern,Rn Calm3,Calmodulin RNAs,IDT,,taaacatgccgggccaac
-822,Rn Calm3 L T7 amp F,Northern,Rn Calm3,Calmodulin RNAs,IDT,,taatacgactcactataggcccacagaagtgtttattgc
-823,Rn Calm3 L T7 amp R,Northern,Rn Calm3,Calmodulin RNAs,IDT,,taatacgactcactataggtaaacatgccgggccaac
-824,Rn Calm3 SL Northern template P1 F,Northern,Rn Calm3,Calmodulin RNAs,IDT,,ggacaaatcttttgttgctttatcagattctcagtcaatcaattggcgtttgctagaacc
-825,Rn Calm3 SL Northern template P2 R,Northern,Rn Calm3,Calmodulin RNAs,IDT,,cttgcgctctcctctcttcaacactcccctgcgtacccggttctagcaaacgccaattga
-826,Rn Calm3 SL amp F,Northern,Rn Calm3,Calmodulin RNAs,IDT,,ggacaaatcttttgttgctttatc
-827,Rn Calm3 SL amp R,Northern,Rn Calm3,Calmodulin RNAs,IDT,,cttgcgctctcctctcttc
-828,Rn Calm3 SL T7 amp F,Northern,Rn Calm3,Calmodulin RNAs,IDT,,taatacgactcactatagggacaaatcttttgttgctttatc
-829,Rn Calm3 SL T7 amp R,Northern,Rn Calm3,Calmodulin RNAs,IDT,,taatacgactcactataggcttgcgctctcctctcttc
+794,Rn Calm1 L Northern template P1 F,Northern,Rn Calm1,Calmodulin RNAs,IDT,486173848,gcccttgttttaaatgcaacacacttctaagggggactttttaaatagcccagtgccttg
+795,Rn Calm1 L Northern template P2 R,Northern,Rn Calm1,Calmodulin RNAs,IDT,486173849,ccaaaacgtagatgtgctggtactggtcccttagcccaaggcactgggctatttaaaaag
+796,Rn Calm1 L amp F,Northern,Rn Calm1,Calmodulin RNAs,IDT,486173850,gcccttgttttaaatgcaacac
+797,Rn Calm1 L amp R,Northern,Rn Calm1,Calmodulin RNAs,IDT,486173851,ccaaaacgtagatgtgctgg
+798,Rn Calm1 L T7 amp F,Northern,Rn Calm1,Calmodulin RNAs,IDT,486173852,taatacgactcactataggcccttgttttaaatgcaacac
+799,Rn Calm1 L T7 amp R,Northern,Rn Calm1,Calmodulin RNAs,IDT,486173853,taatacgactcactataggccaaaacgtagatgtgctgg
+800,Rn Calm1 SL Northern template P1 F,Northern,Rn Calm1,Calmodulin RNAs,IDT,486173854,gcctgactgtgctcaatcaccaagctgcatgcatgagaaactggccagcccagacagtgt
+801,Rn Calm1 SL Northern template P2 R,Northern,Rn Calm1,Calmodulin RNAs,IDT,486173855,ggactccttcaagttccatttgctaatgattaacacactgtctgggctggccagtttctc
+802,Rn Calm1 SL amp F,Northern,Rn Calm1,Calmodulin RNAs,IDT,486173856,gcctgactgtgctcaatca
+803,Rn Calm1 SL amp R,Northern,Rn Calm1,Calmodulin RNAs,IDT,486173857,ggactccttcaagttccatttg
+804,Rn Calm1 SL T7 amp F,Northern,Rn Calm1,Calmodulin RNAs,IDT,486173858,taatacgactcactataggcctgactgtgctcaatca
+805,Rn Calm1 SL T7 amp R,Northern,Rn Calm1,Calmodulin RNAs,IDT,486173859,taatacgactcactatagggactccttcaagttccatttg
+806,Rn Calm1 Lint Northern template P1 F,Northern,Rn Calm1,Calmodulin RNAs,IDT,486173860,gctcgaatgaacacagctaccgtgtacaataccctggtaagcatccacagcggctgctaa
+807,Rn Calm1 Lint Northern template P2 R,Northern,Rn Calm1,Calmodulin RNAs,IDT,486173861,cctggttttccgtagccttcaggtcgttacagcaagttagcagccgctgtggatgcttac
+808,Rn Calm1 Lint amp F,Northern,Rn Calm1,Calmodulin RNAs,IDT,486173862,gctcgaatgaacacagctac
+809,Rn Calm1 Lint amp R,Northern,Rn Calm1,Calmodulin RNAs,IDT,486173863,cctggttttccgtagccttc
+810,Rn Calm1 Lint T7 amp F,Northern,Rn Calm1,Calmodulin RNAs,IDT,486173864,taatacgactcactataggctcgaatgaacacagctac
+811,Rn Calm1 Lint T7 amp R,Northern,Rn Calm1,Calmodulin RNAs,IDT,486173865,taatacgactcactataggcctggttttccgtagccttc
+812,Rn Calm2 Northern template P1 F,Northern,Rn Calm2,Calmodulin RNAs,IDT,486173866,gcataacccagatgttccctttgaccaactccatctaagtgtagatgtgcagaagggctt
+813,Rn Calm2 Northern template P2 R,Northern,Rn Calm2,Calmodulin RNAs,IDT,486173867,ccatgttgcatgtggcttcctctggatatatctaagcccttctgcacatctacacttaga
+814,Rn Calm2 amp F,Northern,Rn Calm2,Calmodulin RNAs,IDT,486173868,gcataacccagatgttccc
+815,Rn Calm2 amp R,Northern,Rn Calm2,Calmodulin RNAs,IDT,486173869,ccatgttgcatgtggcttc
+816,Rn Calm2 T7 amp F,Northern,Rn Calm2,Calmodulin RNAs,IDT,486173870,taatacgactcactataggcataacccagatgttccc
+817,Rn Calm2 T7 amp R,Northern,Rn Calm2,Calmodulin RNAs,IDT,486173871,taatacgactcactataggccatgttgcatgtggcttc
+818,Rn Calm3 L Northern template P1 F,Northern,Rn Calm3,Calmodulin RNAs,IDT,486173872,gcccacagaagtgtttattgcaggttggttcttgtgagcatggtggggctcgtctctcct
+819,Rn Calm3 L Northern template P2 R,Northern,Rn Calm3,Calmodulin RNAs,IDT,486173873,taaacatgccgggccaactaaagggtggggagaggagagacgagccccaccatgctcaca
+820,Rn Calm3 L amp F,Northern,Rn Calm3,Calmodulin RNAs,IDT,486173874,gcccacagaagtgtttattgc
+821,Rn Calm3 L amp R,Northern,Rn Calm3,Calmodulin RNAs,IDT,486173875,taaacatgccgggccaac
+822,Rn Calm3 L T7 amp F,Northern,Rn Calm3,Calmodulin RNAs,IDT,486173876,taatacgactcactataggcccacagaagtgtttattgc
+823,Rn Calm3 L T7 amp R,Northern,Rn Calm3,Calmodulin RNAs,IDT,486173877,taatacgactcactataggtaaacatgccgggccaac
+824,Rn Calm3 SL Northern template P1 F,Northern,Rn Calm3,Calmodulin RNAs,IDT,486173878,ggacaaatcttttgttgctttatcagattctcagtcaatcaattggcgtttgctagaacc
+825,Rn Calm3 SL Northern template P2 R,Northern,Rn Calm3,Calmodulin RNAs,IDT,486173879,cttgcgctctcctctcttcaacactcccctgcgtacccggttctagcaaacgccaattga
+826,Rn Calm3 SL amp F,Northern,Rn Calm3,Calmodulin RNAs,IDT,486173880,ggacaaatcttttgttgctttatc
+827,Rn Calm3 SL amp R,Northern,Rn Calm3,Calmodulin RNAs,IDT,486173881,cttgcgctctcctctcttc
+828,Rn Calm3 SL T7 amp F,Northern,Rn Calm3,Calmodulin RNAs,IDT,486173882,taatacgactcactatagggacaaatcttttgttgctttatc
+829,Rn Calm3 SL T7 amp R,Northern,Rn Calm3,Calmodulin RNAs,IDT,486173883,taatacgactcactataggcttgcgctctcctctcttc
+830,PUS7L qPCR 1 F,qPCR,PUS7L,PUS7,IDT,,CGAGGCACTGTTATAGAAGAATGG
+831,PUS7L qPCR 1 R,qPCR,PUS7L,PUS7,IDT,,CGATGGTCTTATTAACTAACTGTCC
+832,PUS7L qPCR 2 F,qPCR,PUS7L,PUS7,IDT,,CAGGGTGATTTGGTCTGTTTGG
+833,PUS7L qPCR 2 R,qPCR,PUS7L,PUS7,IDT,,GGAAGAACCACCTGATGTATTGC
+834,PUS7L gRNA 6 Amplicon F,gDNA,PUS7L,PUS7,IDT,,GATCACGTTGGATTTCATGGC
+835,PUS7L gRNA 6 Amplicon R,gDNA,PUS7L,PUS7,IDT,,GAATTCAGGAGGTAGTCCAATTAGC
+836,PUS7L gRNA 1-2 Amplicon F,gDNA,PUS7L,PUS7,IDT,,GAATGTAATTGATGTATGGTAGCTG
+837,PUS7L gRNA 1-2 Amplicon R,gDNA,PUS7L,PUS7,IDT,,GTAAGGATCCACGATAATAAAGGC
+838,PUS7L gRNA 3-4 Amplicon F,gDNA,PUS7L,PUS7,IDT,,GGTTGCTTGGCAACTGCC
+839,PUS7L gRNA 3-4 Amplicon R,gDNA,PUS7L,PUS7,IDT,,CCTCTTGCCTCAGTGTAGAGAAAG
+840,PUS7L gRNA 5 Amplicon F,gDNA,PUS7L,PUS7,IDT,,GGCACACTTTCATTGATGCC
+841,PUS7L gRNA 5 Amplicon R,gDNA,PUS7L,PUS7,IDT,,CTAAACTGACAGCAGACTTGAAGC
+842,pNL3.2 3UTR Insert BID-Seq s1 i7 F,BID-Seq,pNL3.2,PUS7,IDT,,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGNNNNNGAGTCGCTCGAGGGCTGG
+843,pNL3.2 3UTR Insert BID-Seq s1 i5 R,BID-Seq,pNL3.2,PUS7,IDT,,TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGNNNNNCCGCTCGTGCTAGCAACGG
+844,TETRIS backbone amp1 F,PCR,pTETRIS,Any,IDT,,GGTGGCTTTACCAACCCG
+845,TETRIS backbone amp1 R,PCR,pTETRIS,Any,IDT,,CCTGTGAGGACAGGAAACCC
+846,TETRIS backbone amp2 F,PCR,pTETRIS,Any,IDT,,GGGTTTCCTGTCCTCACAGG
+847,TETRIS backbone amp2 R,PCR,pTETRIS,Any,IDT,,TAATTCTAGAGTCGGGGCG
+848,TETRIS reporter insert amp F,PCR,pTETRIS,Any,IDT,,CGCCCCGACTCTAGAATTA
+849,TETRIS reporter insert amp R,PCR,pTETRIS,Any,IDT,,CGGGTTGGTAAAGCCACC
