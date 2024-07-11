@@ -1,6 +1,6 @@
-Near IR Northern Blotting of RNA
+Denaturing RNA gel and electroblotting
 ================================================================================
-Description: Detect RNA targets in a mixture with near IR probes.
+Description: Separate cellular RNA for Northern blotting.
 
 Materials:
 --------------------------------------------------------------------------------
