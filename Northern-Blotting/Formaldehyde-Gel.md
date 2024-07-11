@@ -58,3 +58,14 @@ Denature RNAs at 90 °C for 2 minutes and proceed to loading immediately.
 
 **7.** Image gel to ensure even loading before moving on to transfer.<br/>
 For human RNA, the 28S and 18S peak should be the most visible products (along with tRNAs)
+
+<details>
+  <summary>Next Steps</summary>
+  
+</p> <a href="./RNA-Electroblotting.md">
+RNA Electroblotting</a>
+
+</p> <a href="./Near-IR-Northern.md">
+Near-IR Northern </a>
+
+</details>
