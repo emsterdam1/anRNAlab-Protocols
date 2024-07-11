@@ -53,6 +53,13 @@ Protocol:
 
 **9.** Expose blot twice to 120 mJ/cm<sup>2</sup> of 265 nm UV in the crosslinker. <br/> _Note: Now the RNA is irreversibly attached to the blot._ <br/> _The blot can be stored between sheets of whatman paper long term in a dessicator._
 
+<details>
+  <summary>Next Steps</summary>
+
+</p> <a href="./Near-IR-Northern.md">
+Near-IR Northern </a>
+
+</details>
 
 <details>
   <summary>More Info</summary>
