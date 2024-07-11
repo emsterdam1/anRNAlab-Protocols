@@ -2,6 +2,12 @@ Electroblotting for RNA Northern
 ================================================================================
 Description: Use electrophoresis to transfer RNA from gel to blot.
 
+[Go To Protocol](#protocol)
+
+Before starting:
+--------------------------------------------------------------------------------
+* [Formaldehyde gel](./Formaldehyde-Gel.md) or [Formamide gel](./Formamide-TAE-Gel.md)
+
 Materials:
 --------------------------------------------------------------------------------
   * Denaturing RNA Agarose gel
@@ -20,7 +26,7 @@ Equipment Required:
 --------------------------------------------------------------------------------
   * Electrophoretic transfer apparatus
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ___
 Protocol:
 --------------------------------------------------------------------------------
