@@ -15,7 +15,7 @@ Materials:
     ◦ 50 mM NaOAc  
     ◦ 10 mM EDTA
 
-  **Northern Blotting**   
+  **ElectroBlotting**   
   * **[5X TBE Running Buffer (Tris-borate-EDTA)](https://www.thermofisher.com/order/catalog/product/LC6675) (pH to ~8.3)**  
     ◦ 450 mM Tris base  
     ◦ 450 mM Boric acid  
@@ -24,19 +24,20 @@ Materials:
   * paper/sponges for transfer stack
   * [nylon membrane](https://www.cytivalifesciences.com/en/us/shop/molecular-and-immunodiagnostics/genomic-consumables/nytran-supercharge-spc-blotting-membranes-p-04733)
   * **[20X SSC Buffer](https://www.takarabio.com/products/protein-research/sds-page-and-western-blotting/buffers-and-powders/ssc-powder) (pH to 7.0 with NaOH)**  
-    ◦ 300 mM sodium citrate 
+    ◦ 300 mM sodium citrate  
     ◦ 3 M NaCl  
     
   **Probe hybridization**  
   * Near IR Northern probes (1 µM)
   * [Hybridization buffer](https://www.thermofisher.com/order/catalog/product/AM8677)
   * 20 % SDS solution
+  * 1X PBS pH 7.6
     
 Equipment Required:
 --------------------------------------------------------------------------------
   * Agarose Gel Rig
   * Fume Hood
-  * [Northern Blotting Apparatus](https://www.cytivalifesciences.com/en/us/shop/protein-analysis/blotting-and-detection/blotting-equipment/turboblotter-kits-large-p-05563)
+  * Electrophoretic transfer apparatus
   * Hybridization oven with rotation
   * Gel/Blot fluorescent imager
 
@@ -103,9 +104,23 @@ Denature RNAs at 70 °C for 5 minutes and cool at 0-4 °C for 2 minutes.
 
 **14.** Expose blot twice to 120 mJ/cm<sup>2</sup> of 265 nm UV in the crosslinker. <br/> _Note: Now the RNA is irreversibly attached to the blot._ <br/> _The blot can be stored between sheets of whatman paper long term in a dessicator._
 
+**Part 4: Northern blotting (~1 hour + overnight)** 
 
-**Part 4: Northern blotting** 
+**15.** Warm 10 mL of Hyb buffer per 100 cm<sup>2</sup> blot for 15 minutes at 65 °C. <br/> Place blot inside a glass hyb tube with the RNA side facing inwards.
 
+**16.** Add warm hyb buffer to blot and block for 30 minutes at 65 °C.
+
+**17.** Directly to the hyb liquid (not the blot), add 1 µl of 1 µM probe per 10 mL buffer. <br/> Incubate overnight in the dark with rotation at 65 °C. <br/> _Note: if re-using probe, replace the prehybridization buffer with probe already in hyb buffer._
+
+**Part 5: Washes and imaging (~1 hour)** 
+
+**18.** Collect hyb buffer + probe from the tube (probe can be saved at -20 °C)
+
+**19.** Wash blot twice in 2X SSC + 0.1 % SDS for 15 minutes at room temperature (leave chamber open). <br/> _Note: any volume that covers the inside of the tube is fine (25 mL is good)._
+
+**20.** Wash once in 1X SSC + 0.1 % SDS for 15 minutes at up to 65 °C (close chamber again).
+
+**21.** Before imaging, rinse the blot for 5 minutes in 1X PBS. <br/> _Note: Blots can be stored between whatman paper in a dessicator long term._
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
