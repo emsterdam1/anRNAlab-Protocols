@@ -13,9 +13,13 @@ Materials:
   * **[10X MOPS RNA Running Buffer](https://www.thermofisher.com/order/catalog/product/AM8671) (pH to 7.0 with NaOH)**  
     ◦ 200 mM MOPS (3-(N-morpholino)propanesulfonic acid)  
     ◦ 50 mM NaOAc  
-    ◦ 10 mM EDTA  
+    ◦ 10 mM EDTA
 
-  **Northern Blotting**      
+  **Northern Blotting**   
+  * **[5X TBE Running Buffer (Tris-borate-EDTA)](https://www.thermofisher.com/order/catalog/product/LC6675) (pH to ~8.3)**  
+    ◦ 450 mM Tris base  
+    ◦ 450 mM Boric acid  
+    ◦ 10 mM EDTA   
   * 3MM Chromatography Whatman paper (8 sheets and 1 longer wick)
   * paper/sponges for transfer stack
   * [nylon membrane](https://www.cytivalifesciences.com/en/us/shop/molecular-and-immunodiagnostics/genomic-consumables/nytran-supercharge-spc-blotting-membranes-p-04733)
@@ -73,21 +77,34 @@ Denature RNAs at 70 °C for 5 minutes and cool at 0-4 °C for 2 minutes.
 
 **6.** Load samples (and usually a ladder). Run gel at 110 V for 1.5 hours.<br/>
 
-**7.** Rinse 
-Image gel to ensure even loading before assembling Northern transfer.
+**7.** Rinse gel 3 times for 10 minutes in (MilliQ) water (Rinses are formaldehyde waste). <br/> Image gel to ensure even loading before assembling Northern transfer.
 
-**Part 2: Northern Transfer (overnight)** 
+**8.** Soak gel in 5 volumes of 0.05 N NaOH for 20 minutes. <br/> _Note: This fragments RNA, allowing RNAs > 2000 nt to transfer better._
 
- 
+**9.** Discard NaOH solution.<br/> Equilibrate gel in 10 volumes of transfer buffer (0.5X TBE) for 20 minutes.
 
-**8.** Purify labeled RNA probes again with [SPRI beads](../NGS/SPRI-beads.md) at ratios relevant to probe size.<br/>
-Elute products in 16 µL.
 
-**9.** RNA labeling can be confirmed by fluorescence on a denaturing urea polyacrylamide gel.<br/>
-_Note: In general, 1 µL of product is enough to visualize on a gel._
 
-**Part 3: Gel Verification/Purification (3 hours + variable)** 
-**Part 4: Dye Labeling** 
+**Part 2: Electroblotting Transfer to nylon membrane (~45 minutes)** 
+
+**9.** Assemble a transfer "sandwich" for electroblotting. <br/> anode (-) > 4 x wet whatman > nylon membrane > gel > 4 x wet whatman -> cathode (+) 
+
+**10.** Transfer at 200 mA constant current for 30 minutes in 0.5X TBE running buffer.
+
+
+
+**Part 3: Preparation for Northern blotting (~45 minutes)** 
+
+**11.** Carefully disassemble the transer. <br/> _Note: you can save the gel for imaging to confirm transfer._ 
+
+**12.** Gently wash blot in 2X SSC buffer for 5 minutes with RNA side up. <br/> _Note: the RNA is associated with the blot, but not attached._
+
+**13.** Set the blot on whatman paper (RNA side up). <br/> Dry in the hyb oven for 30 minutes at 65 °C.
+
+**14.** Expose blot twice to 120 mJ/cm<sup>2</sup> of 265 nm UV in the crosslinker. <br/> _Note: Now the RNA is irreversibly attached to the blot._ <br/> _The blot can be stored between sheets of whatman paper long term in a dessicator._
+
+
+**Part 4: Northern blotting** 
 
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
