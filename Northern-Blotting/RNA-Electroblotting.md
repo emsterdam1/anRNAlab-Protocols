@@ -1,21 +1,9 @@
-Denaturing RNA gel and electroblotting
+Electroblotting for RNA Northern
 ================================================================================
-Description: Separate cellular RNA for Northern blotting.
+Description: Use electrophoresis to transfer RNA from gel to blot.
 
 Materials:
 --------------------------------------------------------------------------------
-  **Denaturing Agarose Gel**  
-  * Concentrated RNA sample (at least 10 µg of total RNA)
-  * Agarose
-  * Formaldehyde (37 %)
-  * Glycerol
-  * [GelRed or GelGreen Nucleic Acid Gel Stain](https://biotium.com/technology/nucleic-acid-gel-stains/gelred-gelgreen-dna-gel-stains/)
-  * **[10X MOPS RNA Running Buffer](https://www.thermofisher.com/order/catalog/product/AM8671) (pH to 7.0 with NaOH)**  
-    ◦ 200 mM MOPS (3-(N-morpholino)propanesulfonic acid)  
-    ◦ 50 mM NaOAc  
-    ◦ 10 mM EDTA
-
-  **ElectroBlotting**   
   * **[5X TBE Running Buffer (Tris-borate-EDTA)](https://www.thermofisher.com/order/catalog/product/LC6675) (pH to ~8.3)**  
     ◦ 450 mM Tris base  
     ◦ 450 mM Boric acid  
@@ -26,12 +14,6 @@ Materials:
   * **[20X SSC Buffer](https://www.takarabio.com/products/protein-research/sds-page-and-western-blotting/buffers-and-powders/ssc-powder) (pH to 7.0 with NaOH)**  
     ◦ 300 mM sodium citrate  
     ◦ 3 M NaCl  
-    
-  **Probe hybridization**  
-  * Near IR Northern probes (1 µM)
-  * [Hybridization buffer](https://www.thermofisher.com/order/catalog/product/AM8677)
-  * 20 % SDS solution
-  * 1X PBS pH 7.6
     
 Equipment Required:
 --------------------------------------------------------------------------------
