@@ -2,6 +2,13 @@ Northern Blotting with near-IR fluorescent probes
 ================================================================================
 Description: Detect RNA targets in a mixture with near IR probes.
 
+[Go To Protocol](#protocol)
+
+Before starting:
+--------------------------------------------------------------------------------
+* [Formaldehyde gel](./Formaldehyde-Gel.md) or [Formamide gel](./Formamide-TAE-Gel.md)
+* [RNA electroblotting](./RNA-Electroblotting.md)
+
 Materials:
 --------------------------------------------------------------------------------
 
@@ -19,7 +26,7 @@ Equipment Required:
   * Hybridization oven with rotation
   * Gel/Blot fluorescent imager
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 ___
 Protocol:
