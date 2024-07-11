@@ -47,7 +47,7 @@ ___
 Protocol:
 --------------------------------------------------------------------------------
 
-**Part 1: Denaturing Agarose gel (~3 hours)**  
+**Part 1: Denaturing Agarose gel (~4 hours)**  
 
 **1.** For a 100 ml volume gel, combine the following and melt:  
   
