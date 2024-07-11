@@ -52,6 +52,16 @@ _Gel sets in ~30 minutes._
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
+<details>
+  <summary>Next Steps</summary>
+  
+</p> <a href="./RNA-Electroblotting.md">
+RNA Electroblotting</a>
+
+</p> <a href="./Near-IR-Northern.md">
+Near-IR Northern </a>
+
+</details>
 
 <details>
   <summary>More Info</summary>
