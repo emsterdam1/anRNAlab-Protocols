@@ -15,8 +15,8 @@ Materials:
     ◦ 450 mM Tris base  
     ◦ 450 mM Boric acid  
     ◦ 10 mM EDTA   
-  * 3MM Chromatography Whatman paper (8 sheets and 1 longer wick)
-  * paper/sponges for transfer stack
+  * 3MM Chromatography Whatman paper (8 sheets)
+  * spacers/sponges for transfer stack
   * [nylon membrane](https://www.cytivalifesciences.com/en/us/shop/molecular-and-immunodiagnostics/genomic-consumables/nytran-supercharge-spc-blotting-membranes-p-04733)
   * **[20X SSC Buffer](https://www.takarabio.com/products/protein-research/sds-page-and-western-blotting/buffers-and-powders/ssc-powder) (pH to 7.0 with NaOH)**  
     ◦ 300 mM sodium citrate  
@@ -40,24 +40,30 @@ Protocol:
 **3.** Discard NaOH solution.<br/> Equilibrate gel in 10 volumes of transfer buffer (1X TBE) for 20 minutes.
 
 
+**Part 2: Electroblotting Transfer to nylon membrane (~2 hours)** 
 
-**Part 2: Electroblotting Transfer to nylon membrane (~45 minutes)** 
+**4.** Equilibrate nylon membrane and 8 sheets of whatman paper in 1X TBE buffer for 10 minutes.
 
-**4.** Assemble a transfer "sandwich" for electroblotting. <br/> anode (-) > 4 x wet whatman > nylon membrane > gel > 4 x wet whatman -> cathode (+) 
+**5.** Rinse two sponges with distilled water and shake dry. Assemble bottom of transfer sandwich: <br/> anode (-) > plastic grid spacer > sponge
 
-**5.** Transfer at 200 mA constant current for 1 hour in 1X TBE running buffer.
+**6.** Fill the chamber half-way with 1X TBE and continue with "sandwich" assembly: <br/> 4x whatman > nylon membrane > gel > 4x whatman 
+_Note: Roll out air bubbles twice, once after placing the gel and once after the paper_
+
+**7.** Complete the "sandwich" and ensure a tight fit within the whole apparatus: <br/> sponge > plastic grid spacer > cathode (+)
+
+**8.** Transfer at 12 V for 1.5 hours in 1X TBE running buffer.  
+_Note: this assumes an Idea Scientific transfer tank._
 
 
+**Part 3: Preparation of membrane for Northern blotting (~10 minutes)** 
 
-**Part 3: Preparation of membrane for Northern blotting (~45 minutes)** 
+**9.** Carefully disassemble the transer. <br/> _Note: you can save the gel for imaging to confirm transfer._ 
 
-**6.** Carefully disassemble the transer. <br/> _Note: you can save the gel for imaging to confirm transfer._ 
+**10.** Gently wash blot in 2X SSC buffer for 5 minutes with RNA side up. <br/> _Note: the RNA is associated with the blot, but not attached._
 
-**7.** Gently wash blot in 2X SSC buffer for 5 minutes with RNA side up. <br/> _Note: the RNA is associated with the blot, but not attached._
+**11.** Set the blot on whatman paper (RNA side up) to wick away excess buffer.  
 
-**8.** Set the blot on whatman paper (RNA side up). <br/> Dry in the hyb oven for 30 minutes at 65 °C.
-
-**9.** Expose blot twice to 120 mJ/cm<sup>2</sup> of 265 nm UV in the crosslinker. <br/> _Note: Now the RNA is irreversibly attached to the blot._ <br/> _The blot can be stored between sheets of whatman paper long term in a dessicator._
+**12.** Expose blot twice to 120 mJ/cm<sup>2</sup> of 265 nm UV in the crosslinker. <br/> _Note: Now the RNA is irreversibly attached to the blot._ <br/> _The blot can be stored between sheets of whatman paper long term in a dessicator._<br/> _Transfer efficiency can be imaged directly if RNA was stained in-gel (GelRed)._
 
 <details>
   <summary>Next Steps</summary>
