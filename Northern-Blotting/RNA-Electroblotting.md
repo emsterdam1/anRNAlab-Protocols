@@ -75,8 +75,8 @@ Near-IR Northern </a>
 
 <details>
   <summary>More Info</summary>
-  
-  <a href="https://doi.org/10.1261%2Frna.068213.118">
-Original IR Northern Paper</a>
+
+  <a href="https://doi.org/10.1006/bbrc.1997.7284">
+Electroblotting with Idea Scientific</a>
 
 </details>
