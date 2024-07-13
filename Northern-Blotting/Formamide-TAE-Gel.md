@@ -31,7 +31,7 @@ ___
 Protocol:
 --------------------------------------------------------------------------------
 
-**Denaturing Agarose gel (~2 hours)**  
+**Denaturing Agarose Gel (~2 hours)**  
 
 **1.** Combine 0.8 g agarose with 100 ml 1X TAE Buffer and melt:  
   
