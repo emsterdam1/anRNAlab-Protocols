@@ -63,7 +63,7 @@ _Note: this assumes an Idea Scientific transfer tank._
 
 **11.** Set the blot on whatman paper (RNA side up) to wick away excess buffer.  
 
-**12.** Expose blot twice to 120 mJ/cm<sup>2</sup> of 265 nm UV in the crosslinker. <br/> _Note: Now the RNA is irreversibly attached to the blot._ <br/> _The blot can be stored between sheets of whatman paper long term in a dessicator._<br/> _Transfer efficiency can be imaged directly if RNA was stained in-gel (GelRed)._
+**12.** Expose blot twice to 120 mJ/cm<sup>2</sup> of 254 nm UV in the crosslinker. <br/> _Note: Now the RNA is irreversibly attached to the blot._ <br/> _The blot can be stored between sheets of whatman paper long term in a dessicator._<br/> _Transfer efficiency can be imaged directly if RNA was stained in-gel (GelRed)._
 
 <details>
   <summary>Next Steps</summary>
