@@ -4,7 +4,7 @@ Description: Separate RNA molecules in a sample by size
 
 Materials:
 --------------------------------------------------------------------------------
-  * Concentrated RNA sample (at least 10 µg of total RNA)
+  * Concentrated RNA sample (2.5-10 µg of total RNA)
   * Agarose
   * Formaldehyde (37 %)
   * Glycerol
