@@ -4,7 +4,7 @@ Description: Denaturing RNA gel protocol that doesn't require fume hood.
 
 Materials:
 --------------------------------------------------------------------------------
-  * Concentrated RNA sample (at least 10 µg of total RNA)
+  * Concentrated RNA sample (2.5-10 µg of total RNA)
   * Agarose
   * [NEB 2X RNA Loading Dye](https://www.neb.com/products/b0363-rna-loading-dye-2x) **OR** glycerol and formamide
   * [GelRed or GelGreen Nucleic Acid Gel Stain](https://biotium.com/technology/nucleic-acid-gel-stains/gelred-gelgreen-dna-gel-stains/)
