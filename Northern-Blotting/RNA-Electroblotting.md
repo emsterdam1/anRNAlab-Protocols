@@ -24,7 +24,7 @@ Materials:
     
 Equipment Required:
 --------------------------------------------------------------------------------
-  * Electrophoretic transfer apparatus
+  * Electrophoretic transfer apparatus (Idea Scientific "Genie")
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ___
@@ -44,15 +44,14 @@ Protocol:
 
 **4.** Equilibrate nylon membrane and 8 sheets of whatman paper in 1X TBE buffer for 10 minutes.
 
-**5.** Rinse two sponges with distilled water and shake dry. Assemble bottom of transfer sandwich in plastic chamber: <br/> plastic grid spacer > cathode (-) > plastic grid spacer > sponge
+**5.** Rinse two sponges with distilled water and shake dry. Assemble transfer sandwich in plastic chamber: <br/> plastic grid spacer > cathode (-) > plastic grid spacer > sponge
 
-**6.** Fill the chamber half-way with 1X TBE and continue with "sandwich" assembly: <br/> 4x whatman > gel > nylon membrane > 4x whatman 
+**6.** Fill the chamber half-way with 1X TBE and continue with sandwich assembly: <br/> 4x whatman > gel > nylon membrane > 4x whatman <br/>
 _Note: Roll out air bubbles twice, once after placing the gel and once after the paper_
 
 **7.** Complete the "sandwich" and ensure a tight fit within the whole apparatus: <br/> sponge > plastic grid spacer > anode (+)
 
 **8.** Transfer at 12 V for 1.5 hours in 1X TBE running buffer.  
-_Note: this assumes an Idea Scientific transfer tank._
 
 
 **Part 3: Preparation of membrane for Northern blotting (~10 minutes)** 
@@ -63,7 +62,7 @@ _Note: this assumes an Idea Scientific transfer tank._
 
 **11.** Set the blot on whatman paper (RNA side up) to wick away excess buffer.  
 
-**12.** Expose blot twice to 120 mJ/cm<sup>2</sup> of 254 nm UV in the crosslinker. <br/> _Note: Now the RNA is irreversibly attached to the blot._ <br/> _The blot can be stored between sheets of whatman paper long term in a dessicator._<br/> _Transfer efficiency can be imaged directly if RNA was stained in-gel (GelRed)._
+**12.** Crosslink RNA to blot with 2 exposures of 120 mJ/cm<sup>2</sup> of 254 nm UV. <br/> _The blot can be stored between sheets of whatman paper long term in a dessicator._<br/> _Transfer efficiency can be imaged directly if RNA was stained in-gel (GelRed)._
 
 <details>
   <summary>Next Steps</summary>
