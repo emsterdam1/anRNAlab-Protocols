@@ -37,6 +37,7 @@ Protocol:
   || **Total** | **84** mL |
   
 **2.** In a fume hood, add 16 mL of 37 % formaldehyde to the mixture and cast gel.<br/>
+_Note: Pour the gel as thin as possbile to enable quick transfer while fitting samples in wells._ <br/>
 _Gel sets in ~30 minutes._
 
 **3.** Prepare 5X Sample buffer (mix 500 µL of 10X MOPS with 500 µL of glycerol)
