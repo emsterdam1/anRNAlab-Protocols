@@ -44,12 +44,12 @@ Protocol:
 
 **4.** Equilibrate nylon membrane and 8 sheets of whatman paper in 1X TBE buffer for 10 minutes.
 
-**5.** Rinse two sponges with distilled water and shake dry. Assemble transfer sandwich in plastic chamber: <br/> plastic grid spacer > cathode (-) > plastic grid spacer > sponge
+**5.** Rinse 2 sponges with distilled water and shake dry. Assemble transfer sandwich in plastic chamber: <br/> bubble-guard > cathode (-) > bubble-guard > sponge
 
 **6.** Fill the chamber half-way with 1X TBE and continue with sandwich assembly: <br/> 4x whatman > gel > nylon membrane > 4x whatman <br/>
 _Note: Roll out air bubbles twice, once after placing the gel and once after the paper_
 
-**7.** Complete the "sandwich" and ensure a tight fit within the whole apparatus: <br/> sponge > plastic grid spacer > anode (+)
+**7.** Complete the "sandwich" and ensure a tight fit within the whole apparatus: <br/> sponge > bubble-guard > anode (+)
 
 **8.** Transfer at 12 V for 1.5 hours in 1X TBE running buffer.  
 
