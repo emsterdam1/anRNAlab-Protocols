@@ -36,6 +36,7 @@ Protocol:
 **1.** Combine 0.8 g agarose with 100 ml 1X TAE Buffer and melt:  
   
 **2.** When no longer too hot to handle, add 10 µl of 10,000X GelRed and cast gel.<br/>
+_Note: Pour the gel as thin as possbile to enable quick transfer while fitting samples in wells._ <br/>
 _Gel sets in ~30 minutes._
 
 **3.** If preparing own loading buffer: 5X Sample Buffer (mix 500 µL of 10X TAE with 500 µL of glycerol)
