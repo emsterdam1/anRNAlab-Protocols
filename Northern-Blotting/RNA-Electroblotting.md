@@ -37,19 +37,19 @@ Protocol:
 
 **2.** Soak gel in 5 volumes of 0.05 N NaOH for 20 minutes. <br/> _Note: This fragments RNA, allowing RNAs > 2000 nt to transfer better._
 
-**3.** Discard NaOH solution.<br/> Equilibrate gel in 10 volumes of transfer buffer (1X TBE) for 20 minutes.
+**3.** Discard NaOH solution.<br/> Equilibrate gel in 10 volumes of transfer buffer (1X TBE) for 20 minutes. <br/> _Note: This 1X TBE cannot be re-used, as it contains NaOH._
 
 
 **Part 2: Electroblotting Transfer to nylon membrane (~2 hours)** 
 
 **4.** Equilibrate nylon membrane and 8 sheets of whatman paper in 1X TBE buffer for 10 minutes.
 
-**5.** Rinse two sponges with distilled water and shake dry. Assemble bottom of transfer sandwich: <br/> anode (-) > plastic grid spacer > sponge
+**5.** Rinse two sponges with distilled water and shake dry. Assemble bottom of transfer sandwich in plastic chamber: <br/> plastic grid spacer > cathode (-) > plastic grid spacer > sponge
 
-**6.** Fill the chamber half-way with 1X TBE and continue with "sandwich" assembly: <br/> 4x whatman > nylon membrane > gel > 4x whatman 
+**6.** Fill the chamber half-way with 1X TBE and continue with "sandwich" assembly: <br/> 4x whatman > gel > nylon membrane > 4x whatman 
 _Note: Roll out air bubbles twice, once after placing the gel and once after the paper_
 
-**7.** Complete the "sandwich" and ensure a tight fit within the whole apparatus: <br/> sponge > plastic grid spacer > cathode (+)
+**7.** Complete the "sandwich" and ensure a tight fit within the whole apparatus: <br/> sponge > plastic grid spacer > anode (+)
 
 **8.** Transfer at 12 V for 1.5 hours in 1X TBE running buffer.  
 _Note: this assumes an Idea Scientific transfer tank._
