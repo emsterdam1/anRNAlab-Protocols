@@ -42,7 +42,7 @@ Protocol:
 
 **Part 2: Electroblotting Transfer to nylon membrane (~2 hours)** 
 
-**4.** Equilibrate nylon membrane and 8 sheets of whatman paper in 1X TBE buffer for 10 minutes.
+**4.** Cut a nylon membrane as close to the size of your gel as possible. <br/>Equilibrate nylon membrane and 8 sheets of whatman paper in 1X TBE buffer for 10 minutes.
 
 **5.** Rinse 2 sponges with distilled water and shake dry. Assemble transfer sandwich in plastic chamber: <br/> bubble-guard > cathode (-) > bubble-guard > sponge
 
@@ -56,7 +56,7 @@ _Note: Roll out air bubbles twice, once after placing the gel and once after the
 
 **Part 3: Preparation of membrane for Northern blotting (~10 minutes)** 
 
-**9.** Carefully disassemble the transer. <br/> _Note: you can save the gel for imaging to confirm transfer._ 
+**9.** Carefully disassemble the transfer. <br/> _Note: you can save the gel for imaging to confirm transfer._ 
 
 **10.** Gently wash blot in 2X SSC buffer for 5 minutes with RNA side up. <br/> _Note: the RNA is associated with the blot, but not attached._
 
