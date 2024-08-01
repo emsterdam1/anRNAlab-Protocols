@@ -28,6 +28,8 @@ Materials:
     ◦ 3 M NaCl  
     ◦ 75 mM MgCl<sub>2</sub>
   * 5 M Urea (3 g in 10 mL water)
+  * 2U/µl [TURBO DNase](https://www.thermofisher.com/order/catalog/product/AM2238?SID=srch-srp-AM2238#/AM2238)
+  * TURBO DNase 10X buffer
     
 Equipment Required:
 --------------------------------------------------------------------------------
@@ -86,9 +88,9 @@ Protocol:
 
 **12a.** If you don't need a chromatin fraction, add 1 mL of Trizol directly to nuclear pellet. <br/> Otherwise, proceed to chromatin isolation.
 
-**Part 3: Chromatin Isolation (~10 minutes)** 
+**Part 3: Chromatin Isolation (~45 minutes)** 
 
-**12b.** Prepare 500 µL of Resuspension and Nuclear Lysis Buffer per plate.
+**12b.** Prepare 500 µL of Resuspension and Nuclear Lysis Buffer per plate and chill on ice.
 
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
@@ -103,26 +105,22 @@ Protocol:
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
   | Nuclear Lysis Buffer Base | 10X | **50**  µL | 
-  | NP-40 | 100 % | **1.5**  µL |
-  | Sucrose | 1 M | **701**  µL |
-  | ddH2O || **197.5**  µL |
-  || **Total** | **up to 1000** µL |
+  | Urea | 5 M | **100**  µL |
+  | DTT | 100 mM | **5**  µL |
+  | NP-40 | 100 % | **5**  µL |
+  | ddH2O || **340**  µL |
+  || **Total** | **500** µL |
 
   
-**13.** Crosslink RNA to blot with 2 exposures of 120 mJ/cm<sup>2</sup> of 254 nm UV. <br/> _The blot can be stored between sheets of whatman paper long term in a dessicator._<br/> _Transfer efficiency can be imaged directly if RNA was stained in-gel (GelRed)._
+**13.** Resuspend nuclei in 250 µL of cold 1X resuspension buffer. <br/> To resuspended nuclei, add 250 µL of cold 1X nuclear lysis buffer.
 
-<details>
-  <summary>Next Steps</summary>
+**14.** Vortex mix for 2 seconds, pellet chromatin at 14,000 x g for 2 minutes at 4 °C.
 
-</p> <a href="./Near-IR-Northern.md">
-Near-IR Northern </a>
+**15.** Remove and split the supernatant into two 250 µL fractions. <br/> Add 750 µL of Trizol LS to each fraction and set aside on ice. <br/> These are the nucleoplasm fraction.
 
-</details>
+**16.** Resuspend chromatin pellet in 100 µL of 1X TURBO DNase buffer. <br/> Add 2 µL of TURBO DNase at incubate at 37 °C for 20 minutes.
 
-<details>
-  <summary>More Info</summary>
+**17.** Add 50 µL of water to the reaction and 450 µL of Trizol-LS. <br/> This is the chromatin fraction.
 
-  <a href="https://doi.org/10.1006/bbrc.1997.7284">
-Electroblotting with Idea Scientific</a>
-
-</details>
+**Final Step: Standard Trizol Recovery of RNA and/or protein.**
+Process chilled Trizol fractions as normal.
