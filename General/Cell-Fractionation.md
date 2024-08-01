@@ -70,7 +70,7 @@ Protocol:
   | ddH2O || **197.5**  µL |
   || **Total** | **up to 1000** µL |
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 **Part 2: Nuclear fractionation with sucrose cushion (30 minutes)** 
 
@@ -88,7 +88,7 @@ Protocol:
 
 **12a.** If you don't need a chromatin fraction, add 1 mL of Trizol directly to nuclear pellet. <br/> Otherwise, proceed to chromatin isolation.
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 **Part 3: Chromatin Isolation (~45 minutes)** 
 
