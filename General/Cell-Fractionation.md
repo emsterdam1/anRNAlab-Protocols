@@ -36,7 +36,7 @@ Equipment Required:
   * Microcentrifuge
   * Vessel with ice
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
 ___
 Protocol:
 --------------------------------------------------------------------------------
