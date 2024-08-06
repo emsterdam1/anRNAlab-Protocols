@@ -46,7 +46,11 @@ Protocol:
 
 **3.** Chelate Magnesium in the buffer by quenching reaction with 20 µL (1 reaction volume) of 25 mM EDTA.
 
-**4.** If your ligated products are expected to be > 200 nt, you can remove excess adapter with 1.8X [SPRI beads](./SPRI-beads.md). <br/> For small RNA products, the correct size should be [gel purified](./PAGE-purification-of-RNA.md).
+**4.** If your ligated products are expected to be > 200 nt, either: <br/>
+- dilute to 100 µL with water and remove excess adapter with 1.8X [SPRI beads](./SPRI-beads.md) <br/>
+- use a column-based purification method to remove excess adapter
+
+For small RNA products, the correct size should be [gel purified](./PAGE-purification-of-RNA.md).
 
 <details>
   <summary>Next Steps</summary>
