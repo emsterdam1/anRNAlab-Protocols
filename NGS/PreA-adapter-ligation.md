@@ -31,7 +31,7 @@ Protocol:
   | ---------: | ---------: | :---------- |
   | PEG-8000 | 50 % | **10**  µL | 
   | RNA || **1**  µL |
-  | adapter || **1**  µL |
+  | diluted adapter || **1**  µL |
   | DMSO | 100 % | **2**  µL |
   | RNA Ligase Buffer | 10X | **2**  µL |
   | ddH<sub/>2</sub>O || **3**  µL |
