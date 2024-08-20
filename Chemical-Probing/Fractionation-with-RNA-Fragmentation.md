@@ -66,7 +66,7 @@ Protocol:
   | ddH2O || **184**  µL |
   || **Total** | **1000** µL |
 
-<br/><br/>
+<br/><br/><br/>
 
 **Part 2: Nuclear fractionation with sucrose cushion (40 minutes)** 
 
@@ -84,7 +84,7 @@ Protocol:
   
 **12.** Resuspend nuclei in 250 µL of cold 1X RIPA buffer. <br/> Lyse nuclei for 10 minutes on ice. This is the nuclear fraction.
 
-**Part 3: Enzymatic fragmentation of RNA (XX minutes)** 
+**Part 3: Enzymatic fragmentation of RNA (15 minutes)** 
 
 **13.** Combine 2 µL of RNase I in 48 µL of 1X PBS and set on ice. <br/> _Note: it is useful to split the cytoplasmic fraction into 4 tubes of 250 µL._
 
