@@ -28,7 +28,9 @@ Materials:
 Equipment Required:
 --------------------------------------------------------------------------------
   * Microcentrifuge
-  * Vessel with ice  
+  * Vessel with ice
+
+<br/><br/>
 ___
 Protocol:
 --------------------------------------------------------------------------------
@@ -64,7 +66,7 @@ Protocol:
   | ddH2O || **184**  µL |
   || **Total** | **1000** µL |
 
-<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 **Part 2: Nuclear fractionation with sucrose cushion (40 minutes)** 
 
