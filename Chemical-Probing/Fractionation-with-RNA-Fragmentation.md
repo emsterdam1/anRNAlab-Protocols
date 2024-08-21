@@ -13,7 +13,6 @@ Materials:
   * 10 % NP-40 detergent (or IGEPAL equivalent)
   * [Halt™ Protease Inhibitor Cocktail (100X)](https://www.thermofisher.com/order/catalog/product/78438)
   * [Recombinant RNasin® Ribonuclease Inhibitor (40U/µl)](https://www.promega.com/products/rna-analysis/rnase-inhibitor-rna-protection/rnasin-ribonuclease-inhibitor/?catNum=N2515)
-  * [Trizol](https://www.thermofisher.com/order/catalog/product/15596026) lysis reagent
   * [Trizol-LS](https://www.thermofisher.com/order/catalog/product/10296010) lysis reagent
   * 1M Sucrose (34.23 % or 3.423 g in 10 mL water)
   * 1X PBS (phosphate buffered saline) pH 7.6
