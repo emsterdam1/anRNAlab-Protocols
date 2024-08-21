@@ -56,7 +56,7 @@ Protocol:
 
 **4.** Lyse cells for 5 minutes on ice.
 
-**5.** While cells lyse, prepare 0.5 mL sucrose cushion buffer per sample and chill on ice.
+**5.** While cells lyse, prepare 1 mL sucrose cushion buffer per sample and chill on ice.
 
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
@@ -86,13 +86,15 @@ Protocol:
 
 **Part 3: Enzymatic fragmentation of RNA (15 minutes)** 
 
-**13.** Combine 2 µL of RNase I in 48 µL of 1X PBS and set on ice. <br/> _Note: it is useful to split the cytoplasmic fraction into 4 tubes of 250 µL._
+**13.** Combine 4 µL of RNase I with 96 µL of 1X PBS and set on ice. 
 
-**14.** To each 250 µL fraction, add 5 µL of diluted RNase enzyme.
+**14.** To each fraction, add 10 µL of diluted RNase enzyme per 250 µL of lysate. <br/> _Note: it is useful to split the cytoplasmic fraction into 4 tubes of 250 µL._
 
 **15.** Incubate digestions at 37 °C for 5 minutes.
 
 **16.** Add 750 µL of Trizol-LS and mix to stop each reaction. <br/> Samples can be processed as normal Trizol samples.
+ <br/> _Note: Be sure to account for small RNA lengths during recovery after DNase treatment._
+
 
 
 <details>
