@@ -10,7 +10,7 @@ Materials:
   * 100 % DMSO
   * **10X T4 RNA Ligase Reaction Buffer**
     * 500 mM Tris-HCl pH 7.5
-    * 100 mM MgCl<sub/>2<sub>
+    * 100 mM MgCl<sub>2</sub>
     * 10 mM DTT
   * 10 U/ul T4 RNA Ligase I
   * 25 mM EDTA
