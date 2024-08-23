@@ -14,7 +14,7 @@ Materials:
     * 10 U/µl Vaccinia Capping Enzyme
     * 10 mM GTP
     * 10X capping buffer (50 mM Tris-HCl pH 8, 5 mM KCl, 1 mM MgCl<sub>2</sub>, 1mM DTT)
-  * **2 µM of gene- or adapter-specific primer (_targeted_) or 70 µM (200 ng/µL) of [random nonamer](https://www.neb.com/products/s1254-random-primer-9#Product%20Information) (_for non-targeted_)**
+  * **2 µM of gene- or adapter-specific primer (_targeted_) or 70 µM (200 ng/µL) of [random nonamer](https://www.neb.com/products/s1254-random-primer-9#Product%20Information)**
   * **10 mM dNTPs**
   * **100 µM template-switching oligo (TSO, [ARL792](../ARL-primers.csv))
   * **10X NTP minus buffer** _(make fresh and keep on ice)_  
@@ -24,8 +24,6 @@ Materials:
   * [**5M Betaine**](https://www.fishersci.ca/shop/products/betaine-5m-solution-molecular-biology-grade-ultrapure-affymetrix-usb-3/aaj77507ucr)
   * **40 mM MnCl<sub>2</sub>**  
   * **200 U/µl** [**SuperScript II**](https://www.thermofisher.com/order/catalog/product/18064022#/18064022) **Reverse Transcriptase**
-  * [**G-50 microspin columns**](https://www.cytivalifesciences.com/en/us/shop/molecular-biology/purification/gel-filtration-columns/illustra-microspin-g-50-columns-p-00056)
- _(for lowly expressed targets and randomer-primed samples)_  
   
 Equipment Required:
 --------------------------------------------------------------------------------
@@ -38,16 +36,15 @@ Protocol:
 **Optional: 5' G-Capping of 5' triphosphate RNAs (45 minutes)** <br/>
 _Note: This is especially important to increase switching for RNAs that have a 5' U._
 
-**i.** In 14 µl of water, denature RNA at 68-75 °C for 5 minutes, then anneal on ice for 2 minutes.
+**i.** In 15 µl of water, denature RNA at 68-75 °C for 5 minutes, then anneal on ice for 2 minutes.
 
 **ii.** Assemble the capping reaction as follows:
 
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
-  | Denatured RNA | | **14**  µL | 
+  | Denatured RNA | | **15**  µL | 
   | Capping buffer| 10X | **2**  µL |
   | GTP | 10 mM | **2**  µL |
-  | Nuclease-free water | | **1**  µL |
   | Vaccinia capping enzyme | | **1**  µL |
   || **Total** | **20** µL |
 
