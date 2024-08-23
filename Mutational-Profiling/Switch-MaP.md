@@ -63,7 +63,7 @@ _Note: This is especially important to increase switching for RNAs that have a 5
 
 **iv.** Purify RNA by SPRI beads or column-based approach (elute in <= 20 µl).
 
-**Switch-MaP** <br/>
+**Switch-MaP (3 hours)**
 
 **1.** For each sample, combine 6 µl RNA, 1 µl RT primer, and 2 µl of dNTPs. <br/>
 Denature at 68-75 °C for 5 minutes, then anneal on ice for 2 minutes. <br/>
@@ -100,19 +100,14 @@ _Note: Use 6 µl of purified capping product or 5 pmoles RNA._
   | iv | 70 °C | 10:00 | Enzyme denaturation |
   | ---------: | :--------: | :---------: |:---------: |
 
-**5.** cDNA product purification:  
-  ◦ For abundant targets, product cDNA can go straight into PCR amplification.  
-  ◦ For lowly expressed targets and randomly-primed reactions, buffer exchange with [G50 columns](../NGS/G-50-microspin.md).
-
-**(6.)** Dilute randomly-primed cDNA to 34 µL in preparation for second-strand synthesis.
+**5.** For RNA targets longer than 100 nts:  
+- remove excess TSO with 1.8X [SPRI beads](../NGS/SPRI-beads.md) <br/>
+- use a column-based size-selection method to remove excess adapter
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
 <details>
   <summary>Next Steps</summary>
-  
-</p> <a href="../NGS/Second-Strand-Synthesis.md">
-Second-Strand Synthesis</a>
 
 </p> <a href="../NGS/Two-Step-PCR-Library.md">
 2-step PCR library generation </a>
