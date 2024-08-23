@@ -48,7 +48,7 @@ Protocol:
 
 **4.** If ligated products are > 200 nt, dilute with water to 100 µL and either: <br/>
 - remove excess adapter with 1.8X [SPRI beads](./SPRI-beads.md) <br/>
-- use a column-based purification method to remove excess adapter
+- use a column-based size selection method to remove excess adapter
 
 For smaller RNA products, the correct size should be [gel purified](./PAGE-purification-of-RNA.md).
 
