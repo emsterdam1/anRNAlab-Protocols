@@ -86,9 +86,10 @@ Protocol:
 
 **11.** Wash the nuclear pellet twice in 1 mL of cold 1X PBS + 1 mM EDTA, <br/> pelleting for 3 minutes each time.
 
-**12a.** If you don't need a chromatin fraction, add 1 mL of Trizol directly to nuclear pellet. <br/> Otherwise, proceed to chromatin isolation.
+**12a.** If you don't need a chromatin fraction, add 1 mL of Trizol directly to nuclear pellet. <br/> Otherwise, proceed to chromatin isolation.<br/>
+_If the nuclear pellet doesn't fully solubilize, try running through a 21-gauge needle._ 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 **Part 3: Chromatin Isolation (~45 minutes)** 
 
