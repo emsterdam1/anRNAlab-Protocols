@@ -46,10 +46,10 @@ Protocol:
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
   | Lysis Buffer Base | 10X | **100**  µL | 
-  | NP-40 | 100 % | **1.5**  µL |
+  | NP-40 | 10 % | **15**  µL |
   | protease inhibitor* | 100X | **10**  µL |
   | RNasin* | 40U/µl | **25**  µL |  
-  | ddH2O || **863.5**  µL |
+  | ddH2O || **850**  µL |
   || **Total** | **1000** µL |
 
   _*Protease inhibitor and RNasin are optional depending on what molecules you want to harvest._
@@ -65,9 +65,9 @@ Protocol:
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
   | Lysis Buffer Base | 10X | **100**  µL | 
-  | NP-40 | 100 % | **1.5**  µL |
+  | NP-40 | 10 % | **15**  µL |
   | Sucrose | 1 M | **701**  µL |
-  | ddH2O || **197.5**  µL |
+  | ddH2O || **184**  µL |
   || **Total** | **up to 1000** µL |
 
 <br/><br/><br/><br/><br/><br/><br/>
