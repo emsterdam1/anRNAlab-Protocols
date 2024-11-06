@@ -20,6 +20,8 @@ Equipment Required:
   * Thermocycler
 
 <!-- Use <br/> to go to next page -->
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
   
 Protocol:
 --------------------------------------------------------------------------------
