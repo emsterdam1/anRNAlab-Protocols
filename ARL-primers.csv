@@ -992,3 +992,7 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 991,NLS-HA-2MCP-2HT tetris amp R,cloning,phage UbiC NLS HA stdMCP stdHalo,MALAT1,IDT,,CGGGTTGGTAAAGCCACCatgggccc
 992,MALAT1s tetris array amp F,cloning,pTETRIS MALAT1s ENE FFLuc2,MALAT1,IDT,,GGAGAATTCGAGCTCGGTACCGGCATTGAGGCAGCCAG
 993,MALAT1s tetris array amp R,cloning,pTETRIS MALAT1s ENE FFLuc2,MALAT1,IDT,,gtatctagatgcattGGTACCCTACTGAAGAGCATTG
+994,Telo5FwdPrimer,Amplicon,TeloPrime cDNA,CALM,IDT,,GGATTGATATGTAATACGACTCACTATAG
+995,Calm1ShortRevPrimer,Amplicon,Calm1Short,CALM,IDT,,gactagcatttacaacttggaatgg
+996,Calm1LongRevPrimer,Amplicon,Calm1Long,CALM,IDT,,ggctgcagaaatgtttattgaatac
+997,Calm2RevPrimer,Amplicon,Calm2,CALM,IDT,,ggaatggatttgaggcaaattg
