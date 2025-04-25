@@ -1026,7 +1026,7 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 1025,Cterm_Calm1_ExtRevPrimer,seq,rat Calm1 genome,CALM mRNAs,IDT,,gggggaaagtagttgaaagtaggt
 1026,Nterm_Calm2_V5FwdPrimer,seq,rat Calm2 genome,CALM mRNAs,IDT,,ggcggaggaggagaattagtc
 1027,Nterm_Calm2_ExtRevPrimer,seq,rat Calm2 genome,CALM mRNAs,IDT,,CTTCGGCATCTTTCCCCCAC
-1028,Cterm_Calm2_V5FwdPrimer,seq,rat Calm2 genome,CALM mRNAs,IDT,,"TGGGTGTCACATTGATTTTGTCCT
+1028,Cterm_Calm2_V5FwdPrimer,seq,rat Calm2 genome,CALM mRNAs,IDT,,TGGGTGTCACATTGATTTTGTCCT
 1029,Cterm_Calm2_ExtRevPrimer,seq,rat Calm2 genome,CALM mRNAs,IDT,,CAGTGGGGGAACCTTTTACAGAT
 1030,Nterm_Calm3_V5FwdPrimer,seq,rat Calm3 genome,CALM mRNAs,IDT,,cgctgcgggcaaagagtg
 1031,Nterm_Calm3_ExtRevPrimer,seq,rat Calm3 genome,CALM mRNAs,IDT,,cggggtctctacccgacttc
