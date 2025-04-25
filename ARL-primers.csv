@@ -1019,3 +1019,16 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 1018,NFE2L2 ETGE seq R,seq,NRF2,NRF2,IDT,575390666,TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGNNNNNggcaaagctggaactcaaatc
 1019,KEAP1 F i7,seq,KEAP1,NRF2,IDT,575390667,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGNNNNNcttgcaaaacgaggcccg
 1020,KEAP1 R i5,seq,KEAP1,NRF2,IDT,575390668,TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGNNNNNgcactcagtggaggcgta
+1021,InternalV5RevPrimer,seq,rat Calm1 genome,CALM mRNAs,IDT,,GGAGAGGGTTAGGGATAGGCT
+1022,Nterm_Calm1_V5FwdPrimer,seq,rat Calm1 genome,CALM mRNAs,IDT,,cgcacaacgcaggtagcg
+1023,Nterm_Calm1_ExterRevPrimer,seq,rat Calm1 genome,CALM mRNAs,IDT,,tgttcagaaagcttgggcagc
+1024,Cterm_Calm1_V5FwdPrimer,seq,rat Calm1 genome,CALM mRNAs,IDT,,cacggtagctgtgttcattcg
+1025,Cterm_Calm1_ExtRevPrimer,seq,rat Calm1 genome,CALM mRNAs,IDT,,gggggaaagtagttgaaagtaggt
+1026,Nterm_Calm2_V5FwdPrimer,seq,rat Calm2 genome,CALM mRNAs,IDT,,ggcggaggaggagaattagtc
+1027,Nterm_Calm2_ExtRevPrimer,seq,rat Calm2 genome,CALM mRNAs,IDT,,CTTCGGCATCTTTCCCCCAC
+1028,Cterm_Calm2_V5FwdPrimer,seq,rat Calm2 genome,CALM mRNAs,IDT,,"TGGGTGTCACATTGATTTTGTCCT
+1029,Cterm_Calm2_ExtRevPrimer,seq,rat Calm2 genome,CALM mRNAs,IDT,,CAGTGGGGGAACCTTTTACAGAT
+1030,Nterm_Calm3_V5FwdPrimer,seq,rat Calm3 genome,CALM mRNAs,IDT,,cgctgcgggcaaagagtg
+1031,Nterm_Calm3_ExtRevPrimer,seq,rat Calm3 genome,CALM mRNAs,IDT,,cggggtctctacccgacttc
+1032,Cterm_Calm3_V5FwdPrimer,seq,rat Calm3 genome,CALM mRNAs,IDT,,ggcacaccttccatgctgag
+1033,Cterm_Calm3_ExtRevPrimer,seq,rat Calm3 genome,CALM mRNAs,IDT,,tacgcaggggagtgttgaag
