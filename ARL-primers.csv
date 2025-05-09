@@ -1032,3 +1032,17 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 1031,Nterm_Calm3_ExtRevPrimer,seq,rat Calm3 genome,CALM mRNAs,IDT,,cggggtctctacccgacttc
 1032,Cterm_Calm3_V5FwdPrimer,seq,rat Calm3 genome,CALM mRNAs,IDT,,ggcacaccttccatgctgag
 1033,Cterm_Calm3_ExtRevPrimer,seq,rat Calm3 genome,CALM mRNAs,IDT,,tacgcaggggagtgttgaag
+1034,Calm1 N genomic s1 i7 F,sequencing,Rn_Calm1_genome,CALM,IDT,,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGNNNNNcgcacaacgcaggtagcg
+1035,Calm1 N genomic s1 i5 R,sequencing,Rn_Calm1_genome,CALM,IDT,,TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGNNNNNtgttcagaaagcttgggcagc
+1036,Calm1 C genomic s1 i7 F,sequencing,Rn_Calm1_genome,CALM,IDT,,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGNNNNNcacggtagctgtgttcattcg
+1037,Calm1 C genomic s1 i5 R,sequencing,Rn_Calm1_genome,CALM,IDT,,TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGNNNNNgggggaaagtagttgaaagtaggt
+1038,Calm2 N genomic s1 i7 F,sequencing,Rn_Calm2_genome,CALM,IDT,,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGNNNNNggcggaggaggagaattagtc
+1039,Calm2 N genomic s1 i5 R,sequencing,Rn_Calm2_genome,CALM,IDT,,TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGNNNNNcttcggcatctttcccccac
+1040,Calm2 C genomic s1 i7 F,sequencing,Rn_Calm2_genome,CALM,IDT,,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGNNNNNtgggtgtcacattgattttgtcct
+1041,Calm2 C genomic s1 i5 R,sequencing,Rn_Calm2_genome,CALM,IDT,,TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGNNNNNcagtgggggaaccttttacagat
+1042,Calm3 N genomic s1 i7 F,sequencing,Rn_Calm3_genome,CALM,IDT,,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGNNNNNcgctgcgggcaaagagtg
+1043,Calm3 N genomic s1 i5 R,sequencing,Rn_Calm3_genome,CALM,IDT,,TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGNNNNNcggggtctctacccgacttc
+1044,Calm3 C genomic s1 i7 F,sequencing,Rn_Calm3_genome,CALM,IDT,,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGNNNNNggcacaccttccatgctgag
+1045,Calm3 C genomic s1 i5 R,sequencing,Rn_Calm3_genome,CALM,IDT,,TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGNNNNNtacgcaggggagtgttgaag
+1046,i7 blocker oligo,blocking,Nextera XT libraries,any,IDT,,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG/3SpC3/
+1047,i5 blocker oligo,blocking,Nextera XT libraries,any,IDT,,CTGTCTCTTATACACATCTGACGCTGCCGACGA/3SpC3/
