@@ -1044,5 +1044,5 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 1043,Calm3 N genomic s1 i5 R,sequencing,Rn_Calm3_genome,CALM,IDT,,TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGNNNNNcggggtctctacccgacttc
 1044,Calm3 C genomic s1 i7 F,sequencing,Rn_Calm3_genome,CALM,IDT,,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGNNNNNggcacaccttccatgctgag
 1045,Calm3 C genomic s1 i5 R,sequencing,Rn_Calm3_genome,CALM,IDT,,TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGNNNNNtacgcaggggagtgttgaag
-1046,i7 blocker oligo,blocking,Nextera XT libraries,any,IDT,,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG/3SpC3/
-1047,i5 blocker oligo,blocking,Nextera XT libraries,any,IDT,,CTGTCTCTTATACACATCTGACGCTGCCGACGA/3SpC3/
+1046,i7 blocker oligo for sense probes,blocking,Nextera XT libraries,any,IDT,,GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAG/3SpC3/
+1047,i5 blocker oligo for sense probes,blocking,Nextera XT libraries,any,IDT,,CTGTCTCTTATACACATCTGACGCTGCCGACGA/3SpC3/
