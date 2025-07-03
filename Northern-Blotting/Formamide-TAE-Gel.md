@@ -36,6 +36,7 @@ Protocol:
 **1.** Combine 0.8 g agarose with 100 ml 1X TAE Buffer and melt:  
   
 **2.** When no longer too hot to handle, add 10 µl of 10,000X GelRed and cast gel.<br/>
+◦ If there is excess staining or smear running at the bottom of the gel, you can instead stain the gel after running (see optional step 7) <br/>
 _Note: Pour the gel as thin as possbile to enable quick transfer while fitting samples in wells._ <br/>
 _Gel sets in ~30 minutes._
 
@@ -49,7 +50,8 @@ _Gel sets in ~30 minutes._
 
 **6.** Load samples (and usually a ladder). Run gel at 110 V for 1 hour in 1X TAE.<br/>
 
-**7.** Image gel to ensure even loading before assembling Northern transfer.
+**7.** Image gel to ensure even loading before assembling Northern transfer. <br/>
+◦ If Gel stain was not previously added during the casting, soak gel in 3X GelRed (15µL into 50 mL MilliQ) for 30 min, then destain in MilliQ for 30 min.
   
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
