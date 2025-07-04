@@ -17,10 +17,10 @@ Materials:
 
 Equipment Required:
 --------------------------------------------------------------------------------
-### Day ..
-
-  * Thing 1
-  * Thing 2
+  * Microcentrifuge
+  * Denovix CellDrop Cell Counter
+  * Molecular Devices Dispencell S2
+  * Incucyte (Whole Well imaging)
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
@@ -28,20 +28,11 @@ Equipment Required:
 ___
 Protocol:
 --------------------------------------------------------------------------------
-### Day 1
-**1.** Mix desired components like this:
+**1.** Trypsinize cells and transfer to a 15 mL conical tube. Count the cells to determine concentration
+  
+ **2.** Save some cells to continue propogation (1-2 mL), then spin down at 200xg for 5 minutes
 
-  | Component | Concentration | Quantity | 
-  | ---------: | ---------: | :---------- |
-  | liquid1 | X ng/µL | **X**  µL | 
-  | buffer | 10X | **Z/10**  µL |
-  | ddH2O || **Y**  µL |
-  || **Total** | **Z** µL |
-  
-  <!-- : in the pipes specify justification -->
-  <!-- **X** bolds the inside -->
-  
- **2.** Do other things
+ **3.** Dilute to 2e5 cells/mL in PBS.
 
 
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
