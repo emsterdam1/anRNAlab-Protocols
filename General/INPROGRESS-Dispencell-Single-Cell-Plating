@@ -7,10 +7,11 @@ Description: Dispencell allows for a single cell to be place in a well at at tim
 
 Materials:
 --------------------------------------------------------------------------------
-  * Plate of confluent cells
-  * **A Buffer**  
-    ◦ ingredient  
-    ◦ ingredient  
+  * Plate of confluent cells <br/>
+    ◦ If this cell type has not been plated for monoclones before, perform a dilution series and track the cell line's ability to grow from a single cell.
+  * PBS
+  * 30 µM filter [Provided]
+  * DispensMe tube [Provided]
 <!-- Using distinct bullet symbols with 2 spaces at end of each line makes a better formatted list -->
 
 
