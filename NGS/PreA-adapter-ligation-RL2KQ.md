@@ -47,11 +47,13 @@ Protocol:
 
 ### Part 2: Removal of excess adapter and purification of reaction products (2.5 hours)
 
-**3.** Add 1 µL of 5´ Deadenylase to the reaction and incubate at 30 °C for 1 hour.
+**3.** Dilute ligation reaction to 50 µL with ddH<sub/>2</sub>O. <br/> _Note: this step is critical for the enzymes to be active._
 
-**4.** Add 1 µL of Recj to the reaction and incubate at 37 °C for 1 hour.
+**4.** Add 1 µL of 5´ Deadenylase to the reaction and incubate at 30 °C for 1 hour.
 
-**5.** Chelate Magnesium in the buffer by quenching reaction with 22 µL (1 reaction volume) of 25 mM EDTA.
+**5.** Add 1 µL of Recj to the reaction and incubate at 37 °C for 1 hour.
 
-**6.** Dilute reaction to 100 µL total with water and purify products by column or SPRI beads.
+**6.** Chelate Magnesium in the buffer by quenching reaction with 22 µL (1 reaction volume) of 25 mM EDTA.
+
+**7.** Dilute reaction to 100 µL total with water and purify products by column or SPRI beads.
 
