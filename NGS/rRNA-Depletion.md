@@ -37,7 +37,7 @@ Protocol:
 --------------------------------------------------------------------------------
 ### Probe annealing (~15 minutes)
 
-**1.** In a total of 15 µl of RNase-free water, combine 1 µl of depletion oligos for every 5 µg of total RNA.  
+**1.** In a total of 15 µl of RNase-free water, combine 1 µl of depletion oligos for every 5 µg of total RNA. <br/> _5 µg is the minimum RNA needed for this reaction volume. Lower amounts will be degraded in buffer._ 
 
 **2.** Anneal oligos to target rRNA in a thermocycler with the following program:  
 
