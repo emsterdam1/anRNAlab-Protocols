@@ -32,7 +32,8 @@ Equipment Required:
   * Magnetic stand
 
 <!-- Use <br/> to go to next page -->
-  
+<br/><br/><br/><br/>
+
 Protocol:
 --------------------------------------------------------------------------------
 ### Probe annealing (~15 minutes)
