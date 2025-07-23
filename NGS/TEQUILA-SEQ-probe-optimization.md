@@ -57,6 +57,8 @@ Protocol:
   _Note: Should take 15 minutes to ramp down from 95 to 4,_ <br/> _set Proflex ramp rate to 0.3 °C/sec to achieve this._
 <br/>
 
+<br/><br/><br/><br/>
+
 ### Intial extension (~15 minutes)
 
 **3.** To each sample, add the following components: <br/> _Tip: can spot 1 µL at tube tops and spin down to mix_
@@ -70,9 +72,7 @@ Protocol:
   | **Total** || **49** µL |
   <br/>
 
-**4.** Incubate extension in a thermocycler for 10 minutes at 37 °C (set lid to 55 °C):<br/>
-
-  <br/><br/><br/><br/><br/><br/>
+**4.** Incubate extension in a thermocycler for 10 minutes at 37 °C (set lid to 55 °C)
 
 ### Isothermal strand displacement amplification (up to 16 hours)
 
