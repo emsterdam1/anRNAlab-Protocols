@@ -4,7 +4,6 @@ Description: Find optimal time conditions for new TS probesets
 
 Materials:
 --------------------------------------------------------------------------------
-  **probe generation**
   * 10 ng/µl of TS probe template pool <br/> _Templates should end in sequence complementary to RC and not include Nt.BspQI sites._
   * 10 µM TEQUILA-SEQ universal reverse complement oligo([ARL1050](../ARL-primers.csv))
   * 10 mM dNTP mix (each nucleotide at 10 mM)
@@ -15,93 +14,81 @@ Materials:
     * 100 µg/ml BSA
   * 100 mM DTT
   * 10 mg/ml (~298 µM) [T4 Gene 32 Protein](https://www.neb.com/en-us/products/m0300-t4-gene-32-protein) (single standed DNA binding protein)
-
-  
-  **RNase H digestion**
-  * 5 U/µl [Thermostable RNase H](https://www.neb.com/products/m0523-thermostable-rnase-h#Product%20Information)
-  * **10X RNase H Buffer (~pH 7.9 at RT, included with nickase enzyme)**
-    * 500 mM Tris-HCl
-    * 750 mM KCl
-    * 30 mM MgCl<sub/>2<sub>
-    * 100 mM DTT
-  
-  **DNase removal of oligos**
-  * 2 U/µl [TURBO DNase](https://www.thermofisher.com/order/catalog/product/AM2238)
-  * **10X DNase I Buffer (pH 7.6 at RT, included with enzyme + stabilizer)**
-    * 100 mM Tris-HCl
-    * 25 mM MgCl<sub/>2<sub>
-    * 5 mM CaCl<sub/>2<sub>
-  
-  **Cleanup**
+  * 5 units/µl (~14.7 µM) [Klenow Fragment (3´→5´ exo-)](https://www.neb.com/en-us/products/m0212-klenow-fragment-3-5-exo)
+  * 10 units/µl [Nt.BspQI nickase](https://www.neb.com/en-us/products/r0644-ntbspqi) 
   * [SPRI beads](./SPRI-beads.md)
+  * [High Sensitivity DNA TapeStation Reagents](https://www.agilent.com/en/product/automated-electrophoresis/tapestation-systems/tapestation-dna-screentape-reagents/high-sensitivity-dna-screentape-analysis-228262)
   
 Equipment Required:
 --------------------------------------------------------------------------------
   * Thermocycler
   * Magnetic stand
+  * TapeStation
 
 <!-- Use <br/> to go to next page -->
   
 Protocol:
 --------------------------------------------------------------------------------
-### Probe annealing (~15 minutes)
+### Day 1: Probe generation
 
-**1.** In a total of 15 µl of RNase-free water, combine 1 µl of depletion oligos for every 5 µg of total RNA. <br/> _5 µg is the minimum RNA needed for this reaction volume. Lower amounts will be degraded in buffer._ 
+### Template-RC annealing (~30 minutes)
 
-**2.** Anneal oligos to target rRNA in a thermocycler with the following program:  
+**1.** Combine the following components on ice in the indicated order (add buffer last). <br/> Assemble enough for 5 reactions (4 time points + 1 no nickase control)
+
+  | Component | [Stock] | Quantity | 
+  | ---------: | :---------: |:---------- |
+  | template pool | 10 ng/µl | **1**  µL | 
+  | RC oligo | 10 µM | **1**  µL |
+  | dNTP mix | 10 mM each | **2.5**  µL |
+  | RNase-free water|| **36.5**  µL |
+  | NEB Buffer 3.1| 10X | **5**  µL |
+  | **Total** || **46** µL |
+  <br/>
+  
+**2.** Anneal RC oligo to template pool in a thermocycler with the following program:  
 
   | Temp | Time | Step |
   | :--------: | :---------: |:---------: |
-  | **98 °C** | **2:00** | **inital denaturation** |
-  | **down to 22 °C** | **1 °C/sec** | **gradual ramp down** |
-  | **22 °C** | **5:00** | **final annealing** |
+  | **95 °C** | **2:00** | **inital denaturation** |
+  | **down to 4 °C** | **0.1 °C/sec** | **gradual ramp down** |
+  | **4 °C** || **hold until next step** |
+  
+  _Note: Should take 15 minutes to ramp down from 95 to 4,_ <br/> _set Proflex ramp rate to 0.3 °C/sec to achieve this._
+<br/>
+
+### Intial extension (~15 minutes)
+
+**3.** To each sample, add the following components: <br/> _Tip: can spot 1 µL at tube tops and spin down to mix_
+
+  | Component | [Stock] | Quantity | 
+  | ---------: | :---------: |:---------- |
+  | annealed mix || **46**  µL | 
+  | DTT | 100 mM | **1**  µL |
+  | T4 Gene 32 Protein | 10 mg/ml | **1**  µL |
+  | Klenow Fragment| 5 U/µL | **1**  µL |
+  | **Total** || **49** µL |
   <br/>
 
-### RNase H digestion (~40 minutes)
-
-**3.** For each sample, mix the following components:
-
-  | Component | Quantity | 
-  | ---------: | :---------- |
-  | Oligo-annealed RNA | **15**  µL | 
-  | RNase-free water | **2**  µL |
-  | 10X RNase H Buffer | **2**  µL |
-  | 5U/µL thermostable RNase H| **1**  µL |
-  | **Total** | **20** µL |
-
-**4.** Digest rRNA in a thermocycler for 30 minutes at 50 °C (set lid to 55 °C):<br/>
-_Note: For samples that require intact RNA, 1 hour at 37 °C minimizes random fragmentation_ 
+**4.** Incubate extension in a thermocycler for 10 minutes at 37 °C (set lid to 55 °C):<br/>
 
   <br/><br/><br/><br/><br/><br/>
 
-### DNase removal of oligos (~40 minutes)
+### Isothermal strand displacement amplification (up to 16 hours)
 
-**5.** For each sample, mix the following components:
+**5.** For each time point sample, add 1 µL of 10U/µL Nt.BspQI nickase. <br/> For the no nickase control, add 1 µL of water.
 
-  | Component | Quantity | 
-  | ---------: | :---------- |
-  | RNase H-treated RNA | **20**  µL | 
-  | RNase-free water | **24**  µL |
-  | 10X DNase I Buffer | **5**  µL |
-  | 2U/µL TURBO DNase| **1**  µL |
-  | **Total** | **50** µL |
+**6.** Incubate reactions at 37 °C for varying time points. <br/> A good starting point is 2, 4, 6, and 8 hours.
 
-**6.** Digest DNA in a thermocycler for 30 minutes at 37 °C (set lid to 55 °C):
-<br/>
+**.7** At the end of each time point, inactivate enzyme at 80 °C for 20 minutes. <br/> Move inactivated time points to 4 °C until ready to clean up all samples. <br/> _Note: the no nickase control should incubate as long as the longest time point._
 
-### SPRI bead cleanup (~15 minutes)
+### Day 2: Purification and analysis
 
-**7.** Clean up rRNA-depleted RNA with columns or SPRI beads. Elute RNA in 16 µL of RNase-free water.
-  * Use [SPRI beads](./SPRI-beads.md) to purify (1.8X ratio and 2X washes with 70% ethanol).
+### SPRI bead cleanup and Tape (~40 minutes)
 
-The product can be used for downstream library preparation.
+**8.** Clean up reaction products with 1.8X SPRI beads and 2 75 % ethanol washes. <br/> Elute products in 30 µL of water.
 
-<!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
+**9.** Use a spec to measure concentrations and analyze products on a high sensitivity D1000 Tape. <br/> The no nickase control should only show initial extension products at correct size, <br/> longer time points should have more products (smears).
 
-<details>
-  <summary>Next Steps</summary>
+### qPCR follow-up
 
-</p> <a href="./NEB-Ultra-II-Directional/First-strand-synthesis.md">
-First Strand Synthesis </a>
-
-</details>
+**9.** Make 1:1000 dilutions of each sample and use qPCR to measure increase in desired products. <br/> Choose the time point where signal plateaus.
