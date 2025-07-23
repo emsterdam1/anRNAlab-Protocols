@@ -90,8 +90,8 @@ Protocol:
 
 **8.** Clean up reaction products with 1.8X SPRI beads and 2 75 % ethanol washes. <br/> Elute products in 30 µL of water.
 
-**9.** Use a spec to measure concentrations and analyze products on a high sensitivity D1000 Tape. <br/> The no nickase control should only show initial extension products at correct size, <br/> longer time points should have more products (smears).
+**9.** Use a spec to measure concentrations and analyze products on an HS D1000 Tape. <br/> The no nickase control should only show initial extension products at correct size, <br/> longer time points should have more products (smears).
 
 ### qPCR follow-up
 
-**9.** Make 1:1000 dilutions of each sample and use qPCR to measure increase in desired products. <br/> Choose the time point where signal plateaus.
+**10.** Make 1:1000 dilutions of each sample and use qPCR to measure increase in desired products. <br/> Choose the time point where signal plateaus.
