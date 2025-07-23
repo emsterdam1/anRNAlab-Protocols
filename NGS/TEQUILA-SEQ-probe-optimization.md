@@ -94,4 +94,4 @@ Protocol:
 
 ### qPCR follow-up
 
-**10.** Make 1:1000 dilutions of each sample and use qPCR to measure increase in desired products. <br/> Choose the time point where signal plateaus.
+**10.** Make 1:1000 dilutions of each sample and measure increase in desired products by qPCR. <br/> Choose the time point where signal plateaus.
