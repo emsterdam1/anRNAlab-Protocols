@@ -29,31 +29,40 @@ Protocol:
 --------------------------------------------------------------------------------
 ### Part 1: Ligation with RNA Ligase (~15 minute prep, 2 hour ligation)
 
-**1.** Assemble the ligation reaction. <br/>If using less than 10 µM RNA, adjust adapter to 2X RNA concentration.
+**1.** Mix RNA and adapter in water in preparation for denaturation. <br/>If using less than 10 µM RNA, adjust adapter to 2X RNA concentration.
 
   | Component | Stock Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
-  | PEG-8000 | 50 % | **8**  µL | 
-  | RNA || **2**  µL |
-  | preA adapter || **2**  µL |
-  | RNA Ligase Buffer | 10X | **2**  µL |
+  | RNA | 10 uM | **2**  µL |
+  | preA adapter | 20 uM | **2**  µL |
   | ddH<sub/>2</sub>O || **5**  µL |
+  || **Total** | **9** µL |
+
+**2.** Heat denature the mixture at 70 °C for 2 minutes and then move to 4 °C (ice).
+  
+**3.** Assemble the ligation reaction on ice.
+
+  | Component | Stock Concentration | Quantity | 
+  | ---------: | ---------: | :---------- |
+  | RNA-adapter mix || **9**  µL |
+  | PEG-8000 | 50 % | **8**  µL | 
+  | RNA Ligase Buffer | 10X | **2**  µL |
   | T4 RNA Ligase KQ | 200 U/µL | **1**  µL |
   || **Total** | **20** µL |
 
   _Note: PEG-8000 is super viscous, be careful that you add the correct amount._ <br/> _Ensure all components are mixed thoroughly by tapping and spinning down._
 
-**2.** Ligate the RNA at 25 °C for 2 hours.
+**4.** Ligate the RNA at 16 °C overnight. <br/> _Note: 2 hours at 25 °C can sometimes work. Check for each unique template._
 
 ### Part 2: Removal of excess adapter and purification of reaction products (2.5 hours)
 
-**3.** Dilute ligation reaction to 50 µL with ddH<sub/>2</sub>O. <br/> _Note: this step is critical for the enzymes to be active._
+**5.** Dilute ligation reaction to 50 µL with ddH<sub/>2</sub>O. <br/> _Note: this step is critical for the enzymes to be active._
 
-**4.** Add 1 µL of 5´ Deadenylase to the reaction and incubate at 30 °C for 1 hour.
+**6.** Add 1 µL of 5´ Deadenylase to the reaction and incubate at 30 °C for 1 hour.
 
-**5.** Add 1 µL of Recj to the reaction and incubate at 37 °C for 1 hour.
+**7.** Add 1 µL of Recj to the reaction and incubate at 37 °C for 1 hour.
 
-**6.** Chelate Magnesium in the buffer by quenching reaction with 52 µL (1 reaction volume) of 25 mM EDTA.
+**8.** Chelate Magnesium in the buffer by quenching reaction with 52 µL (1 reaction volume) of 25 mM EDTA.
 
-**7.** Dilute reaction to 100 µL total with water and purify products by column or SPRI beads.
+**9.** Purify products by column or SPRI beads.
 
