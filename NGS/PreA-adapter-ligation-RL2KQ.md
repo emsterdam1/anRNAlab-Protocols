@@ -27,7 +27,7 @@ Equipment Required:
   
 Protocol:
 --------------------------------------------------------------------------------
-### Part 1: Ligation with RNA Ligase (~15 minute prep, 2 hour ligation)
+### Part 1: Ligation with RNA Ligase (~20 minute prep, overnight ligation)
 
 **1.** Mix RNA and adapter in water in preparation for denaturation. <br/>If using less than 10 µM RNA, adjust adapter to 2X RNA concentration.
 
@@ -53,6 +53,8 @@ Protocol:
   _Note: PEG-8000 is super viscous, be careful that you add the correct amount._ <br/> _Ensure all components are mixed thoroughly by tapping and spinning down._
 
 **4.** Ligate the RNA at 16 °C overnight. <br/> _Note: 2 hours at 25 °C can sometimes work. Check for each unique template._
+
+<br/><br/><br/>
 
 ### Part 2: Removal of excess adapter and purification of reaction products (2.5 hours)
 
