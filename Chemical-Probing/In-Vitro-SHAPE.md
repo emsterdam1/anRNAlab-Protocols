@@ -41,7 +41,7 @@ Protocol:
 
 **6.** Incubate RNA at 37 °C for multiple reagent half-lives (for example 10 minutes with 5NIA).<br/>_Note: Reagents with long half-lifes should be quenched with DTT (or similar reagent) after 30 minutes._
 
-**7.** Purify RNA (precipitation, buffer exchange column, SPRI beads)
+**7.** Purify RNA (e.g. precipitation, buffer exchange column, or SPRI beads)
 
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
