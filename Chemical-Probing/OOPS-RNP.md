@@ -65,7 +65,7 @@ _Note 2: The discarded phenol organic phase could be saved as an unbound protein
 **9.** Discard supernatant and <ins>repeat</ins> methanol wash once.<br/>
 _Note: Discard methanol supernatant in proper waste container._
 
-<br/>
+<br/><br/><br/>
 
 **Part 3: Digest crosslinked proteins (2 hours)**
 
@@ -73,8 +73,6 @@ _Note: Discard methanol supernatant in proper waste container._
 _Note: If enzyme not RNA-grade, pre-incubate with buffer at 50 °C for 15 minutes to remove RNase activity._
 
 **11.** Incubate samples at 50 °C (shake at 400 rpm) for 1.5 - 2 hours to digest crosslinked proteins.
-
-<br/><br/>
 
 **Part 4: Prepare bound RNA fraction for precipitation (20 minutes)**
 
