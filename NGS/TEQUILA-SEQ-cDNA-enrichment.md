@@ -63,11 +63,11 @@ Protocol:
 
 ### Bead Equilibration and Capture (~15 minute prep + 45 min wait)
 
-**4.** For each sample, capture streptavidin beads from 50 µL of slurry. <br/> Remove supernatant.
+**4.** For each sample, capture streptavidin beads from 50 µL of slurry. Remove supernatant.
 
-**5.** Wash beads 3 times in 100 µL (per initial 50) of 1X Bead Wash buffer + 0.1% Tween-20. <br/> Distribute last resuspension into separate tubes of 100 µL per sample before removing supernatant.
+**5.** Wash beads 3 times in 100 µL (per initial 50) of 1X Bead Wash buffer + 0.1% Tween-20. <br/> Distribute into separate tubes of 100 µL per sample before removing last supernatant.
 
-**6.** Immediately after removing last bead wash, add samples to each bead preparation. <br/> Incubate mixtures at 65 °C for 45 minutes. _Note: This would be a good time to prepare and preheat wash buffers._
+**6.** Immediately after removing last bead wash, add samples to each bead preparation. <br/> Incubate mixtures at 65 °C for 45 minutes.
 
 ### Wash buffer preparation (begin during bead capture incubation)
 
