@@ -27,7 +27,7 @@ Equipment Required:
 --------------------------------------------------------------------------------
   * Thermocycler
   * Magnetic stand
-  * Vortexer
+  * Strip tube Vortexer
 
 <!-- Use <br/> to go to next page -->
 <br/><br/><br/><br/>
@@ -88,22 +88,16 @@ Protocol:
 
 **8.** Preheat half of Wash Buffer I and II to 65 °C for at least 20 minutes. 
 
-### Bead washes ()
+### Bead washes (30 minutes)
 
 **9.** Capture sample beads and remove supernatant. <br/> Add 50 µL of HOT Wash Buffer I, vortex quickly, spin down, and move suspensions to new tube.
 
-**10.** Perform 2 washes of each sample with 100 µL of HOT Wash Buffer II at 65 °C for 5 min each.
+**10.** Perform 2 washes of each sample with 100 µL of HOT Wash Buffer II at 65 °C for 5 min each. _Note: Can incubate in a thermocycler or block, just tap mix periodically to keep from settling._
 
-<br/><br/><br/><br/><br/><br/><br/><br/>
+**11.** Wash once in 100 µL of room temp Wash Buffer I. <br/> Vortex for 2 minutes. Spin down, capture beads, and remove supernatant.
 
-### Day 2: Purification and analysis
+**12.** Wash once in 100 µL of room temp Wash Buffer II. <br/> Vortex for 1 minute. Spin down, capture beads, and remove supernatant.
 
-### SPRI bead cleanup and Tape (~40 minutes)
+**13.** Wash once in 100 µL of room temp Wash Buffer III. <br/> Vortex for 30 seconds. Spin down, capture beads, and remove supernatant.
 
-**8.** Clean up reaction products with 1.8X SPRI beads and 2 75 % ethanol washes. <br/> Elute products in 30 µL of water.
-
-**9.** Use a spec to measure concentrations and analyze products on an HS D1000 Tape. <br/> The no nickase control should only show initial extension products at correct size, <br/> longer time points should have more products (smears).
-
-### qPCR follow-up
-
-**10.** Make 1:1000 dilutions of each sample and measure increase in desired products by qPCR. <br/> Choose the time point where signal plateaus.
+**14.** Resuspend beads in 20 µL of nuclease-free water. Library PCR can be performed on-beads.
