@@ -25,6 +25,8 @@ Equipment Required:
   * Magnetic stand
   * TapeStation
 
+<br/><br/><br/><br/>
+
 Protocol:
 --------------------------------------------------------------------------------
 ### Day 1: Probe generation
