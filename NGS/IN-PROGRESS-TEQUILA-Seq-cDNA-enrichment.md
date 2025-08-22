@@ -68,34 +68,31 @@ Protocol:
 
 ### Day 2: Bead Capture and Washing
 
-### Bead Equilibration
+### Bead Equilibration and Capture (~15 minute prep + 45 min wait)
 
 **4.** For each sample, capture streptavidin beads from 50 µL of slurry. <br/> Remove supernatant.
 
-**5.** Wash beads 2 times in 100 µL (per initial 50) of 1X Bead Wash buffer + 0.1% Tween-20. <br/> Distribute last resuspension into separate tubes of 100 µL per sample.
+**5.** Wash beads 3 times in 100 µL (per initial 50) of 1X Bead Wash buffer + 0.1% Tween-20. <br/> Distribute last resuspension into separate tubes of 100 µL per sample before removing supernatant.
 
-### Bead Capture
+**6.** Immediately after removing last bead wash, add samples to each bead preparation. <br/> Incubate mixtures at 65 °C for 45 minutes. _Note: This would be a good time to prepare and preheat wash buffers._
 
-**5.** Immediately after removing last bead wash, add 
+### Wash buffer preparation (begin during bead capture incubation)
 
-  | Component | [Stock] | Quantity | 
-  | ---------: | :---------: |:---------- |
-  | annealed mix || **46**  µL | 
-  | DTT | 100 mM | **1**  µL |
-  | T4 Gene 32 Protein | 10 mg/ml | **1**  µL |
-  | Klenow Fragment| 5 U/µL | **1**  µL |
-  | **Total** || **49** µL |
-  <br/>
+**7.** Prepare Wash buffers I, II, and III for each sample:
 
-**4.** Incubate extension in a thermocycler for 10 minutes at 37 °C (set lid to 55 °C)
+  | Wash Buffer | [SSC] | [SDS] | per sample | 
+  | ---------: | :---------: | :---------: |:---------- |
+  | Wash Buffer I | **1X** | **0.1%** | **200 µL** |
+  | Wash Buffer II | **0.1X** | **0.1%** | **350 µL** |
+  | Wash Buffer III | **0.1X** | **0%** | **150 µL** |
 
-### Isothermal strand displacement amplification (up to 16 hours)
+**8.** Preheat half of Wash Buffer I and II to 65 °C for at least 20 minutes. 
 
-**5.** For each time point sample, add 1 µL of 10U/µL Nt.BspQI nickase. <br/> For the no nickase control, add 1 µL of water.
+### Bead washes ()
 
-**6.** Incubate reactions at 37 °C for varying time points. <br/> A good starting point is 2, 4, 6, and 8 hours.
+**9.** Capture sample beads and remove supernatant. <br/> Add 50 µL of HOT Wash Buffer I, vortex quickly, spin down, and move suspensions to new tube.
 
-**7.** At the end of each time point, inactivate enzyme at 80 °C for 20 minutes. <br/> Move inactivated time points to 4 °C until ready to clean up all samples. <br/> _Note: the no nickase control should incubate as long as the longest time point._
+**10.** Perform 2 washes of each sample with 100 µL of HOT Wash Buffer II at 65 °C for 5 min each.
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
