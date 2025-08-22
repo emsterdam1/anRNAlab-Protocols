@@ -25,7 +25,7 @@ Materials:
   
 Equipment Required:
 --------------------------------------------------------------------------------
-  * Thermocycler
+  * Heat block with shaking (or thermocycler with intermittent tap mixing)
   * Magnetic stand
   * Strip tube Vortexer
 
@@ -85,7 +85,7 @@ Protocol:
 
 **9.** Capture sample beads and remove supernatant. <br/> Add 50 µL of HOT Wash Buffer I, vortex quickly, spin down, and move suspensions to new tube.
 
-**10.** Perform 2 washes of each sample with 100 µL of HOT Wash Buffer II at 65 °C for 5 min each. _Note: Can incubate in a thermocycler or block, just tap mix periodically to keep from settling._
+**10.** Wash samples twice with 100 µL of HOT Wash Buffer II at 65 °C for 5 min with mixing.
 
 **11.** Wash once in 100 µL of room temp Wash Buffer I. <br/> Vortex for 2 minutes. Spin down, capture beads, and remove supernatant.
 
