@@ -36,6 +36,7 @@ Protocol:
 --------------------------------------------------------------------------------
 ### Day 1: Probe annealing
 
+### Hyb Buffer Prep (~15 minutes)
 **1.** Prepare 500 µL of 2X Hyb buffer. <br/> _Each sample only needs 7.5 µl_
 
   | Component | [Stock] | [Final] | Quantity | 
@@ -49,7 +50,8 @@ Protocol:
   
   _Pipette mix thoroughly, PEG is viscous and SDS is detergent._ <br/>
   
-**2.** Anneal RC oligo to template pool in a thermocycler with the following program:  
+### Hybridization (12+ hours overnight)
+**2.** Assemble the hybridization reaction.  
 
   | Component | [Stock] | Quantity | 
   | ---------: | :---------: |:---------- |
@@ -60,20 +62,21 @@ Protocol:
   | 2X Hyb | 2X | **7.5**  µL |
   | **Total** || **15** µL |
 
-  | Temp | Time | Step |
-  | :--------: | :---------: |:---------: |
-  | **95 °C** | **2:00** | **inital denaturation** |
-  | **down to 4 °C** | **0.1 °C/sec** | **gradual ramp down** |
-  | **4 °C** || **hold until next step** |
-  
-  _Note: Should take 15 minutes to ramp down from 95 to 4,_ <br/> _set Proflex ramp rate to 0.3 °C/sec to achieve this._
-<br/>
+  _Note: to achieve 500 ng, can concentrate pre-pooled multiplexed samples._
 
-<br/><br/><br/><br/>
+**3.** In a thermocycler, incubate at 95 °C for 10 minutes, <br/> then put at 65 °C for 12+ hours overnight
 
-### Intial extension (~15 minutes)
+### Day 2: Bead Capture and Washing
 
-**3.** To each sample, add the following components: <br/> _Tip: can spot 1 µL at tube tops and spin down to mix_
+### Bead Equilibration
+
+**4.** For each sample, capture streptavidin beads from 50 µL of slurry. <br/> Remove supernatant.
+
+**5.** Wash beads 2 times in 100 µL (per initial 50) of 1X Bead Wash buffer + 0.1% Tween-20. <br/> Distribute last resuspension into separate tubes of 100 µL per sample.
+
+### Bead Capture
+
+**5.** Immediately after removing last bead wash, add 
 
   | Component | [Stock] | Quantity | 
   | ---------: | :---------: |:---------- |
