@@ -85,12 +85,12 @@ Protocol:
 
 **9.** Capture sample beads and remove supernatant. <br/> Add 50 µL of HOT Wash Buffer I, vortex quickly, spin down, and move suspensions to new tube.
 
-**10.** Wash samples twice with 100 µL of HOT Wash Buffer II at 65 °C for 5 min with mixing.
+**10.** Wash samples twice with 100 µL of HOT Wash Buffer II at 65 °C for 5 min with mixing. <br/> _Note: After each wash, spin down, capture beads, and remove supernatant._
 
-**11.** Wash once in 100 µL of room temp Wash Buffer I. <br/> Vortex for 2 minutes. Spin down, capture beads, and remove supernatant.
+**11.** Wash once in 100 µL of room temp Wash Buffer I. Vortex for 2 minutes.
 
-**12.** Wash once in 100 µL of room temp Wash Buffer II. <br/> Vortex for 1 minute. Spin down, capture beads, and remove supernatant.
+**12.** Wash once in 100 µL of room temp Wash Buffer II. Vortex for 1 minute.
 
-**13.** Wash once in 100 µL of room temp Wash Buffer III. <br/> Vortex for 30 seconds. Spin down, capture beads, and remove supernatant.
+**13.** Wash once in 100 µL of room temp Wash Buffer III. Vortex for 30 seconds.
 
 **14.** Resuspend beads in 20 µL of nuclease-free water. Library PCR can be performed on-beads.
