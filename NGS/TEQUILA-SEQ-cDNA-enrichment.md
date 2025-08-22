@@ -45,8 +45,6 @@ Protocol:
   | SDS | 20% | 0.2% | **1**  µL |
   | **Total** ||| **100** µL |
   
-  _Pipette mix thoroughly, PEG is viscous and SDS is detergent._ <br/>
-  
 ### Hybridization (12+ hours overnight)
 **2.** Assemble the hybridization reaction.  
 
