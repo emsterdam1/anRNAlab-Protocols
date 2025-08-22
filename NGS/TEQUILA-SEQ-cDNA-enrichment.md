@@ -34,16 +34,16 @@ Protocol:
 ### Day 1: Probe annealing
 
 ### Hyb Buffer Prep (~15 minutes)
-**1.** Prepare 500 µL of 2X Hyb buffer. <br/> _Each sample only needs 7.5 µl_
+**1.** Prepare 100 µL of 2X Hyb buffer.
 
   | Component | [Stock] | [Final] | Quantity | 
   | ---------: | :---------: | :---------: |:---------- |
-  | nuclease-free water | | | **325**  µL | 
-  | SSC buffer | 20X | 2X | **50**  µL |
-  | Denhardt's | 50X | 2X | **20**  µL |
-  | PEG-8000 | 50% | 20% | **200**  µL |
-  | SDS | 20% | 0.2% | **5**  µL |
-  | **Total** ||| **500** µL |
+  | nuclease-free water | | | **45**  µL | 
+  | SSC buffer | 20X | 2X | **10**  µL |
+  | Denhardt's | 50X | 2X | **4**  µL |
+  | PEG-8000 | 50% | 20% | **40**  µL |
+  | SDS | 20% | 0.2% | **1**  µL |
+  | **Total** ||| **100** µL |
   
   _Pipette mix thoroughly, PEG is viscous and SDS is detergent._ <br/>
   
@@ -58,8 +58,6 @@ Protocol:
   | nuclease-free water || **6-X**  µL |
   | 2X Hyb | 2X | **7.5**  µL |
   | **Total** || **15** µL |
-
-  _Note: to achieve 500 ng, can concentrate pre-pooled multiplexed samples._
 
 **3.** In a thermocycler, incubate at 95 °C for 10 minutes, <br/> then put at 65 °C for 12+ hours overnight
 
