@@ -31,20 +31,21 @@ Equipment Required:
   * High-speed microcentrifuge
   * 50 °C heat block (ideally with rotation)
 
-___
 Protocol:
 --------------------------------------------------------------------------------
 _Note: Trizol is caustic and corrosive. Wear proper PPE and work in fume hood._
 
 **Part 1: Extract unbound RNA fraction (40 minutes)**
 
-**1.** Homogenize cells (**all steps assume 1 mL Trizol per sample**), set 5 minutes at room temperature.
+**1.** Add 1 mL Trizol per sample, vortex 15s seconds, set 5 minutes at room temperature.<br_>
+_Note: all following volumes are matched to 1 mL Trizol, change accordingly if altered._
 
 **2.** Add 200 µL of chloroform to each sample, vortex mix for 15 seconds.
   
 **3.** Separate phases at 12,000 x g for 15 minutes at 10 °C.
 
 **4.** Carefully remove (top) aqueous phase and store in new tubes on ice until ready to precipitate.<br/>
+_Note: Some cells carry-over contaminants, can help to perform 1 additional chloroform wash._<br/> 
 _Note: Initial aqueous phases can be stored on ice for 2-3 hours or long-term at -80 °C._<br/>
 _This fraction contains uncrosslinked (unbound) RNA._
 
@@ -65,7 +66,7 @@ _Note 2: The discarded phenol organic phase could be saved as an unbound protein
 **9.** Discard supernatant and <ins>repeat</ins> methanol wash once.<br/>
 _Note: Discard methanol supernatant in proper waste container._
 
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 **Part 3: Digest crosslinked proteins (2 hours)**
 
