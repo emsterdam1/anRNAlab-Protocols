@@ -66,7 +66,7 @@ _Note 2: The discarded phenol organic phase could be saved as an unbound protein
 **9.** Discard supernatant and <ins>repeat</ins> methanol wash once.<br/>
 _Note: Discard methanol supernatant in proper waste container._
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 **Part 3: Digest crosslinked proteins (2 hours)**
 
