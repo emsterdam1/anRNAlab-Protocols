@@ -1,4 +1,4 @@
-Antisense oligo and RNase H depletion of rRNAs
+RNase H depletion of rRNAs
 ================================================================================
 Description: DNA oligos enable RNase H cleavage of mouse or human rRNAs from a sample
 
@@ -63,7 +63,7 @@ Protocol:
 **4.** Digest rRNA in a thermocycler for 30 minutes at 50 °C (set lid to 55 °C):<br/>
 _Note: For samples that require intact RNA, 1 hour at 37 °C minimizes random fragmentation_ 
 
-  <br/><br/><br/><br/><br/><br/>
+<br/><br/>
 
 ### DNase removal of oligos (~40 minutes)
 
