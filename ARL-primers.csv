@@ -1095,3 +1095,7 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 1094,Not1 Calm3 Amp R,cloning,Rn Calm3,CALMs,IDT,590037097,GTACGCGGCCGCtcacttcgcagtcatcatctg
 1095,Kpn1 Calm3 Amp F,cloning,Rn Calm3,CALMs,IDT,590037098,GTACGGTACCtgcctcgccatggctgac
 1096,Not1 Calm3 V5 Amp R,cloning,Rn Calm3,CALMs,IDT,590037099,GTACGCGGCCGCtcaCGTAGAATCGAGACCGAGGAGAGGGTTAGGGATAGGCTTACCcttcgcagtcatcatctgtacaaactc
+1097,i7-i5 circ RT,sequencing,libraries,All,IDT,,/5phos/NNNNNNNCTGTCTCTTATACACATCTGACGCTGCCGACGA/iSp18/GTCTCGTGGGCTCGG
+1098,i5-i7 circ RT,sequencing,libraries,All,IDT,,/5phos/NNNNNNNCTGTCTCTTATACACATCTCCGAGCCCACGAGAC/iSp18/TCGTCGGCAGCGTC
+1099,Full library amp F,sequencing,libraries,All,IDT,,AATGATACGGCGACCACC
+1100,Full library amp R,sequencing,libraries,All,IDT,,CAAGCAGAAGACGGCATAC
