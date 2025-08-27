@@ -1,14 +1,12 @@
 Mutational profiling (MaP) with SuperScript II
 ================================================================================
-Description: Manganese-containing buffer encourages transcriptase read-through of modified nucleotides.<br/>
+Description: Mn<sup>2+</sup>-containing buffer encourages transcriptase read-through of modified nucleotides.<br/>
 Mutations and deletions at sites of read-through can be mapped by sequencing.
 
 Before starting:
 --------------------------------------------------------------------------------
 * [In-cell crosslinking with SDA](../Chemical-Probing/SDA-Xlinking.md)
 * [OOPS RNP enrichment](../Chemical-Probing/OOPS-RNP.md)
-* [In-cell SHAPE RNA profiling](../Chemical-Probing/In-Cell-SHAPE.md)
-* [Cell-free SHAPE RNA profiling](../Chemical-Probing/Cell-free-SHAPE.md)
 * [*In Vitro* SHAPE RNA profiling](../Chemical-Probing/In-Vitro-SHAPE.md)
 
 Materials:
