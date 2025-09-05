@@ -5,7 +5,7 @@ Description: Ligation of 3' adapter to RNA for subsequent RT
 Materials:
 --------------------------------------------------------------------------------
   * 10 uM of purified RNA target
-  * 20 uM 5' preadenylated (App) and 3' blocked adapter ([ARL793](../ARL-primers.csv)) 
+  * 20 uM 5' preadenylated (App) and 3' blocked adapter ([ARL793 or ARL1078](../ARL-primers.csv)) 
   * 50 % PEG-8000
   * 100 % DMSO
   * **10X T4 RNA Ligase Reaction Buffer**
