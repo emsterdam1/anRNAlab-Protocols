@@ -41,20 +41,29 @@ Protocol:
   | ---------: | ---------: | :---------- |
   | DNA | 1 µg  | **X**  µL | 
   | NEB rCutSmart Buffer | 10X | 5  µL |
-  | Restriction Enzyme |Usually, 20 U/uL| **Y**  µL |
+  | Restriction Enzyme (s) |Usually, 20 U/uL| **Y**  µL |
   | Nuclease Free Water || Up to 25  µL |
   || **Total** | 25 µL |
+ 
  *The DNA input does not necessarily have to be 1 µg; could be scaled up or down*
- *Y: see your RE information about how many units are necessary to digest your insert. In general, NEB recommends 5–10 units of enzyme per µg DNA, and 10–20 units for genomic DNA in a 1 hour digest. 1 µL is a good starting point*
+ *Y: see your RE information about how many units are necessary to digest your insert. In general, NEB recommends 5–10 units of enzyme per µg DNA, and 10–20 units for genomic DNA in a 1 hour digest. 1 µL is a good starting point. Plasmid inserts are usually significantly shorter than a plasmid or genomic DNA, and therefore usually less RE is necessary.*
 
  **5.** Run the RE digest for 37C for an hour (Check to see if your RE has different conditions), and heat inactivaate as is necessary.
 
- **6.** Clean up the insert with PCR Clean-Up or SPRI beads
+ **6.** Clean up the insert with PCR Clean-Up or SPRI beads.
 
 
  **Digesting Plasmid Backbone (~1.5hrs)**
 
-**1.** 
+**1.** Set up a restriction enzyme digest of the plasmid backbone. Be sure to know the length of your plasmid.
+| Component | Concentration | Quantity | 
+  | ---------: | ---------: | :---------- |
+  | DNA | 1 µg  | **X**  µL | 
+  | NEB rCutSmart Buffer | 10X | 5  µL |
+  | Restriction Enzyme (s) |Usually, 20 U/uL| **Y**  µL |
+  | Nuclease Free Water || Up to 25  µL |
+  || **Total** | 25 µL |
+
  
   <!-- : in the pipes specify justification -->
   <!-- **X** bolds the inside -->
