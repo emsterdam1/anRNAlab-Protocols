@@ -7,29 +7,22 @@ and pTETRIS Expression vectors (https://benchling.com/cweidmann/f_/7cICZyyi-ptet
 
 Useful symbols: µ°
 
-Materials:
+Day One: Amplifying and Digesting the Insert (if from a Gene Block or isolated cDNA)
 --------------------------------------------------------------------------------
-### Day 1
-  * Stuff
-  * **A Buffer**  
-    ◦ ingredient  
-    ◦ ingredient  
-<!-- Using distinct bullet symbols with 2 spaces at end of each line makes a better formatted list -->
+### Materials 
+  * Q5 PCR Materials
+    ◦ Q5 2X Buffer   
+    ◦ Forwards + Reverse Primers with Restriction Enzyme Sites  
+    ◦ Input DNA or cDNA  
+  * PCR Clean-Up Kit (NEB Monarch https://www.neb.com/en-us/products/t1030-monarch-pcr-dna-cleanup-kit-5-ug?srsltid=AfmBOoosHMyYJYZayyvPRfYxAON-PB7djlwKAoBYeznQUNVmWk2iVVRW) OR SPRI Beads  
     
-### Day ...
-  * Other stuff
-  * Other stuff
-
-Equipment Required:
---------------------------------------------------------------------------------
-### Day ..
-
-  * Thing 1
-  * Thing 2
+### Equipment Required:
+  * Thermocycler
+  * Microcentrifuge
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<!-- Use <br/> to fill in first page -->
+
 ___
 Protocol:
 --------------------------------------------------------------------------------
