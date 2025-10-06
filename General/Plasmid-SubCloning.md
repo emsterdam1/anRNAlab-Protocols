@@ -10,7 +10,7 @@ Useful symbols: µ°
 Day One: Amplifying and Digesting the Insert (if from a Gene Block or isolated cDNA)
 --------------------------------------------------------------------------------
 ### Materials 
-  * Q5 PCR Materials
+  * Q5 PCR Materials  
     ◦ Q5 2X Buffer   
     ◦ Forwards + Reverse Primers with Restriction Enzyme Sites  
     ◦ Input DNA or cDNA  
