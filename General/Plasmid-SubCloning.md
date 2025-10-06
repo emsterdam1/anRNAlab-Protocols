@@ -1,4 +1,4 @@
-Plasmid Sub-Cloning
+Double Restriction Enzyme Plasmid Sub-Cloning
 ================================================================================
 This is a general protocol for how to digest an existing plasmid, and re-ligate with 
 an insert. Check out the Lab Benchling for the Plasmid Database (https://benchling.com/bowbritt/f_/8mJrYOJH-plasmid-database/) 
@@ -6,17 +6,6 @@ and pTETRIS Expression vectors (https://benchling.com/cweidmann/f_/7cICZyyi-ptet
 
 
 Useful symbols: µ°
-
-```
-Title
-================================================================================
-Description:
-
-[Go To Protocol](#protocol)
-
-Before starting:
---------------------------------------------------------------------------------
-* [LINK NAME](./path-to-file/file.ext)
 
 Materials:
 --------------------------------------------------------------------------------
