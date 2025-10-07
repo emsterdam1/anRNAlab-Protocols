@@ -131,7 +131,7 @@ https://nebiocalculator.neb.com/#!/ligation
 <details>
   <summary>Next Steps</summary>
   
-</p> <a href="./Transforming-Compotent-Bacteria.md">
+</p> <a href="./Transforming-Compotent-Cells.md">
 Transforming Compotent Cells</a>
 
 </details>
