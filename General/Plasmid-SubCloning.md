@@ -49,6 +49,7 @@ Protocol:
   || **Total** | 25 µL |
  
  *The DNA input does not necessarily have to be ~500 ng; could be scaled up or down*
+ 
  *Y: see your RE information about how many units are necessary to digest your insert. In general, NEB recommends 5–10 units of enzyme per µg DNA, and 10–20 units for genomic DNA in a 1 hour digest. 1 µL is a good starting point. Plasmid inserts are usually significantly shorter than a plasmid or genomic DNA, and therefore usually less RE is necessary.*
 
  **5.** Run the RE digest at 37°C for an hour (Check to see if your RE has different conditions), and heat inactivaate as necessary.
@@ -68,6 +69,7 @@ Protocol:
   || **Total** | 10 µL |
   
 *The DNA input does not necessarily have to be ~500 ng; could be scaled up or down*
+
  *Y: see your RE information about how many units are necessary to digest your insert. In general, NEB recommends 5–10 units of enzyme per µg DNA, and 10–20 units for genomic DNA in a 1 hour digest. 1 µL is a good starting point.*
 
  **2.** Run the RE digest at 37°C for an hour (Check to see if your RE has different conditions). Heat inactive *only* if the only item you need is the plasmid backbone.
@@ -106,6 +108,12 @@ If you are also attempting to isolate the plasmid insert for downstream uses in 
 **3.** PCR Clean-Up the backbone
 
 **Ligation Reaction (30 min + overnight)**
+  
+  **1.** Thaw the T4 Ligase + ATP Buffer at room temperature, frequently pipetting up and down to ensure full resuspension.
+
+  **2.** Prepare the following ligation reaction. *Using a water/buffer master mix is highly encouraged*
+
+  
   <!-- : in the pipes specify justification -->
   <!-- **X** bolds the inside -->
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
