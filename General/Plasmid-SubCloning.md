@@ -4,20 +4,18 @@ This is a general protocol for how to digest an existing plasmid, and re-ligate 
 an insert. Check out the Lab Benchling for the Plasmid Database (https://benchling.com/bowbritt/f_/8mJrYOJH-plasmid-database/) 
 and pTETRIS Expression vectors (https://benchling.com/cweidmann/f_/7cICZyyi-ptetris-expression-vectors/) for possible backbones.
 
-
-Useful symbols: µ°
-
 Materials
 --------------------------------------------------------------------------------
   * Q5 PCR Materials  
     ◦ Q5 2X Buffer   
     ◦ Forwards + Reverse Primers with Restriction Enzyme Sites  
     ◦ Input DNA or cDNA
-  * Restriction Enzymes
+  * NEB Restriction Enzymes
   * rCutSmartBuffer
   * PCR Clean-Up Kit (NEB Monarch https://www.neb.com/en-us/products/t1030-monarch-pcr-dna-cleanup-kit-5-ug?srsltid=AfmBOoosHMyYJYZayyvPRfYxAON-PB7djlwKAoBYeznQUNVmWk2iVVRW) OR SPRI Beads
   * Gel Purification Kit (NEB Monarch https://www.neb.com/en-us/products/t1120-monarch-spin-dna-gel-extraction-kit)
-  *  
+  *  T4 Ligation Buffer
+  *  T4 Ligase
 
 Equipment Required
 --------------------------------------------------------------------------------
@@ -25,7 +23,7 @@ Equipment Required
   * Microcentrifuge
 
 
-<br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 
 ___
