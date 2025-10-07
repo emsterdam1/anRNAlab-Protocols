@@ -25,7 +25,7 @@ Equipment Required
   * Microcentrifuge
 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 
 ___
