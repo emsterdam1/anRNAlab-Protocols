@@ -113,26 +113,35 @@ If you are also attempting to isolate the plasmid insert for downstream uses in 
 
   **2.** Prepare the following ligation reaction. *Using a water/buffer master mix is highly encouraged*
 
+https://nebiocalculator.neb.com/#!/ligation
   
-  <!-- : in the pipes specify justification -->
-  <!-- **X** bolds the inside -->
-<!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
+| Component | Concentration | Quantity | 
+  | ---------: | ---------: | :---------- |
+  | Plasmid Backbone | variable  | ~50-100 ng |
+  | Insert | variable  | 3 molar equivalents of backbone | 
+  | T4 Ligase Buffer | 10X | 2  µL |
+  | Ligase || 1  µL |
+  | Nuclease Free Water || Up to 20  µL |
+  || **Total** | 20 µL |
+
+  *Formally, it should be 0.02pmol of backbone to 0.06 pmol of insert, but the ratio is more important. Use the NEB Ligation calculator to calculate molar equivelnt*
+
+  **3.** Incubate overnight at 16°C, then heat inactivate the next day for 20 minutes at 65°C
+
+  
 
 <details>
   <summary>Next Steps</summary>
   
-</p> <a href="./path-to-file/file1.ext">
-LINK1 NAME</a>
-
-</p> <a href="./path-to-other-file/file2.ext">
-LINK2 NAME</a>
+</p> <a href="./Transforming-Compotent-Bacteria.md">
+Transforming Compotent Cells</a>
 
 </details>
 
 <details>
   <summary>More Info</summary>
   
-  <a href="https://www.website.com/just-copy-paste-your-target-website-here.html">
-WEBSITE LINK NAME</a>  
+  <a href="https://www.website.com/just-copy-paste-your-target-website-here.html](https://www.neb.com/en-us/tools-and-resources/usage-guidelines/cloning-guide?srsltid=AfmBOoocwspyvZkT2YmG7L6xBMkEeglV3-dzmP6ptGuqFeQIJb9pek5m">
+NEB Cloning Info</a>  
 
 </details>
