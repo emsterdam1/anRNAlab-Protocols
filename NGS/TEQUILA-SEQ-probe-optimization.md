@@ -38,9 +38,9 @@ Protocol:
   | Component | [Stock] | Quantity | 
   | ---------: | :---------: |:---------- |
   | template pool | 10 ng/µl | **1**  µL | 
-  | RC oligo | 10 µM | **1**  µL |
-  | dNTP mix | 10 mM each | **2.5**  µL |
-  | RNase-free water|| **36.5**  µL |
+  | RC oligo | 10 µM | **1.25**  µL |
+  | dNTP mix | 10 mM each | **3**  µL |
+  | RNase-free water|| **35.75**  µL |
   | NEB Buffer 3.1| 10X | **5**  µL |
   | **Total** || **46** µL |
   <br/>
