@@ -38,10 +38,10 @@ Protocol:
 
   | Component | [Stock] | Quantity | 
   | ---------: | :---------: |:---------- |
-  | template pool | 10 ng/µl | **1**  µL | 
-  | RC oligo | 2 µM | **1.25**  µL |
+  | template pool | 10 ng/µl | **2**  µL | 
+  | RC oligo | 2 µM | **2.5**  µL |
   | dNTP mix | 1 mM each | **3**  µL |
-  | RNase-free water|| **20.45**  µL |
+  | RNase-free water|| **18.2**  µL |
   | NEB Buffer 3.1| 10X | **3**  µL |
   | **Total** || **28.7** µL |
   <br/>
@@ -59,7 +59,7 @@ Protocol:
 
 <br/><br/><br/><br/>
 
-### Intial extension (~15 minutes)
+### Intial extension and purification (~40 minutes)
 
 **3.** To each sample, add the following components: <br/> _Tip: can spot 1 µL at tube tops and spin down to mix_
 
@@ -76,25 +76,36 @@ Protocol:
 
 **5.** Add 0.2 µL of RecJ and incubate for another 15 minutes at 37 °C
 
-**6.** Clean up reaction products with 1.8X SPRI beads and 2 75 % ethanol washes. <br/> Elute products in 30 µL of water.
+**6.** Clean up reaction products with 1.4X SPRI beads and 2 80 % ethanol washes. <br/> Elute products in 16 µL of water. Confirm by qubit and Tape.
 
-### Isothermal strand displacement amplification (up to 16 hours)
+### Isothermal strand displacement amplification (up to 2.5 hours)
 
-**5.** For each time point sample, add 1 µL of 10U/µL Nt.BspQI nickase. <br/> For the no nickase control, add 1 µL of water.
+**7.** For each sample, combine the following components:
 
-**6.** Incubate reactions at 37 °C for varying time points. <br/> A good starting point is 2, 4, 6, and 8 hours.
+  | Component | [Stock] | Quantity | 
+  | ---------: | :---------: |:---------- |
+  | purified dsDNA template || **10**  µL | 
+  | RNase-free water|| **1**  µL |
+  | NEB Buffer 3.1| 10X | **5**  µL |
+  | dNTP mix | 1 mM each | **30**  µL |
+  | DTT | 100 mM | **1**  µL |
+  | T4 Gene 32 Protein | 10 mg/ml | **1**  µL |
+  | Klenow Fragment | 5 U/µL | **1**  µL |
+  | Nt.BspQI | 10 U/µL | **1**  µL |
+  | **Total** || **50** µL |
+  <br/>
 
-**7.** At the end of each time point, inactivate enzyme at 80 °C for 20 minutes. <br/> Move inactivated time points to 4 °C until ready to clean up all samples. <br/> _Note: the no nickase control should incubate as long as the longest time point._
+**8.** Incubate reactions at 37 °C and remove 15 uL at varying time points. <br/> A good starting point is 30 min, 1 hour, and 2 hours.
+
+**9.** At each time point, inactivate enzymes at 80 °C for 20 minutes. <br/> Move inactivated time points to 4 °C until ready to clean up all samples.
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
-### Day 2: Purification and analysis
-
 ### SPRI bead cleanup and Tape (~40 minutes)
 
-**8.** Clean up reaction products with 1.8X SPRI beads and 2 75 % ethanol washes. <br/> Elute products in 30 µL of water.
+**8.** Dilute reaction products to 30 µL and clean up with 1.8X SPRI beads and 3 75 % ethanol washes. <br/> Elute products in 16 µL of water.
 
-**9.** Use a spec to measure concentrations and analyze products on an HS D1000 Tape. <br/> The no nickase control should only show initial extension products at correct size, <br/> longer time points should have more products (smears).
+**9.** Use a spec to measure concentrations and analyze products on an HS D1000 Tape.
 
 ### qPCR follow-up
 
