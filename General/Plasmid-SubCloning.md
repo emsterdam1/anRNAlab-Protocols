@@ -33,9 +33,9 @@ Protocol:
 
 **1.** Prepare a 25 uL Q5 PCR reaction to append the restriction enzyme (RE) sites to the ends of your DNA of interest, and run for 25-30 cycles.
 
- **2.** Use the PCR Clean-up kit or SPRI beads (adjust ratio based on product size) to clean-up the resulting product
+ **2.** Use the PCR Clean-up kit or SPRI beads (adjust ratio based on product size) to clean-up the resulting product.
 
- **3.** Validate the expected product was produced by speccing, and running a TAPE
+ **3.** Validate the expected product was produced by speccing, and running a TAPE.
 
  **4.** Set up a restriction enzyme digest for the insert. Be sure to know your insert length.
 | Component | Concentration | Quantity | 
