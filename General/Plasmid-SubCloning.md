@@ -57,7 +57,7 @@ Protocol:
 
  **Digesting and Purifying Plasmid Backbone (~2.5hrs)**
 
-**1.** Set up a restriction enzyme (RE) digest of the plasmid backbone. If you need a large amount of backbone for multiple ligation reactions, set up multiple digestions. Since multiple REs will be used, it is STRONGLY encouraged to have single RE control samples, to ensure the REs are functional. Be sure to know the length of your plasmid.
+**1.** Set up a restriction enzyme (RE) digest of the plasmid backbone. If you need a large amount of backbone for multiple ligation reactions, set up multiple digestions. Since multiple REs will be used, it is STRONGLY encouraged to have single and no RE control samples, to ensure the REs are functional. Be sure to know the length of your plasmid.
 | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
   | DNA | 1 µg  | **X**  µL | 
@@ -70,23 +70,23 @@ Protocol:
 
  *Y: see your RE information about how many units are necessary to digest your insert. In general, NEB recommends 5–10 units of enzyme per µg DNA, and 10–20 units for genomic DNA in a 1 hour digest. 1 µL is a good starting point.*
 
- **2.** Run the RE digest at 37°C for an hour (Check to see if your RE has different conditions). Heat inactive *only* if the only item you need is the plasmid backbone.
+ **2.** Run the RE digest at 37°C for an hour (Check to see if your RE has different conditions). Heat inactivate *only* if the only item you need is the plasmid backbone.
 
  **3.** While this is running, pour a 1% agarose gel with the smallest combs (12 wells) for downstream gel purification of the backbones.
 
-If the plasmid does not have an insert you also plan to isolate and religate, you must do a dephosphorylation of the 5′ ends of the plasmid (CIP), to ensure it does not reseal without accepting the insert.  Remeber, if both the insert and the backbone at dephosphorylated, the plasmid will not re-ligate!
+If the plasmid does not have an insert you also plan to isolate and religate, you must do a dephosphorylation of the 5′ ends of the plasmid (CIP), to ensure it does not reseal without accepting the insert.  Remember, if both the insert and the backbone at dephosphorylated, the plasmid will not re-ligate!
 
  **4.** Add 1 µL of Quick CIP to the RE reaction, and incubate for another 10 min at 37°C. 
 
- **5.** Heat inactivate *both* the CIP at 80°C for 2 minutes, and the RE enzymes?
+ **5.** Heat inactivate 80°C for 2 minutes. This should inactivate the CIP and the REs.
 
  If the insert is being isolated for ligation later, do not CIP the digestion reaction
 
- **6.** Run your multi- and single digested plasmid, along with an undigested control on the gel. 90V for an hour should be sufficient.
+ **6.** Run your multi-, single, and undigested digested plasmid on the gel. 90V for an hour should be sufficient.
 
- **7.** Cut out the plasmid backbone (and insert, if applicable), then gel purify the slices via Monarch NEB Gel Purification Spin Kit. If you have multiple reactions to increase yield, pool all the samples into one column (up to 5 µg), and elute into 20 µl Validate concentration via spec.
+ **7.** Cut out the plasmid backbone (and insert, if applicable), taking care to minimize exposure to the light. Gel purify the slices via Monarch NEB Gel Purification Spin Kit. If you have multiple reactions to increase yield, pool all the samples into one column (up to 5 µg), and elute into 20 µl. Validate concentration via spec.
 
-**Optional CIP Reaction (~1.5hrs)**
+**Optional CIP Reaction (~0.5hrs)**
 
 If you are also attempting to isolate the plasmid insert for downstream uses in plasmid cloning, you must do a dephosphorylation reaction after the backbone has been isolated. 
 
@@ -124,7 +124,7 @@ https://nebiocalculator.neb.com/#!/ligation
 
   *Formally, it should be 0.02pmol of backbone to 0.06 pmol of insert, but the ratio is more important. Use the NEB Ligation calculator to calculate molar equivelnt*
 
-  **3.** Incubate overnight at 16°C, then heat inactivate the next day for 20 minutes at 65°C
+  **3.** Incubate overnight at 16°C, then heat inactivate the next day for 20 minutes at 65°C.
 
   
 
