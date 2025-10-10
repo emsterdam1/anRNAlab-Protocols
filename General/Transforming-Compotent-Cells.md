@@ -40,10 +40,10 @@ Protocol:
 
 **6.** Add 100 uL of SOC media to the cells
    
-**7.** Incubate at 37C for 30 min while shaking
+**7.** Incubate at 37°C for 30 min while shaking.
    
 **8.** Take a 200 uL pipette and bend the tip, and use it to pipette the entire bacteria mixture onto a plate
    * Use the bent part of the tip to spread the bacteria (doing 1-2 "dilutions")
      
-**9.** If the samples have transposase elements, incubate overnight at 30C, otherwise incubate at 37C
+**9.** If the samples have transposase elements, incubate overnight at 30°C, otherwise incubate at 37°C
 
