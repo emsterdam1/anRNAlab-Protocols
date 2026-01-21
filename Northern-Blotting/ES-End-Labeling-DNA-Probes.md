@@ -59,17 +59,20 @@ _Note: The dye must be twofold molar excess to the ddUTP. In this reaction, 70 n
 | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
   | DNA probe | 100 µM | **10**  µL | 
-  | Labeled-ddUTPs | 2 mM | **4**  µL |
+  | Labeled-ddUTPs | 2 mM | **0.75-2.5**  µL |
   | TdT Buffer | 10X | **2**  µL |
   | CoCl<sub>2</sub> | 2.5 mM | **2**  µL |
-  | RNase-free water |  | **1**  µL |  
+  | RNase-free water |  | **Up to Volume**  µL |  
   | Terminal Transferase | 10 U/µL | **1**  µL |
   || **Total** | **20** µL |
 
-_Note: The paper recommends inputted 500-3000 pmols; in this protocol 1000 pmol is used. The labeled ddUTPs must be added in 1.5-5 fold molar excess._
+_Note: The paper recommends inputted 500-3000 pmols; in this protocol 1000 pmol is used. The labeled ddUTPs must be added in 1.5-5 fold molar excess. Molar excess titration is recommended_
 
+**2.** Incubate reaction overnight in a thermocycler at 37°C, with hot lid on and set to <50°C
 
 **Part 3: Purification of labeled oligos  (~30 min + overnight)**
+
+
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
 
