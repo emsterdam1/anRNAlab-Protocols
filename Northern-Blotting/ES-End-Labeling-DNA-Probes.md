@@ -49,9 +49,27 @@ _Note: The dye must be twofold molar excess to the ddUTP. In this reaction, 70 n
 
 **2.** Incubate the mixture for 3 hours at room temperature protected from light.
 
-**3** Quench the reaction by adding 
+**3** Quench the reaction by adding 0.2 uL of 1M Tris-HCl, pH 7.4.
+
+**4.** Add 15 µL of nuclease free water to bring the total volume of the reaction to 35 µL, and the labeled-ddUTP concentration to 2 mM (70 nmoles/35 µL)
+
+**Part 2: Adding labeled ddUTPs to oligos  (~30 min + overnight)**
+
+**1.** Prepare the terminal transferase reaction as follows:
+| Component | Concentration | Quantity | 
+  | ---------: | ---------: | :---------- |
+  | DNA probe | 100 µM | **10**  µL | 
+  | Labeled-ddUTPs | 2 mM | **4**  µL |
+  | TdT Buffer | 10X | **2**  µL |
+  | CoCl<sub>2</sub> | 2.5 mM | **2**  µL |
+  | RNase-free water |  | **1**  µL |  
+  | Terminal Transferase | 10 U/µL | **1**  µL |
+  || **Total** | **20** µL |
+
+_Note: The paper recommends inputted 500-3000 pmols; in this protocol 1000 pmol is used. The labeled ddUTPs must be added in 1.5-5 fold molar excess._
 
 
+**Part 3: Purification of labeled oligos  (~30 min + overnight)**
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
 
