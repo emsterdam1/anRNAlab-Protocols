@@ -54,7 +54,7 @@ _Note: The dye must be twofold molar excess to the ddUTP. In this reaction, 70 n
 **3** Quench the reaction by adding 0.2 uL of 1M Tris-HCl, pH 7.5.
 
 **4.** Add 15 µL of nuclease free water to bring the total volume of the reaction to 35 µL, and the labeled-ddUTP concentration to 2 mM (70 nmoles/35 µL)
-<br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 **Part 2: Adding labeled ddUTPs to oligos  (~30 min + overnight)**
 
 **1.** Prepare the terminal transferase reaction as follows:
