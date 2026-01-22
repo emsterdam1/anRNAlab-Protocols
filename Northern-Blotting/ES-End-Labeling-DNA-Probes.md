@@ -20,12 +20,14 @@ Materials:
     ◦ 200 mM Tris-Acetate, pH 7.9  
     ◦ 500 mM KOAc (potassium acetate)  
     ◦ 100 mM MgOAc<sub>2</sub> (magnesium acetate)
-  * SPRI beads
+  * Glycogen
+  * Sodiuem Acetate pH 5.2
 
 Equipment Required:
 --------------------------------------------------------------------------------
   * Thermocycler/heat block set to 37 °C
   * Microvolume spectrophotometer
+  * Microcentrifuge
   * Magnetic rack
   * Polyacrylamide gel rig
 <br/><br/><br/><br/><br/>
@@ -79,7 +81,7 @@ Make sure ice cold ethabol (-20°C) is ready
   | ddUTP-oligo rxn |  | **20**  µL | 
   | Sodium Acetate pH 5.2 | 3 M | **2.2**  µL |
   | Glycogen | 20 µg/µL | **0.5**  µL |
-  | RNase-free water |  | **Up to Volume**  µL |
+  | RNase-free water |  | **172.3**  µL |
   || **Total** | **200** µL |
 
 _Note: These concentrations are for a 1000 pmol reaction. Adjust glycogen amount if more or less probe pool is inputted._
