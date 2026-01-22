@@ -9,7 +9,7 @@ Materials:
   * 20-40 mM (in this case, 30 mM) [Cyanine5 NHS ester](https://www.lumiprobe.com/p/amino-ddUTP) (dissolved 1 mg in 50 µl DMSO)
   * 10 mM [Amino-11-ddUTP](https://www.lumiprobe.com/p/amino-ddUTP)
   * 1 M NaHCO<sub>3</sub> pH 8.3-8.5 (0.84 g into 10 mL Molec Grade Water)
-  * 1 M Tris-HCl pH 7.4
+  * 1 M Tris-HCl pH 7.5
   
   **Terminal Transfer**  
   * 6-10% denaturing urea polyacrylamide gels  
@@ -49,7 +49,7 @@ _Note: The dye must be twofold molar excess to the ddUTP. In this reaction, 70 n
 
 **2.** Incubate the mixture for 3 hours at room temperature protected from light.
 
-**3** Quench the reaction by adding 0.2 uL of 1M Tris-HCl, pH 7.4.
+**3** Quench the reaction by adding 0.2 uL of 1M Tris-HCl, pH 7.5.
 
 **4.** Add 15 µL of nuclease free water to bring the total volume of the reaction to 35 µL, and the labeled-ddUTP concentration to 2 mM (70 nmoles/35 µL)
 
@@ -70,9 +70,31 @@ _Note: The paper recommends inputted 500-3000 pmols; in this protocol 1000 pmol 
 
 **2.** Incubate reaction overnight in a thermocycler at 37°C, with hot lid on and set to <50°C
 
-**Part 3: Purification of labeled oligos  (~30 min + overnight)**
+**Part 3: Purification of labeled oligos  (~3hrs)**
+Make sure ice cold ethabol (-20°C) is ready
 
+**1.** After the overnight reaction, supplement the reaction as follows:
+| Component | Concentration | Quantity | 
+  | ---------: | ---------: | :---------- |
+  | ddUTP-oligo rxn |  | **20**  µL | 
+  | Sodium Acetate pH 5.2 | 3 M | **2.2**  µL |
+  | Glycogen | 20 µg/µL | **0.5**  µL |
+  | RNase-free water |  | **Up to Volume**  µL |
+  || **Total** | **200** µL |
 
+_Note: These concentrations are for a 1000 pmol reaction. Adjust glycogen amount if more or less probe pool is inputted._
+
+**2.** Move the micture into an Eppendorf, and add 800 µL pof 100% EtOH at -20°C. Mix well.
+
+**3.** Incubtae tube in the -70°C fridge for 20 minutes.
+
+**4.** Centrifuge at 16000g at 4°C for 20 minutes, and remove supernatant.
+
+**5.** Wash with 1 mL of -20°C 100% EtOH, then vortex. Transfer to a new tube (?)
+
+**6.** Repeat the spins and washes 2 more times; no need to transfer to a new tube.
+
+**7.** Allow the pellet to airdry to remove residual traces of EtOH, then reconstitute with nuclease free water. (Aim for ~25 µL, 1000pmol/25 ~ 40 uM?)
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
 
