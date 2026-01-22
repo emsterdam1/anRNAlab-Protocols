@@ -88,7 +88,7 @@ _Note: These concentrations are for a 1000 pmol reaction. Adjust glycogen amount
 
 **2.** Move the micture into an Eppendorf, and add 800 µL pof 100% EtOH at -20°C. Mix well.
 
-**3.** Incubtae tube in the -70°C fridge for 20 minutes.
+**3.** Incubate tube in the -70°C fridge for 20 minutes.
 
 **4.** Centrifuge at 16000g at 4°C for 20 minutes, and remove supernatant.
 
