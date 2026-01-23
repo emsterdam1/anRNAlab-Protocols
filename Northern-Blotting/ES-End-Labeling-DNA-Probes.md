@@ -80,7 +80,7 @@ Make sure ice cold ethabol (-20°C) is ready
 | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
   | ddUTP-oligo rxn |  | **20**  µL | 
-  | Sodium Acetate pH 5.2 | 3 M | **2.2**  µL |
+  | Sodium Acetate pH 5.2 | 3 M | **20**  µL |
   | Glycogen | 20 µg/µL | **0.5**  µL |
   | RNase-free water |  | **172.3**  µL |
   || **Total** | **200** µL |
