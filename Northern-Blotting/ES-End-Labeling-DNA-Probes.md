@@ -87,7 +87,7 @@ Make sure ice cold ethabol (-20°C) is ready
 
 _Note: These concentrations are for a 1000 pmol reaction. Adjust glycogen amount if more or less probe pool is inputted._
 
-**2.** Move the micture into an Eppendorf, and add 800 µL pof 100% EtOH at -20°C. Mix well.
+**2.** Move the mixture into an Eppendorf, and add 800 µL of 100% EtOH at -20°C. Mix well.
 
 **3.** Incubate tube in the -70°C fridge for 20 minutes.
 
