@@ -93,7 +93,7 @@ _Note: These concentrations are for a 1000 pmol reaction. Adjust glycogen amount
 
 **4.** Centrifuge at 16000g at 4°C for 20 minutes, and remove supernatant.
 
-**5.** Wash with 1 mL of -20°C 100% EtOH, then vortex. Transfer to a new tube (?)
+**5.** Wash with 1 mL of 4°C 80% EtOH, then vortex. Transfer to a new tube (?)
 
 **6.** Repeat the spins and washes 2 more times; no need to transfer to a new tube.
 
