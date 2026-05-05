@@ -21,6 +21,11 @@ Equipment Required:
   * qPCR Thermocycler (BioRad CFX Opus)
   * Repeat Pipetter
 <br/><br/><br/>
+
+
+
+
+
   
 ___
 Protocol:
