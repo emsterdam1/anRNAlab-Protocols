@@ -20,7 +20,7 @@ Equipment Required:
   * Centrifuge
   * qPCR Thermocycler (BioRad CFX Opus)
   * Repeat Pipetter
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
   
 ___
