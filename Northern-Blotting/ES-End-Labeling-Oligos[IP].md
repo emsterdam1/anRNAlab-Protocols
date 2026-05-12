@@ -1,4 +1,4 @@
-End-Labeling DNA Probes
+End-Labeling Oligo Probes
 ================================================================================
 Description: Make end-labeled fluorescent DNA probes for Northern blotting or RNA FISH.
 
