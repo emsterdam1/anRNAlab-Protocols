@@ -1,6 +1,7 @@
 RNA purification with Trizol
 ================================================================================
 Description: Trizol is a common cell lysis and phase-separating reagent for isolating RNA
+Last Updated: 05/20/2026
 
 Materials:
 --------------------------------------------------------------------------------
