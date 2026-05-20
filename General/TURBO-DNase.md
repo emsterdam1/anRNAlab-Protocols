@@ -1,6 +1,7 @@
 DNase treatment of cellular RNA
 ================================================================================
 Description: Common RNA purification strategies carry over DNA from cells. A DNase step removes this.
+Last Updated: 05/20/2026
 
 Materials:
 --------------------------------------------------------------------------------
@@ -22,7 +23,7 @@ Protocol:
 
 **1.** Dilute 10X DNase buffer to 1X in RNA solution.<br/>_Note: 44 µl of RNA + 5 µl of 10X buffer is sufficient for samples with ~10 µg total RNA. <br/>For samples from larger volumes, you might consider doubling the volume (88 + 10)._
 
-**2.** Add 1 µl of TURBO DNase enzyme (per 50 µl reaction), mix well and incubate at room temperature for 15 minutes. _Note: Longer incubations at higher temps promote contaminant-dependent RNA degradation._
+**2.** Add 1 µl of TURBO DNase enzyme (per 50 µl reaction), mix well and incubate at room temperature for 15 minutes. Add the same amount of enzyme (1 µl for 50 µl reaction) halfway through the reaction. _Note: Longer incubations at higher temps promote contaminant-dependent RNA degradation._
 
 **3.** Purify RNA using 1.8X volumes of [SPRI beads](../NGS/SPRI-beads.md), washing 3x in 70% ethanol and eluting in 20-50 µl nuclease-free water.<br/>_Note: If retaining smaller RNAs, purify with [RNA Clean & Concentrator](https://www.zymoresearch.com/products/rna-clean-concentrator-5) instead._ 
 
