@@ -55,7 +55,7 @@ _Note: The no RT can have fewer inputted RNA µg, but for simplicity the same in
 * RT inactivation at 95°C for 1 minute
 * Hold at 4°C
 
-**3** Add 100 µL to each reaction to dilute it. 
+**3** Add 100 µL (50 µL to the half RT rxn) to each reaction to dilute it. 
 
 **Part 2: qPCR of cDNA (~30 min prep, 2 hr run)**
 
