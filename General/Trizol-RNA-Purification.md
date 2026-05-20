@@ -33,7 +33,7 @@ _Note: For expected low yields, it can help to add 1 µl of carrier glycogen._
 
 **7.** Remove most ethanol, spin down and remove residual ethanol, then air dry pellets for 5-8 minutes.
 
-**8.** Resuspend in 44 or 88 µl (depending on expected yield) of nuclease-free water.<br/>
+**8.** Resuspend in 60 µl of nuclease-free water. Then, take 44 µl and dilute up to 88 µl in nuclease-free water <br/>
 _Note: If RNA is from a cell or tissue source, a DNase treatment is necessary._
 
 
