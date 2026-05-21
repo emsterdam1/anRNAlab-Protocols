@@ -1,6 +1,7 @@
 qPCR from Cellular RNA
 ================================================================================
 Quantify level of RNA in cellular samples.
+Last Updated: 05/21/2026
 
 Materials:
 --------------------------------------------------------------------------------
@@ -68,7 +69,7 @@ _Note: The no RT can have fewer inputted RNA µg, but for simplicity the same in
   | SYBR Green |  |**5**  µL | Add **last**, only when ready to load plate|
   || **Total** | **8** µL | |
 
-**2.** Aliquot 2 µL of the diluted cDNA in triplicate per primer set. 
+**2.** Aliquot 2 µL of the diluted cDNA in triplicate per primer set. Make sure to thoroughly mix the diluted cDNA by pipetting up and down. 
 
 **3.** Add 8 µL of the appropriate master mix.
 
