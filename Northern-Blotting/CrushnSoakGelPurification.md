@@ -1,33 +1,35 @@
-Crush and Soak Polyacrylamide Gel Purification 
+Crush and Soak Modified Polyacrylamide Gel Purification 
 ================================================================================
 Description: Make end-labeled fluorescent DNA probes for Northern blotting or RNA FISH.
 
 Materials:
 --------------------------------------------------------------------------------
   **TBE-Urea Polyacrylamide Gel**  
-  
   * [15% TBE-Urea Polyacrylamide](https://www.thermofisher.com/order/catalog/product/EC68852BOX) 
   * [2X RNA Loading Dye](https://www.neb.com/en-us/products/b0363-rna-loading-dye-2x?srsltid=AfmBOop9LNSqgq5XCxzckljaHQdiD1RW1oP7wr0QqlJ75jhqEr8F3dzu)
-  * <a href="./ES-End-Labeling-Oligos[IP].md"> Labeled DNA Oligos  </a>
-  
+  * Labeled DNA Oligos <a href="./ES-End-Labeling-Oligos%5BIP%5D.md">(See Labeling Protocol)</a>
+  * 10,000X Nucleic Acid Stain (e.g. SYBR Gold or GelGreen)   
+ 
   **Crush&Soak Elution**  
-  * 6-10% denaturing urea polyacrylamide gels  
-  * 100 µM DNA oligos
-  * [Terminal Transferase 20 U/µl](https://www.neb.com/products/m0315-terminal-transferase)
-  * 2.5 mM CoCl<sub>2</sub>
-  * * **10X TdT Buffer**  
-    ◦ 200 mM Tris-Acetate, pH 7.9  
-    ◦ 500 mM KOAc (potassium acetate)  
-    ◦ 100 mM MgOAc<sub>2</sub> (magnesium acetate)
-  * Glycogen
-  * Sodiuem Acetate pH 5.2
+  * Syringe
+  * 0.5 mL and 1.5 mL Eppendorf tubes
+  * **Crush and Soak Elution Buffer**  
+    ◦ TE Buffer, *OR* 10 mM TrisHCl, pH 7.5 and 1 mM EDTA, pH 8.0  
+    ◦ 300 mM sodium acetate or NaCl?
+
+**Spin Columns/Gel Removal**  
+  * Syringe
+  * 0.5 mL and 1.5 mL Eppendorf tubes
+  * **Crush and Soak Elution Buffer**  
+    ◦ TE Buffer, *OR* 10 mM TrisHCl, pH 7.5 and 1 mM EDTA, pH 8.0  
+    ◦ 300 mM sodium acetate or NaCl?
 
 **EtOH Precipitation**  
   * 6-10% denaturing urea polyacrylamide gels  
   * 100 µM DNA oligos
   * [Terminal Transferase 20 U/µl](https://www.neb.com/products/m0315-terminal-transferase)
   * 2.5 mM CoCl<sub>2</sub>
-  * * **10X TdT Buffer**  
+  * **10X TdT Buffer**  
     ◦ 200 mM Tris-Acetate, pH 7.9  
     ◦ 500 mM KOAc (potassium acetate)  
     ◦ 100 mM MgOAc<sub>2</sub> (magnesium acetate)
