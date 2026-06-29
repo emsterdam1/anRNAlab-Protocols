@@ -65,9 +65,9 @@ Protocol:
 
 **2.** Place the gel slice into the smaller tube, and spin at max speed for 1 minutes to pulverize the gel, increasing surface area for the elution. 
 
-**3.** Add 1.5 mL of the DEB into the 1.5 mL tube. (??) (Notes of ratios: 2X, 1-2X) (1 ul ~~ 1 mg of gel)
+**3.** Add 3X gel volumes of the DEB into the 1.5 mL tube. (1 ul ~~ 1 mg of gel)
 
-**4.** Freeze the gel slice for 30 minutes at -80°C, then thaw at room temperature overnight, with turning (??)
+**4.** Freeze the gel slice for 30 minutes at -80°C, then leave in the cold room spinning overnight. The tubes can be taped onto the rotator such that they go "head over heels". 
 
 **Part 3: Gel Purification Day 2**
 
