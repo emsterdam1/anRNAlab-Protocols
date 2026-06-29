@@ -10,23 +10,21 @@ Materials:
   * Labeled DNA Oligos <a href="./ES-End-Labeling-Oligos%5BIP%5D.md">(See Labeling Protocol)</a>
   * 10,000X Nucleic Acid Stain (e.g. SYBR Gold or GelGreen)   
  
-  **DNA Elution Buffer (DEB)**  
+  **DNA Elution Buffer (DEB)**
   * Syringe
   * 0.5 mL and 1.5 mL Eppendorf tubes
   * **Crush and Soak Elution Buffer**  
-     ◦ 10 mM TrisHCl, pH 8 
-    ◦ 300 mM NaCl
+     ◦ 10 mM TrisHCl, pH 8  
+     ◦ 300 mM NaCl
 
-**Spin Columns/Gel Removal**  
+**Spin Columns/Gel Removal**
   * Syringe
   * 0.5 mL and 1.5 mL Eppendorf tubes
-  * **Crush and Soak Elution Buffer**  
-    ◦ 10 mM TrisHCl, pH 8 
-    ◦ 300 mM NaCl
+  * Crush and Soak Elution Buffer  
   * Glass Wool
   * Glass Beads
 
-**EtOH Precipitation**  
+**EtOH Precipitation**
   * Isopropanol
   * Glycogen
   * Sodiuem Acetate pH 5.2 (??)
@@ -41,7 +39,6 @@ Equipment Required:
   * Magnetic rack
 
 <br/><br/><br/>
-  µ° 
 ___
 Protocol:
 --------------------------------------------------------------------------------
