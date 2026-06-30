@@ -32,7 +32,6 @@ Equipment Required:
   * Polyacrylamide gel rig
   * Microvolume spectrophotometer
   * Microcentrifuge
-  * Magnetic rack
 
 <br/><br/><br/>
 ___
@@ -77,7 +76,7 @@ Protocol:
 
 **Part 4: Precipitation**
 
-**1.** Add 1 volume of isopropanol, then split samples into 1.5 mL tubes, since the pellets don't sit well in the tubes. If necessary, split the sample between multiple tubes. There should be enough salt in the buffer already to facilitate the precipitation. 
+**1.** Add 1 volume of isopropanol, 0.5 µL of glycogen, then split samples into 1.5 mL tubes, since the pellets don't sit well in the tubes. If necessary, split the sample between multiple tubes. There should be enough salt in the buffer already to facilitate the precipitation. 
 
 **2.** Incubate in -80°C for at least 30 minutes.
 
