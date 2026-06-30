@@ -18,16 +18,12 @@ Materials:
      ◦ 300 mM NaCl
 
 **Spin Columns/Gel Removal**
-  * Syringe
-  * 0.5 mL and 1.5 mL Eppendorf tubes
   * Crush and Soak Elution Buffer  
-  * Glass Wool
-  * Glass Beads
+  * Nylon Microspin Column, 0.45 uM filter
 
-**EtOH Precipitation**
+**Oligo Precipitation**
   * Isopropanol
   * Glycogen
-  * Sodiuem Acetate pH 5.2 (??)
   * Ice-cold 80% EtOH
 
 Equipment Required:
@@ -47,9 +43,9 @@ Protocol:
 **1.** Assemble the running apparatus with the polyacrylamide gel and 1X TBE Buffer, ensuring the electrode tape has been removed. Flush each well thoroughly with a syringe, then pre-run for at least 20 minutes at 180V.
 
 **2.** Prepare samples to be loaded by mixing the sample to be purified 1:1 with RNA Loading Dye
- * Load 10-12.5 uL into each well.
+ * Load 10-12.5 µL into each well.
  * Multiple wells can be run of the same sample, then pooled together
- * For the ladder, mix 4 uL of the ladder and 4 uL of dye, loading all into one well.
+ * For the ladder, mix 4 µL of the ladder and 4 µL of dye, loading all into one well.
 
 **3.** Heat on a thermocycler/heat block at 65-70°C for 5 minutes. Load immediately. 
 
@@ -65,29 +61,23 @@ Protocol:
 
 **2.** Place the gel slice into the smaller tube, and spin at max speed for 1 minutes to pulverize the gel, increasing surface area for the elution. 
 
-**3.** Add 3X gel volumes of the DEB into the 1.5 mL tube. (1 ul ~~ 1 mg of gel)
+**3.** Add 3X gel volumes of the DEB into the 1.5 mL tube. (1 µl ~~ 1 mg of gel)
 
-**4.** Freeze the gel slice for 30 minutes at -80°C, then leave in the cold room spinning overnight. The tubes can be taped onto the rotator such that they go "head over heels". 
+**4.** Freeze the gel slice for 30 minutes at -80°C, then thaw overnight at room temperature with spinning. The tubes can be taped onto the rotator such that they go "head over heels". 
 
 **Part 3: Gel Purification Day 2**
 
-**1.** Prepare spin columns to remove gel bits:
- * Use a syringe to poke a hole in the bottom of a 0.5 mL tube using a needle
- * Take a small bit of glass wool, and bunch together. Place at the bottom of the tube with tweezers.
- * Pour in a small amount of glass beads, creating a few layers of beads above the glass wool. Carefuk: the glass beads tend to be very staticy
- * Place this column inside a 1.5 mL tube.
+**1.** Prepare spin columns by placing them in a 2mL eppendorf tube.
 
 **2.** Equilibrate the column by adding about 500 µL of DEB, and spinning at max speed for 1 minute. 
 
-**3.** Repeat the equibiliration, such that a total of 2 washes are done. 
+**3.** Add all of the gel pieces and buffer from the sample that has been eluting overnight onto the column. It may be helpful to cut the tip of a P1000 tip, or wash with an additional 100 µL to ensure most of the gel pieces are transfered over to the column 
 
-**4.** Add all of the gel pieces and buffer from the sample that has been eluting overnight onto the column.
-
-**5.** Spin at max speed for 5 minutes, repeating all the liquid has not gone through. The liquid contains the nucleic acid that should have eluted out of the gel.
+**4.** Spin at max speed for 5 minutes, repeating if not all the liquid has gone through. The liquid contains the nucleic acid that should have eluted out of the gel.
 
 **Part 4: Precipitation**
 
-**1.** Add 1 volume of isopropanol, If necessary, split the sample between multiple tubes. There should be enough salt in the buffer already to facilitate the precipitation. 
+**1.** Add 1 volume of isopropanol, then split samples into 1.5 mL tubes, since the pellets don't sit well in the tubes. If necessary, split the sample between multiple tubes. There should be enough salt in the buffer already to facilitate the precipitation. 
 
 **2.** Incubate in -80°C for at least 30 minutes.
 
