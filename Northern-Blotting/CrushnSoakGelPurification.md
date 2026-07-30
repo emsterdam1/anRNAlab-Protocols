@@ -1,6 +1,7 @@
 Crush and Soak Modified Polyacrylamide Gel Purification 
 ================================================================================
-Description: An in-progress protocol for gel purifying fluorescently tagged, short DNA oligos.
+Description: An in-progress protocol for gel purifying, short DNA oligos.
+*Note:This protocol seems to interfere with small molecule fluors, therefore was not additionally optimized!!*
 
 Materials:
 --------------------------------------------------------------------------------
