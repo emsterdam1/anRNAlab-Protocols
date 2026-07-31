@@ -1,4 +1,4 @@
-End-Labeling Oligo Probes
+End-Labeling FISH Oligo Probes
 ================================================================================
 Description: Make end-labeled fluorescent DNA probes for Northern blotting or RNA FISH.
 
@@ -6,7 +6,7 @@ Materials:
 --------------------------------------------------------------------------------
   **ddUTP-dye Conjugation**  
   
-  * 20-40 mM (in this case, 30 mM) [Cyanine5 NHS ester](https://www.lumiprobe.com/p/amino-ddUTP) (dissolved 1 mg in 50 µl DMSO)
+  * 20-40 mM (in this case, 30 mM) [e.g. Atto Dye]([https://www.lumiprobe.com/p/amino-ddUTP](https://www.sigmaaldrich.com/US/en/product/sigma/72464?srsltid=AfmBOoqg9J3WQoG33dRTU4nAOt5auXDFWnSmxgS80BIDT14pjdLUJRYD)) (dissolved 1 mg in 50 µl DMSO)
   * 10 mM [Amino-11-ddUTP](https://www.lumiprobe.com/p/amino-ddUTP)
   * 1 M NaHCO<sub>3</sub> pH 8.3-8.5 (0.84 g into 10 mL Molec Grade Water)
   * 1 M Tris-HCl pH 7.5
