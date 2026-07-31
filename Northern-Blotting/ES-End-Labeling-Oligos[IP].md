@@ -6,13 +6,12 @@ Materials:
 --------------------------------------------------------------------------------
   **ddUTP-dye Conjugation**  
   
-  * 20-40 mM (in this case, 30 mM) [e.g. Atto Dye]([https://www.lumiprobe.com/p/amino-ddUTP](https://www.sigmaaldrich.com/US/en/product/sigma/72464?srsltid=AfmBOoqg9J3WQoG33dRTU4nAOt5auXDFWnSmxgS80BIDT14pjdLUJRYD)) (dissolved 1 mg in 50 µl DMSO)
+  * 20-40 mM (in this case, 30 mM) [e.g. Atto Dye](https://www.sigmaaldrich.com/US/en/product/sigma/72464?srsltid=AfmBOoqg9J3WQoG33dRTU4nAOt5auXDFWnSmxgS80BIDT14pjdLUJRYD) (dissolved 1 mg in 50 µl DMSO)
   * 10 mM [Amino-11-ddUTP](https://www.lumiprobe.com/p/amino-ddUTP)
   * 1 M NaHCO<sub>3</sub> pH 8.3-8.5 (0.84 g into 10 mL Molec Grade Water)
   * 1 M Tris-HCl pH 7.5
   
   **Terminal Transfer**  
-  * 6-10% denaturing urea polyacrylamide gels  
   * 100 µM DNA oligos
   * [Terminal Transferase 20 U/µl](https://www.neb.com/products/m0315-terminal-transferase)
   * 2.5 mM CoCl<sub>2</sub>
@@ -21,15 +20,14 @@ Materials:
     ◦ 500 mM KOAc (potassium acetate)  
     ◦ 100 mM MgOAc<sub>2</sub> (magnesium acetate)
   * Glycogen
-  * Sodiuem Acetate pH 5.2
+  * 3 M Sodium Acetate pH 5.2
+  * 
 
 Equipment Required:
 --------------------------------------------------------------------------------
   * Thermocycler/heat block set to 37 °C
   * Microvolume spectrophotometer
   * Microcentrifuge
-  * Magnetic rack
-  * Polyacrylamide gel rig
 <br/><br/><br/>
   
 ___
@@ -49,14 +47,14 @@ Protocol:
 
 _Note: The dye must be twofold molar excess to the ddUTP. In this reaction, 70 nmoles of ddUTP are inputed, 140 nmoles of dye._
 
-**2.** Incubate the mixture for 3 hours at room temperature protected from light.
+**2.** Incubate the mixture for 3 hours at room temperature with light shaking, protected from light.
 
 **3** Quench the reaction by adding 0.2 uL of 1M Tris-HCl, pH 7.5.
 
 **4.** Add 15 µL of nuclease free water to bring the total volume of the reaction to 35 µL, and the labeled-ddUTP concentration to 2 mM (70 nmoles/35 µL)
 
 
-**Part 2: Adding labeled ddUTPs to oligos  (~30 min + overnight)**
+**Part 2: Adding labeled ddUTPs to oligos  (~8 hrs + overnight)**
 
 **1.** Prepare the terminal transferase reaction as follows:
 | Component | Concentration | Quantity | 
@@ -69,9 +67,20 @@ _Note: The dye must be twofold molar excess to the ddUTP. In this reaction, 70 n
   | Terminal Transferase | 10 U/µL | **1**  µL |
   || **Total** | **20** µL |
 
-_Note: The paper recommends inputted 500-3000 pmols; in this protocol 1000 pmol is used. The labeled ddUTPs must be added in 1.5-5 fold molar excess. Molar excess titration is recommended_
+_Note: The paper recommends inputted 500-3000 pmols; in this protocol 1000 pmol is used. The labeled ddUTPs must be added in 1.5-5 fold molar excess. Molar excess titration is recommended_<br/>
+_Atto565 molar excess if 5-fold_
 
-**2.** Incubate reaction overnight in a thermocycler at 37°C, with hot lid on and set to <50°C
+**2.** Incubate reaction for 8 hrs at 37°C.
+
+**3.** Spike-in more starting material as follows:
+| Component | Concentration | Quantity | 
+  | ---------: | ---------: | :---------- |
+  | Labeled ddUTP | 2 mM | **10**  µL | 
+  | TDT Buffer | 2 mM | **0.75-2.5**  µL |
+  | Terminal Transferase | 2 mM | **0.75-2.5**  µL |
+
+
+overnight in a thermocycler at 37°C, with hot lid on and set to 37°C
 
 **Part 3: Purification of labeled oligos  (~3hrs)**
 Make sure ice cold ethabol (-20°C) is ready
