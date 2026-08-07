@@ -75,23 +75,22 @@ _Atto565 molar excess if 5-fold_
 **3.** Spike-in more starting material as follows:
 | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
-  | Labeled ddUTP | 2 mM | **10**  µL | 
-  | TDT Buffer | 2 mM | **0.75-2.5**  µL |
-  | Terminal Transferase | 2 mM | **0.75-2.5**  µL |
+  | Labeled ddUTP | 2 mM | **0.75-2.5**  µL | 
+  | TDT Buffer | 2 mM |  **1** µL |
+  | Terminal Transferase | 2 mM | **0.5**  µL |
 
-
-overnight in a thermocycler at 37°C, with hot lid on and set to 37°C
+**4.** Allow the reaction to continue overnight in a thermocycler at 37°C, with hot lid on and set to 37°C.
 
 **Part 3: Purification of labeled oligos  (~3hrs)**
-Make sure ice cold ethabol (-20°C) is ready
+Make sure 100% ethanol is at -20°C, and 80% EtOH is at 4°C.
 
 **1.** After the overnight reaction, supplement the reaction as follows:
 | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
-  | ddUTP-oligo rxn |  | **20**  µL | 
+  | ddUTP-oligo rxn |  | **~22.5**  µL | 
   | Sodium Acetate pH 5.2 | 3 M | **20**  µL |
   | Glycogen | 20 µg/µL | **0.5**  µL |
-  | RNase-free water |  | **159.5**  µL |
+  | RNase-free water |  | **157**  µL |
   || **Total** | **200** µL |
 
 _Note: These concentrations are for a 1000 pmol reaction. Adjust glycogen amount if more or less probe pool is inputted._
@@ -100,7 +99,7 @@ _Note: These concentrations are for a 1000 pmol reaction. Adjust glycogen amount
 
 **3.** Incubate tube in the -70°C fridge for 20 minutes.
 
-**4.** Centrifuge at 16000g at 4°C for 20 minutes, and remove supernatant.
+**4.** Centrifuge at max speed at 4°C for 20 minutes, and remove supernatant.
 
 **5.** Wash with 1 mL of 4°C 80% EtOH, then vortex. Transfer to a new tube (?)
 
