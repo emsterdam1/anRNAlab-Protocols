@@ -67,8 +67,8 @@ _Note: The dye must be twofold molar excess to the ddUTP. In this reaction, 70 n
   | Terminal Transferase | 10 U/µL | **1**  µL |
   || **Total** | **20** µL |
 
-_Note: The paper recommends inputted 500-3000 pmols; in this protocol 1000 pmol is used. The labeled ddUTPs must be added in 1.5-5 fold molar excess. Molar excess titration is recommended_<br/>
-_Atto565 molar excess if 5-fold_
+_Note: The paper recommends inputted 500-3000 pmols; in this protocol 1000 pmol is used. The labeled ddUTPs must be added in 1.5-5 fold molar excess. Molar excess titration is recommended_<br/><br/>
+_Atto565 molar excess is 5-fold_
 
 **2.** Incubate reaction for 8 hrs at 37°C.
 
