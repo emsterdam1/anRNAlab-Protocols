@@ -40,7 +40,7 @@ Protocol:
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
   | Amino-11-ddUTP | 10 mM | **7**  µL | 
-  | Cy5-NHS-ester | 30 mM | **4.7**  µL |
+  | Atto-NHS-ester | 30 mM | **4.7**  µL |
   | NaHCO<sub>3</sub> | 1M | **2**  µL |
   | RNase-free water |  | **6.3**  µL |
   || **Total** | **20** µL |
