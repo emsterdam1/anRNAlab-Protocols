@@ -21,7 +21,6 @@ Materials:
     ◦ 100 mM MgOAc<sub>2</sub> (magnesium acetate)
   * Glycogen
   * 3 M Sodium Acetate pH 5.2
-  * 
 
 Equipment Required:
 --------------------------------------------------------------------------------
