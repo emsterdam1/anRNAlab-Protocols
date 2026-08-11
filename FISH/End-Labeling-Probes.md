@@ -80,7 +80,7 @@ _Atto565 molar excess is 5-fold_
 
 **4.** Allow the reaction to continue overnight in a thermocycler at 37°C, with hot lid on and set to 37°C.
 
-**Part 3: Purification of labeled oligos  (~3hrs)**
+**Part 3: Purification of labeled oligos  (~3hrs)**  
 Make sure 100% ethanol is at -20°C, and 80% EtOH is at 4°C.
 
 **1.** After the overnight reaction, supplement the reaction as follows:
@@ -94,7 +94,7 @@ Make sure 100% ethanol is at -20°C, and 80% EtOH is at 4°C.
 
 _Note: These concentrations are for a 1000 pmol reaction. Adjust glycogen amount if more or less probe pool is inputted._
 
-**2.** Move the mixture into an Eppendorf, and add 800 µL of 100% EtOH at -20°C. Mix well.
+**2.** Move the mixture into a 1.5 mL tube, and add 800 µL of 100% EtOH at -20°C. Mix well.
 
 **3.** Incubate tube in the -70°C fridge for 20 minutes.
 
@@ -104,7 +104,7 @@ _Note: These concentrations are for a 1000 pmol reaction. Adjust glycogen amount
 
 **6.** Repeat the spins and washes 2 more times; no need to transfer to a new tube.
 
-**7.** Allow the pellet to airdry to remove residual traces of EtOH, then reconstitute with nuclease free water. (Aim for ~25 µL, 1000pmol/25 ~ 40 uM?)
+**7.** Allow the pellet to airdry to remove residual traces of EtOH, then reconstitute with nuclease free water. (Aim for 1000 pmol in 25 µL, ~40 uM)
 <!-- The text below creates dropdown lists for links to next steps or hyperlinks -->
 
 
