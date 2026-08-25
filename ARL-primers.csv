@@ -1295,14 +1295,3 @@ ARL#,Name,Type,target vector,Project,Vendor,Ref #,sequence
 1294,C3_Exon2_NtermHibit_Flank_Rev,PCR,Rn Calm3 gDNA,Calmodulin RNAs,IDT,,gtgacatggacatacatgatgg
 1295,C3_CtermHiBit_Flank_Fwd,PCR,Rn Calm3 gDNA,Calmodulin RNAs,IDT,,ggtggcagttgacggatg
 1296,C3_CtermHiBit_Flank_Rev,PCR,Rn Calm3 gDNA,Calmodulin RNAs,IDT,,agcagtcatgcagcttggg
-
-
-
-
-
-
-
-
-
-
-
