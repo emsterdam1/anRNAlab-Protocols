@@ -13,7 +13,7 @@ Materials:
   * [In-house index primers](../CWML-primers.csv)
     * In-house index primer F (i7, 5 µM)
     * In-house index primer R (i5, 5 µM)
-  * Magnetic SPRI beads [(Omega BioTek)](https://www.omegabiotek.com/product/mag-bind-totalpure-ngs/?gclid=CjwKCAiA1eKBBhBZEiwAX3gqlw2-fi_geWTPQcJVkZdR--dL3zrHwdkoLxc-VhABYCzBcpVGy-4v7BoCtjgQAvD_BwE&cn-reloaded=1)
+  * Magnetic SPRI beads [(Omega BioTek)](https://omegabiotek.com/product/ngs-workflow-pcr-clean-up-mag-bind-total-pure-ngs/)
 
 Equipment Required:
 --------------------------------------------------------------------------------
