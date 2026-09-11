@@ -8,17 +8,18 @@ Materials:
   * [Endura Tn5 reagents](https://www.zymoresearch.com/products/endura-tn5-transposase-loaded)
     * 10X Tagmentation Buffer
     * 10X Stop Buffer
-    * Neutralization Buffer
     * Nextera adapter-loaded Endura Tn5 enzyme (1U/µl)
   * **Tn5 dilution buffer** (store at -20 °C)
     * 20 mM HEPES pH 7.5  
     * 100 mM NaCl  
     * 1 mM DTT
     * 0.1 % Triton X-100
-    * 50 % Glycerol 
-  * [In-house index primers](../../ARL-primers.csv)
+    * 50 % Glycerol
+  * [PCR cleanup kit](https://www.neb.com/en-us/products/t1130-monarch-spin-pcr-and-dna-cleanup-kit-5-ug)
+  * [In-house index primers](../ARL-primers.csv)
     * In-house index primer F (i7, 5 µM)
     * In-house index primer R (i5, 5 µM)
+  * [Q5® Hot Start High-Fidelity 2X Master Mix](https://www.neb.com/en-us/products/m0494-q5-hot-start-high-fidelity-2x-master-mix)
   * Magnetic SPRI beads [(Omega BioTek)](https://www.omegabiotek.com/product/mag-bind-totalpure-ngs)
 
 Equipment Required:
@@ -31,7 +32,7 @@ ___
 Protocol:
 --------------------------------------------------------------------------------
 
-**1.** Dilute Tn5 transposase to 0.0075 U/µl in Tn5 dilution buffer. <br/>
+**1.** Dilute Tn5 transposase to 0.005 U/µl in Tn5 dilution buffer. <br/>
        Aliquot into 50 µl portions and store long-term at -20 °C.
 
 **2.** Set up tagmentation reactions for each dsDNA sample:
@@ -40,43 +41,45 @@ Protocol:
   | ---------: | ---------: | :---------- |
   | Tagmentation Buffer | 10X | **1**  µL | 
   |  dsDNA | 0.3 ng/µL | **7**  µL |
-  | dilute Endura Tn5 | 0.0075 U/µL | **5**  µL |
+  | dilute Endura Tn5 | 0.005 U/µL | **2**  µL |
   || **Total** | **10** µL |
   
- **3.** In a thermocycler, incubate reactions at 55 °C for 5 minutes, then cool to 10 °C.
+ **3.** In a thermocycler, incubate reactions at 55 °C for 10 minutes.
 
-**4.** As soon as reactions reach 10 °C, add 5 µL Neutralization Buffer (NT) and incubate 5 min at RT.
-  * *Neutralization buffer stops the reaction, so timing is important*
-  
-**5.** Assemble Nextera PCR reactions:
+**4.** Immediately add 1 µL 10X Stop Buffer and incubate 5 min at 75 °C.
+  * *This stops the reaction, so timing is important*
 
+**5.** Purify reaction product (for example with PCR cleanup kit)<br/>
+       Elute product in 15 µL of water.
+
+**6.** Assemble PCR reactions:
   | Component | Concentration | Quantity | 
   | ---------: | ---------: | :---------- |
-  | Tagmented DNA | | **25**  µL | 
+  | Tagmented DNA | | **15**  µL | 
   | i7 index primer | 5µM | **5**  µL |
   | i5 index primer | 5µM | **5**  µL |
-  | Nextera PCR Master Mix |3.33X| **15**  µL |
+  | Q5 Master Mix | 2X | **25**  µL |
   || **Total** | **50** µL |
 
 <br/><br/><br/><br/><br/>
-**6.** Run Nextera PCR:
+**6.** Run tagment-specific PCR:
 
   | Cycles | Temp | Time | Step |
   | ---------: | :--------: | :---------: |:---------: |
-  | **1** | **72 °C** | **3:00** | **enzyme denaturation?** |
-  | **1** | **95 °C** | **0:30** | **inital denaturation** |
+  | **1** | **72 °C** | **5:00** | **adapter overhang extension** |
+  | **1** | **98 °C** | **1:00** | **inital denaturation** |
   
-  || 95 °C | 0:10 | denaturation |
+  || 98 °C | 0:10 | denaturation |
   | ---------: | :--------: | :---------: |:---------: |
-  | **-12X-** | **55 °C*** | **0:30** | **annealing** |
+  | **-11X-** | **67 °C*** | **0:30** | **annealing** |
   || **72 °C** | **0:30** | **extension** |
  
-  | 1 | 72 °C | 5:00 | final extension |
+  | 1 | 72 °C | 2:00 | final extension |
   | ---------: | :--------: | :---------: |:---------: |
   
 
-**7.** Clean up PCRs with columns or SPRI beads. Elute libraries in 30 µL of water.
-  * Use [SPRI beads](./SPRI-beads.md) to purify (0.65X ratio and 2X washes with 80% ethanol).
-  * Alternatively, purify with [column-based kit](https://www.neb.com/-/media/nebus/files/protocols/t1030_quick_protocol_card_monarch_pcrdna_cleanup.pdf?rev=df342b32fb1144af88257b50773a0c7a&hash=662C2FB4EA8277B53B4FE89E3D5887A8)
+**8.** Clean up PCRs with [SPRI beads](./SPRI-beads.md). Elute libraries in 16 µL of water.<br/>
+       (0.65X ratio and 2X washes with 80% ethanol)
   
-**8.** Check samples on a Bioanalyzer/TapeStation and assess length distributions before sequencing.
+**9.** Check samples on a Bioanalyzer/TapeStation and assess length distributions before sequencing.<br/>
+       Target is ~400 nt average, which can be shifted by moving [Tn5] between 0.00375-0.0075 U/µL
