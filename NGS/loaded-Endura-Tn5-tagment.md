@@ -25,9 +25,7 @@ Materials:
 Equipment Required:
 --------------------------------------------------------------------------------
   * Thermocycler
-  * Magnetic Stand
-
-<br/><br/><br/><br/><br/><br/>
+  * Magnetic Stand  
 ___
 Protocol:
 --------------------------------------------------------------------------------
@@ -44,7 +42,7 @@ Protocol:
   | dilute Endura Tn5 | 0.005 U/µL | **2**  µL |
   || **Total** | **10** µL |
   
- **3.** In a thermocycler, incubate reactions at 55 °C for 10 minutes.
+**3.** In a thermocycler, incubate reactions at 55 °C for 10 minutes.
 
 **4.** Immediately add 1 µL 10X Stop Buffer and incubate 5 min at 75 °C.
   * *This stops the reaction, so timing is important*
@@ -62,7 +60,7 @@ Protocol:
   || **Total** | **50** µL |
 
 <br/><br/><br/><br/><br/>
-**6.** Run tagment-specific PCR:
+**7.** Run tagment-specific PCR:
 
   | Cycles | Temp | Time | Step |
   | ---------: | :--------: | :---------: |:---------: |
