@@ -1,6 +1,6 @@
 Endura Tn5 library preparation for sequencing
 ================================================================================
-Description: Using "tagmentation" workflow to fragment and index DNA libraries for next-gen sequencing.
+Description: Using "tagmentation" to fragment and index DNA libraries for sequencing.
 
 Materials:
 --------------------------------------------------------------------------------
@@ -27,7 +27,7 @@ Equipment Required:
   * Thermocycler
   * Magnetic Stand
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 ___
 Protocol:
 --------------------------------------------------------------------------------
@@ -82,5 +82,5 @@ Protocol:
 **8.** Clean up PCRs with [SPRI beads](./SPRI-beads.md). Elute libraries in 16 µL of water.<br/>
        (0.65X ratio and 2X washes with 80% ethanol)
   
-**9.** Check samples on a Bioanalyzer/TapeStation and assess length distributions before sequencing.<br/>
+**9.** Check samples on TapeStation and assess length distributions before sequencing.<br/>
        Target is ~400 nt average, which can be shifted by moving [Tn5] between 0.00375-0.0075 U/µL
