@@ -61,7 +61,8 @@ Protocol:
   | Q5 Master Mix | 2X | **25**  µL |
   || **Total** | **50** µL |
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
+
 **7.** Run tagment-specific PCR:
 
   | Cycles | Temp | Time | Step |
